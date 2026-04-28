@@ -860,6 +860,19 @@
     },
     {
       "date": "2026-04-29T19:30:00+00:00",
+      "title": "\ud83d\udcd5 Children's Book Club: Where the Mountain Meets the Moon by Grace Lin at Greenpoint Library (grades 3-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:30 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Greenpoint Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcd5 Children's Book Club: Where the Mountain Meets the Moon by Grace Lin at Greenpoint Library (grades 3-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-04-29T19:30:00+00:00",
       "title": "\u265f\ufe0f Chess Workshop at Brooklyn Heights Library (ages 6-12)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:30 PM ET",
@@ -1003,6 +1016,19 @@
     },
     {
       "date": "2026-04-29T20:00:00+00:00",
+      "title": "\ud83c\udfb6 Dia Day of Diversity with Musiquita at Brighton Beach Library (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "8:00 PM ET",
+      "end_time": "8:45 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "8:45 PM",
+      "description": "Brighton Beach Library",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Dia Day of Diversity with Musiquita at Brighton Beach Library (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-04-29T20:00:00+00:00",
       "title": "\u2702\ufe0f Teen Time: Poetry Workshop at Sunset Park Library (ages 13-18)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "8:00 PM ET",
@@ -1025,6 +1051,32 @@
       "description": "Sunset Park Library",
       "extraction_method": "api",
       "vendor": "cancelled \ud83d\udcd6 After School Stories at Sunset Park Library (ages 6-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-04-29T22:00:00+00:00",
+      "title": "\ud83e\udef6\ud83c\udffc Weeding Wednesdays at Bushwick Inlet Park (ages 16+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "11:30 PM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "11:30 PM",
+      "description": "Bushwick Inlet Park",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udef6\ud83c\udffc Weeding Wednesdays at Bushwick Inlet Park (ages 16+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-04-29T22:30:00+00:00",
+      "title": "\u270d\ud83c\udffb Developing Fine Motor Skills for Handwriting Success at PS 247 in Bensonhurst (grades 4-6)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:30 PM ET",
+      "end_time": "11:30 PM ET",
+      "start_time_raw": "10:30 PM",
+      "end_time_raw": "11:30 PM",
+      "description": "PS 247",
+      "extraction_method": "api",
+      "vendor": "\u270d\ud83c\udffb Developing Fine Motor Skills for Handwriting Success at PS 247 in Bensonhurst (grades 4-6)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1510,6 +1562,19 @@
     },
     {
       "date": "2026-04-30T20:30:00+00:00",
+      "title": "\ud83d\udd79\ufe0f Teen Tech Time at Central Library in Prospect Heights (ages 14-17)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "8:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Central Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udd79\ufe0f Teen Tech Time at Central Library in Prospect Heights (ages 14-17)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-04-30T20:30:00+00:00",
       "title": "\ud83d\udcd6 Tween Book Club at Adams Street Library in DUMBO (grades 4-7)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "8:30 PM ET",
@@ -1870,6 +1935,19 @@
       "description": "St. Ann's Warehouse",
       "extraction_method": "api",
       "vendor": "\ud83c\udf7d\ufe0f Women\u2019s Lunch: The Shared Table at St. Ann's Warehouse in DUMBO",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-01T17:00:00+00:00",
+      "title": "\ud83c\uddec\ud83c\uddf7  Greek Festival at Kimisis Theotokou Greek Orthodox Church in Park Slope (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "3:00 AM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "3:00 AM",
+      "description": "Kimisis Theotokou Greek Orthodox Church",
+      "extraction_method": "api",
+      "vendor": "\ud83c\uddec\ud83c\uddf7  Greek Festival at Kimisis Theotokou Greek Orthodox Church in Park Slope (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2316,6 +2394,19 @@
     },
     {
       "date": "2026-05-02T14:00:00+00:00",
+      "title": "\ud83e\udef6\ud83c\udffc Riverkeeper Sweep 2026 at Bushwick Inlet Park (ages 6+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Bushwick Inlet Park",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udef6\ud83c\udffc Riverkeeper Sweep 2026 at Bushwick Inlet Park (ages 6+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T14:00:00+00:00",
       "title": "\ud83c\udf7d\ufe0f 2026 Voices of Change Youth Conference by The Campaign Against Hunger at Medgar Evers College - CUNY in Crown Heights (ages 14-24)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -2403,6 +2494,19 @@
       "description": "Central Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udcda Saturday Storytime at Central Library in Prospect Heights (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T14:00:00+00:00",
+      "title": "\ud83c\udf31 Native Plant Sale at PS 133 Garden of Wonder in Park Slope (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "PS 133 Garden of Wonder",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf31 Native Plant Sale at PS 133 Garden of Wonder in Park Slope (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2615,6 +2719,19 @@
     },
     {
       "date": "2026-05-02T15:00:00+00:00",
+      "title": "\ud83c\uddec\ud83c\uddf7  Greek Festival at Kimisis Theotokou Greek Orthodox Church in Park Slope (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": "Kimisis Theotokou Greek Orthodox Church",
+      "extraction_method": "api",
+      "vendor": "\ud83c\uddec\ud83c\uddf7  Greek Festival at Kimisis Theotokou Greek Orthodox Church in Park Slope (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T15:00:00+00:00",
       "title": "\ud83d\udecd\ufe0f Artists & Fleas Market in Williamsburg (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -2650,6 +2767,19 @@
       "description": "Brooklyn Brewery",
       "extraction_method": "api",
       "vendor": "\ud83d\udecd\ufe0f FAD Market at Brooklyn Brewery in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T15:00:00+00:00",
+      "title": "\ud83d\udcda Storytime w/ Brooke McIntyre: If You Went to the Bottom of the Ocean at Books Are Magic Montague in Brooklyn Heights (ages 5-8)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "3:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "3:30 PM",
+      "description": "Books Are Magic - Montague",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcda Storytime w/ Brooke McIntyre: If You Went to the Bottom of the Ocean at Books Are Magic Montague in Brooklyn Heights (ages 5-8)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3499,6 +3629,19 @@
     },
     {
       "date": "2026-05-03T15:00:00+00:00",
+      "title": "\ud83e\udd85 Trails, Sails, and Rails: New York Harbor at Bush Terminal in Sunset Park (ages 5+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:30 PM",
+      "description": "Bush Terminal",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udd85 Trails, Sails, and Rails: New York Harbor at Bush Terminal in Sunset Park (ages 5+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T15:00:00+00:00",
       "title": "\ud83d\udecd\ufe0f Artists & Fleas Market in Williamsburg (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -3534,6 +3677,32 @@
       "description": "UrbanGlass",
       "extraction_method": "api",
       "vendor": "\ud83d\udd25 Intro to Boro: Pendants and Wearable Art with Alex Utts at UrbanGlass in Fort Greene (ages 14+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T15:00:00+00:00",
+      "title": "\ud83c\uddec\ud83c\uddf7  Greek Festival at Kimisis Theotokou Greek Orthodox Church in Park Slope (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": "Kimisis Theotokou Greek Orthodox Church",
+      "extraction_method": "api",
+      "vendor": "\ud83c\uddec\ud83c\uddf7  Greek Festival at Kimisis Theotokou Greek Orthodox Church in Park Slope (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T15:00:00+00:00",
+      "title": "\ud83c\udfb8 FREE Children's Event ft. Mr. Evan V at DeKalb Market Hall in Downtown Brooklyn (ages 0-8)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": "Dekalb Market Hall",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb8 FREE Children's Event ft. Mr. Evan V at DeKalb Market Hall in Downtown Brooklyn (ages 0-8)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4239,6 +4408,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-05-04T23:30:00+00:00",
+      "title": "\ud83d\udcdaXochitl Gonzalez with Jacqueline Woodson at Greenlight Bookstore in Fort Greene (ages 18+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "11:30 PM ET",
+      "end_time": "12:30 AM ET",
+      "start_time_raw": "11:30 PM",
+      "end_time_raw": "12:30 AM",
+      "description": "Greenlight Bookstore",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcdaXochitl Gonzalez with Jacqueline Woodson at Greenlight Bookstore in Fort Greene (ages 18+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-05-05T05:00:00+00:00",
       "title": "\ud83d\uddd3\ufe0f FREE: Post your event here!",
       "venue": "MacaroniKid Brooklyn NW",
@@ -4668,8 +4850,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-04-28T05:05:07.880830+00:00",
-  "total_events": 359,
+  "updated": "2026-04-28T06:32:30.089113+00:00",
+  "total_events": 373,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
