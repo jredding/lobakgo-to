@@ -145,7 +145,7 @@
     },
     {
       "date": "2026-04-29T20:00:00",
-      "title": "Long Play Festival 2026: GOAT (JP)",
+      "title": "Long Play Festival 2026: GOAT (JP) // YPY",
       "venue": "Roulette",
       "start_time": null,
       "end_time": null,
@@ -153,7 +153,7 @@
       "end_time_raw": null,
       "description": "Bang on a Can presents the 5th year of Long Play, a multi-day destination music festival",
       "extraction_method": "html",
-      "vendor": "Long Play Festival 2026: GOAT (JP)",
+      "vendor": "Long Play Festival 2026: GOAT (JP) // YPY",
       "location": "Roulette"
     },
     {
@@ -586,7 +586,7 @@
       "location": "Roulette"
     }
   ],
-  "updated": "2026-04-28T14:18:50.177558+00:00",
+  "updated": "2026-04-28T16:16:31.892167+00:00",
   "total_events": 45,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
