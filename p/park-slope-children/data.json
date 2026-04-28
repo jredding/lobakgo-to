@@ -3668,7 +3668,7 @@
     },
     {
       "date": "2026-05-03T15:00:00+00:00",
-      "title": "\ud83d\udd25 Intro to Boro: Pendants and Wearable Art with Alex Utts at UrbanGlass in Fort Greene (ages 14+)",
+      "title": "\ufffd\ufffd Intro to Boro: Pendants and Wearable Art with Alex Utts at UrbanGlass in Fort Greene (ages 14+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
       "end_time": "9:00 PM ET",
@@ -3676,7 +3676,7 @@
       "end_time_raw": "9:00 PM",
       "description": "UrbanGlass",
       "extraction_method": "api",
-      "vendor": "\ud83d\udd25 Intro to Boro: Pendants and Wearable Art with Alex Utts at UrbanGlass in Fort Greene (ages 14+)",
+      "vendor": "\ufffd\ufffd Intro to Boro: Pendants and Wearable Art with Alex Utts at UrbanGlass in Fort Greene (ages 14+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3733,19 +3733,6 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:45 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:45 PM",
-      "description": "LeFrak Center at Lakeside in Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T16:00:00+00:00",
       "title": "\ud83c\udf89 2026 Church Avenue Street Fair in Flatbush (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -3755,6 +3742,19 @@
       "description": "Church Ave Street Fair",
       "extraction_method": "api",
       "vendor": "\ud83c\udf89 2026 Church Avenue Street Fair in Flatbush (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T16:00:00+00:00",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:45 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:45 PM",
+      "description": "LeFrak Center at Lakeside in Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3863,19 +3863,6 @@
     },
     {
       "date": "2026-05-03T17:00:00+00:00",
-      "title": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": "CREA - Industry City",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T17:00:00+00:00",
       "title": "\ud83d\udd0d Open Hours at the Environmental Education Center in Brooklyn Bridge Park",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -3898,6 +3885,19 @@
       "description": "Coney Island Museum",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa5 26th Annual Coney Island Film Festival at Coney Island Museum",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T17:00:00+00:00",
+      "title": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": "CREA - Industry City",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4850,7 +4850,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-04-28T12:32:24.769257+00:00",
+  "updated": "2026-04-28T14:32:16.143879+00:00",
   "total_events": 373,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
