@@ -808,7 +808,7 @@
     },
     {
       "date": "2026-04-29T17:00:00+00:00",
-      "title": "\ud83d\udcda Read and Play at Sunset Park Library (ages 0-5)",
+      "title": "\ufffd\ufffd\ufffd Read and Play at Sunset Park Library (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
       "end_time": "5:45 PM ET",
@@ -816,7 +816,7 @@
       "end_time_raw": "5:45 PM",
       "description": "Sunset Park Library",
       "extraction_method": "api",
-      "vendor": "\ud83d\udcda Read and Play at Sunset Park Library (ages 0-5)",
+      "vendor": "\ufffd\ufffd\ufffd Read and Play at Sunset Park Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4850,7 +4850,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-04-28T06:32:30.089113+00:00",
+  "updated": "2026-04-28T08:31:48.324509+00:00",
   "total_events": 373,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
