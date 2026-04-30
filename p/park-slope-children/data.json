@@ -1523,19 +1523,6 @@
     },
     {
       "date": "2026-05-02T15:00:00+00:00",
-      "title": "\ud83e\uddf1 LEGO 'Star Wars' Build Event at Barnes & Noble \u2013 Atlantic Ave. in Cobble Hill (ages 10+)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": null,
-      "description": "Barnes & Noble \u2013 Atlantic Ave.",
-      "extraction_method": "api",
-      "vendor": "\ud83e\uddf1 LEGO 'Star Wars' Build Event at Barnes & Noble \u2013 Atlantic Ave. in Cobble Hill (ages 10+)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-02T15:00:00+00:00",
       "title": "\ud83d\udd0d 2026 Spring Scavenger Hunt on Myrtle Avenue in Clinton Hill (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -1545,6 +1532,19 @@
       "description": "Myrtle Avenue",
       "extraction_method": "api",
       "vendor": "\ud83d\udd0d 2026 Spring Scavenger Hunt on Myrtle Avenue in Clinton Hill (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T15:00:00+00:00",
+      "title": "\ud83e\uddf1 LEGO 'Star Wars' Build Event at Barnes & Noble \u2013 Atlantic Ave. in Cobble Hill (ages 10+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": "Barnes & Noble \u2013 Atlantic Ave.",
+      "extraction_method": "api",
+      "vendor": "\ud83e\uddf1 LEGO 'Star Wars' Build Event at Barnes & Noble \u2013 Atlantic Ave. in Cobble Hill (ages 10+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2667,19 +2667,6 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
-      "title": "\ud83c\udf89 Kid Fest at Pier 57 in Chelsea (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "Pier 57",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf89 Kid Fest at Pier 57 in Chelsea (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T16:00:00+00:00",
       "title": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -2689,6 +2676,19 @@
       "description": "Newkirk Ave. Open Street",
       "extraction_method": "api",
       "vendor": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T16:00:00+00:00",
+      "title": "\ud83c\udf89 Kid Fest at Pier 57 in Chelsea (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Pier 57",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 Kid Fest at Pier 57 in Chelsea (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4824,7 +4824,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-04-30T10:31:36.875051+00:00",
+  "updated": "2026-04-30T12:32:29.863951+00:00",
   "total_events": 371,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
