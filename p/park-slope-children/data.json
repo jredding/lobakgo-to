@@ -1783,6 +1783,19 @@
     },
     {
       "date": "2026-05-02T16:00:00+00:00",
+      "title": "\ud83c\udf89 Hassenfeld Children\u2019s Hospital Block Party at Industry City in Sunset Park (ages 6 months-18 years)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "The Box Factory at Industry City",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 Hassenfeld Children\u2019s Hospital Block Party at Industry City in Sunset Park (ages 6 months-18 years)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T16:00:00+00:00",
       "title": "\ud83c\udfb3 Family Bowl at Brooklyn Bowl in Williamsburg (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -1939,19 +1952,6 @@
     },
     {
       "date": "2026-05-02T17:00:00+00:00",
-      "title": "\ud83c\udfa8 ARTmobile in Red Hook (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Red Hook",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfa8 ARTmobile in Red Hook (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-02T17:00:00+00:00",
       "title": "\ud83c\udf89 Celebrate Bed Stuy Festival 2026 at Herbert Von King Cultural Arts Center in Bed-Stuy (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -1961,6 +1961,19 @@
       "description": "Herbert Von King Cultural Arts Center",
       "extraction_method": "api",
       "vendor": "\ud83c\udf89 Celebrate Bed Stuy Festival 2026 at Herbert Von King Cultural Arts Center in Bed-Stuy (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T17:00:00+00:00",
+      "title": "\ud83c\udfa8 ARTmobile in Red Hook (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Red Hook",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 ARTmobile in Red Hook (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1991,7 +2004,7 @@
     },
     {
       "date": "2026-05-02T18:00:00+00:00",
-      "title": "\u26be Classic Baseball Game: Brooklyn Bridegrooms vs. FUMBL at the Old Stone House in Park Slope (all ages)",
+      "title": "\u26be The 2nd Old Stone House Classic at Washington Park in Park Slope (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "6:00 PM ET",
       "end_time": null,
@@ -1999,7 +2012,7 @@
       "end_time_raw": null,
       "description": "Old Stone House of Brooklyn",
       "extraction_method": "api",
-      "vendor": "\u26be Classic Baseball Game: Brooklyn Bridegrooms vs. FUMBL at the Old Stone House in Park Slope (all ages)",
+      "vendor": "\u26be The 2nd Old Stone House Classic at Washington Park in Park Slope (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2160,7 +2173,7 @@
     },
     {
       "date": "2026-05-02T21:00:00+00:00",
-      "title": "\ud83c\udf89 First Saturdays: AAPI History Month Celebration at Brooklyn Museum in Prospect Heights (all ages)",
+      "title": "\ud83c\udf89 First Saturday: AAPI History Month Celebration at Brooklyn Museum in Prospect Heights (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "9:00 PM ET",
       "end_time": "2:00 AM ET",
@@ -2168,7 +2181,7 @@
       "end_time_raw": "2:00 AM",
       "description": "Brooklyn Museum",
       "extraction_method": "api",
-      "vendor": "\ud83c\udf89 First Saturdays: AAPI History Month Celebration at Brooklyn Museum in Prospect Heights (all ages)",
+      "vendor": "\ud83c\udf89 First Saturday: AAPI History Month Celebration at Brooklyn Museum in Prospect Heights (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2273,6 +2286,19 @@
       "description": "Macaroni KID Brooklyn NW",
       "extraction_method": "api",
       "vendor": "\ud83d\uddd3\ufe0f FREE: Post your event here!",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T11:30:00+00:00",
+      "title": "\ud83d\udeb2 Cheer on the Five Boro Bike Tour on Brooklyn's waterfront",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "11:30 AM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "11:30 AM",
+      "end_time_raw": "10:00 PM",
+      "description": "Various Locations",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udeb2 Cheer on the Five Boro Bike Tour on Brooklyn's waterfront",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2442,6 +2468,19 @@
       "description": "Brooklyn Flea",
       "extraction_method": "api",
       "vendor": "\ud83d\udecd\ufe0f Brooklyn Flea in DUMBO (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T14:00:00+00:00",
+      "title": "\u267b\ufe0f Spring Clean and Green in Prospect Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Prospect Park Circle",
+      "extraction_method": "api",
+      "vendor": "\u267b\ufe0f Spring Clean and Green in Prospect Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2667,19 +2706,6 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
-      "title": "\ud83c\udf89 Kid Fest at Pier 57 in Chelsea (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "Pier 57",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf89 Kid Fest at Pier 57 in Chelsea (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T16:00:00+00:00",
       "title": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -2689,6 +2715,19 @@
       "description": "Newkirk Ave. Open Street",
       "extraction_method": "api",
       "vendor": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T16:00:00+00:00",
+      "title": "\ud83c\udf89 Mommy Poppins Kid Fest at Pier 57 in Chelsea (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Pier 57",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 Mommy Poppins Kid Fest at Pier 57 in Chelsea (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4824,8 +4863,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-04-30T14:31:49.155520+00:00",
-  "total_events": 371,
+  "updated": "2026-04-30T16:32:00.384706+00:00",
+  "total_events": 374,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
