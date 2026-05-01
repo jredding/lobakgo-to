@@ -131,19 +131,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-01T23:00:00",
-      "title": "SOCA & FRIENDS - Late Night Dancehall & Soca Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "NYC's Wildest Soca Party",
-      "extraction_method": "api",
-      "vendor": "SOCA & FRIENDS - Late Night Dancehall & Soca Party",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-02T00:00:00",
       "title": "Courtney O'Donnell: Planet Courtney",
       "venue": "Union Hall",
@@ -220,19 +207,6 @@
       "extraction_method": "html",
       "vendor": "Long Play Festival 2026: David Longstreth // Michael Brook // David Lang // Bang on a Can All Stars // Contemporaneous",
       "location": "Roulette"
-    },
-    {
-      "date": "2026-05-02T16:00:00",
-      "title": "Derby Day 2026 @ Parklife",
-      "venue": "Littlefield",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Spend Derby Day the Parklife way\u2014mint juleps, roses, tacos and shoot games in our vast patio!",
-      "extraction_method": "api",
-      "vendor": "Derby Day 2026 @ Parklife",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-02T18:00:00-04:00",
@@ -482,19 +456,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-05-05T20:00:00",
-      "title": "Flight Attendant // The Props // Caleb Moore",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "\u201cFlight Attendant delivers an experience.\u201d - RollingStone Magazine",
-      "extraction_method": "api",
-      "vendor": "Flight Attendant // The Props // Caleb Moore",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-06T00:00:00",
       "title": "Greta Titelman: Hot! Fresh! New!",
       "venue": "Union Hall",
@@ -506,19 +467,6 @@
       "extraction_method": "html",
       "vendor": "Greta Titelman: Hot! Fresh! New!",
       "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-06T20:00:00",
-      "title": "The Hell Gate Judicial Convention",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "The Hell Gate Judicial Convention\u2014a night of inspired debate, politicking, and light graft to celebrate the release of COURTS OF CONTEMPT.",
-      "extraction_method": "api",
-      "vendor": "The Hell Gate Judicial Convention",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-06T20:00:00-04:00",
@@ -664,13 +612,15 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-01T12:17:29.608105+00:00",
-  "total_events": 51,
+  "updated": "2026-05-01T14:16:07.803124+00:00",
+  "total_events": 47,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
