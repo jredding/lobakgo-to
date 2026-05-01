@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-04-30T00:00:00",
-      "title": "Standup for Planned Parenthood  Hosted by Maddy Kelly",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Standup for Planned Parenthood  Hosted by Maddy Kelly",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-04-30T00:00:00",
-      "title": "Jordan Klepper: New Goods",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Jordan Klepper: New Goods",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-04-30T12:00:00+00:00",
-      "title": "SCATTERGOOD(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SCATTERGOOD(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-04-30T12:00:00+00:00",
-      "title": "MUSIC: WILL CLARK// FIELDINGS// MADAM WEST(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "MUSIC: WILL CLARK// FIELDINGS// MADAM WEST(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-04-30T20:00:00",
-      "title": "Long Play Festival 2026: Suzanne Bocanegra \u2013 Rerememberer",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Bang on a Can presents the 5th year of Long Play, a multi-day destination music festival",
-      "extraction_method": "html",
-      "vendor": "Long Play Festival 2026: Suzanne Bocanegra \u2013 Rerememberer",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-01T00:00:00",
       "title": "Whiplash",
       "venue": "Union Hall",
@@ -144,6 +79,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-01T18:00:00-04:00",
+      "title": "Michael Good, Max Lowe, Isabel Hagen, Cesh Reyes, Max Moacanin",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br><br>Featuring<br>Michael Good<br>Max Lowe<br>Isabel Hagen<br>Cesh Reyes<br>Max Moacanin",
+      "extraction_method": "json-ld",
+      "vendor": "Michael Good, Max Lowe, Isabel Hagen, Cesh Reyes, Max Moacanin",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-05-01T19:00:00",
       "title": "Long Play Festival 2026: Blank For.ms with Jason Moran and Marcus Gilmore // Billy Hart Quartet // Chris Ryan Williams",
       "venue": "Roulette",
@@ -155,6 +103,32 @@
       "extraction_method": "html",
       "vendor": "Long Play Festival 2026: Blank For.ms with Jason Moran and Marcus Gilmore // Billy Hart Quartet // Chris Ryan Williams",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-05-01T20:00:00-04:00",
+      "title": "Damien Lemon, Shannon Keye, Dylan Krasinski, Adam Gulley, Mike Toohey",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p>Featuring<br>Damien Lemon<br>Shannon Keye<br>Dylan Krasinski<br>Adam Gulley<br>Mike Toohey",
+      "extraction_method": "json-ld",
+      "vendor": "Damien Lemon, Shannon Keye, Dylan Krasinski, Adam Gulley, Mike Toohey",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-01T22:00:00-04:00",
+      "title": "Dina Hashem, Karthik Lavangu, Dylan Krasinski, Adam Gulley, Mike Toohey",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><br></p>Featuring<br>Dina Hashem<br>Karthik Lavangu<br>Dylan Krasinski<br>Adam Gulley<br>Mike Toohey",
+      "extraction_method": "json-ld",
+      "vendor": "Dina Hashem, Karthik Lavangu, Dylan Krasinski, Adam Gulley, Mike Toohey",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-05-02T00:00:00",
@@ -235,6 +209,32 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-05-02T18:00:00-04:00",
+      "title": "Levi White, Amanda Giles, Liam Welsch, Wilfred Padua, Mae Planert",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p><br>Featuring<br>Levi White<br>Amanda Giles<br>Liam Welsch<br>Wilfred Padua<br>Mae Planert",
+      "extraction_method": "json-ld",
+      "vendor": "Levi White, Amanda Giles, Liam Welsch, Wilfred Padua, Mae Planert",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-02T20:00:00-04:00",
+      "title": "Subhah Agarwal",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\">Subhah Agarwal&nbsp;</p><br><p><span><strong>Subhah Agarwal</strong> has brought an honesty to her comedy that will leave you saying &quot;I didn&#39;t need to know that.&quot; Subhah has written for Netflix&rsquo;s &ldquo;Arsenio Hall&rdquo; limited series, the &quot;Plan B&quot; movie on Hulu,&quot; and The Jim Jefferies Show&quot;on Comedy Central, amongst others. You can also catch her jokes live at stand up comedy clubs across the country. If you don&#39;t want to leave your couch, you can see her late night debut on NBC&#39;s &quot;A Little Late With Lilly Singh.&quot; She&#39;s also appeared on season three of HBO&#39;s &quot;Westworld&quot;, &quot;General Hospital,&quot; TruTv&#39;s sketch comedy &quot;Friends of the People&quot;, and as herself on MTV2, Comedy Central, and Gotham Comedy Live.<br><br><br></span></p>",
+      "extraction_method": "json-ld",
+      "vendor": "Subhah Agarwal",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-05-02T20:30:00",
       "title": "MUSIC: IRENE MASTRANGELI AND GUEST(Music)",
       "venue": "Young Ethel's",
@@ -246,6 +246,19 @@
       "extraction_method": "html",
       "vendor": "MUSIC: IRENE MASTRANGELI AND GUEST(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-02T22:00:00-04:00",
+      "title": "Karthik Lavangu, Tom Zappia, Max Lowe, Matt Wayne, Cesh Reyes",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>Prime Time Comedy!</strong></p><br>Featuring<br>Karthik Lavangu<br>Tom Zappia<br>Max Lowe<br>Matt Wayne<br>Cesh Reyes",
+      "extraction_method": "json-ld",
+      "vendor": "Karthik Lavangu, Tom Zappia, Max Lowe, Matt Wayne, Cesh Reyes",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-05-03T00:00:00",
@@ -337,6 +350,19 @@
       "extraction_method": "html",
       "vendor": "Long Play Festival 2026: Morton Feldman Three Voices with Charlotte Mundy // Trevor Dunn\u2019s Trio-Convulsant avec Folie \u00e0 Quatre // Bang on a Can All-Stars // Secret Chiefs 3",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-05-03T19:30:00-04:00",
+      "title": "Max Lowe, Liam Welsch, Adam Gulley, Cesh Reyes, Mike Recine, Harry Terjanian",
+      "venue": "Eastville Comedy Club",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br><br>Featuring<br>Max Lowe<br>Liam Welsch<br>Adam Gulley<br>Cesh Reyes<br>Mike Recine<br>Harry Terjanian",
+      "extraction_method": "json-ld",
+      "vendor": "Max Lowe, Liam Welsch, Adam Gulley, Cesh Reyes, Mike Recine, Harry Terjanian",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-05-04T00:00:00",
@@ -443,6 +469,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-06T20:00:00-04:00",
+      "title": "Laughs In The East",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p>",
+      "extraction_method": "json-ld",
+      "vendor": "Laughs In The East",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-05-06T20:00:00",
       "title": "Maya Man: StarQuest",
       "venue": "Roulette",
@@ -480,10 +519,101 @@
       "extraction_method": "html",
       "vendor": "Brandon Wardell, Will Duncan, Haley Stiel, + a reading by Elena Waldman",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-05-07T20:00:00-04:00",
+      "title": "Dave Kinney, Talal Alyan, Liam Dalton, Max Lowe, Shannon Keye, Trayvon Fulton",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>Weekend Warmup comedy in Brooklyn!&nbsp;</strong></p><br>Featuring<br><br>Dave Kinney<br>Talal Alyan<br>Liam Dalton<br>Max Lowe<br>Shannon Keye<br>Trayvon Fulton",
+      "extraction_method": "json-ld",
+      "vendor": "Dave Kinney, Talal Alyan, Liam Dalton, Max Lowe, Shannon Keye, Trayvon Fulton",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-08T00:00:00",
+      "title": "Hack City Comedy with Mic Nguyen and Jenny Arimoto",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Hack City Comedy with Mic Nguyen and Jenny Arimoto",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-05-08T00:00:00",
+      "title": "David Cross: Shootin\u2019 the Shit, Seein\u2019 What Sticks",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "David Cross: Shootin\u2019 the Shit, Seein\u2019 What Sticks",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-05-08T18:00:00-04:00",
+      "title": "Nore Davis, Levi White, Stephen Pratt, Tomas Liebel, Amanda Giles, Matt Wayne",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br>Featuring<br><br>Nore Davis<br>Levi White<br>Stephen Pratt<br>Tomas Liebel<br>Amanda Giles<br>Matt Wayne",
+      "extraction_method": "json-ld",
+      "vendor": "Nore Davis, Levi White, Stephen Pratt, Tomas Liebel, Amanda Giles, Matt Wayne",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-08T20:00:00-04:00",
+      "title": "James Mattern, Talal Alyan, Levi White, Liam Dalton, Harry Terjanian",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\">\\FEATURING SPECIAL GUEST COMEDIANS...</p>Featuring<br><br>James Mattern<br>Talal Alyan<br>Levi White<br>Liam Dalton<br>Harry Terjanian",
+      "extraction_method": "json-ld",
+      "vendor": "James Mattern, Talal Alyan, Levi White, Liam Dalton, Harry Terjanian",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-08T20:00:00",
+      "title": "Syrian Music Preservation Initiative: Music of Muhammed Qadri Dalal, Maqam Master of Aleppo (RBA)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "NY-based Syrian ensemble performs a concert of traditional music by living legend and oud virtuoso Mohamad Qadri Dalal.",
+      "extraction_method": "html",
+      "vendor": "Syrian Music Preservation Initiative: Music of Muhammed Qadri Dalal, Maqam Master of Aleppo (RBA)",
+      "location": "Roulette"
+    },
+    {
+      "date": "2026-05-08T22:00:00-04:00",
+      "title": "Carmen Lagala, Talal Alyan, Levi White, Amanda Giles, Liam Welsch, Harry Terjanian",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><br>Featuring<br><br>Carmen Lagala<br>Talal Alyan<br>Levi White<br>Amanda Giles<br>Liam Welsch<br>Harry Terjanian",
+      "extraction_method": "json-ld",
+      "vendor": "Carmen Lagala, Talal Alyan, Levi White, Amanda Giles, Liam Welsch, Harry Terjanian",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-04-30T16:19:05.362592+00:00",
-  "total_events": 37,
+  "updated": "2026-05-01T06:17:32.683696+00:00",
+  "total_events": 47,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
