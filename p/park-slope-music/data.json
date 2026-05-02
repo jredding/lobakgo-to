@@ -92,19 +92,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-05-02T16:00:00",
-      "title": "Derby Day 2026 @ Parklife",
-      "venue": "Littlefield",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Spend Derby Day the Parklife way\u2014mint juleps, roses, tacos and shoot games in our vast patio!",
-      "extraction_method": "api",
-      "vendor": "Derby Day 2026 @ Parklife",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-02T18:00:00-04:00",
       "title": "Levi White, Amanda Giles, Liam Welsch, Wilfred Padua, Mae Planert",
       "venue": "Eastville Comedy Club",
@@ -352,19 +339,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-05-05T20:00:00",
-      "title": "Flight Attendant // The Props // Caleb Moore",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "\u201cFlight Attendant delivers an experience.\u201d - RollingStone Magazine",
-      "extraction_method": "api",
-      "vendor": "Flight Attendant // The Props // Caleb Moore",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-06T00:00:00",
       "title": "Greta Titelman: Hot! Fresh! New!",
       "venue": "Union Hall",
@@ -376,19 +350,6 @@
       "extraction_method": "html",
       "vendor": "Greta Titelman: Hot! Fresh! New!",
       "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-06T20:00:00",
-      "title": "The Hell Gate Judicial Convention",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "The Hell Gate Judicial Convention\u2014a night of inspired debate, politicking, and light graft to celebrate the release of COURTS OF CONTEMPT.",
-      "extraction_method": "api",
-      "vendor": "The Hell Gate Judicial Convention",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-06T20:00:00-04:00",
@@ -560,19 +521,6 @@
       "location": "Union Hall"
     },
     {
-      "date": "2026-05-09T12:00:00",
-      "title": "The Rock and Roll Playhouse plays The Beatles",
-      "venue": "Littlefield",
-      "start_time": "12:00 PM ET",
-      "end_time": "1:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "1:00 PM",
-      "description": "Music of The Beatles + More for Kids",
-      "extraction_method": "api",
-      "vendor": "The Rock and Roll Playhouse plays The Beatles",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-09T18:00:00-04:00",
       "title": "Dennis Rooney, Matt Wayne, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -584,19 +532,6 @@
       "extraction_method": "json-ld",
       "vendor": "Dennis Rooney, Matt Wayne, Neema Naz",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-09T19:30:00",
-      "title": "\"Do You Still Like Me?\" A Comedy Dating Show",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A live comedy dating show where comics perform for their blind dates. After their set we ask the big question: Do you still like them?",
-      "extraction_method": "api",
-      "vendor": "\"Do You Still Like Me?\" A Comedy Dating Show",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-09T20:00:00-04:00",
@@ -625,19 +560,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-05-09T21:00:00",
-      "title": "Relive your Radio Disney days with a night of Disney nostalgia @Parklife",
-      "venue": "Littlefield",
-      "start_time": "9:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Magic Frequency: a Radio Disney Inspired Party",
-      "extraction_method": "api",
-      "vendor": "Relive your Radio Disney days with a night of Disney nostalgia @Parklife",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-09T22:00:00-04:00",
       "title": "Annette Mullaney, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -649,28 +571,17 @@
       "extraction_method": "json-ld",
       "vendor": "Annette Mullaney, Mike Toohey",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-09T23:00:00",
-      "title": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party in BK",
-      "extraction_method": "api",
-      "vendor": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party",
-      "location": "Littlefield"
     }
   ],
-  "updated": "2026-05-02T08:16:35.686843+00:00",
-  "total_events": 51,
+  "updated": "2026-05-02T12:16:10.805623+00:00",
+  "total_events": 44,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
