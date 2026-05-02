@@ -795,19 +795,6 @@
     },
     {
       "date": "2026-05-02T17:00:00+00:00",
-      "title": "\ud83c\udfd3 Spring Fling at Global School Brooklyn in Downtown Brooklyn (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Global School Brooklyn",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfd3 Spring Fling at Global School Brooklyn in Downtown Brooklyn (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-02T17:00:00+00:00",
       "title": "\ud83c\udf89 Celebrate Bed Stuy Festival 2026 at Herbert Von King Cultural Arts Center in Bed-Stuy (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -843,6 +830,19 @@
       "description": "Carmine Carro Community Center",
       "extraction_method": "api",
       "vendor": "\ud83d\udc83\ud83c\udffd Dancing into Spring: South Asian Dance Workshop at Carmine Carro Community Center",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T17:00:00+00:00",
+      "title": "\ud83c\udfd3 Spring Fling at Global School Brooklyn in Downtown Brooklyn (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Global School Brooklyn",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfd3 Spring Fling at Global School Brooklyn in Downtown Brooklyn (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2680,7 +2680,7 @@
     },
     {
       "date": "2026-05-06T12:00:00+00:00",
-      "title": "\ud83e\uddd1\u200d\ud83c\udf3e Wednesday Greenmarket at Bartel-Pritchard Square",
+      "title": "\ufffd\ufffd\ufffd\u200d\ud83c\udf3e Wednesday Greenmarket at Bartel-Pritchard Square",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "12:00 PM ET",
       "end_time": "6:00 PM ET",
@@ -2688,7 +2688,7 @@
       "end_time_raw": "6:00 PM",
       "description": "Bartel-Pritchard Square Greenmarket",
       "extraction_method": "api",
-      "vendor": "\ud83e\uddd1\u200d\ud83c\udf3e Wednesday Greenmarket at Bartel-Pritchard Square",
+      "vendor": "\ufffd\ufffd\ufffd\u200d\ud83c\udf3e Wednesday Greenmarket at Bartel-Pritchard Square",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5071,7 +5071,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-02T12:31:24.406436+00:00",
+  "updated": "2026-05-02T14:31:42.485156+00:00",
   "total_events": 390,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
