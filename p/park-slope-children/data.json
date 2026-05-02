@@ -379,19 +379,6 @@
     },
     {
       "date": "2026-05-02T15:00:00+00:00",
-      "title": "\ud83d\udd0d 2026 Spring Scavenger Hunt on Myrtle Avenue in Clinton Hill (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "5:30 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "5:30 PM",
-      "description": "Myrtle Avenue",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udd0d 2026 Spring Scavenger Hunt on Myrtle Avenue in Clinton Hill (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-02T15:00:00+00:00",
       "title": "\ud83c\udfa1 Luna Park Coney Island Open Hours",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -401,6 +388,19 @@
       "description": "Luna Park in Coney Island",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa1 Luna Park Coney Island Open Hours",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T15:00:00+00:00",
+      "title": "\ud83d\udd0d 2026 Spring Scavenger Hunt on Myrtle Avenue in Clinton Hill (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "5:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "5:30 PM",
+      "description": "Myrtle Avenue",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udd0d 2026 Spring Scavenger Hunt on Myrtle Avenue in Clinton Hill (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -795,19 +795,6 @@
     },
     {
       "date": "2026-05-02T17:00:00+00:00",
-      "title": "\ud83d\udc83\ud83c\udffd Dancing into Spring: South Asian Dance Workshop at Carmine Carro Community Center",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Carmine Carro Community Center",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udc83\ud83c\udffd Dancing into Spring: South Asian Dance Workshop at Carmine Carro Community Center",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-02T17:00:00+00:00",
       "title": "\ud83c\udfd3 Spring Fling at Global School Brooklyn in Downtown Brooklyn (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -843,6 +830,19 @@
       "description": "Red Hook",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 ARTmobile in Red Hook (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-02T17:00:00+00:00",
+      "title": "\ud83d\udc83\ud83c\udffd Dancing into Spring: South Asian Dance Workshop at Carmine Carro Community Center",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Carmine Carro Community Center",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc83\ud83c\udffd Dancing into Spring: South Asian Dance Workshop at Carmine Carro Community Center",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5071,7 +5071,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-02T06:31:31.156334+00:00",
+  "updated": "2026-05-02T12:31:24.406436+00:00",
   "total_events": 390,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
