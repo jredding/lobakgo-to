@@ -548,19 +548,6 @@
     },
     {
       "date": "2026-05-03T17:00:00+00:00",
-      "title": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": "CREA - Industry City",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T17:00:00+00:00",
       "title": "\u2728 Open Hours Red Hook Pinball Museum in Red Hook (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -596,6 +583,19 @@
       "description": "Good Day Play Cafe",
       "extraction_method": "api",
       "vendor": "\ud83d\udc90 Balloons in Bloom Mother's Day Pop Up at Good Day Play Cafe in Park Slope",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T17:00:00+00:00",
+      "title": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": "CREA - Industry City",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4551,7 +4551,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-03T08:31:46.581082+00:00",
+  "updated": "2026-05-03T10:31:36.233983+00:00",
   "total_events": 350,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
