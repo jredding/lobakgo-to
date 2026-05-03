@@ -28,19 +28,6 @@
     },
     {
       "date": "2026-05-03T13:00:00+00:00",
-      "title": "\ud83e\udd77 Mini-Ninja Drop-In Class at Brooklyn Ninja Academy in Gowanus (ages 4-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "1:00 PM ET",
-      "end_time": "1:45 PM ET",
-      "start_time_raw": "1:00 PM",
-      "end_time_raw": "1:45 PM",
-      "description": "Brooklyn Ninja Academy",
-      "extraction_method": "api",
-      "vendor": "\ud83e\udd77 Mini-Ninja Drop-In Class at Brooklyn Ninja Academy in Gowanus (ages 4-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T13:00:00+00:00",
       "title": "\ud83c\udfc0 Basketball Clinic with HMBL Hooper Academy in Fort Greene (Grades K-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "1:00 PM ET",
@@ -63,6 +50,19 @@
       "description": "Governors Island",
       "extraction_method": "api",
       "vendor": "\ud83c\udfbd New York Harbor Oyster Classic 5K on Governors Island",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T13:00:00+00:00",
+      "title": "\ud83e\udd77 Mini-Ninja Drop-In Class at Brooklyn Ninja Academy in Gowanus (ages 4-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "1:00 PM ET",
+      "end_time": "1:45 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "1:45 PM",
+      "description": "Brooklyn Ninja Academy",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udd77 Mini-Ninja Drop-In Class at Brooklyn Ninja Academy in Gowanus (ages 4-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -288,19 +288,6 @@
     },
     {
       "date": "2026-05-03T15:00:00+00:00",
-      "title": "\ud83e\udd85 Trails, Sails, and Rails: New York Harbor at Bush Terminal in Sunset Park (ages 5+)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "4:30 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "4:30 PM",
-      "description": "Bush Terminal",
-      "extraction_method": "api",
-      "vendor": "\ud83e\udd85 Trails, Sails, and Rails: New York Harbor at Bush Terminal in Sunset Park (ages 5+)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T15:00:00+00:00",
       "title": "\ud83d\udecd\ufe0f FAD Market at Brooklyn Brewery in Williamsburg",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -310,6 +297,19 @@
       "description": "Brooklyn Brewery",
       "extraction_method": "api",
       "vendor": "\ud83d\udecd\ufe0f FAD Market at Brooklyn Brewery in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T15:00:00+00:00",
+      "title": "\ud83e\udd85 Trails, Sails, and Rails: New York Harbor at Bush Terminal in Sunset Park (ages 5+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:30 PM",
+      "description": "Bush Terminal",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udd85 Trails, Sails, and Rails: New York Harbor at Bush Terminal in Sunset Park (ages 5+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -327,19 +327,6 @@
     },
     {
       "date": "2026-05-03T15:00:00+00:00",
-      "title": "\ud83c\udfb6 The Fat Cats Youth Orchestra Open Workshop at ShapeShifter Lab in Park Slope (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "ShapeShifter Lab",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb6 The Fat Cats Youth Orchestra Open Workshop at ShapeShifter Lab in Park Slope (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T15:00:00+00:00",
       "title": "\ud83d\udd25 Intro to Boro: Pendants and Wearable Art with Alex Utts at UrbanGlass in Fort Greene (ages 14+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -349,6 +336,19 @@
       "description": "UrbanGlass",
       "extraction_method": "api",
       "vendor": "\ud83d\udd25 Intro to Boro: Pendants and Wearable Art with Alex Utts at UrbanGlass in Fort Greene (ages 14+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T15:00:00+00:00",
+      "title": "\ud83c\udfb6 The Fat Cats Youth Orchestra Open Workshop at ShapeShifter Lab in Park Slope (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "ShapeShifter Lab",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 The Fat Cats Youth Orchestra Open Workshop at ShapeShifter Lab in Park Slope (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -405,19 +405,6 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
-      "title": "\ud83c\udf89 2026 Church Avenue Street Fair in Flatbush (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Church Ave Street Fair",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf89 2026 Church Avenue Street Fair in Flatbush (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T16:00:00+00:00",
       "title": "\ud83d\udecd\ufe0f Brooklyn Pop-Up x Made in NYC Made in NYC Week at Strong Rope Brewery in Red Hook",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -427,6 +414,19 @@
       "description": "Strong Rope Red Hook",
       "extraction_method": "api",
       "vendor": "\ud83d\udecd\ufe0f Brooklyn Pop-Up x Made in NYC Made in NYC Week at Strong Rope Brewery in Red Hook",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T16:00:00+00:00",
+      "title": "\ud83c\udf89 2026 Church Avenue Street Fair in Flatbush (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Church Ave Street Fair",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 2026 Church Avenue Street Fair in Flatbush (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -444,19 +444,6 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
-      "title": "\ud83c\udf89 Mommy Poppins Kid Fest at Pier 57 in Chelsea (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "Pier 57",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf89 Mommy Poppins Kid Fest at Pier 57 in Chelsea (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T16:00:00+00:00",
       "title": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -470,15 +457,15 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
-      "title": "\ud83d\udd79\ufe0f Family Day at Barcade in Williamsburg (all ages)",
+      "title": "\ud83c\udf89 Mommy Poppins Kid Fest at Pier 57 in Chelsea (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
-      "end_time": "9:00 PM ET",
+      "end_time": "7:00 PM ET",
       "start_time_raw": "4:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Barcade Brooklyn",
+      "end_time_raw": "7:00 PM",
+      "description": "Pier 57",
       "extraction_method": "api",
-      "vendor": "\ud83d\udd79\ufe0f Family Day at Barcade in Williamsburg (all ages)",
+      "vendor": "\ud83c\udf89 Mommy Poppins Kid Fest at Pier 57 in Chelsea (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -492,6 +479,19 @@
       "description": "Brooklyn Bowl",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb8 Rock & Roll Playhouse Presents the Music of Karol G & Rosalia at Brooklyn Bowl in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T16:00:00+00:00",
+      "title": "\ud83d\udd79\ufe0f Family Day at Barcade in Williamsburg (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Barcade Brooklyn",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udd79\ufe0f Family Day at Barcade in Williamsburg (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -574,19 +574,6 @@
     },
     {
       "date": "2026-05-03T17:00:00+00:00",
-      "title": "\ud83d\udc90 Balloons in Bloom Mother's Day Pop Up at Good Day Play Cafe in Park Slope",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "Good Day Play Cafe",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udc90 Balloons in Bloom Mother's Day Pop Up at Good Day Play Cafe in Park Slope",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T17:00:00+00:00",
       "title": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -596,6 +583,19 @@
       "description": "CREA - Industry City",
       "extraction_method": "api",
       "vendor": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T17:00:00+00:00",
+      "title": "\ud83d\udc90 Balloons in Bloom Mother's Day Pop Up at Good Day Play Cafe in Park Slope",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Good Day Play Cafe",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc90 Balloons in Bloom Mother's Day Pop Up at Good Day Play Cafe in Park Slope",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4551,7 +4551,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-03T10:31:36.233983+00:00",
+  "updated": "2026-05-03T12:31:32.449322+00:00",
   "total_events": 350,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
