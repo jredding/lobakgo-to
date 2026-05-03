@@ -469,6 +469,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-10T00:00:00",
+      "title": "LAUGH",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LAUGH",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-05-10T19:30:00-04:00",
       "title": "Sunday Night Comedy",
       "venue": "Eastville Comedy Club",
@@ -482,8 +495,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-03T06:16:21.581081+00:00",
-  "total_events": 37,
+  "updated": "2026-05-03T08:16:24.639196+00:00",
+  "total_events": 38,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
