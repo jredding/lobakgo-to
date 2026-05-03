@@ -392,19 +392,6 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:45 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:45 PM",
-      "description": "LeFrak Center at Lakeside in Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T16:00:00+00:00",
       "title": "\ud83c\udf89 2026 Church Avenue Street Fair in Flatbush (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -431,6 +418,19 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:45 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:45 PM",
+      "description": "LeFrak Center at Lakeside in Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T16:00:00+00:00",
       "title": "\ud83d\udd28 Open Hours: play:groundNYC's The Yard on Governor's Island (ages 1-12)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -444,19 +444,6 @@
     },
     {
       "date": "2026-05-03T16:00:00+00:00",
-      "title": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Newkirk Ave. Open Street",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-03T16:00:00+00:00",
       "title": "\ud83c\udf89 Mommy Poppins Kid Fest at Pier 57 in Chelsea (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -466,6 +453,19 @@
       "description": "Pier 57",
       "extraction_method": "api",
       "vendor": "\ud83c\udf89 Mommy Poppins Kid Fest at Pier 57 in Chelsea (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-03T16:00:00+00:00",
+      "title": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Newkirk Ave. Open Street",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 Flatbush Community Day Open Streets Kick-Off at Newkirk Ave. in Flatbush",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4551,7 +4551,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-03T14:31:36.895104+00:00",
+  "updated": "2026-05-03T16:31:23.862609+00:00",
   "total_events": 350,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
