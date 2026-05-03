@@ -183,6 +183,32 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-05T12:00:00+00:00",
+      "title": "ALMOST HOME: A NIGHT OF ACCOUSTIC MUSIC(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ALMOST HOME: A NIGHT OF ACCOUSTIC MUSIC(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-05T12:00:00+00:00",
+      "title": "THERE\u2019S A LOT TO UNPACK HERE, THE POETRY INTERVIEW SERIES(Reading)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THERE\u2019S A LOT TO UNPACK HERE, THE POETRY INTERVIEW SERIES(Reading)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-05T19:00:00",
       "title": "A Workshop on the Operas of Robert Ashley",
       "venue": "Roulette",
@@ -207,6 +233,45 @@
       "extraction_method": "html",
       "vendor": "Greta Titelman: Hot! Fresh! New!",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-05-06T12:00:00+00:00",
+      "title": "LONG NEWS POETRY AND POETICS ISSUE 3 LAUNCH PARTY(Reading)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LONG NEWS POETRY AND POETICS ISSUE 3 LAUNCH PARTY(Reading)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-06T12:00:00+00:00",
+      "title": "DIVIDED BY ZERO// JCP(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DIVIDED BY ZERO// JCP(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-06T19:30:00",
+      "title": "WE HAVE FUN STANDUP(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "WE HAVE FUN STANDUP(Comedy)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-05-06T20:00:00-04:00",
@@ -261,6 +326,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-07T12:00:00+00:00",
+      "title": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT: POWER RANGERS(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT: POWER RANGERS(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-07T20:00:00-04:00",
       "title": "Dave Kinney, Liam Dalton, Max Lowe, Trayvon Fulton, Mae Planert",
       "venue": "Eastville Comedy Club",
@@ -313,6 +391,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-08T12:00:00+00:00",
+      "title": "POINT CLOUD// DUANE LAUGINIGER// ROOM PACK(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "POINT CLOUD// DUANE LAUGINIGER// ROOM PACK(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-08T18:00:00-04:00",
       "title": "Nore Davis, Levi White, Stephen Pratt, Tomas Liebel, Amanda Giles, Matt Wayne",
       "venue": "Eastville Comedy Club",
@@ -350,6 +441,19 @@
       "extraction_method": "html",
       "vendor": "Syrian Music Preservation Initiative: Music of Muhammed Qadri Dalal, Maqam Master of Aleppo (RBA)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-05-08T20:30:00",
+      "title": "IRENE MASTRANGELI AND GUEST(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "6:30 AM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "6:30 AM",
+      "end_time_raw": "8:30 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "IRENE MASTRANGELI AND GUEST(Music)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-05-08T22:00:00-04:00",
@@ -404,6 +508,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-09T12:00:00+00:00",
+      "title": "STEPHEN SUNSHINE// THE TREES// DUMPSTER PINK(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "STEPHEN SUNSHINE// THE TREES// DUMPSTER PINK(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-09T18:00:00-04:00",
       "title": "Dennis Rooney, Matt Wayne, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -441,6 +558,19 @@
       "extraction_method": "html",
       "vendor": "Amir Nojan & Pejman Hadadi: Persian Classical Music \u2013 \u201cWhispers of the Dastgah\u201d (RBA)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-05-09T20:30:00",
+      "title": "LAUGHTER IS THE BEST MEDICINE: A COMEDY FUNDRAISER FOR CANCER RESEARCH INSTITUTE(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "6:30 AM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "6:30 AM",
+      "end_time_raw": "8:30 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LAUGHTER IS THE BEST MEDICINE: A COMEDY FUNDRAISER FOR CANCER RESEARCH INSTITUTE(Comedy)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-05-09T22:00:00-04:00",
@@ -482,6 +612,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-10T12:00:00+00:00",
+      "title": "NATHAN MATTINGLY// SMALL CHUCKS// CHRISTIAN RUTLEDGE(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NATHAN MATTINGLY// SMALL CHUCKS// CHRISTIAN RUTLEDGE(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-10T12:00:00+00:00",
+      "title": "PUBLIC VICTORIES: STORIES OF PERSONAL TRIUMPH(Story Telling )",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "PUBLIC VICTORIES: STORIES OF PERSONAL TRIUMPH(Story Telling )",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-10T12:00:00+00:00",
+      "title": "NOAH STONEMAN// ALANA AMORE COLVIN// NETA RAANAN(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NOAH STONEMAN// ALANA AMORE COLVIN// NETA RAANAN(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-10T19:30:00-04:00",
       "title": "Sunday Night Comedy",
       "venue": "Eastville Comedy Club",
@@ -495,8 +664,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-03T14:16:27.274403+00:00",
-  "total_events": 38,
+  "updated": "2026-05-03T16:16:20.080207+00:00",
+  "total_events": 51,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
