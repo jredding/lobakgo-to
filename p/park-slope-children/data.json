@@ -3564,19 +3564,6 @@
     },
     {
       "date": "2026-05-09T22:00:00+00:00",
-      "title": "\ud83d\udc90 Mother's Day Celebration at Bay Ridge Manor (ages 18+)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": "3:00 AM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "3:00 AM",
-      "description": "Bay Ridge Manor",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udc90 Mother's Day Celebration at Bay Ridge Manor (ages 18+)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-09T22:00:00+00:00",
       "title": "\ud83c\udfb6 Best of The Nightingale Fam at ShapeShifter Lab in Park Slope (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "10:00 PM ET",
@@ -3586,6 +3573,19 @@
       "description": "ShapeShifter Lab",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Best of The Nightingale Fam at ShapeShifter Lab in Park Slope (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-09T22:00:00+00:00",
+      "title": "\ud83d\udc90 Mother's Day Celebration at Bay Ridge Manor (ages 18+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "3:00 AM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "3:00 AM",
+      "description": "Bay Ridge Manor",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc90 Mother's Day Celebration at Bay Ridge Manor (ages 18+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4616,7 +4616,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-04T14:31:49.864227+00:00",
+  "updated": "2026-05-04T16:31:21.804990+00:00",
   "total_events": 355,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
