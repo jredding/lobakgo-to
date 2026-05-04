@@ -118,19 +118,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-05-05T20:00:00",
-      "title": "Flight Attendant // The Props // Caleb Moore",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "\u201cFlight Attendant delivers an experience.\u201d - RollingStone Magazine",
-      "extraction_method": "api",
-      "vendor": "Flight Attendant // The Props // Caleb Moore",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-06T00:00:00",
       "title": "Greta Titelman: Hot! Fresh! New!",
       "venue": "Union Hall",
@@ -181,19 +168,6 @@
       "extraction_method": "html",
       "vendor": "WE HAVE FUN STANDUP(Comedy)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-06T20:00:00",
-      "title": "The Hell Gate Judicial Convention",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "The Hell Gate Judicial Convention\u2014a night of inspired debate, politicking, and light graft to celebrate the release of COURTS OF CONTEMPT.",
-      "extraction_method": "api",
-      "vendor": "The Hell Gate Judicial Convention",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-06T20:00:00-04:00",
@@ -339,6 +313,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-05-08T18:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery. The tour concludes in our taproom where we will lead you a guided tasting flight of 3 kinds of Brooklyn Kura and introduce you to the nuance and variety of our award-winning sake.\nLocation:\nPlease arrive promptly in our taproom to start your tour. The location is:\n34 34th Street, Inner courtyard\nIndustry City Building 6\nBrooklyn, NY 11232",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-08T20:00:00-04:00",
       "title": "James Mattern, Talal Alyan, Levi White, Liam Dalton, Harry Terjanian",
       "venue": "Eastville Comedy Club",
@@ -430,19 +417,6 @@
       "location": "Union Hall"
     },
     {
-      "date": "2026-05-09T12:00:00",
-      "title": "The Rock and Roll Playhouse plays The Beatles",
-      "venue": "Littlefield",
-      "start_time": "12:00 PM ET",
-      "end_time": "1:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "1:00 PM",
-      "description": "Music of The Beatles + More for Kids",
-      "extraction_method": "api",
-      "vendor": "The Rock and Roll Playhouse plays The Beatles",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-09T12:00:00+00:00",
       "title": "STEPHEN SUNSHINE// THE TREES// DUMPSTER PINK(Music)",
       "venue": "Young Ethel's",
@@ -456,6 +430,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-09T16:30:00",
+      "title": "Industry City Gourmet Food and Drinks Tour",
+      "venue": "Industry City",
+      "start_time": "4:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Set against the iconic backdrop of Sunset Park\u2019s historic waterfront, the massive, revitalized structures of Industry City form a breathtaking stage for an exclusive culinary journey. This premium food and cocktail tour is a curated exploration of taste and craft, transforming an evening into a memorable, high-end experience.\nYour adventure begins with artistic bonbons at Lilac Chocolates, explores gourmet imports at Sahadi\u2019s, and includes a refined whiskey tasting at Fort Hamilton Distillery, followed by a sophisticated sake flight. Savor additional artisanal discoveries within the awe-inspiring industrial halls.\nPerfect as a distinctive date night, this tour is also fully customizable for private groups and corporate retreats. We specialize in tailoring this engaging experience for team-building and client entertainment, making it an ideal one-day corporate outing. A sophisticated mini-vacation for locals and a profound discovery for visitors.",
+      "extraction_method": "api",
+      "vendor": "Industry City Gourmet Food and Drinks Tour",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-09T18:00:00-04:00",
       "title": "Doug Smith, Caitlin Peluffo, Dennis Rooney, Matt Wayne, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -467,19 +454,6 @@
       "extraction_method": "json-ld",
       "vendor": "Doug Smith, Caitlin Peluffo, Dennis Rooney, Matt Wayne, Neema Naz",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-09T19:30:00",
-      "title": "\"Do You Still Like Me?\" A Comedy Dating Show",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A live comedy dating show where comics perform for their blind dates. After their set we ask the big question: Do you still like them?",
-      "extraction_method": "api",
-      "vendor": "\"Do You Still Like Me?\" A Comedy Dating Show",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-09T20:00:00-04:00",
@@ -521,19 +495,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-05-09T21:00:00",
-      "title": "Relive your Radio Disney days with a night of Disney nostalgia @Parklife",
-      "venue": "Littlefield",
-      "start_time": "9:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Magic Frequency: a Radio Disney Inspired Party",
-      "extraction_method": "api",
-      "vendor": "Relive your Radio Disney days with a night of Disney nostalgia @Parklife",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-09T22:00:00-04:00",
       "title": "Stephen Pratt, Shannon Keye, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -545,19 +506,6 @@
       "extraction_method": "json-ld",
       "vendor": "Stephen Pratt, Shannon Keye, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-09T23:00:00",
-      "title": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party in BK",
-      "extraction_method": "api",
-      "vendor": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-10T00:00:00",
@@ -690,13 +638,15 @@
       "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-05-04T14:15:59.984682+00:00",
-  "total_events": 53,
+  "updated": "2026-05-04T16:16:39.417431+00:00",
+  "total_events": 49,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
