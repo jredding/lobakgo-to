@@ -183,6 +183,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-07T13:00:00",
+      "title": "A Tiny Desk at The Center.",
+      "venue": "Industry City",
+      "start_time": "1:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "The Tiny Desk Concert series is a fantastic and intimate live music experience originally created by NPR. It features artists performing short sets in a cozy, desk-like setting, often accompanied by a small audience. The concept emphasizes the personal connection between performers and listeners and showcases a variety of genres and talent.\nAt the center, we plan to host our own version of the Tiny Desk Concerts to highlight local musicians and foster a sense of community. We\u2019ll set up a welcoming and relaxed environment where artists can share their music, stories, and creativity in an intimate setting. The concerts will be open to the public, and we aim to create a space that encourages engagement and connection among attendees.",
+      "extraction_method": "api",
+      "vendor": "A Tiny Desk at The Center.",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-07T18:00:00",
       "title": "Ruthlessly Healthy Workplaces: Beyond Perks, Towards Performance",
       "venue": "Industry City",
@@ -453,6 +466,19 @@
       "description": "In the second exciting installment of this magical adventure, our hero Unicorn Boy sets out in search of deep mystical knowledge: how to fit in at a sleep-over, how to handle everyone seeming cooler than you are, and what&#8217;s up with this whole unicorn thing? Perfect for readers of Narwhal and Jelly, Grumpy Unicorn, and InvestiGators.\nBrian Reyes always felt a bit different\u2014even before growing a unicorn horn, discovering a talking muffin, and swallowing the ruler of the Underworld to save his BFF. So when he receives a mysterious invitation for a Unicorn-Only Sleepover, Brian wonders if these fellow magical creatures might help him make sense of his increasingly odd world. Held in an enchanted castle in the clouds, not everything at this glitzy, glamorous party is as it seems, and Brian will have to fend off increasing social anxiety, ignore the negative feelings in his gut, and stay true to himself if he\u2019s going to survive the night!\nWith a wave of his magic pen, Dave Roman has created a cast of charming oddballs reckoning with normal, every day problems\u2014you know, things like heroic destinies and the fate of all magic in the universe. Join Dave and your friends at Powerhouse for a magical book launch event!",
       "extraction_method": "api",
       "vendor": "Unicorn Boy and the Slumber Party of Doom!",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-09T16:00:00",
+      "title": "American Craft Sake Tasting Class and Brewery Tour",
+      "venue": "Industry City",
+      "start_time": "4:00 PM ET",
+      "end_time": "5:30 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "5:30 PM",
+      "description": "American-made sake is on the rise\u2014and there\u2019s never been a better time to enjoy it. If you&#8217;re curious about sake and eager to dive into the expanding world of U.S.-crafted premium sakes, this class is the perfect place to start your journey. Join us in person at the Sake Studies Center at Brooklyn Kura in NYC to learn the fundamentals of sake, with a special focus on the innovation and craftsmanship emerging from sake breweries across the United States.\nIn this engaging and beginner-friendly session, you\u2019ll enjoy a guided tasting of five standout American sakes\u2014including pours from Kato Sake Works (NY), Proper Sake Co. (TN), Origami Sake (AR), Den Sake Brewery (CA), and Brooklyn Kura (NY). Along the way, we\u2019ll explore each brewery\u2019s story, brewing philosophy, and how local ingredients and regional culture shape their sake.\nWhether you\u2019re brand new to sake or looking to expand your palate, this class offers a fun and flavorful introduction to the emerging world of American sake.\nWhat\u2019s Included:\nA welcome sake to kick things off\nA \u201cSake 101\u201d presentation with a focus on the U.S. craft sake movement and regional differences\nGuided tasting of 5 premium American-made sakes\nPrinted educational materials to take home\nInfo on where to purchase each sake featured\nGuided tour of Brooklyn Kura\u2019s brewery\nSmall bites thoughtfully paired with each sake\nSo, join us and come taste what\u2019s brewing in the U.S. \u2014 you\u2019ll leave with a new appreciation for sake and the American brewers redefining it.",
+      "extraction_method": "api",
+      "vendor": "American Craft Sake Tasting Class and Brewery Tour",
       "location": "Industry City"
     },
     {
@@ -755,6 +781,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-12T11:00:00",
+      "title": "Men\u2019s Mental Health Meet &#038; Greet",
+      "venue": "Industry City",
+      "start_time": "11:00 AM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "11:00 AM",
+      "end_time_raw": "4:00 PM",
+      "description": "The Isaac Brown Healing Arts &amp; Community Center, in collaboration with Fathers in Need, invites men from New York, Boston, and beyond to an event focused on conversation, collaboration, and community. This meet-and-greet brings together artists, fathers, entrepreneurs, podcasters, and community leaders for open dialogue on mental health, purpose, and personal growth. Expect genuine discussions, great company, and new connections, no panels and no pressure. Just men working together to build a stronger community.",
+      "extraction_method": "api",
+      "vendor": "Men\u2019s Mental Health Meet &#038; Greet",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-12T19:00:00",
       "title": "Spirited Away: Psychic &#038; Paranormal Night",
       "venue": "Industry City",
@@ -794,8 +833,8 @@
       "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-05-05T06:16:51.223487+00:00",
-  "total_events": 61,
+  "updated": "2026-05-05T16:17:24.993705+00:00",
+  "total_events": 64,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
