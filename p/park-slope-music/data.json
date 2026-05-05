@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-04T00:00:00",
-      "title": "Frankenstein's Baby",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Frankenstein's Baby",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-04T12:00:00+00:00",
-      "title": "GOLDEN RABBIT, (ARON NAMENWIRTH AND KEVIN SHEA DUO) AND DOCKING(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "GOLDEN RABBIT, (ARON NAMENWIRTH AND KEVIN SHEA DUO) AND DOCKING(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-04T12:00:00+00:00",
-      "title": "52 FILMS SCREENING(Screening)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "52 FILMS SCREENING(Screening)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-04T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-04T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE. FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG WITH MR. ALEX FOLLOWED BY REQUESTS(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE. FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG WITH MR. ALEX FOLLOWED BY REQUESTS(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-05-05T00:00:00",
       "title": "Cold Plunge with Kurt Braunohler",
       "venue": "Union Hall",
@@ -157,6 +92,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-06T17:00:00",
+      "title": "The Art of Street Photography + Photo Walk",
+      "venue": "Industry City",
+      "start_time": "5:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Capturing Life\u2019s Rhythms &#8211; Learn about street photography and go on a mini photo walk around Industry City!\nTHIS IS AN IN-PERSON EVENT. PLEASE ALSO BRING YOUR CAMERA\nStep into the heart of the city and learn the art of street photography! In this immersive class, you&#8217;ll explore how to capture authentic moments of everyday life, from candid expressions to the flow of urban landscapes. Discover techniques to find beauty in the ordinary, and develop your eye for composition, timing, and storytelling. Whether you&#8217;re a beginner or an experienced photographer, this class will sharpen your instincts and help you create powerful images that resonate. This class will inspire you to see the city in a new light, capturing the rhythms and stories that unfold around you every day!\nMidway through the workshop, you will be going outside to take some of your own photos and we will reconvene after to discuss what you shot.\nKey Takeaways:\n&#8211; Learn to anticipate and capture candid moments with perfect timing.\n&#8211; Master composition techniques to create compelling visual stories.\n&#8211; Understand how to use natural light and shadows in dynamic street scenes.\n&#8211; Build confidence in photographing people and busy environments.\n&#8211; Develop a unique photographic style that reflects your perspective on urban life.",
+      "extraction_method": "api",
+      "vendor": "The Art of Street Photography + Photo Walk",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-06T19:30:00",
       "title": "WE HAVE FUN STANDUP(Comedy)",
       "venue": "Young Ethel's",
@@ -171,7 +119,7 @@
     },
     {
       "date": "2026-05-06T20:00:00-04:00",
-      "title": "Laughs In The East",
+      "title": "Outlaw Comedy by Jobber Joepsh",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
@@ -179,7 +127,7 @@
       "end_time_raw": null,
       "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p>",
       "extraction_method": "json-ld",
-      "vendor": "Laughs In The East",
+      "vendor": "Outlaw Comedy by Jobber Joepsh",
       "location": "Eastville Comedy Club"
     },
     {
@@ -233,6 +181,19 @@
       "extraction_method": "html",
       "vendor": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT: POWER RANGERS(Comedy)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-07T18:00:00",
+      "title": "Ruthlessly Healthy Workplaces: Beyond Perks, Towards Performance",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "What if individual wellbeing wasn\u2019t just a &#8220;perk&#8221; of your job, but the primary driver of your organization\u2019s strategic success?\nJoin Nayth Woodrow for a provocative, TED-style presentation designed to challenge everything you think you know about purpose, wellbeing, and workplace culture. In this high-energy session, Nayth moves past traditional HR concepts to dive into the science of the brain and human emotions to reveal what actually makes progress possible in a modern business.\nA ruthlessly healthy workplace prioritizes genuine human connection to drive tangible outcomes. Whether you are a founder, an executive leader, or a frontline &#8220;upholder&#8221; of your team\u2019s values, this session will provide you with the cognitive tools to evaluate your current practices and nudge your organization toward a state of effective growth.",
+      "extraction_method": "api",
+      "vendor": "Ruthlessly Healthy Workplaces: Beyond Perks, Towards Performance",
+      "location": "Industry City"
     },
     {
       "date": "2026-05-07T20:00:00-04:00",
@@ -300,6 +261,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-08T17:00:00",
+      "title": "Empanada Papa Food Pop-up",
+      "venue": "Industry City",
+      "start_time": "5:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Empanada Papa is popping up Friday at Standard Wormwood. With handmade mouth-watering empanadas till late from @empanadapapanyc",
+      "extraction_method": "api",
+      "vendor": "Empanada Papa Food Pop-up",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-08T18:00:00-04:00",
       "title": "Nore Davis, Levi White, Stephen Pratt, Tomas Liebel, Amanda Giles, Matt Wayne",
       "venue": "Eastville Comedy Club",
@@ -326,6 +300,32 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-08T19:00:00",
+      "title": "Grateful for Biggie &#8211; Grateful Dead Meets Notorious B.I.G. with Special Guest Peak",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Tickets Here\nIndustry City and Get It Right Music in association with Murmrr Presents are thrilled to present Grateful for Biggie &#8211; a night under the stars featuring the ultimate mashup tribute that seamlessly blends the Grateful Dead\u2019s signature grooves with the lyrical genius of Notorious B.I.G. Get ready for a sonic journey that defies genres and sparks new musical dimensions.\nThis show features special guest opening act Peak!\nEvent Info\nDate: May 8, 2026\nDoors: 6:45pm\nPeak Opener: 7:00pm\nSet 1: 8:15pm\nSet 2: 9:30pm\nTickets: $20 per person plus fees in advance/$25 per person day of show\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore About Grateful for Biggie\nStep into a world where time-honored melodies collide with urban poetry, where the rhythms of yesterday&#8217;s legends unite with the beats of a modern era. Introducing \u201cGrateful for Biggie,&#8221; the ultimate mashup tribute that seamlessly blends the Grateful Dead&#8217;s signature grooves with the lyrical genius of Notorious B.I.G. Get ready for a sonic journey that defies genres and sparks new musical dimensions.\nAt the heart of &#8220;Grateful for Biggie&#8221; lies the powerful fusion of two iconic forces. The Grateful Dead&#8217;s ethereal harmonies and improvisational magic interweave with Biggie&#8217;s slick rhymes and storytelling prowess, creating a tapestry of sound that resonates with fans of both worlds. Each performance is a dynamic celebration of musical innovation, where &#8220;China Cat Sunflower&#8221; meets &#8220;Kick in the Door,&#8221; and &#8220;Shakedown Street&#8221; flows seamlessly with &#8220;Hypnotize.&#8221;\nLed by a group of passionate musicians, &#8220;Grateful for Biggie&#8221; captures the essence of both the Grateful Dead and Notorious B.I.G., paying homage to the legacies that shaped generations. With electrifying stage presence and the soulful vibes of the past, this tribute band invites you to revel in the familiar while experiencing the thrill of the unexpected.\nSo, whether you&#8217;re a Dead Head or a Hip Hop head looking to groove to some legendary tunes, &#8220;Grateful for Biggie&#8221; promises an unforgettable ride. Join us as we bridge the gap between two of America\u2019s greatest cultural movements of all time, creating a musical experience that proves true artistry knows no boundaries.\nMore About Peak\nIn late 2016 Brooklyn-based guitarist and songwriter Jeremy Hilliard began performing and touring under the name PEAK. In 2018, he released the now critically acclaimed debut album Electric Bouquet, produced by Dave Brandwein (Turkuaz). In 2019 the band took on a life of its own as one by one some of the best musicians in the improv rock scene joined the group including Kito Bovenschulte (Particle) on drums, Josh T. Carter (Hayley Jane and The Primates) on bass, and newcomer extraordinaire Johnny Young on keys. The group\u2019s music, described as Psychedelic Indie Funk, is a mix of poetic, melodic songwriting, moody electrofunk, riffed-out blues-rock, and exploratory danceable improvisations. Some of their many influences include artists such as The Band, The Talking Heads, Phish, The Grateful Dead, Radiohead, James Brown, and Miles Davis, as well as modern songwriters such as Conor Oberst, Mac Demarco, Kurt Vile, and Jack White to name a few.",
+      "extraction_method": "api",
+      "vendor": "Grateful for Biggie &#8211; Grateful Dead Meets Notorious B.I.G. with Special Guest Peak",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-08T19:30:00",
+      "title": "Tiny Distillery Concerts",
+      "venue": "Industry City",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Tiny Distillery Concerts: Katherine Kyu Hyeon Lim &amp; Yuma Uesaka\nJoin us for an evening of improvised music for by Katherine Kyu Hyeon Lim and Yuma Uesaka and cocktails/mocktails!\n\ud83c\udf9f\ufe0f Doors open at 7:30pm\n\ud83c\udfb6 Show starts at 8:00pm\n\ud83e\udd43 Cocktails &amp; mocktails available for purchase\nWhere music meets the glass \u2014 a truly one-of-a-kind experience.",
+      "extraction_method": "api",
+      "vendor": "Tiny Distillery Concerts",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-08T20:00:00-04:00",
       "title": "James Mattern, Talal Alyan, Levi White, Liam Dalton, Harry Terjanian",
       "venue": "Eastville Comedy Club",
@@ -337,6 +337,19 @@
       "extraction_method": "json-ld",
       "vendor": "James Mattern, Talal Alyan, Levi White, Liam Dalton, Harry Terjanian",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-08T20:00:00",
+      "title": "Salsa &#038; Cocktails @ Standard Wormwood",
+      "venue": "Industry City",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "DJ Torres @dj_torres_bk\nLatin vibes and cocktails at Standard Wormwood \u2013 Salsa, Merengue, Bachata, Cumbia and more!",
+      "extraction_method": "api",
+      "vendor": "Salsa &#038; Cocktails @ Standard Wormwood",
+      "location": "Industry City"
     },
     {
       "date": "2026-05-08T20:00:00",
@@ -430,6 +443,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-09T13:00:00",
+      "title": "Unicorn Boy and the Slumber Party of Doom!",
+      "venue": "Industry City",
+      "start_time": "1:00 PM ET",
+      "end_time": "2:00 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "2:00 PM",
+      "description": "In the second exciting installment of this magical adventure, our hero Unicorn Boy sets out in search of deep mystical knowledge: how to fit in at a sleep-over, how to handle everyone seeming cooler than you are, and what&#8217;s up with this whole unicorn thing? Perfect for readers of Narwhal and Jelly, Grumpy Unicorn, and InvestiGators.\nBrian Reyes always felt a bit different\u2014even before growing a unicorn horn, discovering a talking muffin, and swallowing the ruler of the Underworld to save his BFF. So when he receives a mysterious invitation for a Unicorn-Only Sleepover, Brian wonders if these fellow magical creatures might help him make sense of his increasingly odd world. Held in an enchanted castle in the clouds, not everything at this glitzy, glamorous party is as it seems, and Brian will have to fend off increasing social anxiety, ignore the negative feelings in his gut, and stay true to himself if he\u2019s going to survive the night!\nWith a wave of his magic pen, Dave Roman has created a cast of charming oddballs reckoning with normal, every day problems\u2014you know, things like heroic destinies and the fate of all magic in the universe. Join Dave and your friends at Powerhouse for a magical book launch event!",
+      "extraction_method": "api",
+      "vendor": "Unicorn Boy and the Slumber Party of Doom!",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-09T16:30:00",
       "title": "Industry City Gourmet Food and Drinks Tour",
       "venue": "Industry City",
@@ -443,29 +469,68 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-09T16:30:00",
+      "title": "A Brooklyn Dream Immersive Play",
+      "venue": "Industry City",
+      "start_time": "4:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A Brooklyn Dream is a groundbreaking immersive theater experience set inside The Brooklyn Pop Exhibit. Told through the eyes of three generations of a Bay Ridge family, the production blends theater, film, music and installation art into a raw, emotional journey about survival, ambition and the pursuit of dreams.\nAudiences step directly into cinematic recreations of Brooklyn streets, stoops, train yards and living rooms &#8211; each space alive with actors, archival footage, graffiti and soundscapes that pull you into the past and present. At its heart is the story of Kaves, a graffiti writer and musician navigating 1980s Brooklyn, while uncovering the triumphs and traumas of his grandparents and parents before him. The narrative moves fluidly across decades, juxtaposing the underdog struggles of post-war immigrants with the fire of hip-hop\u2019s golden era.\nA Brooklyn Dream is as personal as it is universal. It\u2019s an honest portrait of family, loss, resilience and the power of art to transform pain into beauty. Each performance is both theater and memory, with audiences moving through immersive sets, standing inches from the actors and feeling the heartbeat of Brooklyn itself.\nRaw, authentic and based on true events, it is more than a play, it is an experience that blurs the line between art and life.\nTickets available for 5 time slots: 4:30, 5:40, 6:45, 8:00, 9:10",
+      "extraction_method": "api",
+      "vendor": "A Brooklyn Dream Immersive Play",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-09T18:00:00-04:00",
-      "title": "Doug Smith, Caitlin Peluffo, Dennis Rooney, Matt Wayne, Neema Naz",
+      "title": "Doug Smith, Dennis Rooney, Matt Wayne, Neema Naz",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p>Featuring<br>Doug Smith<br>Caitlin Peluffo<br>Dennis Rooney<br>Matt Wayne<br>Neema Naz",
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p>Featuring<br>Doug Smith<br>Dennis Rooney<br>Matt Wayne<br>Neema Naz",
       "extraction_method": "json-ld",
-      "vendor": "Doug Smith, Caitlin Peluffo, Dennis Rooney, Matt Wayne, Neema Naz",
+      "vendor": "Doug Smith, Dennis Rooney, Matt Wayne, Neema Naz",
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-05-09T18:00:00",
+      "title": "Archetypal Collage: Taurus Season",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "All signs are welcome! This space is for anyone curious about creativity, symbolism, and self-exploration, no matter your chart.\nArchetypal Collage: Taurus Season is a creative, reflective workshop blending art-making, astrology, and archetypal symbolism. Part collage, part inner alchemy, this experience invites you to explore your personal mythology through the archetype of Taurus. Connect to your roots through symbolic teachings, collage art, curated playlists, and personalized 1:1 archetypal mini-readings.\nEveryone can work with the universal themes of The Bull &#8211; groundedness, sensuality, stability, self-worth, endurance, and embodiment. Similar to a tarot reading, you&#8217;ll also learn to to \u201cread\u201d your collage creations to understand your unique relationship to these energies.\nNo prior art experience or astrology knowledge is required. All materials are provided (including vintage magazines!).",
+      "extraction_method": "api",
+      "vendor": "Archetypal Collage: Taurus Season",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-09T19:00:00",
+      "title": "US Air Guitar Championships &#8211; Brooklyn",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "US Air Guitar Championships &#8211; Brooklyn Qualifier &#8211; The winner goes straight to Nationals in San Francisco!\n\ud83c\udfb8\ud83d\udd25 Brooklyn Regional: US Air Guitar Championships 2026 \ud83d\udd25\ud83c\udfb8\n\ud83d\udcc5 Date: Saturday, May 9th, 2026\n\ud83d\udd56 Time: 7 PM &#8211; 10 PM\n\ud83d\udccd Venue: Barrow\u2019s Intense Tasting Room\n\ud83d\udccc Location: 86 34th St, Brooklyn, NY\nBrooklyn\u2019s finest air shredders, it\u2019s time to take the stage! The 2026 Brooklyn Regional Competition at Barrow\u2019s Intense is your chance to claim air guitar glory and secure a direct spot in the National Finals in San Francisco, CA on Saturday, August 1st \u2014 no extra battles, no second chances, just straight to the big stage!\n\ud83c\udfb6 What to Expect:\n\ud83d\udd25 High-energy performances from air guitarists ready to melt faces (without touching a single string).\n\ud83c\udfc6 A chance to win the Brooklyn crown and advance straight to the National Competition.\n\ud83c\udf79 Incredible drinks at Barrow\u2019s Intense\u2014featuring NYC\u2019s largest selection of locally distilled spirits, plus beer, wine, and non-alcoholic options.\n\ud83c\udfa4 Hilarious commentary and expert judging to help crown the next air guitar champion.\nWhy You Should Come:\n\ud83e\udd18 To witness Brooklyn\u2019s boldest, wildest, and most entertaining competitors battle for air guitar supremacy.\n\ud83c\udf9f\ufe0f To cheer, laugh, and lose yourself in the ridiculous joy of it all.\n\ud83c\udfc5 To compete yourself! Sign up now and take your shot at the national stage: https://www.eventbrite.com/e/competitor-sign-up-us-air-guitar-championships-brooklyn-heck-yeah-tickets-1986278894643\nIf you&#8217;ve got the moves, the energy, and the pure rock \u2018n\u2019 roll spirit, this is your moment. Reserve your spot to compete or grab a ticket to watch \u2014 it\u2019s going to be legendary! \ud83c\udfb8\ud83d\udd25\nSee you there\u2014and may the best air guitarist win! \ud83e\udd18\ud83d\udca5",
+      "extraction_method": "api",
+      "vendor": "US Air Guitar Championships &#8211; Brooklyn",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-09T20:00:00-04:00",
-      "title": "Caitlin Peluffo, Dennis Rooney, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
+      "title": "Dennis Rooney, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><br>Featuring<br>Caitlin Peluffo<br>Dennis Rooney<br>Annette Mullaney<br>Ray Zawodni<br>Crenshaw White<br>Mike Toohey",
+      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><br>Featuring<br><br>Dennis Rooney<br>Annette Mullaney<br>Ray Zawodni<br>Crenshaw White<br>Mike Toohey",
       "extraction_method": "json-ld",
-      "vendor": "Caitlin Peluffo, Dennis Rooney, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
+      "vendor": "Dennis Rooney, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "location": "Eastville Comedy Club"
     },
     {
@@ -573,6 +638,32 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-10T12:30:00",
+      "title": "Mother&#8217;s Day Fresh Flower Bouquet @Kajiha",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Special Mother\u2019s Day Bouquets \u2013 Fresh &amp; Dried\nSurprise someone special with a Kajiha\u2019s handcrafted Mother\u2019s Day bouquet.\nFresh flowers are now available just in time for Mother\u2019s Day.\nLimited quantities available",
+      "extraction_method": "api",
+      "vendor": "Mother&#8217;s Day Fresh Flower Bouquet @Kajiha",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-10T13:00:00",
+      "title": "Japan Village Spring Festival",
+      "venue": "Industry City",
+      "start_time": "1:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Japan Village Spring Festival is coming! \ud83c\udf38\ud83c\udf3f\ud83c\udf89\nJoin us on Sunday, May 10 at Japan Village for an exciting and fun Spring Festival you won\u2019t want to miss!\nWe\u2019ll be featuring:\n\ud83d\udc49live performances\n\ud83d\udc49 traditional Japanese dances from local prefectures\n\ud83d\udc49 artist market on the 2nd Floor\n\ud83d\udc49food vendors outside\n\ud83d\udc49 games to win prizes\nPrizes include Japan Village vouchers and even a domestic flight ticket! \u2708\ufe0f\ud83c\udf9f\ufe0f\n\ud83d\udccd Japan Village, 934 3rd Ave\n\ud83d\uddd3\ufe0f Sunday, May 10\n\u23f0 1-5PM\n\ud83c\udf9f\ufe0f RSVP FREE link at \ud83d\udd17 japanvillagespringfestival.eventbrite.com",
+      "extraction_method": "api",
+      "vendor": "Japan Village Spring Festival",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-10T19:30:00-04:00",
       "title": "Julian Breheny, Tomas Liebel, Amanda Giles, Michael Brigante",
       "venue": "Eastville Comedy Club",
@@ -625,6 +716,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-11T18:00:00",
+      "title": "Introduction to Shochu &#8211; Tasting Class and Brewery Tour",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Are you curious about Shochu? Join us to learn the basics of this delicious and unique 500+ year old Japanese Spirit, how to differentiate between styles, and how to serve Shochu to its best advantage and use it in delicious craft cocktails. We&#8217;ll also explore the nuance of Shochu vs Sake and Soju! The course includes a guided tour of Brooklyn Kura&#8217;s sake brewery (through the lens of shochu making), a flight of 5 different shochus served in a variety of styles, and a few snacks to accompany the tasting.\nWhat&#8217;s included:\n-Shochu 101 presentation to walk you through the fundamentals of the Japanese spirit\n-A guided tasting of 4 different Japanese Shochus, as well as Brooklyn Kura&#8217;s house-made Shochu\n-A Handout/notes section for reference at home\n-Snacks to accompany the spirit tasting\n-A 10% discount for purchasing bottles at Brooklyn Kura or select bottles at Kuraichi",
+      "extraction_method": "api",
+      "vendor": "Introduction to Shochu &#8211; Tasting Class and Brewery Tour",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-11T20:30:00",
       "title": "CALL OUT CULTURE PRESENTS: THE EARLY BIRD SPECIAL(Music)",
       "venue": "Young Ethel's",
@@ -636,10 +740,62 @@
       "extraction_method": "html",
       "vendor": "CALL OUT CULTURE PRESENTS: THE EARLY BIRD SPECIAL(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-12T00:00:00",
+      "title": "PRETTY  MAJOR Hosted by Jay Jurden",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "PRETTY  MAJOR Hosted by Jay Jurden",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-05-12T19:00:00",
+      "title": "Spirited Away: Psychic &#038; Paranormal Night",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Gather with NYC\u2019s finest readers and psychics for a glorious evening of craft cocktails and supernatural fun, hosted by The Oracle!\nSpirited Away Psychic &amp; Paranormal Night! Winter Edition!\nCome down to Industry City and join us for a cozy evening of psychic readings and craft cocktails!",
+      "extraction_method": "api",
+      "vendor": "Spirited Away: Psychic &#038; Paranormal Night",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-12T19:30:00",
+      "title": "POP CULTURE TRIVIA TIME MACHINE!(Trivia)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "POP CULTURE TRIVIA TIME MACHINE!(Trivia)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-12T21:30:00",
+      "title": "BAD MOVIE NIGHT BROOKLYN! OFF SHELF EDITION: YOU PICK THE MOVIE(Screening)",
+      "venue": "Young Ethel's",
+      "start_time": "9:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "BAD MOVIE NIGHT BROOKLYN! OFF SHELF EDITION: YOU PICK THE MOVIE(Screening)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-05-04T16:16:39.417431+00:00",
-  "total_events": 49,
+  "updated": "2026-05-05T06:16:51.223487+00:00",
+  "total_events": 61,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
