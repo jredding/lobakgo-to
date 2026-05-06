@@ -158,19 +158,6 @@
     },
     {
       "date": "2026-05-06T14:30:00+00:00",
-      "title": "\ud83c\udf37 Spring First Discoveries at Brooklyn Botanic Garden in Prospect Heights (ages 0-4)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "4:30 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "4:30 PM",
-      "description": "Brooklyn Botanic Garden",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf37 Spring First Discoveries at Brooklyn Botanic Garden in Prospect Heights (ages 0-4)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-06T14:30:00+00:00",
       "title": "\ud83c\udfb6 Bubbly B\u2019s Interactive Musical Theatre Class at McCarren Park in Williamsburg (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -193,6 +180,19 @@
       "description": "Green-Wood Cemetery",
       "extraction_method": "api",
       "vendor": "\ud83d\udc76\ud83c\udffb Green-Wood on Wheels: Stroller-Friendly Tour at Green-Wood Cemetery in South Slope (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-06T14:30:00+00:00",
+      "title": "\ud83c\udf37 Spring First Discoveries at Brooklyn Botanic Garden in Prospect Heights (ages 0-4)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "4:30 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "4:30 PM",
+      "description": "Brooklyn Botanic Garden",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf37 Spring First Discoveries at Brooklyn Botanic Garden in Prospect Heights (ages 0-4)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4577,7 +4577,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-06T12:32:54.595225+00:00",
+  "updated": "2026-05-06T14:32:38.812667+00:00",
   "total_events": 352,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
