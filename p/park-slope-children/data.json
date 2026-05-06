@@ -41,19 +41,6 @@
     },
     {
       "date": "2026-05-06T14:00:00+00:00",
-      "title": "\ud83c\udfb6 \"Lil Boppers\" Toddler Hip-Hop Class at Atlantic Terminal Mall in Downtown Brooklyn (ages 1 1/2-3 yr)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Atlantic Terminal Mall",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb6 \"Lil Boppers\" Toddler Hip-Hop Class at Atlantic Terminal Mall in Downtown Brooklyn (ages 1 1/2-3 yr)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-06T14:00:00+00:00",
       "title": "\ud83c\udfb6 Parent + Me Music with Nueromotif at Good Day Play Cafe in Park Slope (ages 6 mo-4 yr)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -76,6 +63,19 @@
       "description": "The Canopy Williamsburg",
       "extraction_method": "api",
       "vendor": "\ud83d\udc76\ud83c\udffb Developmental Movement Playgroup at The Canopy in Williamsburg (ages 0-1.5 yr)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-06T14:00:00+00:00",
+      "title": "\ud83c\udfb6 \"Lil Boppers\" Toddler Hip-Hop Class at Atlantic Terminal Mall in Downtown Brooklyn (ages 1 1/2-3 yr)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "Atlantic Terminal Mall",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 \"Lil Boppers\" Toddler Hip-Hop Class at Atlantic Terminal Mall in Downtown Brooklyn (ages 1 1/2-3 yr)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4577,7 +4577,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-06T06:31:50.784782+00:00",
+  "updated": "2026-05-06T10:32:12.632073+00:00",
   "total_events": 352,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
