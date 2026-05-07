@@ -1276,19 +1276,6 @@
     },
     {
       "date": "2026-05-09T14:00:00+00:00",
-      "title": "\ud83d\udc9a 6/15 Green Spring Festival at 6/15 Green Community Garden in Park Slope",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": null,
-      "description": "6/15 Green Community Garden",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udc9a 6/15 Green Spring Festival at 6/15 Green Community Garden in Park Slope",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-09T14:00:00+00:00",
       "title": "\ud83e\udef6 Spring Into Service Litter Cleanup on Montague Street in Brooklyn Heights (ages 5-18)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -1454,6 +1441,19 @@
       "description": "Cooper Street Garden",
       "extraction_method": "api",
       "vendor": "\ud83d\udcd8 Kids Story Time at Cooper Street Garden in Bushwick (ages 3+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-09T15:00:00+00:00",
+      "title": "\ud83c\udf7b Dadurday: Mother's Day Edition at Wild East Brewing Co. in Gowanus (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Wild East Brewing Co.",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf7b Dadurday: Mother's Day Edition at Wild East Brewing Co. in Gowanus (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1887,6 +1887,19 @@
     },
     {
       "date": "2026-05-09T17:00:00+00:00",
+      "title": "\ud83c\udf6a Moments at Monshe: Cookies, Storytime & Community at BK Navy Yard (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Brooklyn Navy Yard",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf6a Moments at Monshe: Cookies, Storytime & Community at BK Navy Yard (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-09T17:00:00+00:00",
       "title": "\ud83c\udfa8 Art Walk Curator's Tour at Hoyt Street Garden in Boerum Hill (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -2286,6 +2299,19 @@
       "description": "Time Out Market New York",
       "extraction_method": "api",
       "vendor": "\ud83d\udc79 Puppetsburg Show at Time Out Market in DUMBO (ages 3 mo-5 yrs)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-10T14:00:00+00:00",
+      "title": "\ud83d\udc9a 6/15 Green Spring Festival at 6/15 Green Community Garden in Park Slope",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": null,
+      "description": "6/15 Green Community Garden",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc9a 6/15 Green Spring Festival at 6/15 Green Community Garden in Park Slope",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4123,6 +4149,19 @@
     },
     {
       "date": "2026-05-14T14:00:00+00:00",
+      "title": "\ud83c\udf89 Giggles & Wiggles Grand Opening Celebration in Greenpoint (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Giggles & Wiggles",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 Giggles & Wiggles Grand Opening Celebration in Greenpoint (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-14T14:00:00+00:00",
       "title": "\ud83c\udf08 My First Art Class at Paper Playground in Park Slope (ages 1-3)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -4525,8 +4564,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-07T14:32:17.491983+00:00",
-  "total_events": 348,
+  "updated": "2026-05-07T16:31:11.478369+00:00",
+  "total_events": 351,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
