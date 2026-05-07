@@ -300,6 +300,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-09T12:00:00",
+      "title": "Music of The Beatles for Kids ft. The Rock and Roll Playhouse",
+      "venue": "Littlefield",
+      "start_time": "12:00 PM ET",
+      "end_time": "1:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "1:00 PM",
+      "description": "Music of The Beatles + More for Kids",
+      "extraction_method": "api",
+      "vendor": "Music of The Beatles for Kids ft. The Rock and Roll Playhouse",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-09T12:00:00+00:00",
       "title": "STEPHEN SUNSHINE// THE TREES// DUMPSTER PINK(Music)",
       "venue": "Young Ethel's",
@@ -404,6 +417,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-09T19:30:00",
+      "title": "\"Do You Still Like Me?\" A Comedy Dating Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "A live comedy dating show where comics perform for their blind dates. After their set we ask the big question: Do you still like them?",
+      "extraction_method": "api",
+      "vendor": "\"Do You Still Like Me?\" A Comedy Dating Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-09T20:00:00-04:00",
       "title": "Dennis Rooney, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -443,6 +469,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-09T21:00:00",
+      "title": "Relive your Radio Disney days with a night of Disney nostalgia @Parklife",
+      "venue": "Littlefield",
+      "start_time": "9:00 PM ET",
+      "end_time": "2:00 AM ET",
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": "2:00 AM",
+      "description": "Magic Frequency: a Radio Disney Inspired Party",
+      "extraction_method": "api",
+      "vendor": "Relive your Radio Disney days with a night of Disney nostalgia @Parklife",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-09T22:00:00-04:00",
       "title": "Stephen Pratt, Shannon Keye, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -454,6 +493,19 @@
       "extraction_method": "json-ld",
       "vendor": "Stephen Pratt, Shannon Keye, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-09T23:00:00",
+      "title": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party in BK",
+      "extraction_method": "api",
+      "vendor": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-05-10T00:00:00",
@@ -755,6 +807,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-13T20:00:00",
+      "title": "PUNDERDOME\u00ae: NYC\u2019S Comedy PUN SLAM \u2013 15th Anniversary Show is May 13!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Hosted by Fred Firestone, with Champs DAFT PUN, HOT CROSS PUNS, WHEN WIT HITS THE FAN, LEXI KAHN, WORDS NIGHTMARE, TOBY CONTINUED & More!",
+      "extraction_method": "api",
+      "vendor": "PUNDERDOME\u00ae: NYC\u2019S Comedy PUN SLAM \u2013 15th Anniversary Show is May 13!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-13T20:00:00-04:00",
       "title": "Jordan Carlos, Amanda Giles, Matt Pena, Adam Gulley, Cesh Reyes",
       "venue": "Eastville Comedy Club",
@@ -820,6 +885,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-14T19:00:00",
+      "title": "LPR Presents: The Trews Acoustic Trio",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Canadian alt rockers The Trews bring a special acoustic trio performance to Littlefield on May 14, presented by LPR.",
+      "extraction_method": "api",
+      "vendor": "LPR Presents: The Trews Acoustic Trio",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-14T20:00:00-04:00",
       "title": "Vishnu Vaka & Friends",
       "venue": "Eastville Comedy Club",
@@ -833,15 +911,13 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-07T06:17:43.695745+00:00",
-  "total_events": 64,
+  "updated": "2026-05-07T12:18:19.745420+00:00",
+  "total_events": 70,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
