@@ -235,6 +235,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-09T14:00:00",
+      "title": "Near Dead Experience Plays Bob Dylan &#038; Grateful Dead",
+      "venue": "Industry City",
+      "start_time": "2:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "This event was rescheduled from April 25, 2026. All tickets previously purchased are valid for the new date.\nPLEASE NOTE: All children must be accompanied by a parent or adult caregiver. Kids 1 and under are free. Everyone else needs a ticket. We try to keep the volume low, but we strongly encourage ear protection for everyone. Now for the fun stuff!\nIndustry City and Get It Right Music are proud to welcome Near Dead Experience to our outdoor bandshell! They will be playing music highlighting Bob Dylan and the Grateful Dead\nThis show will feature two sets\nEvent Info\nDate: May 9, 2026\nDoors: 1:30pm\nSet 1 : 2:00pm-3:30pm\nSet 2: 4:00pm-5:30pm\nTickets: $12.50 per person plus fees\nFamily of Four-pack: $25 per family plus fees\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore About Near Dead Experience\nNear Dead Experience is an NYC based Grateful Dead cover band, brought to life by a group of passionate musicians who first connected on Reddit. Each member comes from a unique background, creating a rich tapestry of influences that shape our sound. Despite our diverse origins, we share a common love for the improvisational spirit and the vibrant community that the Grateful Dead\u2019s music embodies.\nBased in Brooklyn but playing throughout the tri-state area, Near Dead Experience offers an authentic and immersive musical experience. Our performances are not just concerts, but communal events where the audience becomes part of the journey. We strive to recreate the magic and spontaneity of the Grateful Dead\u2019s live shows, ensuring that no two performances are ever the same.\nJoin us as we keep the legacy of the Grateful Dead alive, exploring new musical horizons while staying true to the roots of this iconic band. Whether you\u2019re a die-hard Deadhead or new to the scene, Near Dead Experience promises a night of music, connection, and endless possibilities.",
+      "extraction_method": "api",
+      "vendor": "Near Dead Experience Plays Bob Dylan &#038; Grateful Dead",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-09T16:00:00",
       "title": "American Craft Sake Tasting Class and Brewery Tour",
       "venue": "Industry City",
@@ -275,15 +288,15 @@
     },
     {
       "date": "2026-05-09T18:00:00-04:00",
-      "title": "Doug Smith, Dennis Rooney, Matt Wayne, Neema Naz",
+      "title": "Doug Smith, Dennis Rooney, Matt Wayne,",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p>Featuring<br>Doug Smith<br>Dennis Rooney<br>Matt Wayne<br>Neema Naz",
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p>Featuring<br>Doug Smith<br>Dennis Rooney<br>Matt Wayne<br><br>",
       "extraction_method": "json-ld",
-      "vendor": "Doug Smith, Dennis Rooney, Matt Wayne, Neema Naz",
+      "vendor": "Doug Smith, Dennis Rooney, Matt Wayne,",
       "location": "Eastville Comedy Club"
     },
     {
@@ -391,6 +404,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-10T11:00:00",
+      "title": "Dried Flower Garland Wall Art Making Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "11:00 AM ET",
+      "end_time": "12:30 PM ET",
+      "start_time_raw": "11:00 AM",
+      "end_time_raw": "12:30 PM",
+      "description": "KAJIHA WORKSHOP SERIES &#8211; Rituals in Dried Floral Form\nJoin Our NEW Dried Flower Garland Wall Art Workshop!\nThrough dried botanicals, we explore the passage of time, the beauty of preservation, and natural form.\nThis workshop offers a gentle introduction to working with dried materials. Piece by piece, you will create a wall garland that reflects nature\u2019s rhythm and subtle movement\u2014bringing a sense of softness and calm presence into your space.\nGet ready to unleash your creativity in this fun, in-person session, where you\u2019ll design a stunning dried flower garland that doubles as beautiful wall art. Craft cozy, nature-inspired d\u00e9cor using a curated selection of dried flowers and botanicals. Bring your friends or meet new ones while creating a piece you\u2019ll love to display at home.\n\u2022 Perfect for all skill levels\n\u2022 Limited seats available\n\u2022 Reservation required\n\u2022 Booking closes 3 days in advance to allow time for material preparation\n\u2022 Kid-friendly workshop: discounted pair ticket available for one adult and one child (ages 6 and up)\n\u2022 All materials are included in the workshop fee\nFor details, please visit our website.",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Garland Wall Art Making Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-10T12:00:00+00:00",
       "title": "NATHAN MATTINGLY// SMALL CHUCKS// CHRISTIAN RUTLEDGE(Music)",
       "venue": "Young Ethel's",
@@ -431,6 +457,19 @@
     },
     {
       "date": "2026-05-10T12:30:00",
+      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "1:30 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "1:30 PM",
+      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers!\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come!).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-10T12:30:00",
       "title": "Mother&#8217;s Day Fresh Flower Bouquet @Kajiha",
       "venue": "Industry City",
       "start_time": "12:30 PM ET",
@@ -440,6 +479,19 @@
       "description": "Special Mother\u2019s Day Bouquets \u2013 Fresh &amp; Dried\nSurprise someone special with a Kajiha\u2019s handcrafted Mother\u2019s Day bouquet.\nFresh flowers are now available just in time for Mother\u2019s Day.\nLimited quantities available",
       "extraction_method": "api",
       "vendor": "Mother&#8217;s Day Fresh Flower Bouquet @Kajiha",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-10T12:30:00",
+      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "1:30 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "1:30 PM",
+      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers!\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come!).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
       "location": "Industry City"
     },
     {
@@ -479,6 +531,19 @@
       "description": "Celebrate Mother&#8217;s Day with us at Sahadi\u2019s Industry City this Sunday, May 10 for brunch, live Latin jazz, and a full bar.\nEnjoy Bossa Nova and Latin vibes with JuanMa Morales from 1:00 PM to 4:00 PM.\nCelebrate with great food, music, and drinks\n\ud83d\udccd Location:\nSahadi\u2019s Industry City\n52 35th Street, Brooklyn, NY 11232\nIndustry City Courtyard 3/4, Building 4\n\ud83c\udf77 Full Bar featuring tap wines, tap beers, and refreshing cocktails\n\ud83c\udf7d\ufe0f Brunch Menu and more Mediterranean Foods\n\ud83d\udc83 Live Music\nCall 718-788-7500 for reservations.\nWalk-ins welcome!!",
       "extraction_method": "api",
       "vendor": "Mother&#8217;s Day Brunch with Live Latin Jazz at Sahadi&#8217;s Industry City",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-10T17:30:00",
+      "title": "Sunday Sessions at Fort Hamilton Distillery",
+      "venue": "Industry City",
+      "start_time": "5:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "\ud83c\udfb7 Live Jazz &amp; Blues at Fort Hamilton \ud83e\udd43\nJoin us for an evening of live music featuring Will Peters-Seymour and his trio. The night begins with a featured set from 5:30\u20136:30 PM, followed by an open jam session.\nLive music, great cocktails, and the perfect way to spend your Sunday evening.\n\ud83c\udf78 Cocktails &amp; mocktails available at the bar.",
+      "extraction_method": "api",
+      "vendor": "Sunday Sessions at Fort Hamilton Distillery",
       "location": "Industry City"
     },
     {
@@ -716,6 +781,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-14T12:00:00",
+      "title": "Break the Silence: From Isolation to Connection Workshop",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "The Isaac Brown Healing Arts &amp; Community Center, in collaboration with Amazine Amazon &amp; OTS, will conduct three interactive workshops, each lasting 45 to 60 minutes, on May 14. These workshops will target a smaller group of 7 to 15 participants to ensure quality engagement. The focus will be on &#8220;loneliness,&#8221; which is a core issue for the center and a significant contributor to substance misuse among youth, directly addressing a critical need in the community.",
+      "extraction_method": "api",
+      "vendor": "Break the Silence: From Isolation to Connection Workshop",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-05-14T13:00:00",
       "title": "Velenci Eyewear Pop-Up",
       "venue": "Industry City",
@@ -739,6 +817,19 @@
       "description": "Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery. The tour concludes in our taproom where we will lead you a guided tasting flight of 3 kinds of Brooklyn Kura and introduce you to the nuance and variety of our award-winning sake.\nLocation:\nPlease arrive promptly in our taproom to start your tour. The location is:\n34 34th Street, Inner courtyard\nIndustry City Building 6\nBrooklyn, NY 11232",
       "extraction_method": "api",
       "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-14T18:30:00",
+      "title": "The Comics Blueprint",
+      "venue": "Industry City",
+      "start_time": "6:30 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Refine your ideas or explore a new story surrounded by peers in this 2 week comics workshop led by writer and illustrator, Davis Cathcart.\nIn this comics workshop, students will learn how to put their story goals before their visuals in order to understand the fundamentals of visual storytelling and how the story drives imagery when the two are working in tandem. Students will execute on the ins and outs of story structure, character and telling a narrative in the cuts.\nInstructor Bio: Davis Cathcart is an illustrator and writer currently residing in Ridgewood, Queens, New York. He has studied art and illustration at the Cooper Union, Maryland Institute College of Art, Rhode Island School of Design (RISD), and the School of Visual Arts. He has worked for Maira Kalman, William Wegman, and The New Yorker\u2019s Art Department. Davis has taught art to children of all ages in public schools all over New York City. Both RISD and the Society of Illustrators have given him awards for his illustration work. He likes telling cerebral stories that do not take themselves too seriously and tries to subvert the carefree aspects of his writing with the detail of his visuals. He plans to continue to publish his work and teach.",
+      "extraction_method": "api",
+      "vendor": "The Comics Blueprint",
       "location": "Industry City"
     },
     {
@@ -859,8 +950,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-08T10:16:35.531761+00:00",
-  "total_events": 66,
+  "updated": "2026-05-08T16:17:54.068375+00:00",
+  "total_events": 73,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
