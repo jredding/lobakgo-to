@@ -144,19 +144,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-05-08T20:00:00",
-      "title": "Syrian Music Preservation Initiative: Music of Muhammed Qadri Dalal, Maqam Master of Aleppo (RBA)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "NY-based Syrian ensemble performs a concert of traditional music by living legend and oud virtuoso Mohamad Qadri Dalal.",
-      "extraction_method": "html",
-      "vendor": "Syrian Music Preservation Initiative: Music of Muhammed Qadri Dalal, Maqam Master of Aleppo (RBA)",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-08T20:30:00",
       "title": "IRENE MASTRANGELI AND GUEST(Music)",
       "venue": "Young Ethel's",
@@ -324,19 +311,6 @@
       "extraction_method": "json-ld",
       "vendor": "Dennis Rooney, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-09T20:00:00",
-      "title": "Amir Nojan & Pejman Hadadi: Persian Classical Music \u2013 \u201cWhispers of the Dastgah\u201d (RBA)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Two master musicians from Iran create spontaneous improvisations inspired by the intricate modal system of dastgahs.",
-      "extraction_method": "html",
-      "vendor": "Amir Nojan & Pejman Hadadi: Persian Classical Music \u2013 \u201cWhispers of the Dastgah\u201d (RBA)",
-      "location": "Roulette"
     },
     {
       "date": "2026-05-09T20:30:00",
@@ -820,19 +794,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-15T20:00:00",
-      "title": "Matt Evans\u2019 Aquatic House (Album Release) // Chris Ryan Williams",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Celebrating Matt Evans' upcoming AKP Recordings release, opened by an audiovisual piece exploring the resonance of cavernous spaces.",
-      "extraction_method": "html",
-      "vendor": "Matt Evans\u2019 Aquatic House (Album Release) // Chris Ryan Williams",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-15T20:30:00",
       "title": "IRENE MASTRANGELI AND GUESTS(Music)",
       "venue": "Young Ethel's",
@@ -859,15 +820,16 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-08T06:17:35.265113+00:00",
-  "total_events": 66,
+  "updated": "2026-05-08T08:19:02.013684+00:00",
+  "total_events": 63,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Littlefield",
+    "Failed to fetch information for: Roulette"
   ],
   "haiku": null
 }
