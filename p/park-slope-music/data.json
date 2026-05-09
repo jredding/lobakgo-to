@@ -53,19 +53,6 @@
       "location": "Union Hall"
     },
     {
-      "date": "2026-05-09T12:00:00",
-      "title": "Music of The Beatles for Kids ft. The Rock and Roll Playhouse",
-      "venue": "Littlefield",
-      "start_time": "12:00 PM ET",
-      "end_time": "1:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "1:00 PM",
-      "description": "Music of The Beatles + More for Kids",
-      "extraction_method": "api",
-      "vendor": "Music of The Beatles for Kids ft. The Rock and Roll Playhouse",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-09T12:00:00+00:00",
       "title": "STEPHEN SUNSHINE// THE TREES// DUMPSTER PINK(Music)",
       "venue": "Young Ethel's",
@@ -157,19 +144,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-05-09T19:30:00",
-      "title": "\"Do You Still Like Me?\" A Comedy Dating Show",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A live comedy dating show where comics perform for their blind dates. After their set we ask the big question: Do you still like them?",
-      "extraction_method": "api",
-      "vendor": "\"Do You Still Like Me?\" A Comedy Dating Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-09T20:00:00-04:00",
       "title": "Dennis Rooney, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -209,19 +183,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-05-09T21:00:00",
-      "title": "Relive your Radio Disney days with a night of Disney nostalgia @Parklife",
-      "venue": "Littlefield",
-      "start_time": "9:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Magic Frequency: a Radio Disney Inspired Party",
-      "extraction_method": "api",
-      "vendor": "Relive your Radio Disney days with a night of Disney nostalgia @Parklife",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-09T22:00:00-04:00",
       "title": "Stephen Pratt, Shannon Keye, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -233,19 +194,6 @@
       "extraction_method": "json-ld",
       "vendor": "Stephen Pratt, Shannon Keye, Annette Mullaney, Ray Zawodni, Crenshaw White, Mike Toohey",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-09T23:00:00",
-      "title": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party in BK",
-      "extraction_method": "api",
-      "vendor": "DANCEHALL & FRIENDS - Late Night Dancehall, Soca & Afrobeats Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-10T00:00:00",
@@ -612,19 +560,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-05-13T20:00:00",
-      "title": "PUNDERDOME\u00ae: NYC\u2019S Comedy PUN SLAM \u2013 15th Anniversary Show is May 13!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Hosted by Fred Firestone, with Champs DAFT PUN, HOT CROSS PUNS, WHEN WIT HITS THE FAN, LEXI KAHN, WORDS NIGHTMARE, TOBY CONTINUED & More!",
-      "extraction_method": "api",
-      "vendor": "PUNDERDOME\u00ae: NYC\u2019S Comedy PUN SLAM \u2013 15th Anniversary Show is May 13!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-13T20:00:00-04:00",
       "title": "Jordan Carlos, Amanda Giles, Matt Pena, Adam Gulley, Cesh Reyes",
       "venue": "Eastville Comedy Club",
@@ -781,19 +716,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-15T19:30:00",
-      "title": "Ask a Fuckboy",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:30 PM",
-      "description": "Ask a Fuckboy is the viral, always-sold-out comedy show in NYC showcasing unhinged dating stories and a panel of fuckboys.",
-      "extraction_method": "api",
-      "vendor": "Ask a Fuckboy",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-15T20:00:00-04:00",
       "title": "Dylan Krasinski, Adam Gulley, Harry Terjanian",
       "venue": "Eastville Comedy Club",
@@ -846,19 +768,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-15T23:00:00",
-      "title": "SLOW JAMS NYC",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "WARNING: This party may cause late-night DMs, emotional flashbacks & singing in the dark.",
-      "extraction_method": "api",
-      "vendor": "SLOW JAMS NYC",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-16T00:00:00",
       "title": "Trial and Error: Brittany Carney Does New Stuff",
       "venue": "Union Hall",
@@ -882,6 +791,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "Jamie Wolf: Psycho",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-05-16T00:00:00",
+      "title": "Meat Cats Comedy Presents: Saturday Sauce",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Meat Cats Comedy Presents: Saturday Sauce",
       "location": "Union Hall"
     },
     {
@@ -963,19 +885,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-05-16T19:30:00",
-      "title": "Rabbit Hole Productions presents: TASSELMANIA 8",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "NYC\u2019s longest running, interactive, burlesque/drag/nightlife \"combat entertainment\" event TasselMania is rocketing into our 8th installment!",
-      "extraction_method": "api",
-      "vendor": "Rabbit Hole Productions presents: TASSELMANIA 8",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-16T20:00:00-04:00",
       "title": "Michael Good, Tom Zappia, Adam Gulley, Janeane Garofalo, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -989,19 +898,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-16T21:00:00",
-      "title": "We Was Outside 2010-2020 Cosplay + College Throwback Party @PARKLIFE",
-      "venue": "Littlefield",
-      "start_time": "9:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Cosplay meets 2010s college vibes-throwback music, anime fits, drinks, and nonstop energy. Pull up, show out, and relive when we was outside",
-      "extraction_method": "api",
-      "vendor": "We Was Outside 2010-2020 Cosplay + College Throwback Party @PARKLIFE",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-16T22:00:00-04:00",
       "title": "Kareem Green, Dylan Krasinski, Ray Zawodni, Adam Gulley, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -1013,28 +909,17 @@
       "extraction_method": "json-ld",
       "vendor": "Kareem Green, Dylan Krasinski, Ray Zawodni, Adam Gulley, Mike Toohey",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-16T23:00:00",
-      "title": "Reggae Rewind - Truths Rights & Riddim",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Reggae Rewind: *Truths, Rights & Riddim* is a night of feel-good love songs and powerful anthems of justice\u2014",
-      "extraction_method": "api",
-      "vendor": "Reggae Rewind - Truths Rights & Riddim",
-      "location": "Littlefield"
     }
   ],
-  "updated": "2026-05-09T06:16:38.994741+00:00",
-  "total_events": 79,
+  "updated": "2026-05-09T08:17:09.186428+00:00",
+  "total_events": 70,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
