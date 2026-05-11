@@ -93,7 +93,7 @@
     },
     {
       "date": "2026-05-11T14:30:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": "10:00 PM ET",
@@ -101,7 +101,7 @@
       "end_time_raw": "10:00 PM",
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -431,7 +431,7 @@
     },
     {
       "date": "2026-05-12T14:00:00+00:00",
-      "title": "\ud83d\udc76\ud83c\udffbToddler Takeover at the Green-House at Green-Wood House in South Slope (ages 0-3)",
+      "title": "\ud83d\udc76\ud83c\udffbToddler Takeover at the Green-House at Green-Wood Cemetery in South Slope (ages 0-3)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
       "end_time": "3:30 PM ET",
@@ -439,7 +439,7 @@
       "end_time_raw": "3:30 PM",
       "description": "The Green-House at Green-Wood",
       "extraction_method": "api",
-      "vendor": "\ud83d\udc76\ud83c\udffbToddler Takeover at the Green-House at Green-Wood House in South Slope (ages 0-3)",
+      "vendor": "\ud83d\udc76\ud83c\udffbToddler Takeover at the Green-House at Green-Wood Cemetery in South Slope (ages 0-3)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -457,7 +457,7 @@
     },
     {
       "date": "2026-05-12T14:30:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": "10:00 PM ET",
@@ -465,7 +465,7 @@
       "end_time_raw": "10:00 PM",
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -846,29 +846,16 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
-      "date": "2026-05-13T14:00:00+00:00",
+      "date": "2026-05-13T14:15:00+00:00",
       "title": "\ud83c\udfb6 Parent + Me Music with Nueromotif at Good Day Play Cafe in Park Slope (ages 6 mo-4 yr)",
       "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
+      "start_time": "2:15 PM ET",
       "end_time": "4:00 PM ET",
-      "start_time_raw": "2:00 PM",
+      "start_time_raw": "2:15 PM",
       "end_time_raw": "4:00 PM",
       "description": "Good Day Play Cafe",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Parent + Me Music with Nueromotif at Good Day Play Cafe in Park Slope (ages 6 mo-4 yr)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-13T14:15:00+00:00",
-      "title": "\ud83c\udfb6 Parent + Me Music Class at Good Day Play Cafe in Park Slope (ages 6 mo-4 yr)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:15 PM ET",
-      "end_time": null,
-      "start_time_raw": "2:15 PM",
-      "end_time_raw": null,
-      "description": "Good Day Play Cafe",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb6 Parent + Me Music Class at Good Day Play Cafe in Park Slope (ages 6 mo-4 yr)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -925,19 +912,6 @@
     },
     {
       "date": "2026-05-13T14:30:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "LeFrak Center at Lakeside in Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-13T14:30:00+00:00",
       "title": "\ud83d\udc76\ud83c\udffb Babies & Books at Crown Heights Library in PLG (prewalkers)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -947,6 +921,19 @@
       "description": "Crown Heights Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udc76\ud83c\udffb Babies & Books at Crown Heights Library in PLG (prewalkers)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-13T14:30:00+00:00",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "LeFrak Center at Lakeside in Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1380,7 +1367,7 @@
     },
     {
       "date": "2026-05-14T14:30:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": "10:00 PM ET",
@@ -1388,7 +1375,7 @@
       "end_time_raw": "10:00 PM",
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1835,19 +1822,6 @@
     },
     {
       "date": "2026-05-15T14:30:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "LeFrak Center at Lakeside in Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-15T14:30:00+00:00",
       "title": "\ud83e\udd20 Hopalong Andrew Kids Show at Cadman Plaza Park in Brooklyn Heights",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -1857,6 +1831,19 @@
       "description": "Cadman Plaza Park - Brooklyn War Memorial",
       "extraction_method": "api",
       "vendor": "\ud83e\udd20 Hopalong Andrew Kids Show at Cadman Plaza Park in Brooklyn Heights",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-15T14:30:00+00:00",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "LeFrak Center at Lakeside in Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2459,7 +2446,7 @@
     },
     {
       "date": "2026-05-16T14:30:00+00:00",
-      "title": "Fmily Picnic & Playdate at McCarren Park (all ages)",
+      "title": "\ud83e\uddfa Family Picnic & Playdate at McCarren Park (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": "4:30 PM ET",
@@ -2467,7 +2454,7 @@
       "end_time_raw": "4:30 PM",
       "description": "McCarren Park",
       "extraction_method": "api",
-      "vendor": "Fmily Picnic & Playdate at McCarren Park (all ages)",
+      "vendor": "\ud83e\uddfa Family Picnic & Playdate at McCarren Park (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3941,7 +3928,7 @@
     },
     {
       "date": "2026-05-18T14:30:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": "10:00 PM ET",
@@ -3949,7 +3936,7 @@
       "end_time_raw": "10:00 PM",
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4161,8 +4148,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-11T08:32:04.203989+00:00",
-  "total_events": 320,
+  "updated": "2026-05-11T16:31:49.120525+00:00",
+  "total_events": 319,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
