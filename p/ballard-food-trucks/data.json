@@ -528,8 +528,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "errors": [
-    "Failed to fetch information for: Lucky Envelope Brewing"
-  ],
+  "errors": [],
   "haiku": null
 }
