@@ -118,6 +118,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-13T20:00:00",
+      "title": "PUNDERDOME\u00ae: NYC\u2019S Comedy PUN SLAM \u2013 15th Anniversary Show is May 13!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Hosted by Fred Firestone, with Champs DAFT PUN, HOT CROSS PUNS, WHEN WIT HITS THE FAN, LEXI KAHN, WORDS NIGHTMARE, TOBY CONTINUED & More!",
+      "extraction_method": "api",
+      "vendor": "PUNDERDOME\u00ae: NYC\u2019S Comedy PUN SLAM \u2013 15th Anniversary Show is May 13!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-13T20:00:00-04:00",
       "title": "Jordan Carlos, Amanda Giles, Matt Pena, Adam Gulley, Cesh Reyes",
       "venue": "Eastville Comedy Club",
@@ -261,6 +274,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-05-15T19:30:00",
+      "title": "Ask a Fuckboy",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Ask a Fuckboy is the viral, always-sold-out comedy show in NYC showcasing unhinged dating stories and a panel of fuckboys.",
+      "extraction_method": "api",
+      "vendor": "Ask a Fuckboy",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-15T20:00:00-04:00",
       "title": "Dylan Krasinski, Adam Gulley, Harry Terjanian",
       "venue": "Eastville Comedy Club",
@@ -311,6 +337,19 @@
       "extraction_method": "json-ld",
       "vendor": "Kareem Green, Doug Smith, Dylan Krasinski, Adam Gulley, Cesh Reyes, Harry Terjanian",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-15T23:00:00",
+      "title": "SLOW JAMS NYC",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "WARNING: This party may cause late-night DMs, emotional flashbacks & singing in the dark.",
+      "extraction_method": "api",
+      "vendor": "SLOW JAMS NYC",
+      "location": "Littlefield"
     },
     {
       "date": "2026-05-16T00:00:00",
@@ -482,6 +521,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-16T19:30:00",
+      "title": "Rabbit Hole Productions presents: TASSELMANIA 8",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "NYC\u2019s longest running, interactive, burlesque/drag/nightlife \"combat entertainment\" event TasselMania is rocketing into our 8th installment!",
+      "extraction_method": "api",
+      "vendor": "Rabbit Hole Productions presents: TASSELMANIA 8",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-16T20:00:00-04:00",
       "title": "Michael Good, Tom Zappia, Adam Gulley, Janeane Garofalo, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -495,6 +547,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-05-16T21:00:00",
+      "title": "We Was Outside 2010-2020 Cosplay + College Throwback Party @PARKLIFE",
+      "venue": "Littlefield",
+      "start_time": "9:00 PM ET",
+      "end_time": "2:00 AM ET",
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": "2:00 AM",
+      "description": "Cosplay meets 2010s college vibes-throwback music, anime fits, drinks, and nonstop energy. Pull up, show out, and relive when we was outside",
+      "extraction_method": "api",
+      "vendor": "We Was Outside 2010-2020 Cosplay + College Throwback Party @PARKLIFE",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-16T22:00:00-04:00",
       "title": "Kareem Green, Dylan Krasinski, Ray Zawodni, Adam Gulley, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -506,6 +571,19 @@
       "extraction_method": "json-ld",
       "vendor": "Kareem Green, Dylan Krasinski, Ray Zawodni, Adam Gulley, Mike Toohey",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-16T23:00:00",
+      "title": "Reggae Rewind - Truths Rights & Riddim",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Reggae Rewind: *Truths, Rights & Riddim* is a night of feel-good love songs and powerful anthems of justice\u2014",
+      "extraction_method": "api",
+      "vendor": "Reggae Rewind - Truths Rights & Riddim",
+      "location": "Littlefield"
     },
     {
       "date": "2026-05-17T00:00:00",
@@ -638,6 +716,32 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-17T15:00:00",
+      "title": "Tat Candy",
+      "venue": "Littlefield",
+      "start_time": "3:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Tat Candy is a perfect comedy variety show with hosts Bekah Hess and Anya Ptacek followed by a flash tattoo darty from Inky Roman.",
+      "extraction_method": "api",
+      "vendor": "Tat Candy",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-05-17T19:15:00",
+      "title": "Never Meant To Fit featuring Turn Two, Major Moment, Back Pocket Alimony",
+      "venue": "Littlefield",
+      "start_time": "7:15 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:15 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "The best line up for a DIY tour you will see in ages.",
+      "extraction_method": "api",
+      "vendor": "Never Meant To Fit featuring Turn Two, Major Moment, Back Pocket Alimony",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-17T19:30:00-04:00",
       "title": "Tomas Liebel, Max Lowe, Matt Pena, Cesh Reyes, Luis Lopez",
       "venue": "Eastville Comedy Club",
@@ -716,6 +820,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-18T20:00:00",
+      "title": "Defector Media presents Ten Minute Quarters: A WNBA Comedy Show",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "The WNBA season is back, and so is Defector Media's TEN MINUTE QUARTERS show!",
+      "extraction_method": "api",
+      "vendor": "Defector Media presents Ten Minute Quarters: A WNBA Comedy Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-19T00:00:00",
       "title": "Charlie And Richard Secret Project",
       "venue": "Union Hall",
@@ -792,17 +909,28 @@
       "extraction_method": "html",
       "vendor": "Roulette 2026 GALA",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-05-19T20:00:00",
+      "title": "Matt Koff: CAT MAN Watch Party",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Celebrate the YouTube release of Matt Koff\u2019s new special, CAT MAN with a screening at littlefield. With music, trivia & special guests!",
+      "extraction_method": "api",
+      "vendor": "Matt Koff: CAT MAN Watch Party",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-05-12T06:17:27.429794+00:00",
-  "total_events": 61,
+  "updated": "2026-05-12T12:16:31.858893+00:00",
+  "total_events": 71,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
