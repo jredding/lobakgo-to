@@ -1523,6 +1523,19 @@
     },
     {
       "date": "2026-05-16T15:00:00+00:00",
+      "title": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Japan Village",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T15:00:00+00:00",
       "title": "\ud83e\ude81 Kite Festival at Brooklyn Bridge Park - Pier 5 (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -1536,15 +1549,15 @@
     },
     {
       "date": "2026-05-16T15:00:00+00:00",
-      "title": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
+      "title": "\ud83c\udf8a 2026 Brooklyn Asian Pacific American Heritage Month Celebration at New Urecht High School in Bensonhurst",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
-      "end_time": "10:00 PM ET",
+      "end_time": null,
       "start_time_raw": "3:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Japan Village",
+      "end_time_raw": null,
+      "description": "New Urecht High School",
       "extraction_method": "api",
-      "vendor": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
+      "vendor": "\ud83c\udf8a 2026 Brooklyn Asian Pacific American Heritage Month Celebration at New Urecht High School in Bensonhurst",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2004,6 +2017,19 @@
     },
     {
       "date": "2026-05-16T18:00:00+00:00",
+      "title": "\ud83d\udcdd Clinton Hill Teen Quarterly at Clinton Hill Library (ages 12-18)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Clinton Hill Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcdd Clinton Hill Teen Quarterly at Clinton Hill Library (ages 12-18)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T18:00:00+00:00",
       "title": "\ud83d\udcda Storytime: Spring Tales and Springtails at Prospect Park Zoo (ages 3-6)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "6:00 PM ET",
@@ -2065,6 +2091,32 @@
       "description": "MS 51",
       "extraction_method": "api",
       "vendor": "\ud83d\udde3\ufe0f Kids Town Hall & Resource Fair at MS 51 in Park Slope",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T18:00:00+00:00",
+      "title": "\ud83c\udfa8 NARS Free Family Workshop at Sunset Park Library (ages 4-8)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Sunset Park Library",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 NARS Free Family Workshop at Sunset Park Library (ages 4-8)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T18:00:00+00:00",
+      "title": "\ud83d\udcda Bookmobile 75: Red Hook Interim Library Celebrates at Red Hook Interim Library",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:15 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:15 PM",
+      "description": "Red Hook Interim Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcda Bookmobile 75: Red Hook Interim Library Celebrates at Red Hook Interim Library",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2611,6 +2663,32 @@
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
       "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-17T16:00:00+00:00",
+      "title": "\ud83d\udcda Storytime w/ Beanie Feldstein: Teeny and Tilly at Books Are Magic Montague in Brooklyn Heights (ages 4-8)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "4:30 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "4:30 PM",
+      "description": "Books Are Magic - Montague",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcda Storytime w/ Beanie Feldstein: Teeny and Tilly at Books Are Magic Montague in Brooklyn Heights (ages 4-8)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-17T16:00:00+00:00",
+      "title": "Games Day at Whole Neighborhood Garden in Bed-Stuy (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Whole Neighborhood Garden",
+      "extraction_method": "api",
+      "vendor": "Games Day at Whole Neighborhood Garden in Bed-Stuy (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4655,8 +4733,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-14T12:32:19.783541+00:00",
-  "total_events": 358,
+  "updated": "2026-05-14T14:32:57.438150+00:00",
+  "total_events": 364,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
