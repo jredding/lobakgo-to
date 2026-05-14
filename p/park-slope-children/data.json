@@ -496,6 +496,19 @@
     },
     {
       "date": "2026-05-14T20:30:00+00:00",
+      "title": "\u270d\ud83c\udffb Teen Time : Free Tutoring and Homework Help at Park Slope Library (grades 6-12)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "8:30 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:30 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Park Slope Library",
+      "extraction_method": "api",
+      "vendor": "\u270d\ud83c\udffb Teen Time : Free Tutoring and Homework Help at Park Slope Library (grades 6-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-14T20:30:00+00:00",
       "title": "\ud83d\udd79\ufe0f Teen Tech Time at Central Library in Prospect Heights (ages 14-17)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "8:30 PM ET",
@@ -938,6 +951,19 @@
     },
     {
       "date": "2026-05-15T20:00:00+00:00",
+      "title": "\ud83d\udc09 Teen Time: Dungeons and Dragons at Park Slope Library (ages 12-18)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Park Slope Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc09 Teen Time: Dungeons and Dragons at Park Slope Library (ages 12-18)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-15T20:00:00+00:00",
       "title": "\ud83c\udf55 Karaoke Pizza Party at Central Library in Prospect Heights (ages 13-18)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "8:00 PM ET",
@@ -1341,19 +1367,6 @@
     },
     {
       "date": "2026-05-16T14:00:00+00:00",
-      "title": "\ud83e\ude84 Upcycled Magic Wand Making Class at Brooklyn Creative Reuse - Industry City (ages 4+)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "4:00 PM",
-      "description": "Brooklyn Creative Reuse",
-      "extraction_method": "api",
-      "vendor": "\ud83e\ude84 Upcycled Magic Wand Making Class at Brooklyn Creative Reuse - Industry City (ages 4+)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T14:00:00+00:00",
       "title": "\ud83e\udef6\ud83c\udffc North Brooklyn Community Club at Chop Cook Cake in Williamsburg (ages 10+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -1367,7 +1380,33 @@
     },
     {
       "date": "2026-05-16T14:00:00+00:00",
-      "title": "\ud83d\udeb2 Bike Jumble: Spring 2026 at The Old Stone House in Park Slope (all ages)",
+      "title": "\ud83e\ude85 21st Annual Graham Avenue Fiesta in Williamsburg (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Graham Avenue Fiesta",
+      "extraction_method": "api",
+      "vendor": "\ud83e\ude85 21st Annual Graham Avenue Fiesta in Williamsburg (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T14:00:00+00:00",
+      "title": "\ud83e\ude84 Upcycled Magic Wand Making Class at Brooklyn Creative Reuse - Industry City (ages 4+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Brooklyn Creative Reuse",
+      "extraction_method": "api",
+      "vendor": "\ud83e\ude84 Upcycled Magic Wand Making Class at Brooklyn Creative Reuse - Industry City (ages 4+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T14:00:00+00:00",
+      "title": "\ud83d\udeb2 Park Slope Open Streets: Bike Brooklyn Day + Funk Slope Concert in Park Slope (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
       "end_time": "8:00 PM ET",
@@ -1375,7 +1414,7 @@
       "end_time_raw": "8:00 PM",
       "description": "Old Stone House of Brooklyn",
       "extraction_method": "api",
-      "vendor": "\ud83d\udeb2 Bike Jumble: Spring 2026 at The Old Stone House in Park Slope (all ages)",
+      "vendor": "\ud83d\udeb2 Park Slope Open Streets: Bike Brooklyn Day + Funk Slope Concert in Park Slope (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1406,7 +1445,7 @@
     },
     {
       "date": "2026-05-16T14:30:00+00:00",
-      "title": "\ud83e\uddfa Family Picnic & Playdate at McCarren Park (all ages)",
+      "title": "sold out \ud83e\uddfa Family Picnic & Playdate at McCarren Park (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": "4:30 PM ET",
@@ -1414,7 +1453,7 @@
       "end_time_raw": "4:30 PM",
       "description": "McCarren Park",
       "extraction_method": "api",
-      "vendor": "\ud83e\uddfa Family Picnic & Playdate at McCarren Park (all ages)",
+      "vendor": "sold out \ud83e\uddfa Family Picnic & Playdate at McCarren Park (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1523,19 +1562,6 @@
     },
     {
       "date": "2026-05-16T15:00:00+00:00",
-      "title": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Japan Village",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T15:00:00+00:00",
       "title": "\ud83e\ude81 Kite Festival at Brooklyn Bridge Park - Pier 5 (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -1558,6 +1584,19 @@
       "description": "New Urecht High School",
       "extraction_method": "api",
       "vendor": "\ud83c\udf8a 2026 Brooklyn Asian Pacific American Heritage Month Celebration at New Urecht High School in Bensonhurst",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T15:00:00+00:00",
+      "title": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Japan Village",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1588,19 +1627,6 @@
     },
     {
       "date": "2026-05-16T15:00:00+00:00",
-      "title": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Brooklyn Bridge Park - Emily Warren Roebling Plaza",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T15:00:00+00:00",
       "title": "\ud83c\udfa8 Powerhouse Arts Community Day in Gowanus",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -1610,6 +1636,19 @@
       "description": "Powerhouse Arts",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 Powerhouse Arts Community Day in Gowanus",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T15:00:00+00:00",
+      "title": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "2:00 AM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "2:00 AM",
+      "description": "Brooklyn Bridge Park - Emily Warren Roebling Plaza",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1822,19 +1861,6 @@
     },
     {
       "date": "2026-05-16T16:00:00+00:00",
-      "title": "\ud83c\udf89 Elevate Your Mind, Body, & Soul: Free Health Fest and Fun Beats at Fort Greene Park (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Fort Greene Park",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf89 Elevate Your Mind, Body, & Soul: Free Health Fest and Fun Beats at Fort Greene Park (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T16:00:00+00:00",
       "title": "\ud83d\udd28 Open Hours: play:groundNYC's The Yard on Governor's Island (ages 1-12)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -1861,6 +1887,19 @@
     },
     {
       "date": "2026-05-16T16:00:00+00:00",
+      "title": "\ud83c\udf89 Elevate Your Mind, Body, & Soul: Free Health Fest and Fun Beats at Fort Greene Park (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Fort Greene Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 Elevate Your Mind, Body, & Soul: Free Health Fest and Fun Beats at Fort Greene Park (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T16:00:00+00:00",
       "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -1870,19 +1909,6 @@
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
       "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T16:00:00+00:00",
-      "title": "\ud83e\ude85 21st Annual Graham Avenue Fiesta in Williamsburg (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "McKibbins Korner",
-      "extraction_method": "api",
-      "vendor": "\ud83e\ude85 21st Annual Graham Avenue Fiesta in Williamsburg (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1913,19 +1939,6 @@
     },
     {
       "date": "2026-05-16T16:30:00+00:00",
-      "title": "\ud83c\udf7d\ufe0f The Longest Table BYO Picnic in Brooklyn Heights",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:30 PM ET",
-      "end_time": "6:30 PM ET",
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": "6:30 PM",
-      "description": "Car Free Remsen Street",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf7d\ufe0f The Longest Table BYO Picnic in Brooklyn Heights",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T16:30:00+00:00",
       "title": "\ud83c\udfa8 Community Artmaking Workshop at Another World in Crown Heights (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:30 PM ET",
@@ -1935,6 +1948,19 @@
       "description": "Another World",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 Community Artmaking Workshop at Another World in Crown Heights (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T16:30:00+00:00",
+      "title": "\ud83c\udf7d\ufe0f The Longest Table BYO Picnic in Brooklyn Heights",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:30 PM ET",
+      "end_time": "6:30 PM ET",
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": "6:30 PM",
+      "description": "Car Free Remsen Street",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf7d\ufe0f The Longest Table BYO Picnic in Brooklyn Heights",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2030,19 +2056,6 @@
     },
     {
       "date": "2026-05-16T18:00:00+00:00",
-      "title": "\ud83d\udcda Storytime: Spring Tales and Springtails at Prospect Park Zoo (ages 3-6)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "6:00 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "Prospect Park Zoo",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcda Storytime: Spring Tales and Springtails at Prospect Park Zoo (ages 3-6)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T18:00:00+00:00",
       "title": "\ud83c\udfb6 Family Biz: A Dance Party for Kids & Their Grown-ups at Friends & Lovers in Crown Heights (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "6:00 PM ET",
@@ -2069,15 +2082,15 @@
     },
     {
       "date": "2026-05-16T18:00:00+00:00",
-      "title": "Mugwort Phytography Workshop w/ Shenghan Gao at Naval Cemetery Landscape in Williamsburg",
+      "title": "\ud83d\udcda Storytime: Spring Tales and Springtails at Prospect Park Zoo (ages 3-6)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "6:00 PM ET",
-      "end_time": null,
+      "end_time": "7:30 PM ET",
       "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "Naval Cemetery Landscape",
+      "end_time_raw": "7:30 PM",
+      "description": "Prospect Park Zoo",
       "extraction_method": "api",
-      "vendor": "Mugwort Phytography Workshop w/ Shenghan Gao at Naval Cemetery Landscape in Williamsburg",
+      "vendor": "\ud83d\udcda Storytime: Spring Tales and Springtails at Prospect Park Zoo (ages 3-6)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2120,6 +2133,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-05-16T18:00:00+00:00",
+      "title": "\ud83d\udcf8 Mugwort Phytography Workshop w/ Shenghan Gao at Naval Cemetery Landscape in Williamsburg",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Naval Cemetery Landscape",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcf8 Mugwort Phytography Workshop w/ Shenghan Gao at Naval Cemetery Landscape in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-05-16T18:30:00+00:00",
       "title": "\u265f\ufe0fChess Workshop at Central Library in Prospect Heights (ages 6+)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -2147,15 +2173,15 @@
     },
     {
       "date": "2026-05-16T19:00:00+00:00",
-      "title": "\ud83c\udfb6 Funk Slope: Family-Friendly Funk Concert at ShapeShifter Lab in Park Slope (all ages)",
+      "title": "\ud83c\udfb6 Funk Slope: Family-Friendly Funk Concert at 5th Avenue Open Streets in Park Slope",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
-      "end_time": null,
+      "end_time": "9:00 PM ET",
       "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
+      "end_time_raw": "9:00 PM",
       "description": "5th Avenue Open Streets",
       "extraction_method": "api",
-      "vendor": "\ud83c\udfb6 Funk Slope: Family-Friendly Funk Concert at ShapeShifter Lab in Park Slope (all ages)",
+      "vendor": "\ud83c\udfb6 Funk Slope: Family-Friendly Funk Concert at 5th Avenue Open Streets in Park Slope",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2680,7 +2706,7 @@
     },
     {
       "date": "2026-05-17T16:00:00+00:00",
-      "title": "Games Day at Whole Neighborhood Garden in Bed-Stuy (all ages)",
+      "title": "\u265f\ufe0f Games Day at Whole Neighborhood Garden in Bed-Stuy (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
       "end_time": "7:00 PM ET",
@@ -2688,7 +2714,7 @@
       "end_time_raw": "7:00 PM",
       "description": "Whole Neighborhood Garden",
       "extraction_method": "api",
-      "vendor": "Games Day at Whole Neighborhood Garden in Bed-Stuy (all ages)",
+      "vendor": "\u265f\ufe0f Games Day at Whole Neighborhood Garden in Bed-Stuy (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2702,6 +2728,19 @@
       "description": "Kehila Kedosha Janina",
       "extraction_method": "api",
       "vendor": "\ud83c\udf89 Greek Jewish Festival at Kehila Kedosha Janina in LES",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-17T16:00:00+00:00",
+      "title": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Brooklyn Bridge Park - Pier 1",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2819,19 +2858,6 @@
       "description": "Red Hook Pinball Museum",
       "extraction_method": "api",
       "vendor": "\u2728 Open Hours Red Hook Pinball Museum in Red Hook (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-17T17:00:00+00:00",
-      "title": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": "Brooklyn Bridge Park - Pier 1",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3654,6 +3680,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-05-19T21:00:00+00:00",
+      "title": "\u270d\ud83c\udffb Teen Time : Free Tutoring and Homework Help at Park Slope Library (grades 6-12)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "9:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Park Slope Library",
+      "extraction_method": "api",
+      "vendor": "\u270d\ud83c\udffb Teen Time : Free Tutoring and Homework Help at Park Slope Library (grades 6-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-05-19T21:45:00+00:00",
       "title": "\ud83e\udef6 Tuesday Community Club: Service Projects (8 weeks) St. Ann & the Holy Trinity Church in BK Heights (ages 10-14)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -3915,6 +3954,19 @@
     },
     {
       "date": "2026-05-20T14:30:00+00:00",
+      "title": "\ud83d\udcd7 Park Slope Storytime at Park Slope Library (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "Park Slope Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcd7 Park Slope Storytime at Park Slope Library (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-20T14:30:00+00:00",
       "title": "\ud83c\udfb6 Toddler Time [2 sessions] at Greenpoint Library (walking toddlers)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -3937,6 +3989,19 @@
       "description": "Pacific Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udcd8 Toddler Time at Pacific Library in Downtown Brooklyn (ages 18 mo-3 yr)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-20T15:00:00+00:00",
+      "title": "\ud83d\udcd9 Park Slope Storytime at Park Slope Library (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "3:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "3:30 PM",
+      "description": "Park Slope Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcd9 Park Slope Storytime at Park Slope Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4616,6 +4681,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-05-21T20:30:00+00:00",
+      "title": "\u270d\ud83c\udffb Teen Time : Free Tutoring and Homework Help at Park Slope Library (grades 6-12)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "8:30 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:30 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Park Slope Library",
+      "extraction_method": "api",
+      "vendor": "\u270d\ud83c\udffb Teen Time : Free Tutoring and Homework Help at Park Slope Library (grades 6-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-05-21T21:30:00+00:00",
       "title": "\ud83c\udfa5 Thursday Classic Movie Night at Herbert Von King Cultural Arts Center in Bed-Stuy (ages 18+)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -4733,8 +4811,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-14T14:32:57.438150+00:00",
-  "total_events": 364,
+  "updated": "2026-05-14T16:33:13.634140+00:00",
+  "total_events": 370,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
