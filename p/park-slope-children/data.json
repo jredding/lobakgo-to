@@ -1523,19 +1523,6 @@
     },
     {
       "date": "2026-05-16T15:00:00+00:00",
-      "title": "\ud83c\udfb4 2nd Annual Empitre Cup Open Sumo Tournament at Japan Village in Sunset Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Japan Village",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb4 2nd Annual Empitre Cup Open Sumo Tournament at Japan Village in Sunset Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T15:00:00+00:00",
       "title": "\ud83e\ude81 Kite Festival at Brooklyn Bridge Park - Pier 5 (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -1545,6 +1532,19 @@
       "description": "Brooklyn Bridge Park - Pier 5",
       "extraction_method": "api",
       "vendor": "\ud83e\ude81 Kite Festival at Brooklyn Bridge Park - Pier 5 (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T15:00:00+00:00",
+      "title": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Japan Village",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb4 2nd Annual Empire Cup Open Sumo Tournament at Japan Village in Sunset Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1575,19 +1575,6 @@
     },
     {
       "date": "2026-05-16T15:00:00+00:00",
-      "title": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Brooklyn Bridge Park - Emily Warren Roebling Plaza",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-16T15:00:00+00:00",
       "title": "\ud83c\udfa8 Powerhouse Arts Community Day in Gowanus",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -1597,6 +1584,19 @@
       "description": "Powerhouse Arts",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 Powerhouse Arts Community Day in Gowanus",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-16T15:00:00+00:00",
+      "title": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "2:00 AM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "2:00 AM",
+      "description": "Brooklyn Bridge Park - Emily Warren Roebling Plaza",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcf8 Photoville Opening Weekend Community Celebration at Brooklyn Bridge Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4655,7 +4655,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-14T08:32:42.931555+00:00",
+  "updated": "2026-05-14T10:32:49.381266+00:00",
   "total_events": 358,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
