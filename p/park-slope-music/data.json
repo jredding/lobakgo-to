@@ -651,6 +651,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-22T00:00:00",
+      "title": "KARAOKE TREMENDOUS",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "KARAOKE TREMENDOUS",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-05-22T17:00:00",
       "title": "Empanada Papa Food Pop-up",
       "venue": "Industry City",
@@ -846,8 +859,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-16T06:16:55.911750+00:00",
-  "total_events": 65,
+  "updated": "2026-05-16T08:16:54.557666+00:00",
+  "total_events": 66,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
