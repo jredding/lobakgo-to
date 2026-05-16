@@ -170,19 +170,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-05-16T19:30:00",
-      "title": "Rabbit Hole Productions presents: TASSELMANIA 8",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "NYC\u2019s longest running, interactive, burlesque/drag/nightlife \"combat entertainment\" event TasselMania is rocketing into our 8th installment!",
-      "extraction_method": "api",
-      "vendor": "Rabbit Hole Productions presents: TASSELMANIA 8",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-16T20:00:00-04:00",
       "title": "Michael Good, Tom Zappia, Ray Zawodni, Adam Gulley, Janeane Garofalo, Mike Toohey",
       "venue": "Eastville Comedy Club",
@@ -196,19 +183,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-16T21:00:00",
-      "title": "We Was Outside 2010-2020 Cosplay + College Throwback Party @PARKLIFE",
-      "venue": "Littlefield",
-      "start_time": "9:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Cosplay meets 2010s college vibes-throwback music, anime fits, drinks, and nonstop energy. Pull up, show out, and relive when we was outside",
-      "extraction_method": "api",
-      "vendor": "We Was Outside 2010-2020 Cosplay + College Throwback Party @PARKLIFE",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-16T22:00:00-04:00",
       "title": "Dylan Krasinski, Ray Zawodni, Adam Gulley, Cesh Reyes, Mike Toohey, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -220,19 +194,6 @@
       "extraction_method": "json-ld",
       "vendor": "Dylan Krasinski, Ray Zawodni, Adam Gulley, Cesh Reyes, Mike Toohey, Neema Naz",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-16T23:00:00",
-      "title": "Reggae Rewind - Truths Rights & Riddim",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Reggae Rewind: *Truths, Rights & Riddim* is a night of feel-good love songs and powerful anthems of justice\u2014",
-      "extraction_method": "api",
-      "vendor": "Reggae Rewind - Truths Rights & Riddim",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-17T00:00:00",
@@ -365,32 +326,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-05-17T15:00:00",
-      "title": "Tat Candy",
-      "venue": "Littlefield",
-      "start_time": "3:00 PM ET",
-      "end_time": "5:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "5:00 PM",
-      "description": "Tat Candy is a perfect comedy variety show with hosts Bekah Hess and Anya Ptacek followed by a flash tattoo darty from Inky Roman.",
-      "extraction_method": "api",
-      "vendor": "Tat Candy",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-05-17T19:15:00",
-      "title": "Never Meant To Fit featuring Turn Two, Major Moment, Back Pocket Alimony",
-      "venue": "Littlefield",
-      "start_time": "7:15 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "7:15 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "The best line up for a DIY tour you will see in ages.",
-      "extraction_method": "api",
-      "vendor": "Never Meant To Fit featuring Turn Two, Major Moment, Back Pocket Alimony",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-17T19:30:00-04:00",
       "title": "Rachel Warden, Tomas Liebel, Max Lowe, Matt Pena, Cesh Reyes, Luis Lopez",
       "venue": "Eastville Comedy Club",
@@ -469,19 +404,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-05-18T20:00:00",
-      "title": "Defector Media presents Ten Minute Quarters: A WNBA Comedy Show",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "The WNBA season is back, and so is Defector Media's TEN MINUTE QUARTERS show!",
-      "extraction_method": "api",
-      "vendor": "Defector Media presents Ten Minute Quarters: A WNBA Comedy Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-19T00:00:00",
       "title": "Charlie And Richard Secret Project",
       "venue": "Union Hall",
@@ -545,19 +467,6 @@
       "extraction_method": "html",
       "vendor": "Roulette 2026 GALA",
       "location": "Roulette"
-    },
-    {
-      "date": "2026-05-19T20:00:00",
-      "title": "Matt Koff\u2019s CAT MAN: Comedy Special Release Party",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Attention comedy fans and cat lovers:",
-      "extraction_method": "api",
-      "vendor": "Matt Koff\u2019s CAT MAN: Comedy Special Release Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-20T00:00:00",
@@ -638,19 +547,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-05-20T20:00:00",
-      "title": "REAL-ASIAN-SHIPS: The Dating Show For Asian Americans",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Real contestants vie for a chance at love (and the audience makes the match) in the world\u2019s only Asian American dating show!",
-      "extraction_method": "api",
-      "vendor": "REAL-ASIAN-SHIPS: The Dating Show For Asian Americans",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-20T20:00:00-04:00",
       "title": "Guy'z Nite Comedy Show",
       "venue": "Eastville Comedy Club",
@@ -701,19 +597,6 @@
       "extraction_method": "html",
       "vendor": "DRAG NIGHT(Draglesque)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-21T20:00:00",
-      "title": "Shrek Entirely From Memory",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "No scripts... No Rehearsals....",
-      "extraction_method": "api",
-      "vendor": "Shrek Entirely From Memory",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-21T20:00:00-04:00",
@@ -833,19 +716,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-05-22T20:00:00",
-      "title": "Kutti Gang",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Kutti Gang is back in Brooklyn for a very special AAPI month showcase",
-      "extraction_method": "api",
-      "vendor": "Kutti Gang",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-22T20:00:00-04:00",
       "title": "Talal Alyan, Eva Evans, Julian Breheny, Will Purpura, Janeane Garofalo, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -896,19 +766,6 @@
       "extraction_method": "json-ld",
       "vendor": "Caitlin Peluffo, Levi White, Julian Breheny, Ray Zawodni, Adam Gulley, Lori Palminteri",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-22T23:00:00",
-      "title": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "NYC's Wildest Soca & Dancehall Party",
-      "extraction_method": "api",
-      "vendor": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-23T12:00:00",
@@ -963,19 +820,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-23T20:00:00",
-      "title": "Switch n' Press Play",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "GET TICKETS! Join us for a wild night of drag, burlesque, and queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play.",
-      "extraction_method": "api",
-      "vendor": "Switch n' Press Play",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-23T20:00:00-04:00",
       "title": "Tom Zappia, Dennis Rooney, Janeane Garofalo, Bailey Pope, Mike Toohey, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -1002,19 +846,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-05-23T22:00:00",
-      "title": "Switch N' Play Afterparty @ Parklife",
-      "venue": "Littlefield",
-      "start_time": "10:00 PM ET",
-      "end_time": "1:00 AM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "1:00 AM",
-      "description": "Presented by Parklife After Hours",
-      "extraction_method": "api",
-      "vendor": "Switch N' Play Afterparty @ Parklife",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-23T22:00:00-04:00",
       "title": "Talal Alyan, Levi White, Dennis Rooney, Michael Brigante, Lori Palminteri, Calvin Cato",
       "venue": "Eastville Comedy Club",
@@ -1026,28 +857,17 @@
       "extraction_method": "json-ld",
       "vendor": "Talal Alyan, Levi White, Dennis Rooney, Michael Brigante, Lori Palminteri, Calvin Cato",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-23T23:00:00",
-      "title": "Brooklyn Hip-Hop & R&B Night",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "3:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "3:00 AM",
-      "description": "Late-night Hip-Hop & R&B performances featuring Med, Tona Glover and special guests at littlefield in Brooklyn. 18+",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Hip-Hop & R&B Night",
-      "location": "Littlefield"
     }
   ],
-  "updated": "2026-05-16T10:16:28.931985+00:00",
-  "total_events": 80,
+  "updated": "2026-05-16T12:16:59.657772+00:00",
+  "total_events": 66,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
