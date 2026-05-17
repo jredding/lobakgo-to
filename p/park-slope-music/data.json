@@ -703,6 +703,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-24T00:00:00",
+      "title": "Pizzazz with Gary Gulman",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Pizzazz with Gary Gulman",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-05-24T12:00:00",
       "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
       "venue": "Industry City",
@@ -755,8 +768,8 @@
       "location": "Roulette"
     }
   ],
-  "updated": "2026-05-17T06:16:43.283129+00:00",
-  "total_events": 58,
+  "updated": "2026-05-17T08:17:19.119268+00:00",
+  "total_events": 59,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
