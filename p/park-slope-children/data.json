@@ -1548,6 +1548,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-05-21T14:00:00+00:00",
+      "title": "\ud83c\udfb6 Sing with Suzi Shelton at JJ Byrne Park in Park Slope (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "JJ Byrne Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Sing with Suzi Shelton at JJ Byrne Park in Park Slope (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-05-21T14:15:00+00:00",
       "title": "\ud83e\uddee Math Sensory Explorers: Brooklyn Play 2 Learn at Brooklearn in Carroll Gardens (ages 1.5-3)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -3641,8 +3654,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-18T10:32:08.406204+00:00",
-  "total_events": 280,
+  "updated": "2026-05-18T14:32:21.333852+00:00",
+  "total_events": 281,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
