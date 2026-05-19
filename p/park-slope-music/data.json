@@ -261,6 +261,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-22T12:00:00+00:00",
+      "title": "SAD SONG HAPPY HOUR(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SAD SONG HAPPY HOUR(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-22T12:00:00+00:00",
+      "title": "TATTOO MUSTACHE(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TATTOO MUSTACHE(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-22T12:00:00+00:00",
+      "title": "KEPI GHOULIE// KAIT ELDRIDGE// JASON PAUL// MICHELLE SHIRELLE(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "KEPI GHOULIE// KAIT ELDRIDGE// JASON PAUL// MICHELLE SHIRELLE(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-22T17:00:00",
       "title": "Empanada Papa Food Pop-up",
       "venue": "Industry City",
@@ -391,6 +430,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-23T12:00:00+00:00",
+      "title": "OVER EZ AND FRIENDS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "OVER EZ AND FRIENDS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-23T12:00:00+00:00",
+      "title": "LAKE EFFECTS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LAKE EFFECTS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-23T12:00:00+00:00",
+      "title": "PSYCHIC LINES// VAGUE PLOT// FAMOUS LOGS IN HISTORY(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "PSYCHIC LINES// VAGUE PLOT// FAMOUS LOGS IN HISTORY(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-23T12:00:00",
       "title": "Rib King NYC 2026",
       "venue": "Industry City",
@@ -508,6 +586,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-24T12:00:00+00:00",
+      "title": "NINJAMAN PRESENTS MATINEE MUSIC SHOW VOL 26(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NINJAMAN PRESENTS MATINEE MUSIC SHOW VOL 26(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-24T12:00:00+00:00",
+      "title": "SHAKIN AND STIRRED (DANCE VARIETY SHOW)(Variety)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SHAKIN AND STIRRED (DANCE VARIETY SHOW)(Variety)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-24T12:00:00+00:00",
+      "title": "YOUR FAVORITE NERDS(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "YOUR FAVORITE NERDS(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-24T12:00:00",
       "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
       "venue": "Industry City",
@@ -560,6 +677,32 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-05-25T12:00:00+00:00",
+      "title": "ATTIC WIFE GIRLY NIGHT(Mingle )",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ATTIC WIFE GIRLY NIGHT(Mingle )",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-25T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-25T14:00:00",
       "title": "Memorial Day Music Fest",
       "venue": "Industry City",
@@ -571,6 +714,19 @@
       "extraction_method": "api",
       "vendor": "Memorial Day Music Fest",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-05-25T16:30:00",
+      "title": "TRL (TODDLER REQUEST LIVE) A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TRL (TODDLER REQUEST LIVE) A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-05-26T00:00:00",
@@ -599,6 +755,32 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-05-26T12:00:00+00:00",
+      "title": "FEEL THE SOUND PRESENTED BY KAYA MUSIC AND NAVYEAST(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "FEEL THE SOUND PRESENTED BY KAYA MUSIC AND NAVYEAST(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-26T19:30:00",
+      "title": "F-WORD TRIVIA(Trivia)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "F-WORD TRIVIA(Trivia)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-05-26T20:00:00",
       "title": "Planet/Tear: Early Warning Systems with Char Jer\u00e9, Yehwan Song, Pap Souleye Fall, Sonia Rosa Kahn, Michael Candy, Maggie Boyd, S\u00e9an, Marcus Jahmal, Liz Zito, Taezoo Park, Braxton, C. Spencer Yeh, Brandon E., Rena Anakwe",
       "venue": "Roulette",
@@ -612,8 +794,8 @@
       "location": "Roulette"
     }
   ],
-  "updated": "2026-05-19T08:16:27.983697+00:00",
-  "total_events": 47,
+  "updated": "2026-05-19T16:17:22.778019+00:00",
+  "total_events": 61,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
