@@ -119,6 +119,19 @@
     },
     {
       "date": "2026-05-20T14:30:00+00:00",
+      "title": "\ud83d\udc76\ud83c\udffb Babies & Books at Crown Heights Library in PLG (prewalkers)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "3:15 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "3:15 PM",
+      "description": "Crown Heights Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc76\ud83c\udffb Babies & Books at Crown Heights Library in PLG (prewalkers)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-20T14:30:00+00:00",
       "title": "\ud83c\udfb6 Bubbly B\u2019s Interactive Musical Theatre Class at McCarren Park in Williamsburg (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -132,15 +145,15 @@
     },
     {
       "date": "2026-05-20T14:30:00+00:00",
-      "title": "\ud83d\udc76\ud83c\udffb Babies & Books at Crown Heights Library in PLG (prewalkers)",
+      "title": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
-      "end_time": "3:15 PM ET",
+      "end_time": "3:00 PM ET",
       "start_time_raw": "2:30 PM",
-      "end_time_raw": "3:15 PM",
-      "description": "Crown Heights Library",
+      "end_time_raw": "3:00 PM",
+      "description": "Williamsburgh Library",
       "extraction_method": "api",
-      "vendor": "\ud83d\udc76\ud83c\udffb Babies & Books at Crown Heights Library in PLG (prewalkers)",
+      "vendor": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -167,19 +180,6 @@
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
       "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Roller Rink (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-20T14:30:00+00:00",
-      "title": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Williamsburgh Library",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -249,19 +249,6 @@
     },
     {
       "date": "2026-05-20T14:30:00+00:00",
-      "title": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Adams Street Library",
-      "extraction_method": "api",
-      "vendor": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-20T14:30:00+00:00",
       "title": "\ud83c\udfb5 Baby Rock with Craig Howe at Williamsburg School of Music (ages 6 mo-3 yr)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -271,6 +258,19 @@
       "description": "Williamsburg School of Music",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb5 Baby Rock with Craig Howe at Williamsburg School of Music (ages 6 mo-3 yr)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-20T14:30:00+00:00",
+      "title": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "Adams Street Library",
+      "extraction_method": "api",
+      "vendor": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -483,19 +483,6 @@
     },
     {
       "date": "2026-05-20T19:30:00+00:00",
-      "title": "\u265f\ufe0f Chess Workshop at Brooklyn Heights Library (ages 6-12)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Brooklyn Heights Library",
-      "extraction_method": "api",
-      "vendor": "\u265f\ufe0f Chess Workshop at Brooklyn Heights Library (ages 6-12)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-20T19:30:00+00:00",
       "title": "\ud83c\udfa8 Kids' Art Club at Brooklearn in Carroll Gardens (ages 2.5-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:30 PM ET",
@@ -505,6 +492,19 @@
       "description": "Brooklearn",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 Kids' Art Club at Brooklearn in Carroll Gardens (ages 2.5-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-20T19:30:00+00:00",
+      "title": "\u265f\ufe0f Chess Workshop at Brooklyn Heights Library (ages 6-12)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Brooklyn Heights Library",
+      "extraction_method": "api",
+      "vendor": "\u265f\ufe0f Chess Workshop at Brooklyn Heights Library (ages 6-12)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1146,19 +1146,6 @@
     },
     {
       "date": "2026-05-21T22:00:00+00:00",
-      "title": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Greenpoint Library",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-21T22:00:00+00:00",
       "title": "\ud83d\udefc Adult Skate Class at Brooklyn Bridge Park - Pier 2 Roller Rink (ages 15+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "10:00 PM ET",
@@ -1168,6 +1155,19 @@
       "description": "Brooklyn Bridge Park \u2013 Pier 2",
       "extraction_method": "api",
       "vendor": "\ud83d\udefc Adult Skate Class at Brooklyn Bridge Park - Pier 2 Roller Rink (ages 15+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-21T22:00:00+00:00",
+      "title": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Greenpoint Library",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2108,19 +2108,6 @@
     },
     {
       "date": "2026-05-23T17:00:00+00:00",
-      "title": "\ud83c\udf3f Young Naturalists: Compost & Summer Flower Seed Bursts at Fort Greene Park Visitor Center (ages 5-13)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Fort Greene Park",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf3f Young Naturalists: Compost & Summer Flower Seed Bursts at Fort Greene Park Visitor Center (ages 5-13)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-23T17:00:00+00:00",
       "title": "\ud83e\udea6 Discover Green-Wood Trolley Tour at Green-Wood Cemetery in South Slope (ages 10+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -2130,6 +2117,19 @@
       "description": "Green-Wood Cemetery",
       "extraction_method": "api",
       "vendor": "\ud83e\udea6 Discover Green-Wood Trolley Tour at Green-Wood Cemetery in South Slope (ages 10+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-23T17:00:00+00:00",
+      "title": "\ud83c\udf3f Young Naturalists: Compost & Summer Flower Seed Bursts at Fort Greene Park Visitor Center (ages 5-13)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Fort Greene Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf3f Young Naturalists: Compost & Summer Flower Seed Bursts at Fort Greene Park Visitor Center (ages 5-13)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2446,19 +2446,6 @@
     },
     {
       "date": "2026-05-24T16:00:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:45 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:45 PM",
-      "description": "LeFrak Center at Lakeside in Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-24T16:00:00+00:00",
       "title": "\ud83c\udfb8 Rock & Roll Playhouse Presents: Music of Bob Dylan + More for Kids at Brooklyn Bowl in Williamsburg",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -2468,6 +2455,19 @@
       "description": "Brooklyn Bowl",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb8 Rock & Roll Playhouse Presents: Music of Bob Dylan + More for Kids at Brooklyn Bowl in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-24T16:00:00+00:00",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:45 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:45 PM",
+      "description": "LeFrak Center at Lakeside in Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3395,19 +3395,6 @@
     },
     {
       "date": "2026-05-27T13:00:00+00:00",
-      "title": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "1:00 PM ET",
-      "end_time": "1:45 PM ET",
-      "start_time_raw": "1:00 PM",
-      "end_time_raw": "1:45 PM",
-      "description": "Private Picassos - Clinton Hill",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-27T13:00:00+00:00",
       "title": "\ud83e\uddf5 Felt Badge Workshop at Bond Craft Studio in Gowanus (ages 8+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "1:00 PM ET",
@@ -3417,6 +3404,19 @@
       "description": "Bond Craft Studio",
       "extraction_method": "api",
       "vendor": "\ud83e\uddf5 Felt Badge Workshop at Bond Craft Studio in Gowanus (ages 8+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-27T13:00:00+00:00",
+      "title": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "1:00 PM ET",
+      "end_time": "1:45 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "1:45 PM",
+      "description": "Private Picassos - Clinton Hill",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3551,19 +3551,6 @@
     },
     {
       "date": "2026-05-27T14:30:00+00:00",
-      "title": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Adams Street Library",
-      "extraction_method": "api",
-      "vendor": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-27T14:30:00+00:00",
       "title": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -3573,6 +3560,19 @@
       "description": "Williamsburgh Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-27T14:30:00+00:00",
+      "title": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "Adams Street Library",
+      "extraction_method": "api",
+      "vendor": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3927,7 +3927,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-20T14:31:42.402719+00:00",
+  "updated": "2026-05-20T16:31:10.804633+00:00",
   "total_events": 302,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
