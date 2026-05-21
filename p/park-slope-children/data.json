@@ -626,19 +626,6 @@
     },
     {
       "date": "2026-05-21T22:00:00+00:00",
-      "title": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Greenpoint Library",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-21T22:00:00+00:00",
       "title": "\ud83d\udefc Adult Skate Class at Brooklyn Bridge Park - Pier 2 Roller Rink (ages 15+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "10:00 PM ET",
@@ -648,6 +635,19 @@
       "description": "Brooklyn Bridge Park \u2013 Pier 2",
       "extraction_method": "api",
       "vendor": "\ud83d\udefc Adult Skate Class at Brooklyn Bridge Park - Pier 2 Roller Rink (ages 15+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-21T22:00:00+00:00",
+      "title": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Greenpoint Library",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1783,19 +1783,6 @@
     },
     {
       "date": "2026-05-23T17:00:00+00:00",
-      "title": "\ud83c\udf3f Young Naturalists: Compost & Summer Flower Seed Bursts at Fort Greene Park Visitor Center (ages 5-13)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Fort Greene Park",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf3f Young Naturalists: Compost & Summer Flower Seed Bursts at Fort Greene Park Visitor Center (ages 5-13)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-23T17:00:00+00:00",
       "title": "\ud83e\udea6 Discover Green-Wood Trolley Tour at Green-Wood Cemetery in South Slope (ages 10+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -1805,6 +1792,19 @@
       "description": "Green-Wood Cemetery",
       "extraction_method": "api",
       "vendor": "\ud83e\udea6 Discover Green-Wood Trolley Tour at Green-Wood Cemetery in South Slope (ages 10+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-23T17:00:00+00:00",
+      "title": "\ud83c\udf3f Young Naturalists: Compost & Summer Flower Seed Bursts at Fort Greene Park Visitor Center (ages 5-13)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Fort Greene Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf3f Young Naturalists: Compost & Summer Flower Seed Bursts at Fort Greene Park Visitor Center (ages 5-13)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1961,6 +1961,19 @@
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
       "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-24T00:00:00+00:00",
+      "title": "\ud83c\udfa5 Movie Night Under the Stars: Lilo & Stitch (2025) at Cooper Park in East Williamsburg (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "12:00 AM ET",
+      "end_time": null,
+      "start_time_raw": "12:00 AM",
+      "end_time_raw": null,
+      "description": "Cooper Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa5 Movie Night Under the Stars: Lilo & Stitch (2025) at Cooper Park in East Williamsburg (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2199,19 +2212,6 @@
     },
     {
       "date": "2026-05-24T16:00:00+00:00",
-      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:45 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:45 PM",
-      "description": "LeFrak Center at Lakeside in Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-24T16:00:00+00:00",
       "title": "\ud83c\udfb8 Rock & Roll Playhouse Presents: Music of Bob Dylan + More for Kids at Brooklyn Bowl in Williamsburg",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -2221,6 +2221,19 @@
       "description": "Brooklyn Bowl",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb8 Rock & Roll Playhouse Presents: Music of Bob Dylan + More for Kids at Brooklyn Bowl in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-24T16:00:00+00:00",
+      "title": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:45 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:45 PM",
+      "description": "LeFrak Center at Lakeside in Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2549,6 +2562,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-05-25T14:30:00+00:00",
+      "title": "\ud83d\udd4a\ufe0f Memorial Day: Growing Wings of Peace at CMOM",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "8:15 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "8:15 PM",
+      "description": "Children's Museum of Manhattan",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udd4a\ufe0f Memorial Day: Growing Wings of Peace at CMOM",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-05-25T14:45:00+00:00",
       "title": "\ud83d\udc79 Puppetsburg Show at Brooklearn in Carroll Gardens (ages 3 mo-5 yr)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -2589,6 +2615,32 @@
     },
     {
       "date": "2026-05-25T15:00:00+00:00",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Historic New York: Decoration Day at Grand Army Plaza Arch",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:30 PM",
+      "description": "Grand Army Plaza Arch",
+      "extraction_method": "api",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Historic New York: Decoration Day at Grand Army Plaza Arch",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-25T15:00:00+00:00",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Whitestone Memorial Day Ceremony and Parade",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": "Whitestone Memorial Field",
+      "extraction_method": "api",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Whitestone Memorial Day Ceremony and Parade",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-25T15:00:00+00:00",
       "title": "\ud83c\uddfa\ud83c\uddf8  159th Brooklyn Memorial Day Parade & Memorial Service in Bay Ridge",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -2624,6 +2676,19 @@
       "description": "The Canopy Williamsburg",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Global Grooves for Little Explorers at The Canopy in Williamsburg (ages 0-3)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-25T16:00:00+00:00",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Forest Avenue Memorial Day Parade in Randall Manor (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Staten Island Memorial Day Parade",
+      "extraction_method": "api",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Forest Avenue Memorial Day Parade in Randall Manor (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2692,6 +2757,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-05-25T18:00:00+00:00",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Little Neck-Douglaston Memorial Day Parade (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Little Neck-Douglaston Memorial Day Parade",
+      "extraction_method": "api",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Little Neck-Douglaston Memorial Day Parade (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-05-25T19:00:00+00:00",
       "title": "\ud83e\ude98 DanceAfrica Performance at BAM in Fort Greene (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -2702,6 +2780,19 @@
       "description": "Peter Jay Sharp Bldg.",
       "extraction_method": "api",
       "vendor": "\ud83e\ude98 DanceAfrica Performance at BAM in Fort Greene (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-25T19:00:00+00:00",
+      "title": "\ud83c\uddfa\ud83c\uddf8  Memorial Day Concert at Denny Farrell Riverbank State Park in Hamilton Heights (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:30 PM",
+      "description": "Denny Farrell Riverbank State Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8  Memorial Day Concert at Denny Farrell Riverbank State Park in Hamilton Heights (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3278,19 +3369,6 @@
     },
     {
       "date": "2026-05-27T13:00:00+00:00",
-      "title": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "1:00 PM ET",
-      "end_time": "1:45 PM ET",
-      "start_time_raw": "1:00 PM",
-      "end_time_raw": "1:45 PM",
-      "description": "Private Picassos - Clinton Hill",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-27T13:00:00+00:00",
       "title": "\ud83e\uddf5 Felt Badge Workshop at Bond Craft Studio in Gowanus (ages 8+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "1:00 PM ET",
@@ -3300,6 +3378,19 @@
       "description": "Bond Craft Studio",
       "extraction_method": "api",
       "vendor": "\ud83e\uddf5 Felt Badge Workshop at Bond Craft Studio in Gowanus (ages 8+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-27T13:00:00+00:00",
+      "title": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "1:00 PM ET",
+      "end_time": "1:45 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "1:45 PM",
+      "description": "Private Picassos - Clinton Hill",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3473,19 +3564,6 @@
     },
     {
       "date": "2026-05-27T14:30:00+00:00",
-      "title": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Adams Street Library",
-      "extraction_method": "api",
-      "vendor": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-27T14:30:00+00:00",
       "title": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -3495,6 +3573,19 @@
       "description": "Williamsburgh Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-27T14:30:00+00:00",
+      "title": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "Adams Street Library",
+      "extraction_method": "api",
+      "vendor": "\ud83e\uddd2\ud83c\udffb Toddler Time at Adams Street Library in DUMBO (crawling/walking toddlers)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3625,19 +3716,6 @@
       "description": "The Canopy Williamsburg",
       "extraction_method": "api",
       "vendor": "\ud83d\udd8c\ufe0f Canopy Arts and Crafts at The Canopy in Williamsburg (ages 0-4)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-27T16:00:00+00:00",
-      "title": "Emergency Medicine Day",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": null,
-      "description": "American Board of Emergency Medicine",
-      "extraction_method": "api",
-      "vendor": "Emergency Medicine Day",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3993,19 +4071,6 @@
     },
     {
       "date": "2026-05-28T14:00:00+00:00",
-      "title": "\ud83d\udc76\ud83c\udffb Stroller Walk at Prospect Park Audubon Center in PLG",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "4:00 PM",
-      "description": "Audubon Center in Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udc76\ud83c\udffb Stroller Walk at Prospect Park Audubon Center in PLG",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-28T14:00:00+00:00",
       "title": "\ud83d\udcda Tot Time at Marsha P. Johnson State Park in Williamsburg (ages 5 and under)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -4015,6 +4080,19 @@
       "description": "Marsha P. Johnson State Park House",
       "extraction_method": "api",
       "vendor": "\ud83d\udcda Tot Time at Marsha P. Johnson State Park in Williamsburg (ages 5 and under)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-28T14:00:00+00:00",
+      "title": "\ud83d\udc76\ud83c\udffb Stroller Walk at Prospect Park Audubon Center in PLG",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Audubon Center in Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc76\ud83c\udffb Stroller Walk at Prospect Park Audubon Center in PLG",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4525,8 +4603,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-21T10:31:04.403733+00:00",
-  "total_events": 348,
+  "updated": "2026-05-21T14:31:49.125878+00:00",
+  "total_events": 354,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
