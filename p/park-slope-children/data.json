@@ -470,7 +470,7 @@
     },
     {
       "date": "2026-05-21T19:30:00+00:00",
-      "title": "\ud83c\udfa5Movies at the library: My neighbor Totoro (2002) at Leonard Library in Williamsburg (ages 5-12)",
+      "title": "\ud83c\udfa5 Movies at the library: My neighbor Totoro (2002) at Leonard Library in Williamsburg (ages 5-12)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:30 PM ET",
       "end_time": "9:00 PM ET",
@@ -478,7 +478,7 @@
       "end_time_raw": "9:00 PM",
       "description": "Leonard Library",
       "extraction_method": "api",
-      "vendor": "\ud83c\udfa5Movies at the library: My neighbor Totoro (2002) at Leonard Library in Williamsburg (ages 5-12)",
+      "vendor": "\ud83c\udfa5 Movies at the library: My neighbor Totoro (2002) at Leonard Library in Williamsburg (ages 5-12)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1471,6 +1471,19 @@
     },
     {
       "date": "2026-05-23T14:00:00+00:00",
+      "title": "\ud83e\udef6\ud83c\udffc Coastal Cleanup at Marsha P. Johnson State Park in Williamsburg (ages 8+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Marsha P. Johnson State Park",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udef6\ud83c\udffc Coastal Cleanup at Marsha P. Johnson State Park in Williamsburg (ages 8+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-23T14:00:00+00:00",
       "title": "\ud83d\udecd\ufe0f Brooklyn Flea in DUMBO (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -1519,6 +1532,19 @@
       "description": "Fort Greene Park - Main Meadow",
       "extraction_method": "api",
       "vendor": "\ud83e\udd20 Hopalong Andrew Outdoor Show at Fort Greene Park",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-23T14:00:00+00:00",
+      "title": "\ud83c\udfa8 Family Fun Day at Leif Ericson Park in Bay Ridge (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Leif Ericson Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 Family Fun Day at Leif Ericson Park in Bay Ridge (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1597,6 +1623,32 @@
       "description": "Marsha P. Johnson State Park",
       "extraction_method": "api",
       "vendor": "\ud83d\ude0b Smorgasburg at Marsha P. Johnson State Park in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-23T15:00:00+00:00",
+      "title": "\ud83e\uded6 Smorgasburg  presents: AAPI Festival at Tea at Marsha P. Johnson State Park in Williamsburg",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Marsha P. Johnson State Park",
+      "extraction_method": "api",
+      "vendor": "\ud83e\uded6 Smorgasburg  presents: AAPI Festival at Tea at Marsha P. Johnson State Park in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-23T15:00:00+00:00",
+      "title": "\ud83d\udcda Storytime w/ Christy Hale: Reaching Across the Sky w/ Sandra Galeota-Long at Books Are Magic Montague in Brooklyn Heights (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Books Are Magic - Montague",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcda Storytime w/ Christy Hale: Reaching Across the Sky w/ Sandra Galeota-Long at Books Are Magic Montague in Brooklyn Heights (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1744,7 +1796,7 @@
     },
     {
       "date": "2026-05-23T16:00:00+00:00",
-      "title": "\ud83c\uddfa\ud83c\uddf8 Memorial Day Fair at Sunnyside Gardens Park in Sunnyside (all ages)",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Memorial Day Fair at Sunnyside Gardens Park in Queens (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
       "end_time": "9:00 PM ET",
@@ -1752,7 +1804,7 @@
       "end_time_raw": "9:00 PM",
       "description": "Sunnyside Gardens Park",
       "extraction_method": "api",
-      "vendor": "\ud83c\uddfa\ud83c\uddf8 Memorial Day Fair at Sunnyside Gardens Park in Sunnyside (all ages)",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Memorial Day Fair at Sunnyside Gardens Park in Queens (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2030,6 +2082,19 @@
     },
     {
       "date": "2026-05-24T14:00:00+00:00",
+      "title": "\ud83c\udfa8 Family Fun Day at Sunset Park (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Sunset Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 Family Fun Day at Sunset Park (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-24T14:00:00+00:00",
       "title": "\ud83d\udecd\ufe0f Brooklyn Flea in DUMBO (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -2156,6 +2221,19 @@
       "description": "Smorgasburg Prospect Park",
       "extraction_method": "api",
       "vendor": "\ud83d\ude0b Smorgasburg at Prospect Park",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-24T15:00:00+00:00",
+      "title": "\ud83e\uded6 Smorgasburg  presents: AAPI Festival at Tea at Prospect Park (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Smorgasburg Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83e\uded6 Smorgasburg  presents: AAPI Festival at Tea at Prospect Park (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2563,7 +2641,7 @@
     },
     {
       "date": "2026-05-25T14:30:00+00:00",
-      "title": "\ud83d\udd4a\ufe0f Memorial Day: Growing Wings of Peace at CMOM",
+      "title": "\ud83d\udd4a\ufe0f Memorial Day: Growing Wings of Peace at Children's Museum of Manhattan",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": "8:15 PM ET",
@@ -2571,7 +2649,7 @@
       "end_time_raw": "8:15 PM",
       "description": "Children's Museum of Manhattan",
       "extraction_method": "api",
-      "vendor": "\ud83d\udd4a\ufe0f Memorial Day: Growing Wings of Peace at CMOM",
+      "vendor": "\ud83d\udd4a\ufe0f Memorial Day: Growing Wings of Peace at Children's Museum of Manhattan",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2602,7 +2680,7 @@
     },
     {
       "date": "2026-05-25T15:00:00+00:00",
-      "title": "\ud83c\uddfa\ud83c\uddf8 88th Annual Memorial Day Parade",
+      "title": "\ud83c\uddfa\ud83c\uddf8 88th Annual Myrtle Avenue Memorial Day Parade in Ridgewood",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
       "end_time": "5:00 PM ET",
@@ -2610,12 +2688,12 @@
       "end_time_raw": "5:00 PM",
       "description": "Ridgewood Veterans Triangle",
       "extraction_method": "api",
-      "vendor": "\ud83c\uddfa\ud83c\uddf8 88th Annual Memorial Day Parade",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 88th Annual Myrtle Avenue Memorial Day Parade in Ridgewood",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
       "date": "2026-05-25T15:00:00+00:00",
-      "title": "\ud83c\uddfa\ud83c\uddf8 Historic New York: Decoration Day at Grand Army Plaza Arch",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Historic New York: Decoration Day at Grand Army Plaza Arch in Prospect Heights",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
       "end_time": "4:30 PM ET",
@@ -2623,12 +2701,12 @@
       "end_time_raw": "4:30 PM",
       "description": "Grand Army Plaza Arch",
       "extraction_method": "api",
-      "vendor": "\ud83c\uddfa\ud83c\uddf8 Historic New York: Decoration Day at Grand Army Plaza Arch",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Historic New York: Decoration Day at Grand Army Plaza Arch in Prospect Heights",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
       "date": "2026-05-25T15:00:00+00:00",
-      "title": "\ud83c\uddfa\ud83c\uddf8 Whitestone Memorial Day Ceremony and Parade",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Whitestone Memorial Day Ceremony and Parade in Queens",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
       "end_time": null,
@@ -2636,7 +2714,7 @@
       "end_time_raw": null,
       "description": "Whitestone Memorial Field",
       "extraction_method": "api",
-      "vendor": "\ud83c\uddfa\ud83c\uddf8 Whitestone Memorial Day Ceremony and Parade",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Whitestone Memorial Day Ceremony and Parade in Queens",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2680,7 +2758,7 @@
     },
     {
       "date": "2026-05-25T16:00:00+00:00",
-      "title": "\ud83c\uddfa\ud83c\uddf8 Forest Avenue Memorial Day Parade in Randall Manor (all ages)",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Staten Island Memorial Day Parade (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
       "end_time": "7:00 PM ET",
@@ -2688,7 +2766,7 @@
       "end_time_raw": "7:00 PM",
       "description": "Staten Island Memorial Day Parade",
       "extraction_method": "api",
-      "vendor": "\ud83c\uddfa\ud83c\uddf8 Forest Avenue Memorial Day Parade in Randall Manor (all ages)",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Staten Island Memorial Day Parade (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2758,7 +2836,7 @@
     },
     {
       "date": "2026-05-25T18:00:00+00:00",
-      "title": "\ud83c\uddfa\ud83c\uddf8 Little Neck-Douglaston Memorial Day Parade (all ages)",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Little Neck-Douglaston Memorial Day Parade in Queens (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "6:00 PM ET",
       "end_time": null,
@@ -2766,7 +2844,7 @@
       "end_time_raw": null,
       "description": "Little Neck-Douglaston Memorial Day Parade",
       "extraction_method": "api",
-      "vendor": "\ud83c\uddfa\ud83c\uddf8 Little Neck-Douglaston Memorial Day Parade (all ages)",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Little Neck-Douglaston Memorial Day Parade in Queens (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2784,7 +2862,7 @@
     },
     {
       "date": "2026-05-25T19:00:00+00:00",
-      "title": "\ud83c\uddfa\ud83c\uddf8  Memorial Day Concert at Denny Farrell Riverbank State Park in Hamilton Heights (all ages)",
+      "title": "\ud83c\uddfa\ud83c\uddf8 Memorial Day Concert in Hamilton Heights (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
       "end_time": "11:30 PM ET",
@@ -2792,7 +2870,7 @@
       "end_time_raw": "11:30 PM",
       "description": "Denny Farrell Riverbank State Park",
       "extraction_method": "api",
-      "vendor": "\ud83c\uddfa\ud83c\uddf8  Memorial Day Concert at Denny Farrell Riverbank State Park in Hamilton Heights (all ages)",
+      "vendor": "\ud83c\uddfa\ud83c\uddf8 Memorial Day Concert in Hamilton Heights (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4603,8 +4681,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-21T14:31:49.125878+00:00",
-  "total_events": 354,
+  "updated": "2026-05-21T16:31:56.909894+00:00",
+  "total_events": 360,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
