@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-21T12:00:00+00:00",
-      "title": "MEAGHAN BURKE AND ALLEGRA LEVY(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "MEAGHAN BURKE AND ALLEGRA LEVY(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-21T12:00:00+00:00",
-      "title": "CHUCK(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "CHUCK(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-21T12:00:00+00:00",
-      "title": "DRAG NIGHT(Draglesque)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DRAG NIGHT(Draglesque)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-21T20:00:00",
-      "title": "Shrek Entirely From Memory",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "No scripts... No Rehearsals....",
-      "extraction_method": "api",
-      "vendor": "Shrek Entirely From Memory",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-05-21T20:00:00-04:00",
-      "title": "Brotaku: Mario Kart Tournament Comedy Show",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Brotaku: Mario Kart Tournament Comedy Show<br>Stand-up comedians roast players while they compete live in a chaotic Mario Kart tournament.<br>16 competitors enter. One leaves with $250. Everyone else gets cooked.<br>Expect:<br>&bull; stand-up to open the show<br>&bull; player intros + live roasting<br>&bull; wildcard players pulled from the audience<br>&bull; unhinged energy the entire time<br>Part tournament, part comedy show, part public execution.<br>Like playing video games on your friend&rsquo;s couch&mdash;if your friends were ruthless comedians.<br><br>Details:<br>&bull; Thursday, May 21<br>&bull; Doors 7:30 PM | Show 8:00 PM<br>&bull; Eastville Comedy Club (Brooklyn)<br>&bull; 2 drink minimum<br><br>Tickets:<br>&bull; Competitor Pass ($27): guaranteed tournament spot<br>&bull; Audience ($19): watch + chance to be pulled as a wildcard<br>Competitor slots fill fast. Last show sold out.<br>All tickets include 2 takoyaki balls + 1 meat skewer from Karl&rsquo;s Balls and Izakaya Juraku.<br><br></p><br><br>",
-      "extraction_method": "json-ld",
-      "vendor": "Brotaku: Mario Kart Tournament Comedy Show",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-21T20:00:00",
-      "title": "Simon Shaheen with Mehrnam Rastegari (WMI)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "An enchanting celebration of strings featuring Palestinian oud/violin maestro, and critically acclaimed Iranian kamancheh virtuoso and vocalist.",
-      "extraction_method": "html",
-      "vendor": "Simon Shaheen with Mehrnam Rastegari (WMI)",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-22T00:00:00",
       "title": "UNDERGROUND MONK SHOW WORK IN PROGRESS SHOW",
       "venue": "Union Hall",
@@ -222,19 +144,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-05-22T20:00:00",
-      "title": "Kutti Gang",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Kutti Gang is back in Brooklyn for a very special AAPI month showcase",
-      "extraction_method": "api",
-      "vendor": "Kutti Gang",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-22T20:00:00-04:00",
       "title": "Talal Alyan, Eva Evans, Julian Breheny, Will Purpura, Janeane Garofalo, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -285,19 +194,6 @@
       "extraction_method": "json-ld",
       "vendor": "Levi White, Julian Breheny, Adam Gulley, Mae Planert, kyle mara",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-22T23:00:00",
-      "title": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "NYC's Wildest Soca & Dancehall Party",
-      "extraction_method": "api",
-      "vendor": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-23T00:00:00",
@@ -417,19 +313,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-23T20:00:00",
-      "title": "Switch n' Press Play",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "GET TICKETS! Join us for a wild night of drag, burlesque, and queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play.",
-      "extraction_method": "api",
-      "vendor": "Switch n' Press Play",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-23T20:00:00-04:00",
       "title": "Tom Zappia, Dennis Rooney, Chris Grace, Janeane Garofalo, Bailey Pope, Mike Toohey, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -456,19 +339,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-05-23T22:00:00",
-      "title": "Switch N' Play Afterparty @ Parklife",
-      "venue": "Littlefield",
-      "start_time": "10:00 PM ET",
-      "end_time": "1:00 AM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "1:00 AM",
-      "description": "Presented by Parklife After Hours",
-      "extraction_method": "api",
-      "vendor": "Switch N' Play Afterparty @ Parklife",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-23T22:00:00-04:00",
       "title": "Talal Alyan, Levi White, Dennis Rooney, Chris Grace, Michael Brigante, Lori Palminteri, Calvin Cato",
       "venue": "Eastville Comedy Club",
@@ -480,19 +350,6 @@
       "extraction_method": "json-ld",
       "vendor": "Talal Alyan, Levi White, Dennis Rooney, Chris Grace, Michael Brigante, Lori Palminteri, Calvin Cato",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-23T23:00:00",
-      "title": "Brooklyn Hip-Hop & R&B Night",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "3:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "3:00 AM",
-      "description": "Late-night Hip-Hop & R&B performances featuring Med, Tona Glover and special guests at littlefield in Brooklyn. 18+",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Hip-Hop & R&B Night",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-24T00:00:00",
@@ -584,19 +441,6 @@
       "extraction_method": "api",
       "vendor": "Sake and Cheese Pairing Class and Brewery Tour",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-05-24T19:00:00",
-      "title": "The Worst of All Possible Worlds Presents: The Gay Agenda",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:30 PM",
-      "description": "The hit podcast returns to the stage to get to the bottom of it all.",
-      "extraction_method": "api",
-      "vendor": "The Worst of All Possible Worlds Presents: The Gay Agenda",
-      "location": "Littlefield"
     },
     {
       "date": "2026-05-24T19:30:00-04:00",
@@ -820,19 +664,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-05-27T20:00:00",
-      "title": "I Get Wild plays Talking Heads",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "I Get Wild formed in Brooklyn NYC and play energetic shows of Talking Heads music.",
-      "extraction_method": "api",
-      "vendor": "I Get Wild plays Talking Heads",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-27T20:00:00-04:00",
       "title": "Nore Davis, Peter Stewart, Bobby Condon, kyle mara, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -937,19 +768,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-05-28T20:00:00",
-      "title": "toso toso - celia's going away show!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "A show and party to send Celia off with love!",
-      "extraction_method": "api",
-      "vendor": "toso toso - celia's going away show!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-05-28T20:00:00-04:00",
       "title": "Tight Pants Comedy",
       "venue": "Eastville Comedy Club",
@@ -974,15 +792,134 @@
       "extraction_method": "html",
       "vendor": "Yarn/Wire: Currents 2026",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-05-29T00:00:00",
+      "title": "Reuben Solo - Someone in This Crowd Will Betray Me",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Reuben Solo - Someone in This Crowd Will Betray Me",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-05-29T12:00:00+00:00",
+      "title": "HAPPY HOUR COMEDY(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "HAPPY HOUR COMEDY(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-29T12:00:00+00:00",
+      "title": "NORTHEAST BAND(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NORTHEAST BAND(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-29T12:00:00+00:00",
+      "title": "BIG BILLS BENEFIT BONANZA(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "BIG BILLS BENEFIT BONANZA(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-05-29T18:00:00-04:00",
+      "title": "Combat Zone 360 Presents: Operation LOL",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "<ul><li><p data-path-to-node=\"3,0,0\"><b data-index-in-node=\"0\" data-path-to-node=\"3,0,0\">Host:</b> Jay Lawrence</p></li><li><p data-path-to-node=\"3,1,0\">Chris Tos</p></li><li><p data-path-to-node=\"3,2,0\">Kevin Lenihan</p></li><li><p data-path-to-node=\"3,3,0\">Daniel Ray</p></li><li><p data-path-to-node=\"3,4,0\">Dannielle Slaughter</p></li><li><p data-path-to-node=\"3,5,0\">Ralph Anthony</p></li><li><p data-path-to-node=\"3,6,0\">Trayvon Fulton</p></li><li><p data-path-to-node=\"3,7,0\">Ely Velazquez</p></li><li><p data-path-to-node=\"3,8,0\">Kareem Green</p></li></ul>",
+      "extraction_method": "json-ld",
+      "vendor": "Combat Zone 360 Presents: Operation LOL",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-29T18:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery. The tour concludes in our taproom where we will lead you a guided tasting flight of 3 kinds of Brooklyn Kura and introduce you to the nuance and variety of our award-winning sake.\nLocation:\nPlease arrive promptly in our taproom to start your tour. The location is:\n34 34th Street, Inner courtyard\nIndustry City Building 6\nBrooklyn, NY 11232",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-05-29T20:00:00-04:00",
+      "title": "Nore Davis, Peter Stewart, Will Purpura, Shannon Keye, Janeane Garofalo, Derrell Meyers",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br>Featuring<br>Nore Davis<br>Peter Stewart<br>Will Purpura<br>Shannon Keye<br>Janeane Garofalo<br>Derrell Meyers",
+      "extraction_method": "json-ld",
+      "vendor": "Nore Davis, Peter Stewart, Will Purpura, Shannon Keye, Janeane Garofalo, Derrell Meyers",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-29T20:00:00",
+      "title": "John Zorn: New Masada Quartet",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Zorn\u2019s beloved ensemble w/ Julian Lage, Jorge Roeder, & Kenny Wollesen returns for the 5th consecutive year for one tight and telepathic set.",
+      "extraction_method": "html",
+      "vendor": "John Zorn: New Masada Quartet",
+      "location": "Roulette"
+    },
+    {
+      "date": "2026-05-29T22:00:00-04:00",
+      "title": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, kyle mara, Neema Naz, Derrell Meyers",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p><br><br>Featuring<br>Doug Smith<br>Will Purpura<br>Adam Gulley<br>Cesh Reyes<br>kyle mara<br>Neema Naz<br>Derrell Meyers",
+      "extraction_method": "json-ld",
+      "vendor": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, kyle mara, Neema Naz, Derrell Meyers",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-21T16:16:41.109751+00:00",
-  "total_events": 75,
+  "updated": "2026-05-22T06:16:45.326986+00:00",
+  "total_events": 70,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
