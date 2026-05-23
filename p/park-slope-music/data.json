@@ -144,19 +144,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-23T20:00:00",
-      "title": "Double Bills And Buster: Two Nights Of Film And Music by Bill Frisell, Bill Morrison, and Buster Keaton w/ Luke Bergman and Tim Angulo (Night 1)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "A film\u2013music collaboration by Bill Morrison and Bill Frisell on the 1927 Mississippi River Flood and its impact on American society.",
-      "extraction_method": "html",
-      "vendor": "Double Bills And Buster: Two Nights Of Film And Music by Bill Frisell, Bill Morrison, and Buster Keaton w/ Luke Bergman and Tim Angulo (Night 1)",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-23T22:00:00-04:00",
       "title": "Talal Alyan, Levi White, Dennis Rooney, Chris Grace, Michael Brigante, Lori Palminteri, Calvin Cato",
       "venue": "Eastville Comedy Club",
@@ -272,19 +259,6 @@
       "extraction_method": "json-ld",
       "vendor": "Cesh & Brian Present Comics Anonymous",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-24T20:00:00",
-      "title": "Double Bills And Buster: Two Nights Of Film And Music by Bill Frisell, Bill Morrison, and Buster Keaton w/ Luke Bergman and Tim Angulo (Night 2)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Films by\u00a0Bill\u00a0Morrison and Buster Keaton with music composed and performed live by\u00a0Bill\u00a0Frisell.",
-      "extraction_method": "html",
-      "vendor": "Double Bills And Buster: Two Nights Of Film And Music by Bill Frisell, Bill Morrison, and Buster Keaton w/ Luke Bergman and Tim Angulo (Night 2)",
-      "location": "Roulette"
     },
     {
       "date": "2026-05-25T00:00:00",
@@ -404,19 +378,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-05-26T20:00:00",
-      "title": "Planet/Tear: Early Warning Systems with Char Jer\u00e9, Yehwan Song, Pap Souleye Fall, Sonia Rosa Kahn, Michael Candy, Maggie Boyd, S\u00e9an, Marcus Jahmal, Liz Zito, Taezoo Park, Braxton, C. Spencer Yeh, Brandon E., Rena Anakwe",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Video & sound artists explore animism, imagining a world where objects sense and communicate before humans recognize what is happening.",
-      "extraction_method": "html",
-      "vendor": "Planet/Tear: Early Warning Systems with Char Jer\u00e9, Yehwan Song, Pap Souleye Fall, Sonia Rosa Kahn, Michael Candy, Maggie Boyd, S\u00e9an, Marcus Jahmal, Liz Zito, Taezoo Park, Braxton, C. Spencer Yeh, Brandon E., Rena Anakwe",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-27T00:00:00",
       "title": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
       "venue": "Union Hall",
@@ -493,19 +454,6 @@
       "extraction_method": "json-ld",
       "vendor": "Nore Davis, Peter Stewart, Bobby Condon, kyle mara, Derrell Meyers",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-27T20:00:00",
-      "title": "Eliza Salem with Eden Girma and Luke Marantz",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Roulette Commissioned artist and drummer presents new improvisational work.",
-      "extraction_method": "html",
-      "vendor": "Eliza Salem with Eden Girma and Luke Marantz",
-      "location": "Roulette"
     },
     {
       "date": "2026-05-28T00:00:00",
@@ -597,19 +545,6 @@
       "extraction_method": "json-ld",
       "vendor": "Tight Pants Comedy",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-28T20:00:00",
-      "title": "Yarn/Wire: Currents 2026",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "An evening of new works by composer and Rome Prize laureate Jonah Haven and Icelandic experimental composer Bergr\u00fan Sn\u00e6bj\u00f6rnsd\u00f3ttir.",
-      "extraction_method": "html",
-      "vendor": "Yarn/Wire: Currents 2026",
-      "location": "Roulette"
     },
     {
       "date": "2026-05-29T00:00:00",
@@ -729,19 +664,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-05-29T20:00:00",
-      "title": "John Zorn: New Masada Quartet",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Zorn\u2019s beloved ensemble w/ Julian Lage, Jorge Roeder, & Kenny Wollesen returns for the 5th consecutive year for one tight and telepathic set.",
-      "extraction_method": "html",
-      "vendor": "John Zorn: New Masada Quartet",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-29T22:00:00-04:00",
       "title": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, kyle mara, Neema Naz, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -753,6 +675,19 @@
       "extraction_method": "json-ld",
       "vendor": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, kyle mara, Neema Naz, Derrell Meyers",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-30T00:00:00",
+      "title": "Reuben Solo - Someone in This Crowd Will Betray Me",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Reuben Solo - Someone in This Crowd Will Betray Me",
+      "location": "Union Hall"
     },
     {
       "date": "2026-05-30T12:00:00+00:00",
@@ -885,15 +820,16 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-05-23T06:18:37.589720+00:00",
-  "total_events": 68,
+  "updated": "2026-05-23T08:16:04.452065+00:00",
+  "total_events": 63,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Littlefield",
+    "Failed to fetch information for: Roulette"
   ],
   "haiku": null
 }
