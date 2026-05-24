@@ -92,6 +92,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-24T19:00:00",
+      "title": "The Worst of All Possible Worlds Presents: The Gay Agenda",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "The hit podcast returns to the stage to get to the bottom of it all.",
+      "extraction_method": "api",
+      "vendor": "The Worst of All Possible Worlds Presents: The Gay Agenda",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-24T19:30:00-04:00",
       "title": "Cesh & Brian Present Comics Anonymous",
       "venue": "Eastville Comedy Club",
@@ -313,6 +326,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-05-27T20:00:00",
+      "title": "I Get Wild plays Talking Heads",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "I Get Wild formed in Brooklyn NYC and play energetic shows of Talking Heads music.",
+      "extraction_method": "api",
+      "vendor": "I Get Wild plays Talking Heads",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-27T20:00:00-04:00",
       "title": "Nore Davis, Peter Stewart, Bobby Condon, kyle mara, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -415,6 +441,19 @@
       "extraction_method": "api",
       "vendor": "The Comics Blueprint",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-05-28T20:00:00",
+      "title": "toso toso - celia's going away show!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "A show and party to send Celia off with love!",
+      "extraction_method": "api",
+      "vendor": "toso toso - celia's going away show!",
+      "location": "Littlefield"
     },
     {
       "date": "2026-05-28T20:00:00-04:00",
@@ -547,6 +586,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-29T19:00:00",
+      "title": "Boyz Gone Wild Experience",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "This night will be a queer party and concert celebrating our freedoms, community, and music. We will cheer, dance, and bring the sexy!",
+      "extraction_method": "api",
+      "vendor": "Boyz Gone Wild Experience",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-29T20:00:00-04:00",
       "title": "Nore Davis, Peter Stewart, Will Purpura, Shannon Keye, Janeane Garofalo, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -584,6 +636,19 @@
       "extraction_method": "json-ld",
       "vendor": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, kyle mara, Neema Naz, Derrell Meyers",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-05-29T23:00:00",
+      "title": "RNB vs SLOW JAMS",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Sexiest RnB & SLOW JAMS Party",
+      "extraction_method": "api",
+      "vendor": "RNB vs SLOW JAMS",
+      "location": "Littlefield"
     },
     {
       "date": "2026-05-30T00:00:00",
@@ -779,17 +844,28 @@
       "extraction_method": "api",
       "vendor": "Minglewood Plays Music of Grateful Dead",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-05-31T18:30:00",
+      "title": "Asian American Film Thing: Shorts, Comedy & Performances",
+      "venue": "Littlefield",
+      "start_time": "6:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "A curated night of Asian American short films, live performances, and community at littlefield to close out AAPI Month.",
+      "extraction_method": "api",
+      "vendor": "Asian American Film Thing: Shorts, Comedy & Performances",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-05-24T08:16:31.936283+00:00",
-  "total_events": 60,
+  "updated": "2026-05-24T08:18:01.254775+00:00",
+  "total_events": 66,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
