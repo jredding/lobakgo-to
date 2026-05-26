@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-25T00:00:00",
-      "title": "Jaboukie & Friends",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Jaboukie & Friends",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-25T12:00:00+00:00",
-      "title": "ATTIC WIFE GIRLY NIGHT(Mingle )",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "ATTIC WIFE GIRLY NIGHT(Mingle )",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-25T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-25T14:00:00",
-      "title": "Memorial Day Music Fest",
-      "venue": "Industry City",
-      "start_time": "2:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "Celebrate with Memorial Day with music! We&#8217;re going to be OPEN for Memorial Day and featuring several live bands all day long. Join us for music and brews!",
-      "extraction_method": "api",
-      "vendor": "Memorial Day Music Fest",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-05-25T16:30:00",
-      "title": "TRL (TODDLER REQUEST LIVE) A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL (TODDLER REQUEST LIVE) A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-05-26T00:00:00",
       "title": "PRETTY  MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
@@ -197,15 +132,15 @@
     },
     {
       "date": "2026-05-27T20:00:00-04:00",
-      "title": "Nore Davis, Peter Stewart, Bobby Condon, kyle mara, Derrell Meyers",
+      "title": "Peter Stewart, Tom Delgado, Lori Palminteri, kyle mara, Derrell Meyers",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br>Featuring<br>Nore Davis<br>Peter Stewart<br>Bobby Condon<br>kyle mara<br>Derrell Meyers",
+      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br><br><br>Featuring<br>Peter Stewart<br>Tom Delgado<br>Lori Palminteri<br>kyle mara<br>Derrell Meyers",
       "extraction_method": "json-ld",
-      "vendor": "Nore Davis, Peter Stewart, Bobby Condon, kyle mara, Derrell Meyers",
+      "vendor": "Peter Stewart, Tom Delgado, Lori Palminteri, kyle mara, Derrell Meyers",
       "location": "Eastville Comedy Club"
     },
     {
@@ -431,15 +366,15 @@
     },
     {
       "date": "2026-05-29T20:00:00-04:00",
-      "title": "Nore Davis, Peter Stewart, Will Purpura, Shannon Keye, Janeane Garofalo, Derrell Meyers",
+      "title": "Peter Stewart, Will Purpura, Shannon Keye, Cesh Reyes, Janeane Garofalo, Derrell Meyers",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br>Featuring<br>Nore Davis<br>Peter Stewart<br>Will Purpura<br>Shannon Keye<br>Janeane Garofalo<br>Derrell Meyers",
+      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br>Featuring<br>Peter Stewart<br>Will Purpura<br>Shannon Keye<br>Cesh Reyes<br>Janeane Garofalo<br>Derrell Meyers",
       "extraction_method": "json-ld",
-      "vendor": "Nore Davis, Peter Stewart, Will Purpura, Shannon Keye, Janeane Garofalo, Derrell Meyers",
+      "vendor": "Peter Stewart, Will Purpura, Shannon Keye, Cesh Reyes, Janeane Garofalo, Derrell Meyers",
       "location": "Eastville Comedy Club"
     },
     {
@@ -457,15 +392,15 @@
     },
     {
       "date": "2026-05-29T22:00:00-04:00",
-      "title": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, kyle mara, Neema Naz, Derrell Meyers",
+      "title": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, Neema Naz, Derrell Meyers",
       "venue": "Eastville Comedy Club",
       "start_time": "10:00 PM ET",
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p><br><br>Featuring<br>Doug Smith<br>Will Purpura<br>Adam Gulley<br>Cesh Reyes<br>kyle mara<br>Neema Naz<br>Derrell Meyers",
+      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br><br><br>Featuring<br>Doug Smith<br>Will Purpura<br>Adam Gulley<br>Cesh Reyes<br>Neema Naz<br>Derrell Meyers",
       "extraction_method": "json-ld",
-      "vendor": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, kyle mara, Neema Naz, Derrell Meyers",
+      "vendor": "Doug Smith, Will Purpura, Adam Gulley, Cesh Reyes, Neema Naz, Derrell Meyers",
       "location": "Eastville Comedy Club"
     },
     {
@@ -593,7 +528,7 @@
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br>(remainder of lineup coming soon)</p><br><br><br><br>Featuring<br>Peter Stewart<br>Matt Pena<br>Ray Zawodni<br>Cesh Reyes<br>Neema Naz",
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br>Featuring<br>Peter Stewart<br>Matt Pena<br>Ray Zawodni<br>Cesh Reyes<br>Neema Naz",
       "extraction_method": "json-ld",
       "vendor": "Peter Stewart, Matt Pena, Ray Zawodni, Cesh Reyes, Neema Naz",
       "location": "Eastville Comedy Club"
@@ -626,15 +561,15 @@
     },
     {
       "date": "2026-05-30T20:00:00-04:00",
-      "title": "James Mattern, Kareem Green, Caitlin Peluffo, Rachel Warden, Matt Pena, Trayvon Fulton, Janeane Garofalo",
+      "title": "James Mattern, Kareem Green, Rachel Warden, Matt Pena, Trayvon Fulton, Janeane Garofalo",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br>Featuring<br>James Mattern<br>Kareem Green<br>Caitlin Peluffo<br>Rachel Warden<br>Matt Pena<br>Trayvon Fulton<br>Janeane Garofalo",
+      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br><br>Featuring<br>James Mattern<br>Kareem Green<br>Rachel Warden<br>Matt Pena<br>Trayvon Fulton<br>Janeane Garofalo",
       "extraction_method": "json-ld",
-      "vendor": "James Mattern, Kareem Green, Caitlin Peluffo, Rachel Warden, Matt Pena, Trayvon Fulton, Janeane Garofalo",
+      "vendor": "James Mattern, Kareem Green, Rachel Warden, Matt Pena, Trayvon Fulton, Janeane Garofalo",
       "location": "Eastville Comedy Club"
     },
     {
@@ -645,7 +580,7 @@
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>Prime Time Comedy!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><br><br>",
+      "description": "<p dir=\"ltr\">Close The Door Behind You</p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p>Featuring<br>Vishnu Vaka<br><br><p><span><strong>Vishnu Vaka</strong> has recently been featured for Pete Lee at Carolines, he has also written dialogue for two Telugu (South Indian films). He had been touring with Josh Blue for the past few years as the feature, they were doing the two men show.<br><br></span></p>",
       "extraction_method": "json-ld",
       "vendor": "Close The Door Behind You",
       "location": "Eastville Comedy Club"
@@ -703,6 +638,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-01T00:00:00",
+      "title": "Frankenstein's Baby",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Frankenstein's Baby",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-06-01T10:00:00",
       "title": "Professional Sake Training: Sake Server Certification",
       "venue": "Industry City",
@@ -727,10 +675,23 @@
       "extraction_method": "html",
       "vendor": "The Light is Always Changing: Wild Shore New Music Presents Works by Eve Beglarian",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-06-02T20:00:00",
+      "title": "Child of the Church presents Idiot Plot",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Large ensemble known for their site-specific performances in NYC.",
+      "extraction_method": "html",
+      "vendor": "Child of the Church presents Idiot Plot",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-05-25T16:16:56.723758+00:00",
-  "total_events": 56,
+  "updated": "2026-05-26T06:16:19.179265+00:00",
+  "total_events": 53,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
