@@ -3330,6 +3330,19 @@
     },
     {
       "date": "2026-05-30T17:00:00+00:00",
+      "title": "The Met in HD: El \u00daltimo Sue\u00f1o de Frida y Diego at Bam Rose Cinemas in Fort Greene (ages 16+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "7:50 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "7:50 PM",
+      "description": "BAM Rose Cinemas",
+      "extraction_method": "api",
+      "vendor": "The Met in HD: El \u00daltimo Sue\u00f1o de Frida y Diego at Bam Rose Cinemas in Fort Greene (ages 16+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-30T17:00:00+00:00",
       "title": "\u2728 Open Hours Red Hook Pinball Museum in Red Hook (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -3417,6 +3430,19 @@
       "description": "Peaches Lewis",
       "extraction_method": "api",
       "vendor": "\ud83c\udf7d\ufe0f Tastes of Bed-Stuy 2026",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-30T18:00:00+00:00",
+      "title": "\ud83e\udeb7 Finding Grace Community Workshop at The Plaza at 300 Ashland in Fort Greene",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:15 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:15 PM",
+      "description": "The Plaza at 300 Ashland",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udeb7 Finding Grace Community Workshop at The Plaza at 300 Ashland in Fort Greene",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4824,6 +4850,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-06-02T16:00:00+00:00",
+      "title": "\ud83c\udfb6 Lunchtime Entertainment at The Commons \u2013 Te Encontro no Samba at Brooklyn Commons Park in Downtown Brooklyn",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Brooklyn Commons Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Lunchtime Entertainment at The Commons \u2013 Te Encontro no Samba at Brooklyn Commons Park in Downtown Brooklyn",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-06-02T17:00:00+00:00",
       "title": "\u2702\ufe0f Grab & Go Craft: Rainbow Mobile Craft at Leonard Library in Williamsburg (ages 5-12)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -5045,8 +5084,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-26T08:31:18.050185+00:00",
-  "total_events": 388,
+  "updated": "2026-05-26T14:31:00.470184+00:00",
+  "total_events": 391,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
