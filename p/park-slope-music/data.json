@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-26T00:00:00",
-      "title": "PRETTY  MAJOR Hosted by Jay Jurden",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "PRETTY  MAJOR Hosted by Jay Jurden",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-26T00:00:00",
-      "title": "Aaron Chen New Material Show",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Aaron Chen New Material Show",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-26T12:00:00+00:00",
-      "title": "FEEL THE SOUND PRESENTED BY KAYA MUSIC AND NAVYEAST(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "FEEL THE SOUND PRESENTED BY KAYA MUSIC AND NAVYEAST(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-26T19:30:00",
-      "title": "F-WORD TRIVIA(Trivia)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "F-WORD TRIVIA(Trivia)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-26T20:00:00",
-      "title": "Planet/Tear: Early Warning Systems with Char Jer\u00e9, Yehwan Song, Pap Souleye Fall, Sonia Rosa Kahn, Michael Candy, Maggie Boyd, S\u00e9an, Marcus Jahmal, Liz Zito, Taezoo Park, Braxton, C. Spencer Yeh, Brandon E., Rena Anakwe",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Video & sound artists explore animism, imagining a world where objects sense and communicate before humans recognize what is happening.",
-      "extraction_method": "html",
-      "vendor": "Planet/Tear: Early Warning Systems with Char Jer\u00e9, Yehwan Song, Pap Souleye Fall, Sonia Rosa Kahn, Michael Candy, Maggie Boyd, S\u00e9an, Marcus Jahmal, Liz Zito, Taezoo Park, Braxton, C. Spencer Yeh, Brandon E., Rena Anakwe",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-27T00:00:00",
       "title": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
       "venue": "Union Hall",
@@ -755,6 +690,32 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-06-02T00:00:00",
+      "title": "LOVE THAT: Hosted by Jessie Lee & Megan Rosenblum",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LOVE THAT: Hosted by Jessie Lee & Megan Rosenblum",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-02T00:00:00",
+      "title": "Jordan Klepper: New Goods",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Jordan Klepper: New Goods",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-06-02T12:00:00+00:00",
       "title": "ROB CANTILLON AND THE POCKET 10\u2019S(Music)",
       "venue": "Young Ethel's",
@@ -792,10 +753,36 @@
       "extraction_method": "html",
       "vendor": "Child of the Church presents Idiot Plot",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-06-03T18:00:00",
+      "title": "Zine Club",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Join us every two weeks for Zine Club, a gathering dedicated to DIY bookmaking, self-publishing, creative experimentation, and community. Whether you\u2019re new to zines or working on an ongoing project, this is a space to explore ideas, share work, and be creative in community with other artists, writers, activists, and creatives of all kinds.\nEach begins with a quick demo of a technique or process you might incorporate in your own work. Explore a wide range of materials and techniques available in our studio, including collage, drawing, image transfer, stenciling, and printmaking.\nZine Club is led by Lista Studios instructor Wil Bigio, a graphic designer, illustrator, and dedicated doodler based in New York.\nDetails:\nMeets every other Wednesday (first and third of the month) from 6:00 pm \u2013 8:30 pm\nBasic materials provided (paper, collage supplies, and printmaking tools)",
+      "extraction_method": "api",
+      "vendor": "Zine Club",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-06-03T20:00:00",
+      "title": "Being & Becoming + Voices",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Trumpeter's longstanding group is joined by virtuosic singers and instrumentalists for the US premiere of an abstract music-drama.",
+      "extraction_method": "html",
+      "vendor": "Being & Becoming + Voices",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-05-26T16:16:46.314858+00:00",
-  "total_events": 61,
+  "updated": "2026-05-27T06:16:17.866773+00:00",
+  "total_events": 60,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
