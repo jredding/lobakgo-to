@@ -1,97 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-27T00:00:00",
-      "title": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-27T12:00:00+00:00",
-      "title": "LATE NIGHT LAUGHS(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "LATE NIGHT LAUGHS(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-27T12:00:00+00:00",
-      "title": "BASS BOW WOW(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "BASS BOW WOW(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-27T19:00:00",
-      "title": "Bookbinding Workshop with Pashariko Bookbinding",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Bookbinding workshop with with Pashariko Bookbinding using all secondhand papers and materials.\nLearn some basic bookbinding with all secondhand papers and materials! In this evening workshop, we&#8217;ll be focusing in on the pamphlet. The pamphlet can become a little notebook for your pocket, a fun way to level up a zine, a perfect format for an artist book, a sweet gift, and so much more! We&#8217;ll talk about paper, different variations on the pamphlet stitch, and fun ways you can personalize and decorate your books. Spending an evening with your book has never been more hands on \ud83d\ude42\nThis workshop is hosted at Brooklyn Creative Reuse. 254 36th Street, 2nd Floor, Space C244. May 27th, 7-10pm.",
-      "extraction_method": "api",
-      "vendor": "Bookbinding Workshop with Pashariko Bookbinding",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-05-27T19:30:00",
-      "title": "WE HAVE FUN STAND-UP(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STAND-UP(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-27T20:00:00-04:00",
-      "title": "Peter Stewart, Tom Delgado, Lori Palminteri, kyle mara, Derrell Meyers",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br><br><br>Featuring<br>Peter Stewart<br>Tom Delgado<br>Lori Palminteri<br>kyle mara<br>Derrell Meyers",
-      "extraction_method": "json-ld",
-      "vendor": "Peter Stewart, Tom Delgado, Lori Palminteri, kyle mara, Derrell Meyers",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-05-27T20:00:00",
-      "title": "Eliza Salem with Eden Girma and Luke Marantz",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Roulette Commissioned artist and drummer presents new improvisational work.",
-      "extraction_method": "html",
-      "vendor": "Eliza Salem with Eden Girma and Luke Marantz",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-05-28T00:00:00",
       "title": "Sureni & Lovers",
       "venue": "Union Hall",
@@ -755,6 +664,19 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-06-03T00:00:00",
+      "title": "Cold Plunge with Kurt Braunohler",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Cold Plunge with Kurt Braunohler",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-06-03T18:00:00",
       "title": "Zine Club",
       "venue": "Industry City",
@@ -779,10 +701,23 @@
       "extraction_method": "html",
       "vendor": "Being & Becoming + Voices",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-06-04T20:00:00",
+      "title": "Pi Recordings 25th Anniversary Celebration: Marc Ribot solo // Steve Coleman and Five Elements (Night 1)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "A celebration featuring artists central to the label\u2019s history of championing innovative, boundary-defying music.",
+      "extraction_method": "html",
+      "vendor": "Pi Recordings 25th Anniversary Celebration: Marc Ribot solo // Steve Coleman and Five Elements (Night 1)",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-05-27T06:16:17.866773+00:00",
-  "total_events": 60,
+  "updated": "2026-05-28T06:16:40.841963+00:00",
+  "total_events": 55,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
