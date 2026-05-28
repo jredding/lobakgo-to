@@ -1835,19 +1835,6 @@
     },
     {
       "date": "2026-05-30T15:00:00+00:00",
-      "title": "\ud83d\udeb2 Bike Day at Bartel-Pritchard Square in Prospect Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Bartel-Pritchard Square",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udeb2 Bike Day at Bartel-Pritchard Square in Prospect Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-30T15:00:00+00:00",
       "title": "\ud83d\udeb4\ud83c\udffb FREE Helmet Giveaways at The Parade Grounds of Prospect Park",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -1861,15 +1848,28 @@
     },
     {
       "date": "2026-05-30T15:00:00+00:00",
-      "title": "\ud83e\udd38\ud83c\udffd\u200d\u2642\ufe0f Zing! Movement Class at Hoyt Open Streets in Boerum Hill",
+      "title": "\ud83e\udd38\ud83c\udffd\u200d\u2642\ufe0f Free Zing! Movement Class at Hoyt Open Streets in Boerum Hill",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
-      "end_time": "7:00 PM ET",
+      "end_time": "5:00 PM ET",
       "start_time_raw": "3:00 PM",
-      "end_time_raw": "7:00 PM",
+      "end_time_raw": "5:00 PM",
       "description": "Hoyt Open Street",
       "extraction_method": "api",
-      "vendor": "\ud83e\udd38\ud83c\udffd\u200d\u2642\ufe0f Zing! Movement Class at Hoyt Open Streets in Boerum Hill",
+      "vendor": "\ud83e\udd38\ud83c\udffd\u200d\u2642\ufe0f Free Zing! Movement Class at Hoyt Open Streets in Boerum Hill",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-30T15:00:00+00:00",
+      "title": "\ud83d\udeb2 Bike Day in Prospect Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Bartel-Pritchard Square",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udeb2 Bike Day in Prospect Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2030,6 +2030,19 @@
     },
     {
       "date": "2026-05-30T16:00:00+00:00",
+      "title": "\ud83c\udfa8 ART360: The Spring Social at Fowler Square Plaza in Fort Greene",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Fowler Square",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 ART360: The Spring Social at Fowler Square Plaza in Fort Greene",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-30T16:00:00+00:00",
       "title": "\ud83d\udefc Saturday Public Skating at Brooklyn Bridge Park - Pier 2 Roller Rink",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -2082,19 +2095,6 @@
     },
     {
       "date": "2026-05-30T16:00:00+00:00",
-      "title": "\ud83c\udf89 McCarren Park Block Party + Rally for Car-Free Parks at McCarren Park in",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": null,
-      "description": "McCarren Park",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf89 McCarren Park Block Party + Rally for Car-Free Parks at McCarren Park in",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-30T16:00:00+00:00",
       "title": "\ud83e\udeb8 Art Build for the Mermaid Parade at Greenpoint Library",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -2117,6 +2117,19 @@
       "description": "Huntington Street",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 OVERFLOW: A Youth Art, Music & Culture Festival in Gowanus (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-30T16:00:00+00:00",
+      "title": "\ud83c\udf89 McCarren Park Block Party + Rally for Car-Free Parks in Williamsburg",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": null,
+      "description": "McCarren Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 McCarren Park Block Party + Rally for Car-Free Parks in Williamsburg",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2342,6 +2355,19 @@
     },
     {
       "date": "2026-05-30T18:00:00+00:00",
+      "title": "\ud83c\udfad Park Slope Open Streets: Imagination & Play (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "6:00 PM ET",
+      "end_time": "2:00 AM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "2:00 AM",
+      "description": "Park Slope Open Streets",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfad Park Slope Open Streets: Imagination & Play (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-30T18:00:00+00:00",
       "title": "\ud83c\udfb6 Family Biz: A Dance Party for Kids & Their Grown-ups at Friends & Lovers in Crown Heights (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "6:00 PM ET",
@@ -2351,19 +2377,6 @@
       "description": "Friends and Lovers",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Family Biz: A Dance Party for Kids & Their Grown-ups at Friends & Lovers in Crown Heights (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-30T18:00:00+00:00",
-      "title": "\ud83c\udfad Park Slope Open Streets: Imagination & Play (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "6:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Old Stone House of Brooklyn",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfad Park Slope Open Streets: Imagination & Play (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2377,6 +2390,32 @@
       "description": "Central Library",
       "extraction_method": "api",
       "vendor": "\u265f\ufe0fChess Workshop at Central Library in Prospect Heights (ages 6+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-30T19:00:00+00:00",
+      "title": "\ud83c\udfb6 Future Heads: A Mini Massive Day Party for Kids & Kids at Heart at Willows Tavern in Ridgewood",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Willows Tavern",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Future Heads: A Mini Massive Day Party for Kids & Kids at Heart at Willows Tavern in Ridgewood",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-30T19:00:00+00:00",
+      "title": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3) (Copy)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Private Picassos - Clinton Hill",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Rocking Chair Sing & Drum Along Class at Private Picassos in Clinton Hill (ages 0-3) (Copy)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2468,6 +2507,19 @@
       "description": "LeFrak Center at Lakeside in Prospect Park",
       "extraction_method": "api",
       "vendor": "\ud83d\udefc Roller Skating at LeFrak Center at Lakeside Ice Rink (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-31T00:30:00+00:00",
+      "title": "\ud83c\udfa5 Movies Under the Stars: Superman (2025) at Rappaport Playground in Borough Park (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "12:30 AM ET",
+      "end_time": "2:30 AM ET",
+      "start_time_raw": "12:30 AM",
+      "end_time_raw": "2:30 AM",
+      "description": "Rappaport Playground",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa5 Movies Under the Stars: Superman (2025) at Rappaport Playground in Borough Park (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2797,19 +2849,6 @@
     },
     {
       "date": "2026-05-31T15:00:00+00:00",
-      "title": "\ud83e\udd38\ud83c\udffd\u200d\u2642\ufe0f Family Adventure Play at 5th Wall Studio in Williamsburg (ages 0-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "4:30 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "4:30 PM",
-      "description": "5th Wall Studio",
-      "extraction_method": "api",
-      "vendor": "\ud83e\udd38\ud83c\udffd\u200d\u2642\ufe0f Family Adventure Play at 5th Wall Studio in Williamsburg (ages 0-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-31T15:00:00+00:00",
       "title": "\ud83d\udcda Spring Family Story Time at Brooklyn Botanic Garden in Prospect Heights (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -2819,6 +2858,19 @@
       "description": "Brooklyn Botanic Garden",
       "extraction_method": "api",
       "vendor": "\ud83d\udcda Spring Family Story Time at Brooklyn Botanic Garden in Prospect Heights (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-31T15:00:00+00:00",
+      "title": "sold out \ud83e\udd38\ud83c\udffd\u200d\u2642\ufe0f Family Adventure Play at 5th Wall Studio in Williamsburg",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:30 PM",
+      "description": "5th Wall Studio",
+      "extraction_method": "api",
+      "vendor": "sold out \ud83e\udd38\ud83c\udffd\u200d\u2642\ufe0f Family Adventure Play at 5th Wall Studio in Williamsburg",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2927,19 +2979,6 @@
     },
     {
       "date": "2026-05-31T16:00:00+00:00",
-      "title": "\ud83c\udf1e Montague Knows Car-Free Montague Street in Brooklyn Heights (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Montague Open Streets",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf1e Montague Knows Car-Free Montague Street in Brooklyn Heights (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-05-31T16:00:00+00:00",
       "title": "\ud83d\udde3\ufe0f Columbus Park Rally: Parks are for People in Downtown BK (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -2949,6 +2988,19 @@
       "description": "Columbus Park",
       "extraction_method": "api",
       "vendor": "\ud83d\udde3\ufe0f Columbus Park Rally: Parks are for People in Downtown BK (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-31T16:00:00+00:00",
+      "title": "\ud83c\udf1e Montague Knows Car-Free Montague Street in Brooklyn Heights (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Montague Open Streets",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf1e Montague Knows Car-Free Montague Street in Brooklyn Heights (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3044,6 +3096,19 @@
     },
     {
       "date": "2026-05-31T17:00:00+00:00",
+      "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Inclusive Pride Family Day: Pride in Space! at Intrepid Sea, Air & Space Museum in Hell's Kitchen (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Intrepid Sea, Air and Space Museum",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Inclusive Pride Family Day: Pride in Space! at Intrepid Sea, Air & Space Museum in Hell's Kitchen (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-31T17:00:00+00:00",
       "title": "\ud83c\udf7d\ufe0f The Longest Table Greenpoint on Russell Street",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -3108,6 +3173,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-05-31T19:00:00+00:00",
+      "title": "Backyard Clothing Swap at Sunset Stoop in Sunset Park (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "12:00 AM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "12:00 AM",
+      "description": "Sunset Stoop",
+      "extraction_method": "api",
+      "vendor": "Backyard Clothing Swap at Sunset Stoop in Sunset Park (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-05-31T19:30:00+00:00",
       "title": "\u26f5 Mubadala New York Sail Grand Prix on Governors Island (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -3144,6 +3222,19 @@
       "description": "Burrito Bar and Kitchen",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 Free face painting at Burrito Bar and Kitchen in Prospect Heights",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-05-31T23:00:00+00:00",
+      "title": "De Yun She 30th Anniversary Cross-Talk World Tour at Kings Theatre in Flatbush",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "11:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": null,
+      "description": "Kings Theatre",
+      "extraction_method": "api",
+      "vendor": "De Yun She 30th Anniversary Cross-Talk World Tour at Kings Theatre in Flatbush",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3798,6 +3889,19 @@
     },
     {
       "date": "2026-06-02T14:30:00+00:00",
+      "title": "\ud83e\udeb4Plants on the Plaza at Central Library in Prospect Heights (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "3:30 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "3:30 PM",
+      "description": "Central Library Plaza",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udeb4Plants on the Plaza at Central Library in Prospect Heights (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-02T14:30:00+00:00",
       "title": "\ud83c\udfb6 Stomp, Clap and Sing with Hopalong Andrew at Central Library in Prospect Heights (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -3811,7 +3915,7 @@
     },
     {
       "date": "2026-06-02T15:00:00+00:00",
-      "title": "\ud83c\uddec\ud83c\uddf7  50th Anniversary of The Brooklyn Greek Festival on Schermerhorn Street in Downtown BK (all ages)",
+      "title": "\ufffd\ufffd\ufffd\ud83c\uddf7  50th Anniversary of The Brooklyn Greek Festival on Schermerhorn Street in Downtown BK (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
       "end_time": "1:00 AM ET",
@@ -3819,7 +3923,7 @@
       "end_time_raw": "1:00 AM",
       "description": "Brooklyn Greek Festival",
       "extraction_method": "api",
-      "vendor": "\ud83c\uddec\ud83c\uddf7  50th Anniversary of The Brooklyn Greek Festival on Schermerhorn Street in Downtown BK (all ages)",
+      "vendor": "\ufffd\ufffd\ufffd\ud83c\uddf7  50th Anniversary of The Brooklyn Greek Festival on Schermerhorn Street in Downtown BK (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5253,8 +5357,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-28T12:30:39.606868+00:00",
-  "total_events": 404,
+  "updated": "2026-05-28T14:31:31.236255+00:00",
+  "total_events": 412,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
