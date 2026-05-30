@@ -261,6 +261,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-31T18:30:00",
+      "title": "Asian American Film Thing: Shorts, Comedy & Performances",
+      "venue": "Littlefield",
+      "start_time": "6:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "A curated night of Asian American short films, live performances, and community at littlefield to close out AAPI Month.",
+      "extraction_method": "api",
+      "vendor": "Asian American Film Thing: Shorts, Comedy & Performances",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-31T21:30:00",
       "title": "THE BUCK AND A QUARTER QUARTET(Music)",
       "venue": "Young Ethel's",
@@ -340,6 +353,19 @@
     },
     {
       "date": "2026-06-01T20:00:00",
+      "title": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "David Cross is building his next hour of standup \u2014\u00a0and you get to see it!",
+      "extraction_method": "api",
+      "vendor": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-01T20:00:00",
       "title": "The Light is Always Changing: Wild Shore New Music Presents Works by Eve Beglarian",
       "venue": "Roulette",
       "start_time": null,
@@ -402,6 +428,19 @@
       "extraction_method": "html",
       "vendor": "52 FILMS PRESENTS(Screening)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-02T20:00:00",
+      "title": "Jenny Hagel Gives Advice Book Launch",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Jenny Hagel is an Emmy-nominated writer/performer for Late Night w/ Seth Meyers, & she loves two things: comedy & telling people what to do!",
+      "extraction_method": "api",
+      "vendor": "Jenny Hagel Gives Advice Book Launch",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-02T20:00:00",
@@ -483,6 +522,19 @@
     },
     {
       "date": "2026-06-04T20:00:00",
+      "title": "LPR Presents: Patriarchy",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "LPR Presents industrial synth-pop project Patriarchy live at Littlefield on June 4.",
+      "extraction_method": "api",
+      "vendor": "LPR Presents: Patriarchy",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-04T20:00:00",
       "title": "Pi Recordings 25th Anniversary Celebration: Marc Ribot solo // Steve Coleman and Five Elements (Night 1)",
       "venue": "Roulette",
       "start_time": null,
@@ -521,6 +573,32 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-05T00:00:00",
+      "title": "KARAOKE TREMENDOUS",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "KARAOKE TREMENDOUS",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-05T18:45:00",
+      "title": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "venue": "Littlefield",
+      "start_time": "6:45 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "6:45 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Hey friends, I'm super excited to be sharing this night with you, I'm taping my first special ever, a compilation of all my best material.",
+      "extraction_method": "api",
+      "vendor": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-05T19:00:00",
       "title": "Upcycled Plastic Earring Workshop",
       "venue": "Industry City",
@@ -547,6 +625,32 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-06-05T21:00:00",
+      "title": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "venue": "Littlefield",
+      "start_time": "9:00 PM ET",
+      "end_time": "10:15 PM ET",
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": "10:15 PM",
+      "description": "Hey friends, I'm super excited to be sharing this night with you, I'm taping my first special ever, a compilation of all my best material.",
+      "extraction_method": "api",
+      "vendor": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-05T23:00:00",
+      "title": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Wildest Soca & Dancehall Party",
+      "extraction_method": "api",
+      "vendor": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-06T16:30:00",
       "title": "Industry City Gourmet Food and Drinks Tour",
       "venue": "Industry City",
@@ -558,17 +662,28 @@
       "extraction_method": "api",
       "vendor": "Industry City Gourmet Food and Drinks Tour",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-06-06T19:30:00",
+      "title": "The 6th Annual Tootsie's Video Vault",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Tootsie\u2019s Video Vault is a short film festival in its 6th year!",
+      "extraction_method": "api",
+      "vendor": "The 6th Annual Tootsie's Video Vault",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-05-30T06:16:09.657220+00:00",
-  "total_events": 43,
+  "updated": "2026-05-30T08:16:23.110844+00:00",
+  "total_events": 52,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
