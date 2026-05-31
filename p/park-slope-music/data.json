@@ -417,6 +417,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-06T00:00:00",
+      "title": "Young Adult Friction: an indie + alt dance party",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Young Adult Friction: an indie + alt dance party",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-06-06T16:30:00",
       "title": "Industry City Gourmet Food and Drinks Tour",
       "venue": "Industry City",
@@ -469,8 +482,8 @@
       "location": "Roulette"
     }
   ],
-  "updated": "2026-05-31T06:16:42.761254+00:00",
-  "total_events": 36,
+  "updated": "2026-05-31T08:16:20.275628+00:00",
+  "total_events": 37,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
