@@ -79,6 +79,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-05-31T18:30:00",
+      "title": "Asian American Film Thing: Shorts, Comedy & Performances",
+      "venue": "Littlefield",
+      "start_time": "6:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "A curated night of Asian American short films, live performances, and community at littlefield to close out AAPI Month.",
+      "extraction_method": "api",
+      "vendor": "Asian American Film Thing: Shorts, Comedy & Performances",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-05-31T21:30:00",
       "title": "THE BUCK AND A QUARTER QUARTET(Music)",
       "venue": "Young Ethel's",
@@ -158,6 +171,19 @@
     },
     {
       "date": "2026-06-01T20:00:00",
+      "title": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "David Cross is building his next hour of standup \u2014\u00a0and you get to see it!",
+      "extraction_method": "api",
+      "vendor": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-01T20:00:00",
       "title": "The Light is Always Changing: Wild Shore New Music Presents Works by Eve Beglarian",
       "venue": "Roulette",
       "start_time": null,
@@ -220,6 +246,19 @@
       "extraction_method": "html",
       "vendor": "52 FILMS PRESENTS(Screening)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-02T20:00:00",
+      "title": "Jenny Hagel Gives Advice Book Launch",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Jenny Hagel is an Emmy-nominated writer/performer for Late Night w/ Seth Meyers, & she loves two things: comedy & telling people what to do!",
+      "extraction_method": "api",
+      "vendor": "Jenny Hagel Gives Advice Book Launch",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-02T20:00:00",
@@ -301,6 +340,19 @@
     },
     {
       "date": "2026-06-04T20:00:00",
+      "title": "LPR Presents: Patriarchy",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "LPR Presents industrial synth-pop project Patriarchy live at Littlefield on June 4.",
+      "extraction_method": "api",
+      "vendor": "LPR Presents: Patriarchy",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-04T20:00:00",
       "title": "Pi Recordings 25th Anniversary Celebration: Marc Ribot solo // Steve Coleman and Five Elements (Night 1)",
       "venue": "Roulette",
       "start_time": null,
@@ -352,6 +404,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-05T18:45:00",
+      "title": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "venue": "Littlefield",
+      "start_time": "6:45 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "6:45 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Hey friends, I'm super excited to be sharing this night with you, I'm taping my first special ever, a compilation of all my best material.",
+      "extraction_method": "api",
+      "vendor": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-05T19:00:00",
       "title": "Upcycled Plastic Earring Workshop",
       "venue": "Industry City",
@@ -376,6 +441,32 @@
       "extraction_method": "html",
       "vendor": "Pi Recordings 25th Anniversary Celebration: Tyshawn Sorey Trio // Matt Mitchell New Quartet (Night 2)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-06-05T21:00:00",
+      "title": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "venue": "Littlefield",
+      "start_time": "9:00 PM ET",
+      "end_time": "10:15 PM ET",
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": "10:15 PM",
+      "description": "Hey friends, I'm super excited to be sharing this night with you, I'm taping my first special ever, a compilation of all my best material.",
+      "extraction_method": "api",
+      "vendor": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-05T23:00:00",
+      "title": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Wildest Soca & Dancehall Party",
+      "extraction_method": "api",
+      "vendor": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-06T00:00:00",
@@ -443,6 +534,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-06T19:30:00",
+      "title": "The 6th Annual Tootsie's Video Vault",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Tootsie\u2019s Video Vault is a short film festival in its 6th year!",
+      "extraction_method": "api",
+      "vendor": "The 6th Annual Tootsie's Video Vault",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-07T14:00:00",
       "title": "Half Step &#8211; Grateful Dead Tribute",
       "venue": "Industry City",
@@ -469,6 +573,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-07T19:30:00",
+      "title": "Do You Still Like Me? A Comedy Dating Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A live comedy dating show where comics perform for their blind dates before asking the big question: Do you still like me?",
+      "extraction_method": "api",
+      "vendor": "Do You Still Like Me? A Comedy Dating Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-07T20:00:00",
       "title": "Gamelan Dharma Swara // Charmaine Lee",
       "venue": "Roulette",
@@ -482,15 +599,13 @@
       "location": "Roulette"
     }
   ],
-  "updated": "2026-05-31T08:16:20.275628+00:00",
-  "total_events": 37,
+  "updated": "2026-05-31T14:15:55.216939+00:00",
+  "total_events": 46,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
