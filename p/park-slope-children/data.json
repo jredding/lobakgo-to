@@ -4253,6 +4253,19 @@
     },
     {
       "date": "2026-06-06T15:00:00+00:00",
+      "title": "\ud83d\udcda Storytime w/ Matthew Burgess & Robin Rosenthal: Serafina Makes Waves at Books Are Magic Montague in Brooklyn Heights (ages 3-7)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "3:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "3:30 PM",
+      "description": "Books Are Magic - Montague",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcda Storytime w/ Matthew Burgess & Robin Rosenthal: Serafina Makes Waves at Books Are Magic Montague in Brooklyn Heights (ages 3-7)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-06T15:00:00+00:00",
       "title": "\ud83d\udcda Saturday Storytime at Barnes & Noble \u2013 Atlantic Ave. in Cobble Hill (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -4327,6 +4340,19 @@
       "description": "Brooklyn Book Bodega Book Hub",
       "extraction_method": "api",
       "vendor": "\ud83d\udcda Book Bodega Community Day at the Book Hub in Brooklyn Navy Yard (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-06T15:00:00+00:00",
+      "title": "\ud83e\udef6 Park Pitch In: National Trails Day at Prospect Park in PLG (ages 13+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83e\udef6 Park Pitch In: National Trails Day at Prospect Park in PLG (ages 13+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4821,6 +4847,19 @@
       "description": "Patchen Community Square Garden",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa5 Neighborhood Film Night at Patchen Square Garden in Bed-Stuy (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-06T23:00:00+00:00",
+      "title": "\ud83e\uddb8\ud83c\udffb\u200d\u2640\ufe0f (Un)Masked Ball! Brooklyn Pride Comic Book Fair After Party 2026 at Anyone Comics in Crown Heights (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "11:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": null,
+      "description": "Anyone Comics",
+      "extraction_method": "api",
+      "vendor": "\ud83e\uddb8\ud83c\udffb\u200d\u2640\ufe0f (Un)Masked Ball! Brooklyn Pride Comic Book Fair After Party 2026 at Anyone Comics in Crown Heights (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5513,8 +5552,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-31T14:30:52.060785+00:00",
-  "total_events": 424,
+  "updated": "2026-05-31T16:31:54.562274+00:00",
+  "total_events": 427,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
