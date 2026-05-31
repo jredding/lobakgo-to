@@ -3434,7 +3434,7 @@
     },
     {
       "date": "2026-06-05T14:30:00+00:00",
-      "title": "\ufffd\ufffd\ufffd Audra Rox: Music for Aardvarks at A Rosie Day in Williamsburg (ages 0-4)",
+      "title": "\ud83c\udfb5 Audra Rox: Music for Aardvarks at A Rosie Day in Williamsburg (ages 0-4)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": null,
@@ -3442,7 +3442,7 @@
       "end_time_raw": null,
       "description": "A Rosie Day",
       "extraction_method": "api",
-      "vendor": "\ufffd\ufffd\ufffd Audra Rox: Music for Aardvarks at A Rosie Day in Williamsburg (ages 0-4)",
+      "vendor": "\ud83c\udfb5 Audra Rox: Music for Aardvarks at A Rosie Day in Williamsburg (ages 0-4)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5513,7 +5513,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-05-31T10:31:55.631481+00:00",
+  "updated": "2026-05-31T14:30:52.060785+00:00",
   "total_events": 424,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
