@@ -1,97 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-31T00:00:00",
-      "title": "**CANCELLED** (CLASS) Real Smart Chess",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "**CANCELLED** (CLASS) Real Smart Chess",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-31T00:00:00",
-      "title": "Sydnee Washington: My Black Barbie Story",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Sydnee Washington: My Black Barbie Story",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-31T00:00:00",
-      "title": "Francesco De Carlo - Live in New York",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Francesco De Carlo - Live in New York",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-05-31T12:00:00+00:00",
-      "title": "F*CK FASCISM FESTIVAL(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "3:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "F*CK FASCISM FESTIVAL(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-31T12:00:00+00:00",
-      "title": "TRAD JAZZ JAM(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRAD JAZZ JAM(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-05-31T14:00:00",
-      "title": "Minglewood Plays Music of Grateful Dead",
-      "venue": "Industry City",
-      "start_time": "2:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Tickets: https://wl.eventim.us/Getitrightthefirsttime\nEach ticket purchase includes a 12-ounce beer, 7 ounce wine, well cocktail or Non-alcoholic beverage. Additional beverages can be purchased for reasonable prices!\nIndustry City and Get It Right Music in association with Murmrr Presents are thrilled to present Minglewood Plays Grateful Dead. Minglewood is a high-energy jam band performing the music of Jerry Garcia and the Grateful Dead. Come enjoy the afternoon outside with deeply improvisational and experimental interpretations of these timeless pieces of the American songbook.\nEvent Info\nDate: May 31, 2026\nDoors: 1:45pm\nSet 1: 2:00pm\nSet 2: 3:45pm\nTickets: $15 per person plus fees (each ticket includes a beer, wine, well cocktail or NA beverage!)\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.",
-      "extraction_method": "api",
-      "vendor": "Minglewood Plays Music of Grateful Dead",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-05-31T21:30:00",
-      "title": "THE BUCK AND A QUARTER QUARTET(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THE BUCK AND A QUARTER QUARTET(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-06-01T00:00:00",
       "title": "Frankenstein's Baby",
       "venue": "Union Hall",
@@ -155,6 +64,19 @@
       "extraction_method": "html",
       "vendor": "DOODLE MIC(Open mic)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-01T20:00:00",
+      "title": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "David Cross is building his next hour of standup \u2014\u00a0and you get to see it!",
+      "extraction_method": "api",
+      "vendor": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-01T20:00:00",
@@ -223,6 +145,19 @@
     },
     {
       "date": "2026-06-02T20:00:00",
+      "title": "Jenny Hagel Gives Advice Book Launch",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Jenny Hagel is an Emmy-nominated writer/performer for Late Night w/ Seth Meyers, & she loves two things: comedy & telling people what to do!",
+      "extraction_method": "api",
+      "vendor": "Jenny Hagel Gives Advice Book Launch",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-02T20:00:00",
       "title": "Child of the Church presents Idiot Plot",
       "venue": "Roulette",
       "start_time": null,
@@ -259,6 +194,19 @@
       "extraction_method": "api",
       "vendor": "Zine Club",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-06-03T20:00:00-04:00",
+      "title": "Kate Willett, Tom Delgado, Max Lowe, Lana Seibel, Derrell Meyers",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br>Featuring<br>Kate Willett<br>Tom Delgado<br>Max Lowe<br>Lana Seibel<br>Derrell Meyers",
+      "extraction_method": "json-ld",
+      "vendor": "Kate Willett, Tom Delgado, Max Lowe, Lana Seibel, Derrell Meyers",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-06-03T20:00:00",
@@ -298,6 +246,32 @@
       "extraction_method": "html",
       "vendor": "Tiny Idea & Friends",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-04T20:00:00",
+      "title": "LPR Presents: Patriarchy",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "LPR Presents industrial synth-pop project Patriarchy live at Littlefield on June 4.",
+      "extraction_method": "api",
+      "vendor": "LPR Presents: Patriarchy",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-04T20:00:00-04:00",
+      "title": "Corinne Fisher, Doug Smith, Peter Stewart, Tom Delgado, Derrell Meyers",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>Weekend Warmup comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br>Featuring<br>Corinne Fisher<br>Doug Smith<br>Peter Stewart<br>Tom Delgado<br>Derrell Meyers",
+      "extraction_method": "json-ld",
+      "vendor": "Corinne Fisher, Doug Smith, Peter Stewart, Tom Delgado, Derrell Meyers",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-06-04T20:00:00",
@@ -352,6 +326,32 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-05T18:00:00-04:00",
+      "title": "Kareem Green, Liam Dalton, Cesh Reyes, Harry Terjanian, Max Moacanin",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br><br><br><br>Featuring<br>Kareem Green<br>Liam Dalton<br>Cesh Reyes<br>Harry Terjanian<br>Max Moacanin",
+      "extraction_method": "json-ld",
+      "vendor": "Kareem Green, Liam Dalton, Cesh Reyes, Harry Terjanian, Max Moacanin",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-05T18:45:00",
+      "title": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "venue": "Littlefield",
+      "start_time": "6:45 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "6:45 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Hey friends, I'm super excited to be sharing this night with you, I'm taping my first special ever, a compilation of all my best material.",
+      "extraction_method": "api",
+      "vendor": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-05T19:00:00",
       "title": "Upcycled Plastic Earring Workshop",
       "venue": "Industry City",
@@ -365,6 +365,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-05T20:00:00-04:00",
+      "title": "Kendra Cunningham, Max Lowe, Matt Wayne, kyle mara, Neema Naz",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><br><br>Featuring<br>Kendra Cunningham<br>Max Lowe<br>Matt Wayne<br>kyle mara<br>Neema Naz",
+      "extraction_method": "json-ld",
+      "vendor": "Kendra Cunningham, Max Lowe, Matt Wayne, kyle mara, Neema Naz",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-06-05T20:00:00",
       "title": "Pi Recordings 25th Anniversary Celebration: Tyshawn Sorey Trio // Matt Mitchell New Quartet (Night 2)",
       "venue": "Roulette",
@@ -376,6 +389,45 @@
       "extraction_method": "html",
       "vendor": "Pi Recordings 25th Anniversary Celebration: Tyshawn Sorey Trio // Matt Mitchell New Quartet (Night 2)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-06-05T21:00:00",
+      "title": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "venue": "Littlefield",
+      "start_time": "9:00 PM ET",
+      "end_time": "10:15 PM ET",
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": "10:15 PM",
+      "description": "Hey friends, I'm super excited to be sharing this night with you, I'm taping my first special ever, a compilation of all my best material.",
+      "extraction_method": "api",
+      "vendor": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-05T22:00:00-04:00",
+      "title": "Nore Davis, Doug Smith, Dina Hashem, Matt Wayne, Cesh Reyes",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><br><br><br><br>Featuring<br>Nore Davis<br>Doug Smith<br>Dina Hashem<br>Matt Wayne<br>Cesh Reyes",
+      "extraction_method": "json-ld",
+      "vendor": "Nore Davis, Doug Smith, Dina Hashem, Matt Wayne, Cesh Reyes",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-05T23:00:00",
+      "title": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Wildest Soca & Dancehall Party",
+      "extraction_method": "api",
+      "vendor": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-06T00:00:00",
@@ -443,6 +495,71 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-06T18:00:00-04:00",
+      "title": "Alingon Mitra, Talal Alyan, Liam Dalton, Amanda Giles, Bobby Condon",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p><br><br>Featuring<br>Alingon Mitra<br>Talal Alyan<br>Liam Dalton<br>Amanda Giles<br>Bobby Condon",
+      "extraction_method": "json-ld",
+      "vendor": "Alingon Mitra, Talal Alyan, Liam Dalton, Amanda Giles, Bobby Condon",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-06T19:30:00",
+      "title": "The 6th Annual Tootsie's Video Vault",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Tootsie\u2019s Video Vault is a short film festival in its 6th year!",
+      "extraction_method": "api",
+      "vendor": "The 6th Annual Tootsie's Video Vault",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-06T20:00:00-04:00",
+      "title": "Kareem Green, Doug Smith, Matt Pena, Isabel Hagen",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><br><br>Featuring<br>Kareem Green<br>Doug Smith<br>Matt Pena<br>Isabel Hagen",
+      "extraction_method": "json-ld",
+      "vendor": "Kareem Green, Doug Smith, Matt Pena, Isabel Hagen",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-06T22:00:00-04:00",
+      "title": "Reggie Conquest, Doug Smith, Matt Pena, Neema Naz",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>Prime Time Comedy!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><br><br>Featuring<br>Reggie Conquest<br>Doug Smith<br>Matt Pena<br>Neema Naz",
+      "extraction_method": "json-ld",
+      "vendor": "Reggie Conquest, Doug Smith, Matt Pena, Neema Naz",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-07T00:00:00",
+      "title": "NIGHT SWEATS with Mark Little",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NIGHT SWEATS with Mark Little",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-06-07T14:00:00",
       "title": "Half Step &#8211; Grateful Dead Tribute",
       "venue": "Industry City",
@@ -469,6 +586,32 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-07T18:00:00-04:00",
+      "title": "Blkrose Productions Presents: Isiah Kelly, Sydney Castillo, Just Nesh Hosted By Sinck",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Doors open at 5:30PM<span><br></span><br><span><strong>Sydney Castillo</strong> is a stand-up comedian, actor, producer, and writer. He most recently wrote on HBO&rsquo;s &quot;Game Theory&quot; and VH1&rsquo;s &quot;Celebrity Squares.&quot; He was part of the most recent season of &quot;Wild N&#39; Out.&quot; Sydney&#39;s written for and appeared in numerous shows, ranging from the BET Awards, Comedy Central&#39;s &quot;Hood Adjacent&quot; and &quot;Marlon&quot; on NBC, now airing on Netflix. Sydney&rsquo;s stand-up can be seen on HBO MAX&rsquo;S &quot;The Headliners,&quot; and can be seen headlining around the country.</span><br><br><strong>Featuring</strong><br>Isiah Kelly<br>Sydney Castillo<br>Just Nesh",
+      "extraction_method": "json-ld",
+      "vendor": "Blkrose Productions Presents: Isiah Kelly, Sydney Castillo, Just Nesh Hosted By Sinck",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-07T19:30:00",
+      "title": "Do You Still Like Me? A Comedy Dating Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A live comedy dating show where comics perform for their blind dates before asking the big question: Do you still like me?",
+      "extraction_method": "api",
+      "vendor": "Do You Still Like Me? A Comedy Dating Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-07T20:00:00",
       "title": "Gamelan Dharma Swara // Charmaine Lee",
       "venue": "Roulette",
@@ -480,17 +623,41 @@
       "extraction_method": "html",
       "vendor": "Gamelan Dharma Swara // Charmaine Lee",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-06-08T00:00:00",
+      "title": "Dog and Pony with Lily Armstrong and Michael Abber",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Dog and Pony with Lily Armstrong and Michael Abber",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-08T19:30:00",
+      "title": "Brooklyn Pride Comedy Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Come gay, leave gagging! Brooklyn Pride Comedy is the messy, sexy, hilarious night out you DESERVE!",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Pride Comedy Show",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-05-31T16:16:43.235527+00:00",
-  "total_events": 37,
+  "updated": "2026-06-01T06:17:12.066813+00:00",
+  "total_events": 50,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
