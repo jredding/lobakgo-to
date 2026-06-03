@@ -652,7 +652,7 @@
     },
     {
       "date": "2026-06-03T22:00:00+00:00",
-      "title": "\ufffd\ufffd Young Adult Group at Greenlight Bookstore in Fort Greene (ages 13+)",
+      "title": "\ud83d\udcda Young Adult Group at Greenlight Bookstore in Fort Greene (ages 13+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "10:00 PM ET",
       "end_time": "11:00 PM ET",
@@ -660,7 +660,7 @@
       "end_time_raw": "11:00 PM",
       "description": "Greenlight Bookstore",
       "extraction_method": "api",
-      "vendor": "\ufffd\ufffd Young Adult Group at Greenlight Bookstore in Fort Greene (ages 13+)",
+      "vendor": "\ud83d\udcda Young Adult Group at Greenlight Bookstore in Fort Greene (ages 13+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5539,7 +5539,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-06-03T08:32:03.662770+00:00",
+  "updated": "2026-06-03T10:31:14.025260+00:00",
   "total_events": 426,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
