@@ -5436,7 +5436,7 @@
     },
     {
       "date": "2026-06-10T19:30:00+00:00",
-      "title": "\ufffd\ufffd\ufffd\ufffd Ramblin' Dan's Freewheelin' Band at OneYogaHouse in Brooklyn Heights (ages 0-3)",
+      "title": "\ud83c\udfb6 Ramblin' Dan's Freewheelin' Band at OneYogaHouse in Brooklyn Heights (ages 0-3)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:30 PM ET",
       "end_time": "9:15 PM ET",
@@ -5444,7 +5444,7 @@
       "end_time_raw": "9:15 PM",
       "description": "OneYogaHouse",
       "extraction_method": "api",
-      "vendor": "\ufffd\ufffd\ufffd\ufffd Ramblin' Dan's Freewheelin' Band at OneYogaHouse in Brooklyn Heights (ages 0-3)",
+      "vendor": "\ud83c\udfb6 Ramblin' Dan's Freewheelin' Band at OneYogaHouse in Brooklyn Heights (ages 0-3)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5604,7 +5604,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-06-03T12:32:16.078111+00:00",
+  "updated": "2026-06-03T14:32:00.618392+00:00",
   "total_events": 431,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
