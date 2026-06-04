@@ -53,19 +53,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-06-04T20:00:00",
-      "title": "LPR Presents: Patriarchy",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "LPR Presents industrial synth-pop project Patriarchy live at Littlefield on June 4.",
-      "extraction_method": "api",
-      "vendor": "LPR Presents: Patriarchy",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-04T20:00:00-04:00",
       "title": "Corinne Fisher, Doug Smith, Peter Stewart, Tom Delgado, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -183,19 +170,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-06-05T18:45:00",
-      "title": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
-      "venue": "Littlefield",
-      "start_time": "6:45 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "6:45 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Hey friends, I'm super excited to be sharing this night with you, I'm taping my first special ever, a compilation of all my best material.",
-      "extraction_method": "api",
-      "vendor": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-05T19:00:00",
       "title": "Upcycled Plastic Earring Workshop",
       "venue": "Industry City",
@@ -274,19 +248,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-06-05T21:00:00",
-      "title": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
-      "venue": "Littlefield",
-      "start_time": "9:00 PM ET",
-      "end_time": "10:15 PM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "10:15 PM",
-      "description": "Hey friends, I'm super excited to be sharing this night with you, I'm taping my first special ever, a compilation of all my best material.",
-      "extraction_method": "api",
-      "vendor": "PEDRO GONZALEZ - TAPING HIS FIRST STAND UP SPECIAL EVER",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-05T22:00:00-04:00",
       "title": "Nore Davis, Doug Smith, Dina Hashem, Matt Wayne, Cesh Reyes",
       "venue": "Eastville Comedy Club",
@@ -298,19 +259,6 @@
       "extraction_method": "json-ld",
       "vendor": "Nore Davis, Doug Smith, Dina Hashem, Matt Wayne, Cesh Reyes",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-05T23:00:00",
-      "title": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "NYC's Wildest Soca & Dancehall Party",
-      "extraction_method": "api",
-      "vendor": "BROOKLYN CARNIVAL - NYC's Wildest Carnival Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-06T00:00:00",
@@ -469,19 +417,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-06-06T19:30:00",
-      "title": "The 6th Annual Tootsie's Video Vault",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Tootsie\u2019s Video Vault is a short film festival in its 6th year!",
-      "extraction_method": "api",
-      "vendor": "The 6th Annual Tootsie's Video Vault",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-06T20:00:00-04:00",
       "title": "Kareem Green, Doug Smith, Matt Pena, Isabel Hagen",
       "venue": "Eastville Comedy Club",
@@ -612,19 +547,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-06-07T19:30:00",
-      "title": "Do You Still Like Me? A Comedy Dating Show",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "A live comedy dating show where comics perform for their blind dates before asking the big question: Do you still like me?",
-      "extraction_method": "api",
-      "vendor": "Do You Still Like Me? A Comedy Dating Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-07T20:00:00",
       "title": "Gamelan Dharma Swara // Charmaine Lee",
       "venue": "Roulette",
@@ -703,19 +625,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-06-08T19:30:00",
-      "title": "Brooklyn Pride Comedy Show",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:30 PM",
-      "description": "Come gay, leave gagging! Brooklyn Pride Comedy is the messy, sexy, hilarious night out you DESERVE!",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Pride Comedy Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-09T00:00:00",
       "title": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
       "venue": "Union Hall",
@@ -753,19 +662,6 @@
       "extraction_method": "html",
       "vendor": "THE GREAT PUMPKIN RESCUE, SNEAK PEEK(Reading)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-09T19:00:00",
-      "title": "2026 5 Under 35 Ceremony",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join the 2026 5 Under 35 honorees for an evening of readings and celebration!",
-      "extraction_method": "api",
-      "vendor": "2026 5 Under 35 Ceremony",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-09T19:00:00",
@@ -872,19 +768,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-06-10T20:00:00",
-      "title": "Mortified Live",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Witness adults sharing their most embarrassing childhood artifacts with others, in order to reveal stories about their lives.",
-      "extraction_method": "api",
-      "vendor": "Mortified Live",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-10T20:00:00-04:00",
       "title": "Laughs In The East",
       "venue": "Eastville Comedy Club",
@@ -976,19 +859,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-06-11T20:00:00",
-      "title": "The Power Vested In Me by Maria DeCotis",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "NYC-based comedian and viral sensation Maria DeCotis presents her one-woman show: The Power Vested in Me.",
-      "extraction_method": "api",
-      "vendor": "The Power Vested In Me by Maria DeCotis",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-11T20:00:00-04:00",
       "title": "Stand Up Shenanigans",
       "venue": "Eastville Comedy Club",
@@ -1015,13 +885,15 @@
       "location": "Roulette"
     }
   ],
-  "updated": "2026-06-04T10:17:43.232185+00:00",
-  "total_events": 78,
+  "updated": "2026-06-04T12:16:27.488713+00:00",
+  "total_events": 68,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
