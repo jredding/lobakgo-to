@@ -288,6 +288,32 @@
     },
     {
       "date": "2026-06-10T12:00:00+00:00",
+      "title": "SUPERNORMAL(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SUPERNORMAL(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-10T12:00:00+00:00",
+      "title": "RADIONICS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "RADIONICS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-10T12:00:00+00:00",
       "title": "RADIONICS(Music)",
       "venue": "Young Ethel's",
       "start_time": "9:00 PM ET",
@@ -482,6 +508,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-12T12:00:00+00:00",
+      "title": "HAPPY HOUR COMEDY(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "HAPPY HOUR COMEDY(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-12T12:00:00+00:00",
+      "title": "FALSE IDOLS CHARACTER AND DRAG(Variety)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "FALSE IDOLS CHARACTER AND DRAG(Variety)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-12T12:00:00+00:00",
+      "title": "COME GET A TASTE OF DELICIOUSNESS WITH BASIC BITCHES, DONUT CITY, AND WEWEREWEREWOLVES(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "COME GET A TASTE OF DELICIOUSNESS WITH BASIC BITCHES, DONUT CITY, AND WEWEREWEREWOLVES(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-06-12T18:00:00-04:00",
       "title": "Friday Night Comedy",
       "venue": "Eastville Comedy Club",
@@ -597,6 +662,19 @@
       "extraction_method": "api",
       "vendor": "VinylCon! NYC",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-06-13T12:00:00+00:00",
+      "title": "THE ADVENTURES OF SIR NED THE BRAVE(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "1:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE ADVENTURES OF SIR NED THE BRAVE(Comedy)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-06-13T12:30:00",
@@ -755,6 +833,58 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-14T12:00:00+00:00",
+      "title": "PUBLIC VICTORIES. STORIES OF PERSONAL TRIUMPH.(Story Telling )",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "PUBLIC VICTORIES. STORIES OF PERSONAL TRIUMPH.(Story Telling )",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-14T12:00:00+00:00",
+      "title": "ENEMIES TO LOVERS PRESENTS(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ENEMIES TO LOVERS PRESENTS(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-14T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-14T12:00:00+00:00",
+      "title": "SIBILANCE// SAM LARSON AND ASSOCIATES// ASKAL(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SIBILANCE// SAM LARSON AND ASSOCIATES// ASKAL(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-06-14T12:30:00",
       "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
       "venue": "Industry City",
@@ -794,8 +924,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-06-07T14:16:33.058562+00:00",
-  "total_events": 61,
+  "updated": "2026-06-07T16:17:07.782770+00:00",
+  "total_events": 71,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
