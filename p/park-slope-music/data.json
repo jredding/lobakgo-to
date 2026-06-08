@@ -1,123 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-06-07T00:00:00",
-      "title": "NIGHT SWEATS with Mark Little",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "NIGHT SWEATS with Mark Little",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-06-07T12:00:00+00:00",
-      "title": "LA BOIX(Draglesque)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "LA BOIX(Draglesque)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-07T12:30:00",
-      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "venue": "Industry City",
-      "start_time": "12:30 PM ET",
-      "end_time": "1:30 PM ET",
-      "start_time_raw": "12:30 PM",
-      "end_time_raw": "1:30 PM",
-      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers!\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come!).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
-      "extraction_method": "api",
-      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-07T14:00:00",
-      "title": "Half Step &#8211; Grateful Dead Tribute",
-      "venue": "Industry City",
-      "start_time": "2:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Tickets Here\nIndustry City and Get It Right Music in association with Murmrr Presents are thrilled to welcome back Half Step &#8211; Long Island&#8217;s premier Grateful Dead tribute act!\nThis show will feature two full sets of Half Step!\nEvent Info\nDate: June 7, 2026\nDoors: 1:45pm\nSet 1: 2:00pm\nSet 2: 3:45pm\nTickets: $20 per person in advance/$25 day of show plus fees\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore About Half Step\nHalf Step is a group of dedicated fans &amp; students of the Grateful Dead, capturing the spirit, improvisation, sound &amp; complexity of Grateful Dead music. Established in 2004 on Long Island, Half Step has been mastering their craft while winning over crowds of veteran Deadheads, newcomers and non-Dead fans alike.\nWhat makes Half Step stand out from the rest?\nLike the Grateful Dead themselves, the band is constantly pushing the envelope, growing together as musicians and performers. Only true fans that have experienced and studied the music with an extreme level of dedication and passion can accurately represent the superb body of work that the Grateful Dead have to offer.\nWhen seeing Half Step live, one can clearly see the attention to detail that the band has in putting on a viable Grateful Dead experience. They stay true to the traditional show format and play sets of tunes in a sequence that could likely have been performed by the Dead themselves years ago. The members of Half Step also use similar instruments, amplifiers and effects to further authenticate the Grateful Dead sound.\nIn the band&#8217;s long history, they have undergone and overcome numerous incarnations. With each new member they come closer to refining their approach while consistently raising their standards. Half Step&#8217;s current line up is by far the most seasoned and prepared to bring their show to the next level.\nAs musicians, Half Step has what it takes to present the Dead&#8217;s music to even the most critical of fans. Anyone who has experienced the Grateful Dead in one way or another have formed a unique impression of their music. Half Step has the rare privilege to be in the position to share their collective impression with you.",
-      "extraction_method": "api",
-      "vendor": "Half Step &#8211; Grateful Dead Tribute",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-07T16:00:00",
-      "title": "Sake for Travelers to Japan",
-      "venue": "Industry City",
-      "start_time": "4:00 PM ET",
-      "end_time": "5:30 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "5:30 PM",
-      "description": "Planning a trip to Japan? Sake is everywhere &#8211; and knowing how to navigate it will transform your travel experience! Join us at the Sake Studies Center at Brooklyn Kura in NYC for an immersive sake class designed specifically for sake-loving travelers headed to Japan. We&#8217;ll give you the knowledge, vocabulary, and confidence to order sake like a local, visit breweries off the beaten path, and discover the styles you love most.\nSet inside our state-of-the-art NYC sake brewery, this is a uniquely hands-on, fun and interactive learning experience. You&#8217;ll tour the brewery, taste sake fresh from the press, and work your way through a guided flight of 5 premium sakes \u2014 including selections straight from Japan. Our Sake 101 presentation will cover everything you need to know, and you&#8217;ll leave with practical tools you&#8217;ll need to understand and order sake the moment you land in Tokyo. We&#8217;ll also walk you through the do&#8217;s and don&#8217;ts of sake etiquette \u2014 from how to pour for your table-mates to the customs and rituals that show respect and make the best impression wherever in Japan your travels may take you.\nWhat&#8217;s included:\nInsider tips on how to find and visit sake breweries in Japan\nA vocabulary cheat sheet so you can confidently order the sake that suits you perfectly\nSake etiquette and cultural customs to help you drink with confidence and respect\nSake 101 presentation covering all the sake basics you need to know\nGuided tasting of 5 premium sakes, including selections from Japan\nGuided tour through our NYC sake brewery\nSake 101 Handouts to take with you on your travels\nLight nibbles to pair with your sakes",
-      "extraction_method": "api",
-      "vendor": "Sake for Travelers to Japan",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-07T17:30:00",
-      "title": "Sunday Sessions at Fort Hamilton Distillery",
-      "venue": "Industry City",
-      "start_time": "5:30 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "5:30 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "\ud83e\udd43\ud83c\udfb7 Sunday Sessions at Fort Hamilton\nRevolutionize your Sunday at Fort Hamilton Distillery. \ud83d\uddfd\nDistillery tours, craft cocktails, and live jazz &amp; blues.\n\ud83c\udfb7 This week: Will Peters-Seymour and his trio to Fort Hamilton for an evening of jazz fusion favorites.\n\ud83e\udd43 Distillery Tours: 2PM &amp; 4PM\n\ud83c\udfb7 Live Music: 5:30PM\u20137:30PM\n\ud83c\udf78 Craft cocktails all evening\nThe perfect Sunday!",
-      "extraction_method": "api",
-      "vendor": "Sunday Sessions at Fort Hamilton Distillery",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-07T18:00:00-04:00",
-      "title": "Blkrose Productions Presents: Isiah Kelly, Sydney Castillo, Just Nesh Hosted By Sinck",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "Doors open at 5:30PM<span><br></span><br><span><strong>Sydney Castillo</strong> is a stand-up comedian, actor, producer, and writer. He most recently wrote on HBO&rsquo;s &quot;Game Theory&quot; and VH1&rsquo;s &quot;Celebrity Squares.&quot; He was part of the most recent season of &quot;Wild N&#39; Out.&quot; Sydney&#39;s written for and appeared in numerous shows, ranging from the BET Awards, Comedy Central&#39;s &quot;Hood Adjacent&quot; and &quot;Marlon&quot; on NBC, now airing on Netflix. Sydney&rsquo;s stand-up can be seen on HBO MAX&rsquo;S &quot;The Headliners,&quot; and can be seen headlining around the country.</span><br><br><strong>Featuring</strong><br>Isiah Kelly<br>Sydney Castillo<br>Just Nesh",
-      "extraction_method": "json-ld",
-      "vendor": "Blkrose Productions Presents: Isiah Kelly, Sydney Castillo, Just Nesh Hosted By Sinck",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-07T18:30:00",
-      "title": "DEVOUR THE AIR PRESENTS: AN EVENING OF POETRY AND HEAVY MUSIC(Variety)",
-      "venue": "Young Ethel's",
-      "start_time": "6:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DEVOUR THE AIR PRESENTS: AN EVENING OF POETRY AND HEAVY MUSIC(Variety)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-07T20:00:00",
-      "title": "Gamelan Dharma Swara // Charmaine Lee",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Vocalist explores feedback and live processing, followed by New York\u2019s premier Balinese performing arts ensemble.",
-      "extraction_method": "html",
-      "vendor": "Gamelan Dharma Swara // Charmaine Lee",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-06-08T00:00:00",
       "title": "Dog and Pony with Lily Armstrong and Michael Abber",
       "venue": "Union Hall",
@@ -183,6 +66,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-08T19:30:00",
+      "title": "Brooklyn Pride Comedy Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Come gay, leave gagging! Brooklyn Pride Comedy is the messy, sexy, hilarious night out you DESERVE!",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Pride Comedy Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-09T00:00:00",
       "title": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
       "venue": "Union Hall",
@@ -220,6 +116,19 @@
       "extraction_method": "html",
       "vendor": "THE GREAT PUMPKIN RESCUE, SNEAK PEEK(Reading)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-09T19:00:00",
+      "title": "2026 5 Under 35 Ceremony",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join the 2026 5 Under 35 honorees for an evening of readings and celebration!",
+      "extraction_method": "api",
+      "vendor": "2026 5 Under 35 Ceremony",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-09T19:00:00",
@@ -352,6 +261,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-10T20:00:00",
+      "title": "Mortified Live",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Witness adults sharing their most embarrassing childhood artifacts with others, in order to reveal stories about their lives.",
+      "extraction_method": "api",
+      "vendor": "Mortified Live",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-10T20:00:00-04:00",
       "title": "Laughs In The East",
       "venue": "Eastville Comedy Club",
@@ -441,6 +363,19 @@
       "extraction_method": "api",
       "vendor": "Sake and Cheese Pairing Class and Brewery Tour",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-06-11T20:00:00",
+      "title": "The Power Vested In Me by Maria DeCotis",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "NYC-based comedian and viral sensation Maria DeCotis presents her one-woman show: The Power Vested in Me.",
+      "extraction_method": "api",
+      "vendor": "The Power Vested In Me by Maria DeCotis",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-11T20:00:00-04:00",
@@ -574,6 +509,19 @@
     },
     {
       "date": "2026-06-12T19:30:00",
+      "title": "Drown Your Boots with Jeff Petescia @ littlefield",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Drown Your Boots: a Brooklyn trio dealing in dusty stomp, twang, and melody. Think early Modest Mouse meets The Tallest Man on Earth.",
+      "extraction_method": "api",
+      "vendor": "Drown Your Boots with Jeff Petescia @ littlefield",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-12T19:30:00",
       "title": "Tiny Distillery Concerts",
       "venue": "Industry City",
       "start_time": "7:30 PM ET",
@@ -610,6 +558,19 @@
       "extraction_method": "json-ld",
       "vendor": "Punchline Palace",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-12T23:00:00",
+      "title": "SOCA & FRIENDS - Dancehall & Soca Fete in Brooklyn",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Wildest Soca & Dancehall Party",
+      "extraction_method": "api",
+      "vendor": "SOCA & FRIENDS - Dancehall & Soca Fete in Brooklyn",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-13T00:00:00",
@@ -911,6 +872,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-14T19:30:00",
+      "title": "Gay Shame: Comedy Show & Pride Party",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "11:59 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "11:59 PM",
+      "description": "Gay Shame is a Queer comedy show featuring the best Queer stand-up comics in NYC, and a shameful tribute to a movie classic.",
+      "extraction_method": "api",
+      "vendor": "Gay Shame: Comedy Show & Pride Party",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-14T19:30:00-04:00",
       "title": "Sunday Night Comedy",
       "venue": "Eastville Comedy Club",
@@ -922,17 +896,80 @@
       "extraction_method": "json-ld",
       "vendor": "Sunday Night Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-15T00:00:00",
+      "title": "Frankenstein's Baby",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Frankenstein's Baby",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-15T12:00:00+00:00",
+      "title": "SOPHIA STEWART// TIM REALE// HARBOUR HAUNTS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SOPHIA STEWART// TIM REALE// HARBOUR HAUNTS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-15T12:00:00+00:00",
+      "title": "A COMEDY ADVICE SHOW HOSTED BY WILL PURPURA(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "A COMEDY ADVICE SHOW HOSTED BY WILL PURPURA(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-15T16:30:00",
+      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-15T20:00:00",
+      "title": "RESCHEDULED \u2013 John Zorn: New Masada Quartet",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Zorn\u2019s beloved ensemble w/ Julian Lage, Jorge Roeder, & Kenny Wollesen returns for the 5th consecutive year for one tight and telepathic set.",
+      "extraction_method": "html",
+      "vendor": "RESCHEDULED \u2013 John Zorn: New Masada Quartet",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-06-07T16:17:07.782770+00:00",
-  "total_events": 71,
+  "updated": "2026-06-08T06:15:59.547251+00:00",
+  "total_events": 74,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
