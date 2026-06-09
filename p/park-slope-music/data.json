@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-06-08T00:00:00",
-      "title": "Dog and Pony with Lily Armstrong and Michael Abber",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Dog and Pony with Lily Armstrong and Michael Abber",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-06-08T12:00:00+00:00",
-      "title": "MAX RUBINSTEIN(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "MAX RUBINSTEIN(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-08T12:00:00+00:00",
-      "title": "POLITICAL COMEDIAN AND LEFT LUNATIC(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "POLITICAL COMEDIAN AND LEFT LUNATIC(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-08T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-08T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE. A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE. A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-08T19:00:00",
-      "title": "New York Knicks NBA Finals Game 3 Watch Party",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "11:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "11:30 PM",
-      "description": "RSVP Here\nCome watch the New York Knicks in Game 3 of the NBA Finals on our 16-foot wide projection screen and listen to the game in full concert sound under the stars in Sunset Park, Brooklyn.\nThis event is free with RSVP, ages 8 and up are welcome. There will be drink specials, all night, but don\u2019t forget to take advantage of the 2-for-1 drink ticket when you check out!\nLimited seating (about 100 seats), tons of standing room.\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we will only let people in on an in and out basis!\nNo outside beverages. There will be drink specials all night long from our courtyard bar. Feel free to bring in food from the adjoining food hall!\nEvent Info\nDate: June 8, 2026\nDoors: 7pm\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue\u2019s bar and order food from over 17 options inside the adjoining food hall.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.",
-      "extraction_method": "api",
-      "vendor": "New York Knicks NBA Finals Game 3 Watch Party",
-      "location": "Industry City"
-    },
-    {
       "date": "2026-06-09T00:00:00",
       "title": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
       "venue": "Union Hall",
@@ -90,6 +12,19 @@
       "extraction_method": "html",
       "vendor": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-09T12:00:00",
+      "title": "Empanada Papa BCB Food Pop-up @ Standard Wormwood",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Special BCB pop-up, Empanada Papa is popping up at Standard Wormwood. With handmade mouth-watering empanadas @empanadapapanyc",
+      "extraction_method": "api",
+      "vendor": "Empanada Papa BCB Food Pop-up @ Standard Wormwood",
+      "location": "Industry City"
     },
     {
       "date": "2026-06-09T13:00:00",
@@ -116,6 +51,32 @@
       "extraction_method": "html",
       "vendor": "THE GREAT PUMPKIN RESCUE, SNEAK PEEK(Reading)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-09T17:00:00",
+      "title": "Battle Of Brooklyn Cocktail Competition",
+      "venue": "Industry City",
+      "start_time": "5:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "\u2694\ufe0f\ud83c\udf78 The Battle of Brooklyn is here.\nJoin us Tuesday, June 9th from 5PM\u20136:30PM as five of Brooklyn\u2019s top bartenders go head-to-head in a live cocktail competition featuring Fort Hamilton New World Gin.\n\ud83c\udf78 Complimentary cocktails\u2028\ud83c\udf55 Pizza provided\u2028\ud83c\udfc6 $2,000 cash prize on the line\nWatch the cocktails get built, cheer on your favorite bartender, and see who takes home the crown.\nFREE TO ATTEND",
+      "extraction_method": "api",
+      "vendor": "Battle Of Brooklyn Cocktail Competition",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-06-09T19:00:00",
+      "title": "2026 5 Under 35 Ceremony",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join the 2026 5 Under 35 honorees for an evening of readings and celebration!",
+      "extraction_method": "api",
+      "vendor": "2026 5 Under 35 Ceremony",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-09T19:00:00",
@@ -180,6 +141,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "Between Us: a crowd work show",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-10T00:00:00",
+      "title": "Watch the Knicks at Union Hall!",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Watch the Knicks at Union Hall!",
       "location": "Union Hall"
     },
     {
@@ -261,16 +235,29 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-10T20:00:00",
+      "title": "Mortified Live",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Witness adults sharing their most embarrassing childhood artifacts with others, in order to reveal stories about their lives.",
+      "extraction_method": "api",
+      "vendor": "Mortified Live",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-10T20:00:00-04:00",
-      "title": "Laughs In The East",
+      "title": "Kareem Green, Ray Zawodni, kyle mara, Neema Naz, Derrell Meyers",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p>",
+      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br>Featuring<br>Kareem Green<br>Ray Zawodni<br>kyle mara<br>Neema Naz<br>Derrell Meyers",
       "extraction_method": "json-ld",
-      "vendor": "Laughs In The East",
+      "vendor": "Kareem Green, Ray Zawodni, kyle mara, Neema Naz, Derrell Meyers",
       "location": "Eastville Comedy Club"
     },
     {
@@ -352,16 +339,29 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-11T20:00:00",
+      "title": "The Power Vested In Me by Maria DeCotis",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "NYC-based comedian and viral sensation Maria DeCotis presents her one-woman show: The Power Vested in Me.",
+      "extraction_method": "api",
+      "vendor": "The Power Vested In Me by Maria DeCotis",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-11T20:00:00-04:00",
-      "title": "Stand Up Shenanigans",
+      "title": "Peter Stewart, Tom Zappia, Matt Wayne, Wilfred Padua, Sonya Vai, Mae Planert",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>Weekend Warmup comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">Line up Below</p>",
+      "description": "<p dir=\"ltr\"><strong>Weekend Warmup comedy in Brooklyn!&nbsp;</strong></p><br>Featuring<br>Peter Stewart<br>Tom Zappia<br>Matt Wayne<br>Wilfred Padua<br>Sonya Vai<br>Mae Planert",
       "extraction_method": "json-ld",
-      "vendor": "Stand Up Shenanigans",
+      "vendor": "Peter Stewart, Tom Zappia, Matt Wayne, Wilfred Padua, Sonya Vai, Mae Planert",
       "location": "Eastville Comedy Club"
     },
     {
@@ -379,7 +379,7 @@
     },
     {
       "date": "2026-06-12T00:00:00",
-      "title": "Hack City Comedy with Mic Nguyen and Jenny Arimoto",
+      "title": "Hack City Comedy with Mic Nguyen and Jenny Arimoto: Pride Edition",
       "venue": "Union Hall",
       "start_time": null,
       "end_time": null,
@@ -387,7 +387,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "Hack City Comedy with Mic Nguyen and Jenny Arimoto",
+      "vendor": "Hack City Comedy with Mic Nguyen and Jenny Arimoto: Pride Edition",
       "location": "Union Hall"
     },
     {
@@ -457,15 +457,15 @@
     },
     {
       "date": "2026-06-12T18:00:00-04:00",
-      "title": "Friday Night Comedy",
+      "title": "Bryan McKenna, Peter Stewart, Chris Grace, Bobby Condon, Cesh Reyes",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p>",
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br>Featuring<br>Bryan McKenna<br>Peter Stewart<br>Chris Grace<br>Bobby Condon<br>Cesh Reyes",
       "extraction_method": "json-ld",
-      "vendor": "Friday Night Comedy",
+      "vendor": "Bryan McKenna, Peter Stewart, Chris Grace, Bobby Condon, Cesh Reyes",
       "location": "Eastville Comedy Club"
     },
     {
@@ -483,6 +483,19 @@
     },
     {
       "date": "2026-06-12T19:30:00",
+      "title": "Drown Your Boots with Jeff Petescia @ littlefield",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Drown Your Boots: a Brooklyn trio dealing in dusty stomp, twang, and melody. Think early Modest Mouse meets The Tallest Man on Earth.",
+      "extraction_method": "api",
+      "vendor": "Drown Your Boots with Jeff Petescia @ littlefield",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-12T19:30:00",
       "title": "Tiny Distillery Concerts",
       "venue": "Industry City",
       "start_time": "7:30 PM ET",
@@ -496,29 +509,42 @@
     },
     {
       "date": "2026-06-12T20:00:00-04:00",
-      "title": "Punchline Palace",
+      "title": "Adrienne Iapalucci, Liam Dalton, Dennis Rooney, Chris Grace, Harry Terjanian",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">Lineup Below</p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><br></p><p><br></p><p dir=\"ltr\"><br></p>",
+      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><br>Featuring<br>Adrienne Iapalucci<br>Liam Dalton<br>Dennis Rooney<br>Chris Grace<br>Harry Terjanian",
       "extraction_method": "json-ld",
-      "vendor": "Punchline Palace",
+      "vendor": "Adrienne Iapalucci, Liam Dalton, Dennis Rooney, Chris Grace, Harry Terjanian",
       "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-06-12T22:00:00-04:00",
-      "title": "Punchline Palace",
+      "title": "Graham Kay, Tomas Liebel, Shannon Keye, Trayvon Fulton, Harry Terjanian",
       "venue": "Eastville Comedy Club",
       "start_time": "10:00 PM ET",
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><br>Featuring<br>Graham Kay<br>Tomas Liebel<br>Shannon Keye<br>Trayvon Fulton<br>Harry Terjanian",
       "extraction_method": "json-ld",
-      "vendor": "Punchline Palace",
+      "vendor": "Graham Kay, Tomas Liebel, Shannon Keye, Trayvon Fulton, Harry Terjanian",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-12T23:00:00",
+      "title": "SOCA & FRIENDS - Dancehall & Soca Fete in Brooklyn",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Wildest Soca & Dancehall Party",
+      "extraction_method": "api",
+      "vendor": "SOCA & FRIENDS - Dancehall & Soca Fete in Brooklyn",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-13T00:00:00",
@@ -652,15 +678,15 @@
     },
     {
       "date": "2026-06-13T18:00:00-04:00",
-      "title": "Saturday Night Live Comedy",
+      "title": "Graham Kay, Shannon Keye, Wilfred Padua, Derrell Meyers",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br>(remainder of lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><br><br>Featuring<br>Graham Kay<br>Shannon Keye<br>Wilfred Padua<br>Derrell Meyers",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Night Live Comedy",
+      "vendor": "Graham Kay, Shannon Keye, Wilfred Padua, Derrell Meyers",
       "location": "Eastville Comedy Club"
     },
     {
@@ -678,28 +704,28 @@
     },
     {
       "date": "2026-06-13T20:00:00-04:00",
-      "title": "Saturday Prime Time Comedy",
+      "title": "James Mattern, Doug Smith, Shannon Keye, Eagle Witt",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p>Featuring<br>James Mattern<br>Doug Smith<br>Shannon Keye<br>Eagle Witt",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Prime Time Comedy",
+      "vendor": "James Mattern, Doug Smith, Shannon Keye, Eagle Witt",
       "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-06-13T22:00:00-04:00",
-      "title": "Saturday Late Night Comedy",
+      "title": "Damien Lemon, Talal Alyan, Trayvon Fulton",
       "venue": "Eastville Comedy Club",
       "start_time": "10:00 PM ET",
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>Prime Time Comedy!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><strong>Prime Time Comedy!</strong></p>Featuring<br>Damien Lemon<br>Talal Alyan<br>Trayvon Fulton",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Late Night Comedy",
+      "vendor": "Damien Lemon, Talal Alyan, Trayvon Fulton",
       "location": "Eastville Comedy Club"
     },
     {
@@ -820,16 +846,29 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-14T19:30:00",
+      "title": "Gay Shame: Comedy Show & Pride Party",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "11:59 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "11:59 PM",
+      "description": "Gay Shame is a Queer comedy show featuring the best Queer stand-up comics in NYC, and a shameful tribute to a movie classic.",
+      "extraction_method": "api",
+      "vendor": "Gay Shame: Comedy Show & Pride Party",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-14T19:30:00-04:00",
-      "title": "Sunday Night Comedy",
+      "title": "Peter Stewart, Bobby Condon, Sonya Vai, Yvette Segan, Neema Naz",
       "venue": "Eastville Comedy Club",
       "start_time": "7:30 PM ET",
       "end_time": null,
       "start_time_raw": "7:30 PM",
       "end_time_raw": null,
-      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p>",
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br>Featuring<br>Peter Stewart<br>Bobby Condon<br>Sonya Vai<br>Yvette Segan<br>Neema Naz",
       "extraction_method": "json-ld",
-      "vendor": "Sunday Night Comedy",
+      "vendor": "Peter Stewart, Bobby Condon, Sonya Vai, Yvette Segan, Neema Naz",
       "location": "Eastville Comedy Club"
     },
     {
@@ -896,17 +935,80 @@
       "extraction_method": "html",
       "vendor": "RESCHEDULED \u2013 John Zorn: New Masada Quartet",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-06-16T00:00:00",
+      "title": "Yard Sale Girls: Pink Collar Comedy Tour",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Yard Sale Girls: Pink Collar Comedy Tour",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-16T12:00:00+00:00",
+      "title": "VIOLIN RECITAL(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "VIOLIN RECITAL(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-16T12:00:00+00:00",
+      "title": "BROAD SQUAD PRESENTS SUMMER MELTDOWN WITH MEL(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "BROAD SQUAD PRESENTS SUMMER MELTDOWN WITH MEL(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-16T12:00:00+00:00",
+      "title": "TBA(Other)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TBA(Other)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-16T20:00:00",
+      "title": "The Occasionalists Present Tuesday Night Live Band Karaoke",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Skip the weekend crowds and grab the mic on a Tuesday night",
+      "extraction_method": "api",
+      "vendor": "The Occasionalists Present Tuesday Night Live Band Karaoke",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-06-08T16:17:30.950700+00:00",
-  "total_events": 69,
+  "updated": "2026-06-09T06:16:39.502750+00:00",
+  "total_events": 77,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
