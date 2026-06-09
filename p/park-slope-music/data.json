@@ -67,19 +67,6 @@
     },
     {
       "date": "2026-06-09T19:00:00",
-      "title": "2026 5 Under 35 Ceremony",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join the 2026 5 Under 35 honorees for an evening of readings and celebration!",
-      "extraction_method": "api",
-      "vendor": "2026 5 Under 35 Ceremony",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-06-09T19:00:00",
       "title": "Spirited Away: Psychic &#038; Paranormal Night",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -235,19 +222,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-06-10T20:00:00",
-      "title": "Mortified Live",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Witness adults sharing their most embarrassing childhood artifacts with others, in order to reveal stories about their lives.",
-      "extraction_method": "api",
-      "vendor": "Mortified Live",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-10T20:00:00-04:00",
       "title": "Kareem Green, Ray Zawodni, kyle mara, Neema Naz, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -337,19 +311,6 @@
       "extraction_method": "api",
       "vendor": "Sake and Cheese Pairing Class and Brewery Tour",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-06-11T20:00:00",
-      "title": "The Power Vested In Me by Maria DeCotis",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "NYC-based comedian and viral sensation Maria DeCotis presents her one-woman show: The Power Vested in Me.",
-      "extraction_method": "api",
-      "vendor": "The Power Vested In Me by Maria DeCotis",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-11T20:00:00-04:00",
@@ -483,19 +444,6 @@
     },
     {
       "date": "2026-06-12T19:30:00",
-      "title": "Drown Your Boots with Jeff Petescia @ littlefield",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Drown Your Boots: a Brooklyn trio dealing in dusty stomp, twang, and melody. Think early Modest Mouse meets The Tallest Man on Earth.",
-      "extraction_method": "api",
-      "vendor": "Drown Your Boots with Jeff Petescia @ littlefield",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-06-12T19:30:00",
       "title": "Tiny Distillery Concerts",
       "venue": "Industry City",
       "start_time": "7:30 PM ET",
@@ -532,19 +480,6 @@
       "extraction_method": "json-ld",
       "vendor": "Graham Kay, Tomas Liebel, Shannon Keye, Trayvon Fulton, Harry Terjanian",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-12T23:00:00",
-      "title": "SOCA & FRIENDS - Dancehall & Soca Fete in Brooklyn",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "NYC's Wildest Soca & Dancehall Party",
-      "extraction_method": "api",
-      "vendor": "SOCA & FRIENDS - Dancehall & Soca Fete in Brooklyn",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-13T00:00:00",
@@ -846,19 +781,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-06-14T19:30:00",
-      "title": "Gay Shame: Comedy Show & Pride Party",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "11:59 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "11:59 PM",
-      "description": "Gay Shame is a Queer comedy show featuring the best Queer stand-up comics in NYC, and a shameful tribute to a movie classic.",
-      "extraction_method": "api",
-      "vendor": "Gay Shame: Comedy Show & Pride Party",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-14T19:30:00-04:00",
       "title": "Peter Stewart, Bobby Condon, Sonya Vai, Yvette Segan, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -987,28 +909,17 @@
       "extraction_method": "html",
       "vendor": "TBA(Other)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-16T20:00:00",
-      "title": "The Occasionalists Present Tuesday Night Live Band Karaoke",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Skip the weekend crowds and grab the mic on a Tuesday night",
-      "extraction_method": "api",
-      "vendor": "The Occasionalists Present Tuesday Night Live Band Karaoke",
-      "location": "Littlefield"
     }
   ],
-  "updated": "2026-06-09T14:17:37.901890+00:00",
-  "total_events": 77,
+  "updated": "2026-06-09T16:17:16.679942+00:00",
+  "total_events": 70,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
