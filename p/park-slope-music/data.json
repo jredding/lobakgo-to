@@ -704,7 +704,7 @@
     },
     {
       "date": "2026-06-15T20:00:00",
-      "title": "RESCHEDULED \u2013 John Zorn: New Masada Quartet",
+      "title": "John Zorn: New Masada Quartet",
       "venue": "Roulette",
       "start_time": null,
       "end_time": null,
@@ -712,7 +712,7 @@
       "end_time_raw": null,
       "description": "Zorn\u2019s beloved ensemble w/ Julian Lage, Jorge Roeder, & Kenny Wollesen returns for the 5th consecutive year for one tight and telepathic set.",
       "extraction_method": "html",
-      "vendor": "RESCHEDULED \u2013 John Zorn: New Masada Quartet",
+      "vendor": "John Zorn: New Masada Quartet",
       "location": "Roulette"
     },
     {
@@ -873,7 +873,7 @@
     },
     {
       "date": "2026-06-18T00:00:00",
-      "title": "Molly Kearney and Their Talented Friends",
+      "title": "Molly Kearney and Their Talented Gay Friends",
       "venue": "Union Hall",
       "start_time": null,
       "end_time": null,
@@ -881,7 +881,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "Molly Kearney and Their Talented Friends",
+      "vendor": "Molly Kearney and Their Talented Gay Friends",
       "location": "Union Hall"
     },
     {
@@ -924,7 +924,7 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-06-11T14:16:52.034158+00:00",
+  "updated": "2026-06-11T16:15:55.276270+00:00",
   "total_events": 71,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
