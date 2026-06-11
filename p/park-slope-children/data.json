@@ -1523,6 +1523,19 @@
     },
     {
       "date": "2026-06-13T14:00:00+00:00",
+      "title": "\ud83c\udfa8 Kids Club: Father\u2019s Day Card at Michaels - Atlantic Galleria in Cobble Hill (ages 4-12)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Michaels - Atlantic Galleria",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 Kids Club: Father\u2019s Day Card at Michaels - Atlantic Galleria in Cobble Hill (ages 4-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-13T14:00:00+00:00",
       "title": "\ud83c\udf89 Chauncey Street Open Streets in Bed-Stuy (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -1597,6 +1610,19 @@
       "description": "McGolrick Park",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Super Giant Creatures Singalong at McGolrick Park in Greenpoint (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-13T14:00:00+00:00",
+      "title": "\ud83c\udfb5 VinylCon! NYC at Industry City in Sunset Park (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "5-2-A at Industry City",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb5 VinylCon! NYC at Industry City in Sunset Park (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1675,6 +1701,32 @@
       "description": "Books Are Magic - Montague",
       "extraction_method": "api",
       "vendor": "\ud83d\udcda Storytime w/ Felicita Sala: Bored at Books Are Magic Montague in Brooklyn Heights (ages 4-8)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-13T15:00:00+00:00",
+      "title": "\ud83d\udd8d\ufe0f Create Your Own Super Hero Plaque at JCP in East New York (ages 5-12)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "JCPenney",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udd8d\ufe0f Create Your Own Super Hero Plaque at JCP in East New York (ages 5-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-13T15:00:00+00:00",
+      "title": "\ud83d\udecd\ufe0f FAD Market: Summer Pop-up at Empire Stores in DUMBO",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Empire Stores",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udecd\ufe0f FAD Market: Summer Pop-up at Empire Stores in DUMBO",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2654,6 +2706,19 @@
     },
     {
       "date": "2026-06-14T14:00:00+00:00",
+      "title": "\ud83c\udfb5 VinylCon! NYC at Industry City in Sunset Park (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "5-2-A at Industry City",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb5 VinylCon! NYC at Industry City in Sunset Park (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-14T14:00:00+00:00",
       "title": "\ud83e\udd20 Hopalong Andrew Outdoor Show at Carroll Park in Carroll Gardens",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -2728,6 +2793,19 @@
       "description": "Green-Wood Cemetery",
       "extraction_method": "api",
       "vendor": "\ud83e\udea6 Grave Beginnings: Green-Wood by Trolley at Green-Wood Cemetery in South Slope (ages 10+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-14T15:00:00+00:00",
+      "title": "\ud83d\udecd\ufe0f FAD Market: Summer Pop-up at Empire Stores in DUMBO",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Empire Stores",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udecd\ufe0f FAD Market: Summer Pop-up at Empire Stores in DUMBO",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2848,6 +2926,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-06-14T15:30:00+00:00",
+      "title": "\ud83d\udcd8 Storytime in Russian / \u0412\u0440\u0435\u043c\u044f \u0441\u043a\u0430\u0437\u043e\u043a at Kvartira Books (MyBiblioteka) in Crown Heights (ages 0-6)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:30 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "3:30 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Kvartira Books (MyBiblioteka)",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcd8 Storytime in Russian / \u0412\u0440\u0435\u043c\u044f \u0441\u043a\u0430\u0437\u043e\u043a at Kvartira Books (MyBiblioteka) in Crown Heights (ages 0-6)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-06-14T16:00:00+00:00",
       "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Rock & Roll Playhouse Pride Party at Brooklyn Bowl in Williamsburg",
       "venue": "MacaroniKid Brooklyn NW",
@@ -2858,6 +2949,19 @@
       "description": "Brooklyn Bowl",
       "extraction_method": "api",
       "vendor": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Rock & Roll Playhouse Pride Party at Brooklyn Bowl in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-14T16:00:00+00:00",
+      "title": "\ud83d\udc9a One Love Fest at Prospect Park in PLG (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Prospect Park Boathouse + Audubon Center",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc9a One Love Fest at Prospect Park in PLG (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3079,6 +3183,19 @@
       "description": "CREA - Industry City",
       "extraction_method": "api",
       "vendor": "\ud83d\udca1Three Hour Immersive Adventure at Industry City in Sunset Park (ages 4-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-14T17:00:00+00:00",
+      "title": "\ud83c\udfa8 Father\u2019s Day 10-Minute Frame Customized Mat In-Store Event at Michaels - Atlantic Galleria in Cobble Hill (ages 13+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Michaels - Atlantic Galleria",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 Father\u2019s Day 10-Minute Frame Customized Mat In-Store Event at Michaels - Atlantic Galleria in Cobble Hill (ages 13+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5513,8 +5630,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-06-11T10:31:05.651186+00:00",
-  "total_events": 424,
+  "updated": "2026-06-11T14:31:56.846786+00:00",
+  "total_events": 433,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
