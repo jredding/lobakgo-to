@@ -561,19 +561,6 @@
     },
     {
       "date": "2026-06-14T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-14T12:00:00+00:00",
       "title": "SIBILANCE// SAM LARSON AND ASSOCIATES// ASKAL(Music)",
       "venue": "Young Ethel's",
       "start_time": "10:00 PM ET",
@@ -625,6 +612,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-14T17:30:00",
+      "title": "AFTERNOON DELIGHT VARIETY SHOW(Music)",
+      "venue": "Young Ethel's",
+      "start_time": null,
+      "end_time": "5:30 PM ET",
+      "start_time_raw": null,
+      "end_time_raw": "5:30 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "AFTERNOON DELIGHT VARIETY SHOW(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-06-14T19:30:00-04:00",
       "title": "Peter Stewart, Bobby Condon, Sonya Vai, Yvette Segan, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -674,6 +674,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "A COMEDY ADVICE SHOW HOSTED BY WILL PURPURA(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-15T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
       "location": "Young Ethel's"
     },
     {
@@ -911,8 +924,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-06-11T10:16:17.589341+00:00",
-  "total_events": 70,
+  "updated": "2026-06-11T14:16:52.034158+00:00",
+  "total_events": 71,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
