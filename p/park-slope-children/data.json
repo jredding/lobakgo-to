@@ -3785,19 +3785,6 @@
     },
     {
       "date": "2026-06-16T22:00:00+00:00",
-      "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Square Dancing with The Times Squares at Camp Friendship in Park Slope (adults)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": "1:00 AM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "1:00 AM",
-      "description": "Camp Friendship",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Square Dancing with The Times Squares at Camp Friendship in Park Slope (adults)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-16T22:00:00+00:00",
       "title": "\ud83d\udda4 Juneteenth Celebration: Steelband Vibes at Brighton Beach Library (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "10:00 PM ET",
@@ -3807,6 +3794,19 @@
       "description": "Brighton Beach Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udda4 Juneteenth Celebration: Steelband Vibes at Brighton Beach Library (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-16T22:00:00+00:00",
+      "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Square Dancing with The Times Squares at Camp Friendship in Park Slope (adults)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "1:00 AM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "1:00 AM",
+      "description": "Camp Friendship",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Square Dancing with The Times Squares at Camp Friendship in Park Slope (adults)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5007,19 +5007,6 @@
     },
     {
       "date": "2026-06-18T19:00:00+00:00",
-      "title": "\u26bd FIFA World Cup 2026 Watch Party: Switzerland v Bosnia-Herzegovina at Kings Bay Library in Sheepshead Bay",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": "Kings Bay Library",
-      "extraction_method": "api",
-      "vendor": "\u26bd FIFA World Cup 2026 Watch Party: Switzerland v Bosnia-Herzegovina at Kings Bay Library in Sheepshead Bay",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-18T19:00:00+00:00",
       "title": "\ud83d\udda4 Juneteenth BBQ at The Landing in Elmhurst (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
@@ -5029,6 +5016,19 @@
       "description": "The Landing Courtyard",
       "extraction_method": "api",
       "vendor": "\ud83d\udda4 Juneteenth BBQ at The Landing in Elmhurst (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-18T19:00:00+00:00",
+      "title": "\u26bd FIFA World Cup 2026 Watch Party: Switzerland v Bosnia-Herzegovina at Kings Bay Library in Sheepshead Bay",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": "Kings Bay Library",
+      "extraction_method": "api",
+      "vendor": "\u26bd FIFA World Cup 2026 Watch Party: Switzerland v Bosnia-Herzegovina at Kings Bay Library in Sheepshead Bay",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5708,7 +5708,7 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-06-12T12:32:18.086463+00:00",
+  "updated": "2026-06-12T14:32:03.676980+00:00",
   "total_events": 439,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
