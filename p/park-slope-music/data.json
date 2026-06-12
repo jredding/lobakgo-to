@@ -92,6 +92,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-06-12T18:30:00",
+      "title": "Drown Your Boots with Jeff Petescia @ littlefield",
+      "venue": "Littlefield",
+      "start_time": "6:30 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Drown Your Boots: a Brooklyn trio dealing in dusty stomp, twang, and melody. Think early Modest Mouse meets The Tallest Man on Earth.",
+      "extraction_method": "api",
+      "vendor": "Drown Your Boots with Jeff Petescia @ littlefield",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-12T19:00:00",
       "title": "horse girl craft night",
       "venue": "Industry City",
@@ -155,6 +168,19 @@
       "extraction_method": "json-ld",
       "vendor": "Graham Kay, Tomas Liebel, Shannon Keye, Trayvon Fulton, Harry Terjanian",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-12T23:00:00",
+      "title": "SOCA & FRIENDS - Dancehall & Soca Fete in Brooklyn",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Wildest Soca & Dancehall Party",
+      "extraction_method": "api",
+      "vendor": "SOCA & FRIENDS - Dancehall & Soca Fete in Brooklyn",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-13T00:00:00",
@@ -521,6 +547,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-14T19:30:00",
+      "title": "Gay Shame: Comedy Show & Pride Party",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "11:59 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "11:59 PM",
+      "description": "Gay Shame is a Queer comedy show featuring the best Queer stand-up comics in NYC, and a shameful tribute to a movie classic.",
+      "extraction_method": "api",
+      "vendor": "Gay Shame: Comedy Show & Pride Party",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-14T19:30:00-04:00",
       "title": "Peter Stewart, Bobby Condon, Sonya Vai, Yvette Segan, Neema Naz",
       "venue": "Eastville Comedy Club",
@@ -664,6 +703,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-16T20:00:00",
+      "title": "The Occasionalists Present Tuesday Night Live Band Karaoke",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Skip the weekend crowds and grab the mic on a Tuesday night",
+      "extraction_method": "api",
+      "vendor": "The Occasionalists Present Tuesday Night Live Band Karaoke",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-17T00:00:00",
       "title": "Garrett and Allison's Big Night",
       "venue": "Union Hall",
@@ -727,6 +779,19 @@
       "extraction_method": "html",
       "vendor": "WE HAVE FUN STAND-UP(Comedy)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-17T20:00:00",
+      "title": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "David Cross is building his next hour of standup \u2014\u00a0and you get to see it!",
+      "extraction_method": "api",
+      "vendor": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-17T20:00:00-04:00",
@@ -807,6 +872,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-18T20:00:00",
+      "title": "Spider-Man Entirely From Memory",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Presented by the Ten Bones Theatre Company",
+      "extraction_method": "api",
+      "vendor": "Spider-Man Entirely From Memory",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-18T20:00:00-04:00",
       "title": "Vishnu Vaka & Friends",
       "venue": "Eastville Comedy Club",
@@ -872,6 +950,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-06-19T19:00:00",
+      "title": "SLOW JAMS ORCHESTRA - Live RnB & Slow Jams Experience",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "\u26a0\ufe0f WARNING: This event may cause slow dancing with strangers, emotional flashbacks, and unsent text messages you'll definitely send anyway.",
+      "extraction_method": "api",
+      "vendor": "SLOW JAMS ORCHESTRA - Live RnB & Slow Jams Experience",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-19T20:00:00-04:00",
       "title": "Punchline Palace",
       "venue": "Eastville Comedy Club",
@@ -909,17 +1000,28 @@
       "extraction_method": "json-ld",
       "vendor": "Who Gave Them a Mic Comedy Show - Juneteenth Hosted by Derrell Meyers",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-19T23:00:00",
+      "title": "SLOW JAMS NYC",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Sexiest RnB & SLOW JAMS Party",
+      "extraction_method": "api",
+      "vendor": "SLOW JAMS NYC",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-06-12T14:17:30.529534+00:00",
-  "total_events": 70,
+  "updated": "2026-06-12T16:16:50.681054+00:00",
+  "total_events": 78,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
