@@ -1445,6 +1445,19 @@
     },
     {
       "date": "2026-06-13T17:00:00+00:00",
+      "title": "\ud83c\udfa8 Crafternoon: Pop-Up Paper Cats & Creatures at Powerhouse Arts in Gowanus",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Powerhouse Arts",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 Crafternoon: Pop-Up Paper Cats & Creatures at Powerhouse Arts in Gowanus",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-13T17:00:00+00:00",
       "title": "\ud83c\udfb6 Summer at the Library Kickoff Event: Stories with ALEXANDER at Central Library in Prospect Heights (ages 5-12)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -3238,6 +3251,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-06-15T21:00:00+00:00",
+      "title": "\u26bd NYC DOT Soccer Streets Watch Party at Duane Joseph Plaza in PLG",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": "Duane Joseph Plaza",
+      "extraction_method": "api",
+      "vendor": "\u26bd NYC DOT Soccer Streets Watch Party at Duane Joseph Plaza in PLG",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-06-15T22:00:00+00:00",
       "title": "\u265f\ufe0fPark Slope Chess Club at Sip & Play in Park Slope (all skill levels)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -3768,6 +3794,19 @@
       "description": "Camp Friendship",
       "extraction_method": "api",
       "vendor": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Square Dancing with The Times Squares at Camp Friendship in Park Slope (adults)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-16T22:00:00+00:00",
+      "title": "\ud83d\udda4 Juneteenth Celebration: Steelband Vibes at Brighton Beach Library (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Brighton Beach Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udda4 Juneteenth Celebration: Steelband Vibes at Brighton Beach Library (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4370,7 +4409,7 @@
     },
     {
       "date": "2026-06-17T20:00:00+00:00",
-      "title": "\ud83d\udda4Teen Time: Juneteenth Celebration with Zakiya N. Jamal at Brooklyn Heights Library (ages 13-18)",
+      "title": "\ud83d\udda4 Teen Time: Juneteenth Celebration with Zakiya N. Jamal at Brooklyn Heights Library (ages 13-18)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "8:00 PM ET",
       "end_time": "9:00 PM ET",
@@ -4378,7 +4417,7 @@
       "end_time_raw": "9:00 PM",
       "description": "Brooklyn Heights Library",
       "extraction_method": "api",
-      "vendor": "\ud83d\udda4Teen Time: Juneteenth Celebration with Zakiya N. Jamal at Brooklyn Heights Library (ages 13-18)",
+      "vendor": "\ud83d\udda4 Teen Time: Juneteenth Celebration with Zakiya N. Jamal at Brooklyn Heights Library (ages 13-18)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4483,6 +4522,19 @@
       "description": "Herkimer Gardens",
       "extraction_method": "api",
       "vendor": "\ud83d\udc54 Father's Day Celebration at Herkimer Gardens in Bed-Stuy (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-17T21:30:00+00:00",
+      "title": "\ud83c\udfb6 Music. Matters. at Restoration Plaza in Bed-Stuy (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "9:30 PM ET",
+      "end_time": "1:00 AM ET",
+      "start_time_raw": "9:30 PM",
+      "end_time_raw": "1:00 AM",
+      "description": "Restoration Plaza",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Music. Matters. at Restoration Plaza in Bed-Stuy (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4626,6 +4678,19 @@
       "description": "Macaroni KID Brooklyn NW",
       "extraction_method": "api",
       "vendor": "\ud83d\uddd3\ufe0f FREE: Post your event here!",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-18T12:15:00+00:00",
+      "title": "\ud83c\udf0e Virtual: New Member Orientation w/ Climate Families ActionHub",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "12:15 PM ET",
+      "end_time": "1:00 PM ET",
+      "start_time_raw": "12:15 PM",
+      "end_time_raw": "1:00 PM",
+      "description": "Msgr. McGolrick Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf0e Virtual: New Member Orientation w/ Climate Families ActionHub",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4786,7 +4851,7 @@
     },
     {
       "date": "2026-06-18T14:30:00+00:00",
-      "title": "\ud83d\udda4Tunes & Tales for Babies and Toddlers Celebrating Juneteenth at Brower Park Library in Crown Heights (ages 0-5)",
+      "title": "\ud83d\udda4 Tunes & Tales for Babies and Toddlers Celebrating Juneteenth at Brower Park Library in Crown Heights (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
       "end_time": "3:00 PM ET",
@@ -4794,7 +4859,7 @@
       "end_time_raw": "3:00 PM",
       "description": "Brower Park Library",
       "extraction_method": "api",
-      "vendor": "\ud83d\udda4Tunes & Tales for Babies and Toddlers Celebrating Juneteenth at Brower Park Library in Crown Heights (ages 0-5)",
+      "vendor": "\ud83d\udda4 Tunes & Tales for Babies and Toddlers Celebrating Juneteenth at Brower Park Library in Crown Heights (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4955,6 +5020,19 @@
     },
     {
       "date": "2026-06-18T19:00:00+00:00",
+      "title": "\ud83d\udda4 Juneteenth BBQ at The Landing in Elmhurst (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "The Landing Courtyard",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udda4 Juneteenth BBQ at The Landing in Elmhurst (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-18T19:00:00+00:00",
       "title": "\ud83c\udfd7\ufe0f Build with LEGO and DUPLO at Marcy Library in Bed-Stuy (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
@@ -5042,6 +5120,19 @@
       "description": "Park Slope Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udd79\ufe0f Teen Tech Time at Park Slope Library (grades 6-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-18T20:00:00+00:00",
+      "title": "Alfreda\u2019s Black Earth Juneteenth Commemoration at Prospect Park in PLG (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "8:00 PM ET",
+      "end_time": "3:00 AM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "3:00 AM",
+      "description": "Prospect Park Boathouse + Audubon Center",
+      "extraction_method": "api",
+      "vendor": "Alfreda\u2019s Black Earth Juneteenth Commemoration at Prospect Park in PLG (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5188,6 +5279,19 @@
       "location": "MacaroniKid Brooklyn NW"
     },
     {
+      "date": "2026-06-18T22:00:00+00:00",
+      "title": "\ud83e\uddd8 Fitness in the Park: Yoga w/ Llamaste at Cadman Plaza in Brooklyn Heights (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "Cadman Plaza Park",
+      "extraction_method": "api",
+      "vendor": "\ud83e\uddd8 Fitness in the Park: Yoga w/ Llamaste at Cadman Plaza in Brooklyn Heights (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
       "date": "2026-06-18T22:30:00+00:00",
       "title": "\ud83c\udf7a Beer & Braids: Kids Hairstyling 101 at Talea Beer - Cobble Hill (ages 21+)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -5237,6 +5341,19 @@
       "description": "Domino Square",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Sugar Sugar! Hole Pics: Sugar Hole at Domino Square in Williamsburg (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-19T00:00:00+00:00",
+      "title": "\ud83d\udd2d Stargazing with Pride at Central Library in Prospect Heights (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "12:00 AM ET",
+      "end_time": "1:00 AM ET",
+      "start_time_raw": "12:00 AM",
+      "end_time_raw": "1:00 AM",
+      "description": "Central Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udd2d Stargazing with Pride at Central Library in Prospect Heights (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5591,8 +5708,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-06-12T06:31:35.984217+00:00",
-  "total_events": 430,
+  "updated": "2026-06-12T12:32:18.086463+00:00",
+  "total_events": 439,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
