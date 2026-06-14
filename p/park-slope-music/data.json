@@ -314,15 +314,15 @@
     },
     {
       "date": "2026-06-16T15:00:00-04:00",
-      "title": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "title": "France vs. Senegal - World Cup - All You can Drink!",
       "venue": "Eastville Comedy Club",
       "start_time": "3:00 PM ET",
       "end_time": null,
       "start_time_raw": "3:00 PM",
       "end_time_raw": null,
-      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn's premier daytime World Cup viewing lounge. We're opening our doors early for a handpicked selection of the tournament's biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>\u2022 $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>\u2022 Half off food, see our new Mexican menu<br>\u2022 Massive Cinema-Scale HD Projector Screen<br>\u2022 Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>\u2022 Strong Wi-Fi for those 'working from home' ????Mexican</p>",
+      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; ????Mexican</p>",
       "extraction_method": "json-ld",
-      "vendor": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "vendor": "France vs. Senegal - World Cup - All You can Drink!",
       "location": "Eastville Comedy Club"
     },
     {
@@ -366,15 +366,15 @@
     },
     {
       "date": "2026-06-17T16:00:00-04:00",
-      "title": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "title": "England vs. Croatia - World Cup - All You can Drink!",
       "venue": "Eastville Comedy Club",
       "start_time": "4:00 PM ET",
       "end_time": null,
       "start_time_raw": "4:00 PM",
       "end_time_raw": null,
-      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn's premier daytime World Cup viewing lounge. We're opening our doors early for a handpicked selection of the tournament's biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>\u2022 $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>\u2022 Half off food, see our new Mexican menu<br>\u2022 Massive Cinema-Scale HD Projector Screen<br>\u2022 Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>\u2022 Strong Wi-Fi for those 'working from home' ????Mexican</p>",
+      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; ????Mexican</p>",
       "extraction_method": "json-ld",
-      "vendor": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "vendor": "England vs. Croatia - World Cup - All You can Drink!",
       "location": "Eastville Comedy Club"
     },
     {
@@ -820,7 +820,7 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-06-14T12:17:03.048887+00:00",
+  "updated": "2026-06-14T14:16:48.599013+00:00",
   "total_events": 63,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
