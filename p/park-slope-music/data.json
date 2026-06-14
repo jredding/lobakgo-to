@@ -131,6 +131,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-06-14T15:00:00-04:00",
+      "title": "Comfy \"Crew Contest\"",
+      "venue": "Eastville Comedy Club",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Comfy \"Crew Contest\"",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-06-14T16:00:00",
       "title": "World Cup Watch Party",
       "venue": "Industry City",
@@ -142,6 +155,19 @@
       "extraction_method": "api",
       "vendor": "World Cup Watch Party",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-06-14T16:30:00-04:00",
+      "title": "Comfy \"Crew Contest\" Part 2",
+      "venue": "Eastville Comedy Club",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Comfy \"Crew Contest\" Part 2",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-06-14T17:30:00",
@@ -535,15 +561,15 @@
     },
     {
       "date": "2026-06-19T15:00:00-04:00",
-      "title": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "title": "USA vs. Australia - World Cup - All You can Drink!",
       "venue": "Eastville Comedy Club",
       "start_time": "3:00 PM ET",
       "end_time": null,
       "start_time_raw": "3:00 PM",
       "end_time_raw": null,
-      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn's premier daytime World Cup viewing lounge. We're opening our doors early for a handpicked selection of the tournament's biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>\u2022 $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>\u2022 Half off food, see our new Mexican menu<br>\u2022 Massive Cinema-Scale HD Projector Screen<br>\u2022 Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>\u2022 Strong Wi-Fi for those 'working from home' ????Mexican</p>",
+      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; ????Mexican</p>",
       "extraction_method": "json-ld",
-      "vendor": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "vendor": "USA vs. Australia - World Cup - All You can Drink!",
       "location": "Eastville Comedy Club"
     },
     {
@@ -652,28 +678,28 @@
     },
     {
       "date": "2026-06-20T13:00:00-04:00",
-      "title": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "title": "Netherlands vs. Sweden - World Cup - All You can Drink!",
       "venue": "Eastville Comedy Club",
       "start_time": "1:00 PM ET",
       "end_time": null,
       "start_time_raw": "1:00 PM",
       "end_time_raw": null,
-      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn's premier daytime World Cup viewing lounge. We're opening our doors early for a handpicked selection of the tournament's biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>\u2022 $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>\u2022 Half off food, see our new Mexican menu<br>\u2022 Massive Cinema-Scale HD Projector Screen<br>\u2022 Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>\u2022 Strong Wi-Fi for those 'working from home' ????Mexican</p>",
+      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; ????Mexican</p>",
       "extraction_method": "json-ld",
-      "vendor": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "vendor": "Netherlands vs. Sweden - World Cup - All You can Drink!",
       "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-06-20T16:00:00-04:00",
-      "title": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "title": "Germany vs. Ivory Coast - World Cup - All You can Drink!",
       "venue": "Eastville Comedy Club",
       "start_time": "4:00 PM ET",
       "end_time": null,
       "start_time_raw": "4:00 PM",
       "end_time_raw": null,
-      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn's premier daytime World Cup viewing lounge. We're opening our doors early for a handpicked selection of the tournament's biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>\u2022 $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>\u2022 Half off food, see our new Mexican menu<br>\u2022 Massive Cinema-Scale HD Projector Screen<br>\u2022 Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>\u2022 Strong Wi-Fi for those 'working from home' ????Mexican</p>",
+      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; ????Mexican</p>",
       "extraction_method": "json-ld",
-      "vendor": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "vendor": "Germany vs. Ivory Coast - World Cup - All You can Drink!",
       "location": "Eastville Comedy Club"
     },
     {
@@ -769,15 +795,15 @@
     },
     {
       "date": "2026-06-21T12:00:00-04:00",
-      "title": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "title": "Spain vs. Saudi Arabia- World Cup - All You can Drink!",
       "venue": "Eastville Comedy Club",
       "start_time": "12:00 PM ET",
       "end_time": null,
       "start_time_raw": "12:00 PM",
       "end_time_raw": null,
-      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn's premier daytime World Cup viewing lounge. We're opening our doors early for a handpicked selection of the tournament's biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>\u2022 $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>\u2022 Half off food, see our new Mexican menu<br>\u2022 Massive Cinema-Scale HD Projector Screen<br>\u2022 Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>\u2022 Strong Wi-Fi for those 'working from home' ????Mexican</p>",
+      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; ????Mexican</p>",
       "extraction_method": "json-ld",
-      "vendor": "Mexico vs. South Africa - World Cup - All You can Drink!",
+      "vendor": "Spain vs. Saudi Arabia- World Cup - All You can Drink!",
       "location": "Eastville Comedy Club"
     },
     {
@@ -820,8 +846,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-06-14T14:16:48.599013+00:00",
-  "total_events": 63,
+  "updated": "2026-06-14T16:16:39.115977+00:00",
+  "total_events": 65,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
