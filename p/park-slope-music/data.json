@@ -1,201 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-06-14T00:00:00",
-      "title": "Proud, Werk! hosted by Erik Martini  and Jer Block",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Proud, Werk! hosted by Erik Martini  and Jer Block",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-06-14T00:00:00",
-      "title": "Bo Johnson @ Union Hall",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Bo Johnson @ Union Hall",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-06-14T10:00:00",
-      "title": "VinylCon! NYC",
-      "venue": "Industry City",
-      "start_time": "10:00 AM ET",
-      "end_time": "5:00 PM ET",
-      "start_time_raw": "10:00 AM",
-      "end_time_raw": "5:00 PM",
-      "description": "A community celebration of collecting culture and discovering new music. A music collector\u2019s daydream come to life, VinylCon! is a two-day community celebration of collecting culture and new music discovery.\nWe bring in individual vinyl sellers from all over the region and beyond to set up a massive music selection you can\u2019t find anywhere else. Many sellers from outside of NYC.\nEverything from collectors looking to clear out shelf space to professional shops and dealers.\nWe are focused on vinyl but don\u2019t worry there will be other recorded media on offer, as well as all sorts of music memorabilia and ephemera.\nTo round it out we will have a full bar, exciting sponsor activations, and of course we\u2019ll be bringing some vinyl-only DJ\u2019s to provide killer tunes while you dig!",
-      "extraction_method": "api",
-      "vendor": "VinylCon! NYC",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-14T11:00:00",
-      "title": "Pop-Up  Sample Sale",
-      "venue": "Industry City",
-      "start_time": "11:00 AM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "11:00 AM",
-      "end_time_raw": "6:00 PM",
-      "description": "Gear up for summer fun and Father&#8217;s Day with our multi-brand sample sale for women and men! Score leather varsity jackets, fine quality knit shirts, European shoes, apparel, and many one-of-a-kind pieces",
-      "extraction_method": "api",
-      "vendor": "Pop-Up  Sample Sale",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-14T11:00:00",
-      "title": "Exactitude Dance: Information Booth and Free Classes",
-      "venue": "Industry City",
-      "start_time": "11:00 AM ET",
-      "end_time": "1:00 PM ET",
-      "start_time_raw": "11:00 AM",
-      "end_time_raw": "1:00 PM",
-      "description": "Free dance class in courtyard 3/4 to promote Exactitude Dance summer workshops and events and building 3.",
-      "extraction_method": "api",
-      "vendor": "Exactitude Dance: Information Booth and Free Classes",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-14T12:00:00+00:00",
-      "title": "PUBLIC VICTORIES. STORIES OF PERSONAL TRIUMPH.(Story Telling )",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "PUBLIC VICTORIES. STORIES OF PERSONAL TRIUMPH.(Story Telling )",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-14T12:00:00+00:00",
-      "title": "ENEMIES TO LOVERS PRESENTS(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "ENEMIES TO LOVERS PRESENTS(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-14T12:00:00+00:00",
-      "title": "SIBILANCE// SAM LARSON AND ASSOCIATES// ASKAL(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SIBILANCE// SAM LARSON AND ASSOCIATES// ASKAL(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-14T12:30:00",
-      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "venue": "Industry City",
-      "start_time": "12:30 PM ET",
-      "end_time": "1:30 PM ET",
-      "start_time_raw": "12:30 PM",
-      "end_time_raw": "1:30 PM",
-      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers!\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come!).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
-      "extraction_method": "api",
-      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-14T13:00:00-04:00",
-      "title": "Germany vs. Cura\u00e7ao- World Cup - All You can Drink!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "1:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "1:00 PM",
-      "end_time_raw": null,
-      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; &nbsp;</p>",
-      "extraction_method": "json-ld",
-      "vendor": "Germany vs. Cura\u00e7ao- World Cup - All You can Drink!",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-14T15:00:00-04:00",
-      "title": "Comfy \"Crew Contest\"",
-      "venue": "Eastville Comedy Club",
-      "start_time": "3:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "json-ld",
-      "vendor": "Comfy \"Crew Contest\"",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-14T16:00:00",
-      "title": "World Cup Watch Party",
-      "venue": "Industry City",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Get ready for an unforgettable matchday experience as fans come together to watch Japan take on the Netherlands in an exciting World Cup showdown! Bring your friends, family, and team spirit as we cheer on Japan in their first match of the tournament.\nYou can expect:\n-Live screening of the World Cup match on the big screen\n-Beer, sake, and delicious food vendors available outside throughout the event\n-Team Japan merchandise available for purchase\n-FREE admission for all attendees\nSpecial Matchday Offer:\nPurchase a Team Japan shirt at the event and receive a FREE beer to help kick off the celebration!\nCome early to grab a great spot, enjoy food and drinks, browse exclusive merchandise, and connect with other supporters before kickoff. Wear your blue, bring your flags, and get ready to chant, cheer, and rally behind Japan as they begin their World Cup journey.\nDon&#8217;t miss this exciting community watch party\u2014let&#8217;s make some noise and show our support for Team Japan together!",
-      "extraction_method": "api",
-      "vendor": "World Cup Watch Party",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-14T16:30:00-04:00",
-      "title": "Comfy \"Crew Contest\" Part 2",
-      "venue": "Eastville Comedy Club",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "json-ld",
-      "vendor": "Comfy \"Crew Contest\" Part 2",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-14T17:30:00",
-      "title": "AFTERNOON DELIGHT VARIETY SHOW(Music)",
-      "venue": "Young Ethel's",
-      "start_time": null,
-      "end_time": "5:30 PM ET",
-      "start_time_raw": null,
-      "end_time_raw": "5:30 PM",
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "AFTERNOON DELIGHT VARIETY SHOW(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-14T19:30:00-04:00",
-      "title": "Peter Stewart, Bobby Condon, Sonya Vai, Yvette Segan, Neema Naz",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br>Featuring<br>Peter Stewart<br>Bobby Condon<br>Sonya Vai<br>Yvette Segan<br>Neema Naz",
-      "extraction_method": "json-ld",
-      "vendor": "Peter Stewart, Bobby Condon, Sonya Vai, Yvette Segan, Neema Naz",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-06-15T00:00:00",
       "title": "Frankenstein's Baby",
       "venue": "Union Hall",
@@ -352,6 +157,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-06-16T20:00:00",
+      "title": "The Occasionalists Present Tuesday Night Live Band Karaoke",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Skip the weekend crowds and grab the mic on a Tuesday night",
+      "extraction_method": "api",
+      "vendor": "The Occasionalists Present Tuesday Night Live Band Karaoke",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-17T00:00:00",
       "title": "Garrett and Allison's Big Night",
       "venue": "Union Hall",
@@ -430,6 +248,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-17T20:00:00",
+      "title": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "David Cross is building his next hour of standup \u2014\u00a0and you get to see it!",
+      "extraction_method": "api",
+      "vendor": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-17T20:00:00-04:00",
       "title": "Michael Good, Tom Zappia, Bobby Condon, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -506,6 +337,19 @@
       "extraction_method": "html",
       "vendor": "1980S IMPROV CHALLENGE(Improv Comedy)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-18T20:00:00",
+      "title": "Spider-Man Entirely From Memory",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Presented by the Ten Bones Theatre Company",
+      "extraction_method": "api",
+      "vendor": "Spider-Man Entirely From Memory",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-18T20:00:00-04:00",
@@ -599,6 +443,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-06-19T19:00:00",
+      "title": "SLOW JAMS ORCHESTRA - Live RnB & Slow Jams Experience",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "\u26a0\ufe0f WARNING: This event may cause slow dancing with strangers, emotional flashbacks, and unsent text messages you'll definitely send anyway.",
+      "extraction_method": "api",
+      "vendor": "SLOW JAMS ORCHESTRA - Live RnB & Slow Jams Experience",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-19T20:00:00-04:00",
       "title": "Punchline Palace",
       "venue": "Eastville Comedy Club",
@@ -636,6 +493,19 @@
       "extraction_method": "json-ld",
       "vendor": "Who Gave Them a Mic Comedy Show - Juneteenth Hosted by Derrell Meyers",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-19T23:00:00",
+      "title": "SLOW JAMS NYC",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Sexiest RnB & SLOW JAMS Party",
+      "extraction_method": "api",
+      "vendor": "SLOW JAMS NYC",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-20T00:00:00",
@@ -729,6 +599,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-20T18:00:00",
+      "title": "THE CRAFT",
+      "venue": "Littlefield",
+      "start_time": "6:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Crafted bars. Legendary MCs. And real hip-hop energy.",
+      "extraction_method": "api",
+      "vendor": "THE CRAFT",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-20T18:00:00-04:00",
       "title": "Saturday Night Live Comedy",
       "venue": "Eastville Comedy Club",
@@ -779,6 +662,19 @@
       "extraction_method": "json-ld",
       "vendor": "Saturday Late Night Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-20T23:00:00",
+      "title": "REGGAE REWIND",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "BROOKLYN... WE'RE CALLING ALL REGGAE LOVERS, DANCEHALL HEADS, REWIND SPECIALISTS & FORWARD CREW!",
+      "extraction_method": "api",
+      "vendor": "REGGAE REWIND",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-21T00:00:00",
@@ -844,17 +740,54 @@
       "extraction_method": "json-ld",
       "vendor": "Sunday Night Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-21T20:00:00",
+      "title": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "\u201cThe Donor\u201d is a live comedy game show created by comedian Sami Schwaeber, inspired by her real-life journey with her wife to find a sperm d",
+      "extraction_method": "api",
+      "vendor": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-06-22T00:00:00",
+      "title": "LAUGH",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LAUGH",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-22T20:00:00",
+      "title": "Celebrating Queer Romance - Pride Panel + Party",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Celebrate Pride Week with The Ripped Bodice and Littlefield for a discussion and celebration of queer romance on Monday, June 22 at 7pm ET.",
+      "extraction_method": "api",
+      "vendor": "Celebrating Queer Romance - Pride Panel + Party",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-06-14T16:16:39.115977+00:00",
-  "total_events": 65,
+  "updated": "2026-06-15T06:16:18.524804+00:00",
+  "total_events": 60,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
