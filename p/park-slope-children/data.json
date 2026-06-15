@@ -41,19 +41,6 @@
     },
     {
       "date": "2026-06-15T13:30:00+00:00",
-      "title": "\ud83c\udfa8 Stay Small Art Club at Edamama in Willliamsburg (ages 18 mo-5 yr)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "1:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "1:30 PM",
-      "end_time_raw": null,
-      "description": "Edamama",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfa8 Stay Small Art Club at Edamama in Willliamsburg (ages 18 mo-5 yr)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-15T13:30:00+00:00",
       "title": "\ud83c\udfb5 Audra Rox: Music for Aardvarks at ARTUDIO in Greenpoint (ages 0-4)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "1:30 PM ET",
@@ -63,6 +50,19 @@
       "description": "ARTUDIO",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb5 Audra Rox: Music for Aardvarks at ARTUDIO in Greenpoint (ages 0-4)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-15T13:30:00+00:00",
+      "title": "\ud83c\udfa8 Stay Small Art Club at Edamama in Willliamsburg (ages 18 mo-5 yr)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "1:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:30 PM",
+      "end_time_raw": null,
+      "description": "Edamama",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 Stay Small Art Club at Edamama in Willliamsburg (ages 18 mo-5 yr)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -340,19 +340,6 @@
     },
     {
       "date": "2026-06-15T19:00:00+00:00",
-      "title": "\ud83d\udcdd After School Homework Help at Greenpoint Library (grades K-8)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Greenpoint Library",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcdd After School Homework Help at Greenpoint Library (grades K-8)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-15T19:00:00+00:00",
       "title": "\ud83c\udfa7 Quiet Sensory-Friendly Zone Open at Brooklyn Heights Library (ages 3-12)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
@@ -375,6 +362,19 @@
       "description": "Macon Public Library",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 Arts & Crafts at Macon Library in Bed-Stuy (ages 5+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-15T19:00:00+00:00",
+      "title": "\ud83d\udcdd After School Homework Help at Greenpoint Library (grades K-8)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Greenpoint Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcdd After School Homework Help at Greenpoint Library (grades K-8)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -613,19 +613,6 @@
     },
     {
       "date": "2026-06-16T14:00:00+00:00",
-      "title": "\ud83c\udfa8 $10 Tuesdays at Private Picassos in Clinton Hill (ages 18 months+)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Private Picassos",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfa8 $10 Tuesdays at Private Picassos in Clinton Hill (ages 18 months+)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-16T14:00:00+00:00",
       "title": "\ud83c\udfb6 Super Giant Creatures Singalong at McGolrick Park in Greenpoint (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -635,6 +622,19 @@
       "description": "McGolrick Park",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Super Giant Creatures Singalong at McGolrick Park in Greenpoint (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-16T14:00:00+00:00",
+      "title": "\ud83c\udfa8 $10 Tuesdays at Private Picassos in Clinton Hill (ages 18 months+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Private Picassos",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 $10 Tuesdays at Private Picassos in Clinton Hill (ages 18 months+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -691,19 +691,6 @@
     },
     {
       "date": "2026-06-16T14:30:00+00:00",
-      "title": "\ud83c\udfb5 Tam Tam  Music -Together in Cobble Hill (ages 0-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": null,
-      "description": "Cobble Hill Ballet",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb5 Tam Tam  Music -Together in Cobble Hill (ages 0-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-16T14:30:00+00:00",
       "title": "\ud83c\udfb6 Rocking Chair Music at ARTUDIO in Greenpoint (ages 0-2)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -713,6 +700,19 @@
       "description": "ARTUDIO",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Rocking Chair Music at ARTUDIO in Greenpoint (ages 0-2)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-16T14:30:00+00:00",
+      "title": "\ud83c\udfb5 Tam Tam  Music -Together in Cobble Hill (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": null,
+      "description": "Cobble Hill Ballet",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb5 Tam Tam  Music -Together in Cobble Hill (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -821,19 +821,6 @@
     },
     {
       "date": "2026-06-16T19:00:00+00:00",
-      "title": "\u26bd FIFA World Cup 2026 Watch Party: France v Senegal at Kings Bay Library in Sheepshead Bay",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": "Kings Bay Library",
-      "extraction_method": "api",
-      "vendor": "\u26bd FIFA World Cup 2026 Watch Party: France v Senegal at Kings Bay Library in Sheepshead Bay",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-16T19:00:00+00:00",
       "title": "\u26bd The Ultimate Cup Viewing Experience at Time Out Market in DUMBO (adults)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
@@ -843,6 +830,19 @@
       "description": "Time Out Market New York",
       "extraction_method": "api",
       "vendor": "\u26bd The Ultimate Cup Viewing Experience at Time Out Market in DUMBO (adults)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-16T19:00:00+00:00",
+      "title": "\u26bd FIFA World Cup 2026 Watch Party: France v Senegal at Kings Bay Library in Sheepshead Bay",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": "Kings Bay Library",
+      "extraction_method": "api",
+      "vendor": "\u26bd FIFA World Cup 2026 Watch Party: France v Senegal at Kings Bay Library in Sheepshead Bay",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -882,19 +882,6 @@
       "description": "Pacific Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udc76\ud83c\udffb Playtime at Pacific Library in Downtown Brooklyn (ages 0-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-16T19:30:00+00:00",
-      "title": "\ud83d\udcda Author reading, signing, and dancing at Dodge YMCA in Boerum Hill (ages 3-8)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": "Dodge YMCA",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcda Author reading, signing, and dancing at Dodge YMCA in Boerum Hill (ages 3-8)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1003,19 +990,6 @@
     },
     {
       "date": "2026-06-16T22:00:00+00:00",
-      "title": "\ud83d\udda4 Juneteenth Celebration: Steelband Vibes at Brighton Beach Library (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Brighton Beach Library",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udda4 Juneteenth Celebration: Steelband Vibes at Brighton Beach Library (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-16T22:00:00+00:00",
       "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Square Dancing with The Times Squares at Camp Friendship in Park Slope (adults)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "10:00 PM ET",
@@ -1025,6 +999,19 @@
       "description": "Camp Friendship",
       "extraction_method": "api",
       "vendor": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Square Dancing with The Times Squares at Camp Friendship in Park Slope (adults)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-16T22:00:00+00:00",
+      "title": "\ud83d\udda4 Juneteenth Celebration: Steelband Vibes at Brighton Beach Library (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Brighton Beach Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udda4 Juneteenth Celebration: Steelband Vibes at Brighton Beach Library (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1211,19 +1198,6 @@
     },
     {
       "date": "2026-06-17T14:30:00+00:00",
-      "title": "\ud83c\udfb6 Bubbly B\u2019s Interactive Musical Theatre Class at McCarren Park in Williamsburg (ages 0-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "5:00 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "5:00 PM",
-      "description": "McCarren Park by Parkhouse",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb6 Bubbly B\u2019s Interactive Musical Theatre Class at McCarren Park in Williamsburg (ages 0-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-17T14:30:00+00:00",
       "title": "\ud83d\udcd7 Park Slope Storytime at Park Slope Library (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -1233,6 +1207,19 @@
       "description": "Park Slope Library",
       "extraction_method": "api",
       "vendor": "\ud83d\udcd7 Park Slope Storytime at Park Slope Library (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-17T14:30:00+00:00",
+      "title": "\ud83c\udfb6 Bubbly B\u2019s Interactive Musical Theatre Class at McCarren Park in Williamsburg (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "McCarren Park by Parkhouse",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Bubbly B\u2019s Interactive Musical Theatre Class at McCarren Park in Williamsburg (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1328,19 +1315,6 @@
     },
     {
       "date": "2026-06-17T14:30:00+00:00",
-      "title": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Williamsburgh Library",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-17T14:30:00+00:00",
       "title": "\ud83c\udfb6 Toddler Time [2 sessions] at Greenpoint Library (walking toddlers)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -1350,6 +1324,19 @@
       "description": "Greenpoint Library",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Toddler Time [2 sessions] at Greenpoint Library (walking toddlers)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-17T14:30:00+00:00",
+      "title": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "Williamsburgh Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcd7 Storytime at Williamsburgh Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1757,19 +1744,6 @@
     },
     {
       "date": "2026-06-17T22:00:00+00:00",
-      "title": "\u26bd The Ultimate Cup Viewing Experience at Time Out Market in DUMBO (adults)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Time Out Market New York",
-      "extraction_method": "api",
-      "vendor": "\u26bd The Ultimate Cup Viewing Experience at Time Out Market in DUMBO (adults)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-17T22:00:00+00:00",
       "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Interfaith Service at First Unitarian Congregational Society in Brooklyn Heights (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "10:00 PM ET",
@@ -1779,6 +1753,19 @@
       "description": "First Unitarian Congregational Society",
       "extraction_method": "api",
       "vendor": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Interfaith Service at First Unitarian Congregational Society in Brooklyn Heights (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-17T22:00:00+00:00",
+      "title": "\u26bd The Ultimate Cup Viewing Experience at Time Out Market in DUMBO (adults)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "2:00 AM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "2:00 AM",
+      "description": "Time Out Market New York",
+      "extraction_method": "api",
+      "vendor": "\u26bd The Ultimate Cup Viewing Experience at Time Out Market in DUMBO (adults)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1991,19 +1978,6 @@
     },
     {
       "date": "2026-06-18T14:00:00+00:00",
-      "title": "\ud83d\udcda Tot Time at Marsha P. Johnson State Park in Williamsburg (ages 5 and under)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Marsha P. Johnson State Park House",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcda Tot Time at Marsha P. Johnson State Park in Williamsburg (ages 5 and under)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-18T14:00:00+00:00",
       "title": "\ud83d\udc76\ud83c\udffb Stroller Walk at Prospect Park Audubon Center in PLG",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -2013,6 +1987,19 @@
       "description": "Audubon Center in Prospect Park",
       "extraction_method": "api",
       "vendor": "\ud83d\udc76\ud83c\udffb Stroller Walk at Prospect Park Audubon Center in PLG",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-18T14:00:00+00:00",
+      "title": "\ud83d\udcda Tot Time at Marsha P. Johnson State Park in Williamsburg (ages 5 and under)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "Marsha P. Johnson State Park House",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcda Tot Time at Marsha P. Johnson State Park in Williamsburg (ages 5 and under)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2173,19 +2160,6 @@
     },
     {
       "date": "2026-06-18T17:00:00+00:00",
-      "title": "\ud83c\udfa8 Community Access Thursdays at Brooklyn Children's Museum in Crown Heights (ages 6 mos-10 yrs)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Brooklyn Children's Museum",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfa8 Community Access Thursdays at Brooklyn Children's Museum in Crown Heights (ages 6 mos-10 yrs)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-18T17:00:00+00:00",
       "title": "\ud83c\udfb6 Tam Tam Music Together at Mi Centro in Bed Stuy (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -2195,6 +2169,19 @@
       "description": "Mi Centro BK",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Tam Tam Music Together at Mi Centro in Bed Stuy (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-18T17:00:00+00:00",
+      "title": "\ud83c\udfa8 Community Access Thursdays at Brooklyn Children's Museum in Crown Heights (ages 6 mos-10 yrs)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Brooklyn Children's Museum",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa8 Community Access Thursdays at Brooklyn Children's Museum in Crown Heights (ages 6 mos-10 yrs)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2524,19 +2511,6 @@
     },
     {
       "date": "2026-06-18T22:00:00+00:00",
-      "title": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Greenpoint Library",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-18T22:00:00+00:00",
       "title": "\ud83d\udefc Adult Skate Class at Brooklyn Bridge Park - Pier 2 Roller Rink (ages 15+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "10:00 PM ET",
@@ -2546,6 +2520,19 @@
       "description": "Brooklyn Bridge Park \u2013 Pier 2",
       "extraction_method": "api",
       "vendor": "\ud83d\udefc Adult Skate Class at Brooklyn Bridge Park - Pier 2 Roller Rink (ages 15+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-18T22:00:00+00:00",
+      "title": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "10:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Greenpoint Library",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf05 Sunset Storytime at Greenpoint Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2693,19 +2680,6 @@
     },
     {
       "date": "2026-06-19T14:00:00+00:00",
-      "title": "\ud83d\udc5f Prospect Park Wellness Walk at Prospect Park Audubon Center in PLG (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "4:00 PM",
-      "description": "Audubon Center in Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udc5f Prospect Park Wellness Walk at Prospect Park Audubon Center in PLG (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-19T14:00:00+00:00",
       "title": "\ud83c\udfb6 Punk Island Music Festival on Governors Island (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -2715,6 +2689,19 @@
       "description": "Governors Island",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Punk Island Music Festival on Governors Island (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-19T14:00:00+00:00",
+      "title": "\ud83d\udc5f Prospect Park Wellness Walk at Prospect Park Audubon Center in PLG (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Audubon Center in Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc5f Prospect Park Wellness Walk at Prospect Park Audubon Center in PLG (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -2966,19 +2953,6 @@
     },
     {
       "date": "2026-06-19T20:00:00+00:00",
-      "title": "\ud83c\udfc0 One Crown Heights Crown Clinics at Brower Park in Crown Heights (ages 11-14)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Brower Park",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfc0 One Crown Heights Crown Clinics at Brower Park in Crown Heights (ages 11-14)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-19T20:00:00+00:00",
       "title": "\ud83c\udfb6 Live Music Concert with Teksupport at Brooklyn Army Terminal in Sunset Park (ages 21+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "8:00 PM ET",
@@ -2988,6 +2962,19 @@
       "description": "Brooklyn Army Terminal",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb6 Live Music Concert with Teksupport at Brooklyn Army Terminal in Sunset Park (ages 21+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-19T20:00:00+00:00",
+      "title": "\ud83c\udfc0 One Crown Heights Crown Clinics at Brower Park in Crown Heights (ages 11-14)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Brower Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfc0 One Crown Heights Crown Clinics at Brower Park in Crown Heights (ages 11-14)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3226,19 +3213,6 @@
     },
     {
       "date": "2026-06-20T14:00:00+00:00",
-      "title": "\ud83d\udef6 Kayaking at Brooklyn Bridge Park in Brooklyn Heights (ages 7+)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "Brooklyn Bridge Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udef6 Kayaking at Brooklyn Bridge Park in Brooklyn Heights (ages 7+)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-20T14:00:00+00:00",
       "title": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 The Revolution Continues: Gay Green-Wood, Family Edition! Trolley Tour at Green-Wood Cemetery in South Slope (ages 4+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -3248,6 +3222,19 @@
       "description": "Green-Wood Cemetery",
       "extraction_method": "api",
       "vendor": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 The Revolution Continues: Gay Green-Wood, Family Edition! Trolley Tour at Green-Wood Cemetery in South Slope (ages 4+)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-20T14:00:00+00:00",
+      "title": "\ud83d\udef6 Kayaking at Brooklyn Bridge Park in Brooklyn Heights (ages 7+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Brooklyn Bridge Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udef6 Kayaking at Brooklyn Bridge Park in Brooklyn Heights (ages 7+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3577,19 +3564,6 @@
     },
     {
       "date": "2026-06-20T16:00:00+00:00",
-      "title": "\u26bd adidas Home of Soccer at Emily Warren Roebling Plaza in Brooklyn Bridge Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Emily Warren Roebling Plaza",
-      "extraction_method": "api",
-      "vendor": "\u26bd adidas Home of Soccer at Emily Warren Roebling Plaza in Brooklyn Bridge Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-20T16:00:00+00:00",
       "title": "\ud83c\udf9f\ufe0f The Public Theater: Shakespeare in the Park Ticket Voucher Give Away at Clinton Hill Library (adults)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -3603,15 +3577,15 @@
     },
     {
       "date": "2026-06-20T16:00:00+00:00",
-      "title": "\ud83d\udecd\ufe0f Brooklyn Pop-Up x Red Hook Summer Market at Hook Studio Dikeman in Red Hook (all ages)",
+      "title": "\u26bd adidas Home of Soccer at Emily Warren Roebling Plaza in Brooklyn Bridge Park",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
-      "end_time": null,
+      "end_time": "2:00 AM ET",
       "start_time_raw": "4:00 PM",
-      "end_time_raw": null,
-      "description": "Hook Studios",
+      "end_time_raw": "2:00 AM",
+      "description": "Emily Warren Roebling Plaza",
       "extraction_method": "api",
-      "vendor": "\ud83d\udecd\ufe0f Brooklyn Pop-Up x Red Hook Summer Market at Hook Studio Dikeman in Red Hook (all ages)",
+      "vendor": "\u26bd adidas Home of Soccer at Emily Warren Roebling Plaza in Brooklyn Bridge Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -3629,6 +3603,19 @@
     },
     {
       "date": "2026-06-20T16:00:00+00:00",
+      "title": "\ud83d\udecd\ufe0f Brooklyn Pop-Up x Red Hook Summer Market at Hook Studio Dikeman in Red Hook (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": null,
+      "description": "Hook Studios",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udecd\ufe0f Brooklyn Pop-Up x Red Hook Summer Market at Hook Studio Dikeman in Red Hook (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-20T16:00:00+00:00",
       "title": "\ud83d\udda4 Juneteenth Freedom Party at Kings Bay Library in Sheepshead Bay (ages 13-18)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -3642,19 +3629,6 @@
     },
     {
       "date": "2026-06-20T16:30:00+00:00",
-      "title": "\ud83c\udfad Pinocchio at Puppetworks in Park Slope (ages 3+)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": "Puppetworks",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfad Pinocchio at Puppetworks in Park Slope (ages 3+)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-20T16:30:00+00:00",
       "title": "\ud83d\udc09 Teen Dungeons & Dragons at Frontier Games in Greenpoint (ages 12-17)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:30 PM ET",
@@ -3664,6 +3638,19 @@
       "description": "Frontier Games",
       "extraction_method": "api",
       "vendor": "\ud83d\udc09 Teen Dungeons & Dragons at Frontier Games in Greenpoint (ages 12-17)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-20T16:30:00+00:00",
+      "title": "\ud83c\udfad Pinocchio at Puppetworks in Park Slope (ages 3+)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": "Puppetworks",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfad Pinocchio at Puppetworks in Park Slope (ages 3+)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4201,19 +4188,6 @@
     },
     {
       "date": "2026-06-21T16:00:00+00:00",
-      "title": "\ud83d\udef6 Free Canoeing on the Gowanus Canal at Gowanus Dredgers Canoe Club Boathouse (adults)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Gowanus Dredgers Canoe Club Boathouse",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udef6 Free Canoeing on the Gowanus Canal at Gowanus Dredgers Canoe Club Boathouse (adults)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-21T16:00:00+00:00",
       "title": "\ud83d\udef6 Kayaking at Brooklyn Bridge Park in Brooklyn Heights (ages 7+)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -4236,6 +4210,19 @@
       "description": "Seventh Heaven Street Fair",
       "extraction_method": "api",
       "vendor": "\ud83c\udf89 Annual Seventh Heaven Street Fair in Park Slope",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-21T16:00:00+00:00",
+      "title": "\ud83d\udef6 Free Canoeing on the Gowanus Canal at Gowanus Dredgers Canoe Club Boathouse (adults)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Gowanus Dredgers Canoe Club Boathouse",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udef6 Free Canoeing on the Gowanus Canal at Gowanus Dredgers Canoe Club Boathouse (adults)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4279,19 +4266,6 @@
     },
     {
       "date": "2026-06-21T16:00:00+00:00",
-      "title": "\ud83d\udd79\ufe0f Family Day at Barcade in Williamsburg (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "4:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Barcade Brooklyn",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udd79\ufe0f Family Day at Barcade in Williamsburg (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-21T16:00:00+00:00",
       "title": "\ud83c\udf1e Play in the Square at Domino Park in Williamsburg (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -4301,6 +4275,19 @@
       "description": "Domino Park",
       "extraction_method": "api",
       "vendor": "\ud83c\udf1e Play in the Square at Domino Park in Williamsburg (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-21T16:00:00+00:00",
+      "title": "\ud83d\udd79\ufe0f Family Day at Barcade in Williamsburg (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Barcade Brooklyn",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udd79\ufe0f Family Day at Barcade in Williamsburg (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4617,6 +4604,19 @@
     },
     {
       "date": "2026-06-22T14:30:00+00:00",
+      "title": "\ud83c\udfb5 Audra Rox: Music for Aardvarks at The Social in Prospect Heights (ages 0-4)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": null,
+      "description": "The Social",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb5 Audra Rox: Music for Aardvarks at The Social in Prospect Heights (ages 0-4)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-22T14:30:00+00:00",
       "title": "\ud83d\udcda Storytime at Central Library in Prospect Heights (ages 0-5)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:30 PM ET",
@@ -4639,19 +4639,6 @@
       "description": "Williamsburg School of Music",
       "extraction_method": "api",
       "vendor": "\ud83c\udfb5 Jazz Baby with Mariella Price at Williamsburg School of Music (ages 6 mo-3 yr)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-22T14:30:00+00:00",
-      "title": "\ud83c\udfb5 Audra Rox: Music for Aardvarks at The Social in Prospect Heights (ages 0-4)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "2:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "2:30 PM",
-      "end_time_raw": null,
-      "description": "The Social",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfb5 Audra Rox: Music for Aardvarks at The Social in Prospect Heights (ages 0-4)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4812,19 +4799,6 @@
     },
     {
       "date": "2026-06-22T19:00:00+00:00",
-      "title": "\ud83d\udcdd After School Homework Help at Greenpoint Library (grades K-8)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Greenpoint Library",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcdd After School Homework Help at Greenpoint Library (grades K-8)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-22T19:00:00+00:00",
       "title": "\ud83c\udfa7 Quiet Sensory-Friendly Zone Open at Brooklyn Heights Library (ages 3-12)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
@@ -4834,6 +4808,19 @@
       "description": "Brooklyn Heights Library",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa7 Quiet Sensory-Friendly Zone Open at Brooklyn Heights Library (ages 3-12)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-22T19:00:00+00:00",
+      "title": "\ud83d\udcdd After School Homework Help at Greenpoint Library (grades K-8)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Greenpoint Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcdd After School Homework Help at Greenpoint Library (grades K-8)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -4967,8 +4954,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-06-15T08:31:25.598761+00:00",
-  "total_events": 382,
+  "updated": "2026-06-15T12:30:55.879411+00:00",
+  "total_events": 381,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
