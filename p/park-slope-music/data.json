@@ -132,7 +132,7 @@
     },
     {
       "date": "2026-06-16T12:00:00+00:00",
-      "title": "TBA(Other)",
+      "title": "FOREVER HOUSE WITH CUTE BOAT NAME SHOW(Other)",
       "venue": "Young Ethel's",
       "start_time": "9:00 PM ET",
       "end_time": null,
@@ -140,7 +140,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "TBA(Other)",
+      "vendor": "FOREVER HOUSE WITH CUTE BOAT NAME SHOW(Other)",
       "location": "Young Ethel's"
     },
     {
@@ -365,6 +365,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-19T12:00:00+00:00",
+      "title": "OOPS! ALL DOLLS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "OOPS! ALL DOLLS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-19T12:00:00+00:00",
+      "title": "SAD SONG HAPPY HOUR(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SAD SONG HAPPY HOUR(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-19T12:00:00+00:00",
+      "title": "BOMBAT BABIES// RED HORIZON(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "BOMBAT BABIES// RED HORIZON(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-06-19T15:00:00-04:00",
       "title": "USA vs. Australia - World Cup - All You can Drink!",
       "venue": "Eastville Comedy Club",
@@ -480,6 +519,58 @@
       "extraction_method": "html",
       "vendor": "Body Count hosted by Tessa Belle and Jo Sunday",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-20T12:00:00+00:00",
+      "title": "THE VERY SWELL VARIETY SHOW(Variety)",
+      "venue": "Young Ethel's",
+      "start_time": null,
+      "end_time": "6:00 PM ET",
+      "start_time_raw": null,
+      "end_time_raw": "6:00 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE VERY SWELL VARIETY SHOW(Variety)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-20T12:00:00+00:00",
+      "title": "ELITE TRAVELERS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "1:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ELITE TRAVELERS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-20T12:00:00+00:00",
+      "title": "ANDREARTE: INTERACT LAB NYC 2026(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ANDREARTE: INTERACT LAB NYC 2026(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-20T12:00:00+00:00",
+      "title": "JAMS, COVERS, GOOD TIMES! THE OTHER PLUTO// URKOAT(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "JAMS, COVERS, GOOD TIMES! THE OTHER PLUTO// URKOAT(Music)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-06-20T13:00:00-04:00",
@@ -599,6 +690,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-21T12:00:00+00:00",
+      "title": "DAVID AND PAPOPOIT STUDENT PIANO RECITAL(Music)",
+      "venue": "Young Ethel's",
+      "start_time": null,
+      "end_time": "4:00 PM ET",
+      "start_time_raw": null,
+      "end_time_raw": "4:00 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DAVID AND PAPOPOIT STUDENT PIANO RECITAL(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-21T12:00:00+00:00",
+      "title": "BEANIE BABE COMEDY(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "BEANIE BABE COMEDY(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-21T12:00:00+00:00",
+      "title": "LATE NIGHT LAUGHS(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LATE NIGHT LAUGHS(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-06-21T12:00:00-04:00",
       "title": "Spain vs. Saudi Arabia- World Cup - All You can Drink!",
       "venue": "Eastville Comedy Club",
@@ -638,6 +768,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-21T19:30:00",
+      "title": "NINJAMAN PRESENTS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 AM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "4:30 AM",
+      "end_time_raw": "7:30 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NINJAMAN PRESENTS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-06-21T19:30:00-04:00",
       "title": "Sunday Night Comedy",
       "venue": "Eastville Comedy Club",
@@ -662,10 +805,49 @@
       "extraction_method": "html",
       "vendor": "LAUGH",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-22T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-22T16:30:00",
+      "title": "TRL: TODDLER REQUEST LIVE. A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TRL: TODDLER REQUEST LIVE. A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-22T21:30:00",
+      "title": "KA-BINGO(Variety)",
+      "venue": "Young Ethel's",
+      "start_time": null,
+      "end_time": "9:30 PM ET",
+      "start_time_raw": null,
+      "end_time_raw": "9:30 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "KA-BINGO(Variety)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-06-15T12:16:03.917378+00:00",
-  "total_events": 51,
+  "updated": "2026-06-15T14:16:04.934984+00:00",
+  "total_events": 65,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
