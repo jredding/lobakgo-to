@@ -236,6 +236,19 @@
     },
     {
       "date": "2026-06-16T16:00:00+00:00",
+      "title": "\ud83c\udfb6 Summer Reading Kickoff w/ Rolie Polie Guacamole at Dyker Library in Dyker Heights (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": null,
+      "description": "Dyker Library",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Summer Reading Kickoff w/ Rolie Polie Guacamole at Dyker Library in Dyker Heights (ages 0-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-16T16:00:00+00:00",
       "title": "\u26bd adidas Home of Soccer at Emily Warren Roebling Plaza in Brooklyn Bridge Park",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "4:00 PM ET",
@@ -440,6 +453,19 @@
       "description": "Crown Heights Library",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 DIY: Cozy Crafts at Crown Heights Library in PLG (ages 13-18)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-16T20:00:00+00:00",
+      "title": "\ud83c\udfb6 Jack and Friends Presents: A Suzi Shelton Summer Residency at Park Slope Library (ages 0-5)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "8:00 PM ET",
+      "end_time": "8:45 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "8:45 PM",
+      "description": "Park Slope Library",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Jack and Friends Presents: A Suzi Shelton Summer Residency at Park Slope Library (ages 0-5)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -1077,6 +1103,19 @@
       "description": "Brooklearn",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa8 Kids' Art Club at Brooklearn in Carroll Gardens (ages 2.5-5)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-17T19:30:00+00:00",
+      "title": "\ud83d\udcda Children's Book Club: Impossible Creatures by Katherine Rundell at Greenpoint Library (grades 3-6)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:30 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Greenpoint Library",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcda Children's Book Club: Impossible Creatures by Katherine Rundell at Greenpoint Library (grades 3-6)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5045,8 +5084,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-06-16T14:31:13.495730+00:00",
-  "total_events": 388,
+  "updated": "2026-06-16T16:31:36.516798+00:00",
+  "total_events": 391,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
