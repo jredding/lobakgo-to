@@ -1,97 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-06-15T00:00:00",
-      "title": "Frankenstein's Baby",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Frankenstein's Baby",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-06-15T12:00:00+00:00",
-      "title": "SOPHIA STEWART// TIM REALE// HARBOUR HAUNTS(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SOPHIA STEWART// TIM REALE// HARBOUR HAUNTS(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-15T12:00:00+00:00",
-      "title": "A COMEDY ADVICE SHOW HOSTED BY WILL PURPURA(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "A COMEDY ADVICE SHOW HOSTED BY WILL PURPURA(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-15T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-15T15:00:00-04:00",
-      "title": "Belgium vs. Egypt - World Cup - All You can Drink!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "3:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": null,
-      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; ????Mexican</p>",
-      "extraction_method": "json-ld",
-      "vendor": "Belgium vs. Egypt - World Cup - All You can Drink!",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-15T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-15T20:00:00",
-      "title": "John Zorn: New Masada Quartet",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Zorn\u2019s beloved ensemble w/ Julian Lage, Jorge Roeder, & Kenny Wollesen returns for the 5th consecutive year for one tight and telepathic set.",
-      "extraction_method": "html",
-      "vendor": "John Zorn: New Masada Quartet",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-06-16T00:00:00",
       "title": "Yard Sale Girls: Pink Collar Comedy Tour",
       "venue": "Union Hall",
@@ -155,19 +64,6 @@
       "extraction_method": "json-ld",
       "vendor": "France vs. Senegal - World Cup - All You can Drink!",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-16T20:00:00",
-      "title": "The Occasionalists Present Tuesday Night Live Band Karaoke",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Skip the weekend crowds and grab the mic on a Tuesday night",
-      "extraction_method": "api",
-      "vendor": "The Occasionalists Present Tuesday Night Live Band Karaoke",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-17T00:00:00",
@@ -248,29 +144,16 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-06-17T20:00:00",
-      "title": "David Cross: Shootin' the Shit, Seein' What Sticks",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "9:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "9:30 PM",
-      "description": "David Cross is building his next hour of standup \u2014\u00a0and you get to see it!",
-      "extraction_method": "api",
-      "vendor": "David Cross: Shootin' the Shit, Seein' What Sticks",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-17T20:00:00-04:00",
-      "title": "Michael Good, Tom Zappia, Bobby Condon, Derrell Meyers",
+      "title": "Michael Good, Liam Welsh, Bobby Condon, Trayvon Fulton, Derrell Meyers",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br>Featuring<br>Michael Good<br>Tom Zappia<br>Bobby Condon<br>Derrell Meyers",
+      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br>Featuring<br>Michael Good<br>Liam Welsh<br>Bobby Condon<br>Trayvon Fulton<br>Derrell Meyers",
       "extraction_method": "json-ld",
-      "vendor": "Michael Good, Tom Zappia, Bobby Condon, Derrell Meyers",
+      "vendor": "Michael Good, Liam Welsh, Bobby Condon, Trayvon Fulton, Derrell Meyers",
       "location": "Eastville Comedy Club"
     },
     {
@@ -339,19 +222,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-06-18T20:00:00",
-      "title": "Spider-Man Entirely From Memory",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Presented by the Ten Bones Theatre Company",
-      "extraction_method": "api",
-      "vendor": "Spider-Man Entirely From Memory",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-18T20:00:00-04:00",
       "title": "Vishnu Vaka & Friends",
       "venue": "Eastville Comedy Club",
@@ -379,7 +249,7 @@
     },
     {
       "date": "2026-06-19T00:00:00",
-      "title": "Steve Martin Presents",
+      "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
       "venue": "Union Hall",
       "start_time": null,
       "end_time": null,
@@ -387,7 +257,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "Steve Martin Presents",
+      "vendor": "Steve Martin Presents with Andrew Dismukes and Michael Good",
       "location": "Union Hall"
     },
     {
@@ -470,41 +340,28 @@
     },
     {
       "date": "2026-06-19T18:00:00-04:00",
-      "title": "Friday Night Comedy",
+      "title": "Doug Smith, Harris Stanton, Wilfred Padua, Harry Terjanian, Neema Naz",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p>",
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br><br>Featuring<br>Doug Smith<br>Harris Stanton<br>Wilfred Padua<br>Harry Terjanian<br>Neema Naz",
       "extraction_method": "json-ld",
-      "vendor": "Friday Night Comedy",
+      "vendor": "Doug Smith, Harris Stanton, Wilfred Padua, Harry Terjanian, Neema Naz",
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-06-19T19:00:00",
-      "title": "SLOW JAMS ORCHESTRA - Live RnB & Slow Jams Experience",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "\u26a0\ufe0f WARNING: This event may cause slow dancing with strangers, emotional flashbacks, and unsent text messages you'll definitely send anyway.",
-      "extraction_method": "api",
-      "vendor": "SLOW JAMS ORCHESTRA - Live RnB & Slow Jams Experience",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-19T20:00:00-04:00",
-      "title": "Punchline Palace",
+      "title": "Bryan McKenna, Will Purpura, Ali Woods, Harry Terjanian, Mae Planert",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p>Featuring<br>Bryan McKenna<br>Will Purpura<br>Ali Woods<br>Harry Terjanian<br>Mae Planert",
       "extraction_method": "json-ld",
-      "vendor": "Punchline Palace",
+      "vendor": "Bryan McKenna, Will Purpura, Ali Woods, Harry Terjanian, Mae Planert",
       "location": "Eastville Comedy Club"
     },
     {
@@ -532,19 +389,6 @@
       "extraction_method": "json-ld",
       "vendor": "Who Gave Them a Mic Comedy Show - Juneteenth Hosted by Derrell Meyers",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-19T23:00:00",
-      "title": "SLOW JAMS NYC",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "NYC's Sexiest RnB & SLOW JAMS Party",
-      "extraction_method": "api",
-      "vendor": "SLOW JAMS NYC",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-20T00:00:00",
@@ -690,29 +534,16 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-06-20T18:00:00",
-      "title": "THE CRAFT",
-      "venue": "Littlefield",
-      "start_time": "6:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Crafted bars. Legendary MCs. And real hip-hop energy.",
-      "extraction_method": "api",
-      "vendor": "THE CRAFT",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-20T18:00:00-04:00",
-      "title": "Saturday Night Live Comedy",
+      "title": "Alingon Mitra, Shannon Keye, Ray Zawodni, kyle mara, Derrell Meyers",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br>(remainder of lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;</span></strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\"><br></p>Featuring<br>Alingon Mitra<br>Shannon Keye<br>Ray Zawodni<br>kyle mara<br>Derrell Meyers",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Night Live Comedy",
+      "vendor": "Alingon Mitra, Shannon Keye, Ray Zawodni, kyle mara, Derrell Meyers",
       "location": "Eastville Comedy Club"
     },
     {
@@ -743,42 +574,29 @@
     },
     {
       "date": "2026-06-20T20:00:00-04:00",
-      "title": "Saturday Prime Time Comedy",
+      "title": "Adrienne Iapalucci, Peter Stewart, Shannon Keye, Ray Zawodni, Mike Toohey",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><br>Featuring<br>Adrienne Iapalucci<br>Peter Stewart<br>Shannon Keye<br>Ray Zawodni<br>Mike Toohey",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Prime Time Comedy",
+      "vendor": "Adrienne Iapalucci, Peter Stewart, Shannon Keye, Ray Zawodni, Mike Toohey",
       "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-06-20T22:00:00-04:00",
-      "title": "Saturday Late Night Comedy",
+      "title": "Damien Lemon, Doug Smith, Bryan McKenna, Cesh Reyes, Mike Toohey",
       "venue": "Eastville Comedy Club",
       "start_time": "10:00 PM ET",
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>Prime Time Comedy!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><strong>Prime Time Comedy!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><br>Featuring<br>Damien Lemon<br>Doug Smith<br>Bryan McKenna<br>Cesh Reyes<br>Mike Toohey",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Late Night Comedy",
+      "vendor": "Damien Lemon, Doug Smith, Bryan McKenna, Cesh Reyes, Mike Toohey",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-20T23:00:00",
-      "title": "REGGAE REWIND",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "BROOKLYN... WE'RE CALLING ALL REGGAE LOVERS, DANCEHALL HEADS, REWIND SPECIALISTS & FORWARD CREW!",
-      "extraction_method": "api",
-      "vendor": "REGGAE REWIND",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-21T00:00:00",
@@ -886,29 +704,16 @@
     },
     {
       "date": "2026-06-21T19:30:00-04:00",
-      "title": "Sunday Night Comedy",
+      "title": "Kate Willett, Talal Alyan, Julian Breheny, Max Lowe, Crenshaw White, Cesh Reyes",
       "venue": "Eastville Comedy Club",
       "start_time": "7:30 PM ET",
       "end_time": null,
       "start_time_raw": "7:30 PM",
       "end_time_raw": null,
-      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p>",
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br><br>Featuring<br>Kate Willett<br>Talal Alyan<br>Julian Breheny<br>Max Lowe<br>Crenshaw White<br>Cesh Reyes",
       "extraction_method": "json-ld",
-      "vendor": "Sunday Night Comedy",
+      "vendor": "Kate Willett, Talal Alyan, Julian Breheny, Max Lowe, Crenshaw White, Cesh Reyes",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-21T20:00:00",
-      "title": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "\u201cThe Donor\u201d is a live comedy game show created by comedian Sami Schwaeber, inspired by her real-life journey with her wife to find a sperm d",
-      "extraction_method": "api",
-      "vendor": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-22T00:00:00",
@@ -950,19 +755,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-06-22T20:00:00",
-      "title": "Celebrating Queer Romance - Pride Panel + Party",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Celebrate Pride Week with The Ripped Bodice and Littlefield for a discussion and celebration of queer romance on Monday, June 22 at 7pm ET.",
-      "extraction_method": "api",
-      "vendor": "Celebrating Queer Romance - Pride Panel + Party",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-22T21:30:00",
       "title": "KA-BINGO(Variety)",
       "venue": "Young Ethel's",
@@ -974,15 +766,69 @@
       "extraction_method": "html",
       "vendor": "KA-BINGO(Variety)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-23T00:00:00",
+      "title": "Raye Schiller and Lily Lester co-headline!",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Raye Schiller and Lily Lester co-headline!",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-23T12:00:00+00:00",
+      "title": "YOUR DAD(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "YOUR DAD(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-23T16:00:00-04:00",
+      "title": "England vs. Ghana - World Cup - All You can Drink!",
+      "venue": "Eastville Comedy Club",
+      "start_time": "4:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": null,
+      "description": "<p>Starting June 11, Eastville Comedy Club is transforming into Brooklyn&#39;s premier daytime World Cup viewing lounge. We&#39;re opening our doors early for a handpicked selection of the tournament&#39;s biggest blockbuster daytime games.<br><br>Here is what we are bringing to the table:</p><p>&bull; $45 bucks for all you can drink house drinks, beer/wine for the entire game!</p><p>&bull; Half off food, see our new Mexican menu<br>&bull; Massive Cinema-Scale HD Projector Screen<br>&bull; Game-Day Drink Pitcher Specials &amp; Local Food Promos<br>&bull; Strong Wi-Fi for those &#39;working from home&#39; ????Mexican</p>",
+      "extraction_method": "json-ld",
+      "vendor": "England vs. Ghana - World Cup - All You can Drink!",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-23T19:30:00",
+      "title": "BACON BOY PRESENTS POP CULTURE TRIVIA TIME MACHINE(Trivia)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "BACON BOY PRESENTS POP CULTURE TRIVIA TIME MACHINE(Trivia)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-06-15T16:17:37.100721+00:00",
-  "total_events": 75,
+  "updated": "2026-06-16T06:16:37.751200+00:00",
+  "total_events": 63,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
