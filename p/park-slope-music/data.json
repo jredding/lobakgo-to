@@ -79,6 +79,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-17T20:00:00",
+      "title": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "David Cross is building his next hour of standup \u2014\u00a0and you get to see it!",
+      "extraction_method": "api",
+      "vendor": "David Cross: Shootin' the Shit, Seein' What Sticks",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-17T20:00:00-04:00",
       "title": "Michael Good, Liam Welsh, Bobby Condon, Trayvon Fulton, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -155,6 +168,19 @@
       "extraction_method": "html",
       "vendor": "1980S IMPROV CHALLENGE(Improv Comedy)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-18T20:00:00",
+      "title": "Spider-Man Entirely From Memory",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Presented by the Ten Bones Theatre Company",
+      "extraction_method": "api",
+      "vendor": "Spider-Man Entirely From Memory",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-18T20:00:00-04:00",
@@ -287,6 +313,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-06-19T19:00:00",
+      "title": "SLOW JAMS ORCHESTRA - Live RnB & Slow Jams Experience",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "\u26a0\ufe0f WARNING: This event may cause slow dancing with strangers, emotional flashbacks, and unsent text messages you'll definitely send anyway.",
+      "extraction_method": "api",
+      "vendor": "SLOW JAMS ORCHESTRA - Live RnB & Slow Jams Experience",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-19T20:00:00-04:00",
       "title": "Bryan McKenna, Will Purpura, Ali Woods, Harry Terjanian, Mae Planert",
       "venue": "Eastville Comedy Club",
@@ -324,6 +363,19 @@
       "extraction_method": "json-ld",
       "vendor": "Who Gave Them a Mic Comedy Show - Juneteenth Hosted by Derrell Meyers",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-19T23:00:00",
+      "title": "SLOW JAMS NYC",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "NYC's Sexiest RnB & SLOW JAMS Party",
+      "extraction_method": "api",
+      "vendor": "SLOW JAMS NYC",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-20T00:00:00",
@@ -469,6 +521,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-06-20T18:00:00",
+      "title": "THE CRAFT",
+      "venue": "Littlefield",
+      "start_time": "6:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Crafted bars. Legendary MCs. And real hip-hop energy.",
+      "extraction_method": "api",
+      "vendor": "THE CRAFT",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-20T18:00:00-04:00",
       "title": "Alingon Mitra, Shannon Keye, Ray Zawodni, kyle mara, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -532,6 +597,19 @@
       "extraction_method": "json-ld",
       "vendor": "Damien Lemon, Doug Smith, Bryan McKenna, Cesh Reyes, Mike Toohey",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-20T23:00:00",
+      "title": "REGGAE REWIND",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "BROOKLYN... WE'RE CALLING ALL REGGAE LOVERS, DANCEHALL HEADS, REWIND SPECIALISTS & FORWARD CREW!",
+      "extraction_method": "api",
+      "vendor": "REGGAE REWIND",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-21T00:00:00",
@@ -651,6 +729,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-06-21T20:00:00",
+      "title": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "\u201cThe Donor\u201d is a live comedy game show created by comedian Sami Schwaeber, inspired by her real-life journey with her wife to find a sperm d",
+      "extraction_method": "api",
+      "vendor": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-22T00:00:00",
       "title": "LAUGH",
       "venue": "Union Hall",
@@ -688,6 +779,19 @@
       "extraction_method": "html",
       "vendor": "TRL: TODDLER REQUEST LIVE. A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-22T20:00:00",
+      "title": "Celebrating Queer Romance - Pride Panel + Party",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Celebrate Pride Week with The Ripped Bodice and Littlefield for a discussion and celebration of queer romance on Monday, June 22 at 7pm ET.",
+      "extraction_method": "api",
+      "vendor": "Celebrating Queer Romance - Pride Panel + Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-06-22T21:30:00",
@@ -794,6 +898,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-24T20:00:00",
+      "title": "A Night of Comedy for Parole Prep",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Hosted by Charlie Bardey. Join us as we fundraise for Parole Prep, an organization working to bring home incarcerated New Yorkers.",
+      "extraction_method": "api",
+      "vendor": "A Night of Comedy for Parole Prep",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-06-24T20:00:00-04:00",
       "title": "Laughs In The East",
       "venue": "Eastville Comedy Club",
@@ -820,15 +937,13 @@
       "location": "Roulette"
     }
   ],
-  "updated": "2026-06-17T12:17:26.308808+00:00",
-  "total_events": 63,
+  "updated": "2026-06-17T14:17:05.707387+00:00",
+  "total_events": 72,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
