@@ -1575,6 +1575,19 @@
     },
     {
       "date": "2026-06-20T14:00:00+00:00",
+      "title": "\ud83c\udfb6 Get Silly! Album Release Party at ShapeShifter Lab in Park Slope (ages 0-8)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "ShapeShifter Lab",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb6 Get Silly! Album Release Party at ShapeShifter Lab in Park Slope (ages 0-8)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-20T14:00:00+00:00",
       "title": "\ud83d\udecd\ufe0f Brooklyn Flea in DUMBO (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "2:00 PM ET",
@@ -2160,6 +2173,19 @@
     },
     {
       "date": "2026-06-20T17:00:00+00:00",
+      "title": "\ud83c\udf89 Free Caribbean Heritage Festival at Shirley Chisholm State Park in East New York (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "5:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Shirley Chisholm State Park",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udf89 Free Caribbean Heritage Festival at Shirley Chisholm State Park in East New York (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-06-20T17:00:00+00:00",
       "title": "\ud83d\udda4 Just for Kids: Juneteenth Book Event at Dr. John's Playground in Marine Park",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "5:00 PM ET",
@@ -2169,19 +2195,6 @@
       "description": "Dr. John's Playground",
       "extraction_method": "api",
       "vendor": "\ud83d\udda4 Just for Kids: Juneteenth Book Event at Dr. John's Playground in Marine Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-06-20T17:00:00+00:00",
-      "title": "\ud83c\udf89 Free Caribbean Heritage Festival at Shirley Chisholm State Park in East New York (all ages) (Copy)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "5:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Shirley Chisholm State Park",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udf89 Free Caribbean Heritage Festival at Shirley Chisholm State Park in East New York (all ages) (Copy)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -5188,8 +5201,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-06-18T14:31:59.342430+00:00",
-  "total_events": 399,
+  "updated": "2026-06-18T16:32:12.140266+00:00",
+  "total_events": 400,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
