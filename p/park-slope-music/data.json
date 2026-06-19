@@ -781,6 +781,32 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-26T12:00:00+00:00",
+      "title": "YACHT ROCK CHOIR(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "YACHT ROCK CHOIR(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-26T12:00:00+00:00",
+      "title": "ADEQUATE FUR ALBUM RELEASE W/ THE GRASPING STRAWS AND A COSMIC WINGSPAN(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ADEQUATE FUR ALBUM RELEASE W/ THE GRASPING STRAWS AND A COSMIC WINGSPAN(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-06-26T16:00:00",
       "title": "Puppetworks: Behind the Curtain KIDS!",
       "venue": "Industry City",
@@ -846,8 +872,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-06-19T14:16:50.043058+00:00",
-  "total_events": 65,
+  "updated": "2026-06-19T16:17:10.549791+00:00",
+  "total_events": 67,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
