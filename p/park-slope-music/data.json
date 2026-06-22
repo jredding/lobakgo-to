@@ -1,149 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-06-21T00:00:00",
-      "title": "Good God",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Good God",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-06-21T12:00:00+00:00",
-      "title": "DAVID AND PAPOPOIT STUDENT PIANO RECITAL(Music)",
-      "venue": "Young Ethel's",
-      "start_time": null,
-      "end_time": "4:00 PM ET",
-      "start_time_raw": null,
-      "end_time_raw": "4:00 PM",
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DAVID AND PAPOPOIT STUDENT PIANO RECITAL(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-21T12:00:00+00:00",
-      "title": "BEANIE BABE COMEDY(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "BEANIE BABE COMEDY(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-21T12:00:00+00:00",
-      "title": "LATE NIGHT LAUGHS(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "LATE NIGHT LAUGHS(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-21T12:00:00-04:00",
-      "title": "Spain vs. Saudi Arabia- World Cup - All You can Drink!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "12:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": null,
-      "description": "<p>There is <strong>NO cover charge</strong> to watch the match. $5 Beers All Match Long Just come in, grab a seat, and enjoy the game on our big screens with fellow soccer fans.</p><p><br></p><p>Looking to make it an even bigger party?</p><p><img data-emoji=\"????\" alt=\"????\" draggable=\"false\" src=\"/img/posts/b545ac71390bb837a32092fd0856922ced966215.png\" class=\"fr-fic fr-dii\"><strong>&nbsp;</strong></p><p><strong>Optional Upgrade: $45 All-You-Can-Drink Package</strong></p><p>For one flat price, enjoy unlimited drinks throughout the match and experience the World Cup the EastVille way.</p><p>Why Watch at EastVille?</p><ul><li>Giant screens and premium game viewing</li><li>Full bar and drink specials</li><li>Electric World Cup atmosphere</li><li>Indoor comfort with plenty of seating</li><li>Soccer fans from around the city</li></ul><p>Kickoff is at 3:00 PM, so arrive early, grab a drink, and get ready for an unforgettable World Cup afternoon.</p><p><br></p><p>USA vs Australia &bull; Friday, June 19 &bull; 3PM</p>",
-      "extraction_method": "json-ld",
-      "vendor": "Spain vs. Saudi Arabia- World Cup - All You can Drink!",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-21T12:00:00",
-      "title": "Outdoor World Cup Watch Party at Industry City 6/21",
-      "venue": "Industry City",
-      "start_time": "12:00 PM ET",
-      "end_time": "11:30 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "11:30 PM",
-      "description": "Come watch all of the June 21 matches on our 15-foot wide screen!\nCome watch group World Cup competition on our 15-foot wide projection screen and listen to the game in full concert sound under the stars in Sunset Park, Brooklyn.\nSchedule: Noon &#8211; Spain Saudi Arabia, 3pm &#8211; Belgium Iran, 6pm &#8211; Uruguay Cabo Verde, 9pm &#8211; New Zealand Egypt\nThis event requires a $5 RSVP, which includes a $6 discount on your first order at our venue bar.\nThere will be drink specials but don&#8217;t forget to take advantage of the 2-for-1 drink ticket when you check out! Space is limited and RSVP doesn&#8217;t guarantee entry. Buying advanced drink tickets guarantees entry!\nNO STROLLERS or children under the age of 3.\nLimited seating (about 100 seats), tons of standing room. SO THAT WE MAY INCLUDE AS MANY PEOPLE AS POSSIBLE AND FOR YOUR SAFETY, PLEASE DO NOT BRING YOUR OWN CHAIRS. Trust us, the second the game starts everybody is up and cheering anyway!\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we won&#8217;t be able to let anyone else in.\nNo outside beverages. There will be drink specials all day long from our courtyard bar. Feel free to bring in food from the adjoining food hall!\nEvent Info\nDate: June 21, 2026\nDoors: 12pm\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.",
-      "extraction_method": "api",
-      "vendor": "Outdoor World Cup Watch Party at Industry City 6/21",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-21T16:00:00",
-      "title": "Father&#8217;s Day Intro to Sake Class and Brewery Tour",
-      "venue": "Industry City",
-      "start_time": "4:00 PM ET",
-      "end_time": "5:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "5:00 PM",
-      "description": "Looking for the perfect Father\u2019s Day experience? This Introduction to Sake tasting class is the ultimate gift for dads who love great drinks and great stories! Join us in person at the Sake Studies Center at Brooklyn Kura in NYC to learn the basics of sake and enjoy a guided tasting of the most delicious sakes. Whether you\u2019re treating Dad or celebrating as a family, we invite you to taste and learn about sake where sake is made! Get a guided brewery tour, taste and explore a set of 5 premium sakes including some fresh from the press \u2014 because Dad deserves the good stuff. Let\u2019s level up your sake knowledge and have fun doing it!\nWhat\u2019s included:\nA welcome sake to get you started!\nSake 101 presentation to cover all the basics\nGuided Tasting of 4 Brooklyn Kura craft sakes as well as a premium sake from Japan\nHandouts so you can bring your sake knowledge home\nTasting some sake fresh from the press!\nGuided tour through our new Sake Brewery\nSome nibbles to pair with your sakes",
-      "extraction_method": "api",
-      "vendor": "Father&#8217;s Day Intro to Sake Class and Brewery Tour",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-21T18:00:00",
-      "title": "Brooklyn Creative Reuse Mending Circle",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "Join Brooklyn Creative Reuse for our first ever Mending Circle! Bring your mending project, learn from your neighbors, or work on your current craft! End your Saturday with a craft, snacks, and good vibes. There will be extra supplies available if needed!\nThe Mending Circle Series is sponsored by, in part, by the Citizens Committee of New York City&#8217;s Community Leaders Grant.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Creative Reuse Mending Circle",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-06-21T19:30:00",
-      "title": "NINJAMAN PRESENTS(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 AM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "4:30 AM",
-      "end_time_raw": "7:30 PM",
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "NINJAMAN PRESENTS(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-21T19:30:00-04:00",
-      "title": "Kate Willett, Talal Alyan, Julian Breheny, Max Lowe, Crenshaw White, Cesh Reyes",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br><br>Featuring<br>Kate Willett<br>Talal Alyan<br>Julian Breheny<br>Max Lowe<br>Crenshaw White<br>Cesh Reyes",
-      "extraction_method": "json-ld",
-      "vendor": "Kate Willett, Talal Alyan, Julian Breheny, Max Lowe, Crenshaw White, Cesh Reyes",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-21T20:00:00",
-      "title": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "\u201cThe Donor\u201d is a live comedy game show created by comedian Sami Schwaeber, inspired by her real-life journey with her wife to find a sperm d",
-      "extraction_method": "api",
-      "vendor": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-22T00:00:00",
       "title": "LAUGH",
       "venue": "Union Hall",
@@ -181,19 +38,6 @@
       "extraction_method": "html",
       "vendor": "TRL: TODDLER REQUEST LIVE. A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-22T20:00:00",
-      "title": "Celebrating Queer Romance - Pride Panel + Party",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Celebrate Pride Week with The Ripped Bodice and Littlefield for a discussion and celebration of queer romance on Monday, June 22 at 7pm ET.",
-      "extraction_method": "api",
-      "vendor": "Celebrating Queer Romance - Pride Panel + Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-22T21:30:00",
@@ -285,19 +129,6 @@
       "extraction_method": "html",
       "vendor": "COMMUNITEASE. A MUTUAL AID SHOW(Draglesque)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-24T19:00:00",
-      "title": "A Night of Comedy for Parole Prep",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Hosted by Charlie Bardey. Join us as we fundraise for Parole Prep, an organization working to bring home incarcerated New Yorkers.",
-      "extraction_method": "api",
-      "vendor": "A Night of Comedy for Parole Prep",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-24T19:30:00",
@@ -402,19 +233,6 @@
       "extraction_method": "html",
       "vendor": "KARAOKE NIGHT!(Other)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-25T20:00:00",
-      "title": "CHERRY: A Turntable Series (pride edition)",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:30 PM",
-      "description": "A celebration of LGBTQ+ music and culture through the power of DJs, community and live bands!",
-      "extraction_method": "api",
-      "vendor": "CHERRY: A Turntable Series (pride edition)",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-25T20:00:00-04:00",
@@ -571,19 +389,6 @@
       "extraction_method": "api",
       "vendor": "Outdoor World Cup Watch Party at Industry City 6/26",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-06-26T20:00:00",
-      "title": "Roz Hernandez and Friends (Audiobook Launch Show)",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Roz Hernandez invites you to laugh with a lineup of her funniest friends and to celebrate the release of her new audiobook!",
-      "extraction_method": "api",
-      "vendor": "Roz Hernandez and Friends (Audiobook Launch Show)",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-26T20:00:00-04:00",
@@ -755,19 +560,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-06-27T20:00:00",
-      "title": "Switch n' Play: Pride!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us for a wild night of drag, burlesque, and queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play.",
-      "extraction_method": "api",
-      "vendor": "Switch n' Play: Pride!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-27T20:00:00-04:00",
       "title": "Saturday Prime Time Comedy",
       "venue": "Eastville Comedy Club",
@@ -792,19 +584,6 @@
       "extraction_method": "json-ld",
       "vendor": "Balkan Comedy Night",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-27T23:00:00",
-      "title": "Dancehall Forever",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
-      "extraction_method": "api",
-      "vendor": "Dancehall Forever",
-      "location": "Littlefield"
     },
     {
       "date": "2026-06-28T15:00:00",
@@ -846,19 +625,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-06-28T20:00:00",
-      "title": "Leo Middea",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Concert at littlefield!",
-      "extraction_method": "api",
-      "vendor": "Leo Middea",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-06-28T21:30:00",
       "title": "THE BUCK AND A QUARTER QUARTET(Music)",
       "venue": "Young Ethel's",
@@ -870,15 +636,82 @@
       "extraction_method": "html",
       "vendor": "THE BUCK AND A QUARTER QUARTET(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-29T00:00:00",
+      "title": "Come See with Catherine McCafferty and Olivia Levine",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Come See with Catherine McCafferty and Olivia Levine",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-29T12:00:00+00:00",
+      "title": "IVAN RICHTER PRESENTS(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "IVAN RICHTER PRESENTS(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-29T12:00:00+00:00",
+      "title": "BLUEBIRD SALON(Reading)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "BLUEBIRD SALON(Reading)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-29T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-29T16:30:00",
+      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-06-21T10:17:12.483397+00:00",
-  "total_events": 67,
+  "updated": "2026-06-22T10:16:06.017979+00:00",
+  "total_events": 54,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
