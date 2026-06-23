@@ -1,58 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-06-22T00:00:00",
-      "title": "LAUGH",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "LAUGH",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-06-22T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-22T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE. A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE. A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-22T21:30:00",
-      "title": "KA-BINGO(Variety)",
-      "venue": "Young Ethel's",
-      "start_time": null,
-      "end_time": "9:30 PM ET",
-      "start_time_raw": null,
-      "end_time_raw": "9:30 PM",
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "KA-BINGO(Variety)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-06-23T00:00:00",
       "title": "Raye Schiller and Lily Lester co-headline!",
       "venue": "Union Hall",
@@ -209,6 +157,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-06-25T11:00:00",
+      "title": "Community Center Showcase",
+      "venue": "Industry City",
+      "start_time": "11:00 AM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "11:00 AM",
+      "end_time_raw": "4:00 PM",
+      "description": "SHOWCASE! Creativity In Community\nThe Isaac Brown Healing Arts &amp; Community Center invites Brooklyn to experience a living showcase of creativity, wellness, and human connection.\nMore than an event, SHOWCASE! is an open invitation into the heart of our community, a chance to explore the workshops, groups, and healing-centered experiences happening inside our center every day, while helping shape what comes next.\nThroughout the day, guests will experience a curated mix of:\n\u2022 Creative arts workshops\n\u2022 Live music &amp; jam sessions\n\u2022 Wellness and mindfulness experiences\n\u2022 Writing, movement, and expression-based groups\n\u2022 Interactive community conversations\n\u2022 Emerging ideas and future program concepts\nWhether you&#8217;re interested in poetry, music exploration, photography, improv, mindful support, sketching, gardening, podcasting, candle making, veterans groups, or simply finding a space where you feel seen, The Center SHOWCASE creates room for discovery without pressure.\nThis event is designed for people to wander, experience, connect, and participate at their own pace.\nWe believe healing can happen through creativity.\nWe believe community should be accessible.\nAnd we believe people deserve spaces where curiosity is welcomed.\nCome discover something you didn\u2019t know you needed.\nCome contribute your voice.\nCome help shape the future of community wellness through art.\nJune 25th\n11 AM \u2013 4 PM\nIsaac Brown Healing Arts &amp; Community Center\n882 3rd Ave, Brooklyn, NY",
+      "extraction_method": "api",
+      "vendor": "Community Center Showcase",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-06-25T12:00:00+00:00",
       "title": "MAGIC AND MENTALISM(Other)",
       "venue": "Young Ethel's",
@@ -233,6 +194,45 @@
       "extraction_method": "html",
       "vendor": "KARAOKE NIGHT!(Other)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-25T13:00:00",
+      "title": "Floating Cloister: AI, Pace &#038; Community \u2014 A Freelancer&#8217;s Gathering",
+      "venue": "Industry City",
+      "start_time": "1:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "A six-hour, in-person gathering on June 25 for fifty freelancers who are building their careers deliberately \u2014 using AI thoughtfully, protecting their pace, and looking for genuine peers (not networking contacts).\nWhether you&#8217;re a designer, writer, consultant, builder, or in-between-things, this room is for solo workers who want to think more carefully about the work they&#8217;re making, the tools they&#8217;re using, and the practice they&#8217;re building.",
+      "extraction_method": "api",
+      "vendor": "Floating Cloister: AI, Pace &#038; Community \u2014 A Freelancer&#8217;s Gathering",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-06-25T17:30:00",
+      "title": "The PS10 House Band Presents Tribute to the 90s",
+      "venue": "Industry City",
+      "start_time": "5:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Industry City and Get It Right Music in association with Murmrr Presents are proud to welcome the PS10 House Band for an evening of 90s Live Music \u2013 Sing, Dance &amp; Relive the Hits!\nJoin us for an unforgettable night of live music celebrating your favorite songs from the 1990s! From Britney to Alanis, Pearl Jam to The B-52\u2019s, TLC to Montell Jordan\u2014and most things in between\u2014the PS10 House Band will be playing hit after hit from one of the greatest decades in music.\nCome dance, sing along, or just soak in the nostalgia with friends.\nBorn out of the parent community of a local elementary school (yes, PS10), the PS10 House Band\u2019s dynamic lineup and versatility allows them to move effortlessly across genres, delivering an energetic and crowd-pleasing performance.\nEvent Info\nDate: June 25, 2026\nDoors: 5:45pm\nShowtime: 6pm\nTickets: $20 per person in advance/$25 day of show plus fees\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.",
+      "extraction_method": "api",
+      "vendor": "The PS10 House Band Presents Tribute to the 90s",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-06-25T18:30:00",
+      "title": "Make Your Own Labubu Workshop",
+      "venue": "Industry City",
+      "start_time": "6:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Make Your Own Labubu. Bag charm workshop with reused materials! Led by textile artists Maddie Pelz and Emma Singer. All reused materials provided and no sewing experience is required!",
+      "extraction_method": "api",
+      "vendor": "Make Your Own Labubu Workshop",
+      "location": "Industry City"
     },
     {
       "date": "2026-06-25T20:00:00-04:00",
@@ -339,6 +339,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-06-26T15:00:00",
+      "title": "Community Job &#038; Small Business Resource Fair",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "This free event is designed to connect Sunset Park residents with educational opportunities, employment opportunities, workforce development resources, and small business support services. We\u2019re bringing together city agencies, community organizations, and local businesses to create a meaningful, resource-rich experience for attendees.",
+      "extraction_method": "api",
+      "vendor": "Community Job &#038; Small Business Resource Fair",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-06-26T16:00:00",
       "title": "Puppetworks: Behind the Curtain KIDS!",
       "venue": "Industry City",
@@ -363,6 +376,19 @@
       "extraction_method": "json-ld",
       "vendor": "Friday Night Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-06-26T19:00:00",
+      "title": "Tambour Kings Live Blues &#038; Jazz",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for live Funk/Fusion/R&amp;B/Soul/Blues from the incredible Tambour Kings, craft cocktails, and plenty of whiskey.",
+      "extraction_method": "api",
+      "vendor": "Tambour Kings Live Blues &#038; Jazz",
+      "location": "Industry City"
     },
     {
       "date": "2026-06-26T19:00:00",
@@ -586,6 +612,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-06-28T10:00:00",
+      "title": "Original Tin: Tin Type Photo Shoot",
+      "venue": "Industry City",
+      "start_time": "10:00 AM ET",
+      "end_time": "5:30 PM ET",
+      "start_time_raw": "10:00 AM",
+      "end_time_raw": "5:30 PM",
+      "description": "Step into history at Original Tin, Brooklyn&#8217;s premier wet plate tin type studio, now open at Industry City.\nOn June 28, we&#8217;re celebrating our Industry City debut with a day of 30-minute portrait sessions at a special introductory rate of $125. Walk in or book a time slot in advance.\nTin type is a 19th Century photographic process that produces a one-of-a-kind image on a real metal plate. Each photo is hand poured and developed before your eyes. It&#8217;s a magical process with a beautiful, ethereal quality unlike any other. We shoot with vintage large format view cameras and lenses that deliver extraordinary detail and presence you simply can&#8217;t get from a digital camera. No files. No filters. Just you \u2014 or your pet \u2014 rendered in silver on a piece of metal that will outlast us all.\nSessions are limited. Reserve your spot at https://www.originaltin.org/schedule",
+      "extraction_method": "api",
+      "vendor": "Original Tin: Tin Type Photo Shoot",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-06-28T15:00:00",
       "title": "Guided Brewery Tour and Sake Tasting",
       "venue": "Industry City",
@@ -701,10 +740,62 @@
       "extraction_method": "html",
       "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-30T00:00:00",
+      "title": "Hannah Pilkes Presents: Skiing\u2026That Time I Had a Mental Breakdown",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Hannah Pilkes Presents: Skiing\u2026That Time I Had a Mental Breakdown",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-06-30T12:00:00+00:00",
+      "title": "PRIDE NIGHT SHOWCASE(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "PRIDE NIGHT SHOWCASE(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-06-30T20:00:00",
+      "title": "John Zorn\u2019s Simulacrum",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Zorn's most powerful 21st century ensemble featuring longtime associates John Medeski, Matt Hollenberg, and Kenny Grohowski.",
+      "extraction_method": "html",
+      "vendor": "John Zorn\u2019s Simulacrum",
+      "location": "Roulette"
+    },
+    {
+      "date": "2026-06-30T20:30:00",
+      "title": "SASHA PARIS-CARTER W/ MADELINE GREEN AND THE YEAR OF THE HARE(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "8:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SASHA PARIS-CARTER W/ MADELINE GREEN AND THE YEAR OF THE HARE(Music)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-06-22T10:16:06.017979+00:00",
-  "total_events": 54,
+  "updated": "2026-06-23T10:16:02.626198+00:00",
+  "total_events": 61,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
