@@ -1,58 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-06-23T00:00:00",
-      "title": "Raye Schiller and Lily Lester co-headline!",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Raye Schiller and Lily Lester co-headline!",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-06-23T12:00:00+00:00",
-      "title": "YOUR DAD(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "YOUR DAD(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-06-23T16:00:00-04:00",
-      "title": "England vs. Ghana - World Cup - All You can Drink!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "4:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": null,
-      "description": "<p>There is <strong>NO cover charge</strong> to watch the match. $5 Beers All Match Long Just come in, grab a seat, and enjoy the game on our big screens with fellow soccer fans.</p><p><br></p><p>Looking to make it an even bigger party?</p><p><img data-emoji=\"????\" alt=\"????\" draggable=\"false\" src=\"/img/posts/b545ac71390bb837a32092fd0856922ced966215.png\" class=\"fr-fic fr-dii\"><strong>&nbsp;</strong></p><p><strong>Optional Upgrade: $45 All-You-Can-Drink Package</strong></p><p>For one flat price, enjoy unlimited drinks throughout the match and experience the World Cup the EastVille way.</p><p>Why Watch at EastVille?</p><ul><li>Giant screens and premium game viewing</li><li>Full bar and drink specials</li><li>Electric World Cup atmosphere</li><li>Indoor comfort with plenty of seating</li><li>Soccer fans from around the city</li></ul><p>Kickoff is at 3:00 PM, so arrive early, grab a drink, and get ready for an unforgettable World Cup afternoon.</p><p><br></p><p>USA vs Australia &bull; Friday, June 19 &bull; 3PM</p>",
-      "extraction_method": "json-ld",
-      "vendor": "England vs. Ghana - World Cup - All You can Drink!",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-06-23T19:30:00",
-      "title": "BACON BOY PRESENTS POP CULTURE TRIVIA TIME MACHINE(Trivia)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "BACON BOY PRESENTS POP CULTURE TRIVIA TIME MACHINE(Trivia)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-06-24T00:00:00",
       "title": "Pizzazz with Gary Gulman",
       "venue": "Union Hall",
@@ -236,7 +184,7 @@
     },
     {
       "date": "2026-06-25T20:00:00-04:00",
-      "title": "Farooq Hussain presents Laserqooch!",
+      "title": "Farooq Hussain presents Lasergooch!",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
@@ -244,7 +192,7 @@
       "end_time_raw": null,
       "description": "Farooq Hussain presents Laserqooch!<br><br>Featuring<br>Sabeen Sadiq<br>Raj Suresh<br>Alex Kumin",
       "extraction_method": "json-ld",
-      "vendor": "Farooq Hussain presents Laserqooch!",
+      "vendor": "Farooq Hussain presents Lasergooch!",
       "location": "Eastville Comedy Club"
     },
     {
@@ -366,15 +314,15 @@
     },
     {
       "date": "2026-06-26T18:00:00-04:00",
-      "title": "Friday Night Comedy",
+      "title": "Erica Spera, Peter Stewart, Zahid Dewji, Ray Zawodni",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p>",
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p>Featuring<br>Erica Spera<br>Peter Stewart<br>Zahid Dewji<br>Ray Zawodni<br>Adam Gulley",
       "extraction_method": "json-ld",
-      "vendor": "Friday Night Comedy",
+      "vendor": "Erica Spera, Peter Stewart, Zahid Dewji, Ray Zawodni",
       "location": "Eastville Comedy Club"
     },
     {
@@ -418,28 +366,28 @@
     },
     {
       "date": "2026-06-26T20:00:00-04:00",
-      "title": "Punchline Palace",
+      "title": "Subhah Agarwal, Zahid Dewji, Joe Mahoney, Adam Gulley",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">Lineup Below</p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><br></p><p><br></p><p dir=\"ltr\"><br></p>",
+      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">Lineup Below</p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><br></p><p><br></p><p dir=\"ltr\"><br></p><br><br><p><span><strong>Subhah Agarwal</strong> has brought an honesty to her comedy that will leave you saying &quot;I didn&#39;t need to know that.&quot; Subhah has written for Netflix&rsquo;s &ldquo;Arsenio Hall&rdquo; limited series, the &quot;Plan B&quot; movie on Hulu,&quot; and The Jim Jefferies Show&quot;on Comedy Central, amongst others. You can also catch her jokes live at stand up comedy clubs across the country. If you don&#39;t want to leave your couch, you can see her late night debut on NBC&#39;s &quot;A Little Late With Lilly Singh.&quot; She&#39;s also appeared on season three of HBO&#39;s &quot;Westworld&quot;, &quot;General Hospital,&quot; TruTv&#39;s sketch comedy &quot;Friends of the People&quot;, and as herself on MTV2, Comedy Central, and Gotham Comedy Live.<br><br><br><strong>Zahid Dewji</strong> is an NYC based comedian. He was a former staff writer on NBC&rsquo;s The Tonight Show Starring Jimmy Fallon, as well as the head writer on OFTV&rsquo;s Roast of Bert Kreischer &amp; The Roast of Whitney Cummings. Born in Queens, NY to East African Indian immigrants, the &quot;Z-man&quot; (as no one calls him) was raised in Houston where he began his comedy career and quickly became a Texas favorite. Zahid has toured the country with comedy icon Whitney Cummings as well as internet sensation Noel Miller and has been featured on countless comedy festivals including Oddball Comedy Fest, Laughing Skull and Moontower Comedy Festival. His debut special &ldquo;Where is God?&rdquo; was released in 2023 with Don&rsquo;t Tell Comedy. He also has a new set filmed with OFTV available to stream exclusively on Only Fans (yes, really). <br><br></span></p>",
       "extraction_method": "json-ld",
-      "vendor": "Punchline Palace",
+      "vendor": "Subhah Agarwal, Zahid Dewji, Joe Mahoney, Adam Gulley",
       "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-06-26T22:00:00-04:00",
-      "title": "Punchline Palace",
+      "title": "Close the Door Behind You - Every Last Saturday",
       "venue": "Eastville Comedy Club",
       "start_time": "10:00 PM ET",
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\">Close the Door Behind You - Every Last Saturday <span><br></span></p><br>",
       "extraction_method": "json-ld",
-      "vendor": "Punchline Palace",
+      "vendor": "Close the Door Behind You - Every Last Saturday",
       "location": "Eastville Comedy Club"
     },
     {
@@ -560,14 +508,14 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-06-27T18:00:00-04:00",
+      "date": "2026-06-27T17:00:00-04:00",
       "title": "Brotaku: Tournament Comedy Show",
       "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
+      "start_time": "5:00 PM ET",
       "end_time": null,
-      "start_time_raw": "6:00 PM",
+      "start_time_raw": "5:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Stand-up comedians roast players while they compete live in a chaotic Mario Kart tournament.<br>16 competitors enter. One leaves with $250. Everyone else gets cooked.<br>Expect:<br>&bull; stand-up to open the show<br>&bull; player intros + live roasting<br>&bull; wildcard players pulled from the audience<br>&bull; unhinged energy the entire time<br>Part tournament, part comedy show, part public execution.<br>Like playing video games on your friend&rsquo;s couch&mdash;if your friends were ruthless comedians.<br><br>Details:<br>&bull; Friday, June 27<br>&bull; Doors 5:00 PM | Show 6:00 PM<br>&bull; Eastville Comedy Club (Brooklyn)<br>&bull; 2 drink minimum<br><br>Tickets:<br>&bull; Competitor Pass ($27): guaranteed tournament spot<br>&bull; Audience ($19): watch + chance to be pulled as a wildcard<br>Competitor slots fill fast. Last show sold out.<br>All tickets include 2 takoyaki balls + 1 meat skewer from Karl&rsquo;s Balls and Izakaya Juraku.</p><br>",
+      "description": "<p dir=\"ltr\">Stand-up comedians roast players while they compete live in a chaotic Pokemon Champions<br>16 competitors enter. One leaves with $250. Everyone else gets cooked.<br>Expect:<br>&bull; stand-up to open the show<br>&bull; player intros + live roasting<br>&bull; wildcard players pulled from the audience<br>&bull; unhinged energy the entire time<br>Part tournament, part comedy show, part public execution.<br>Like playing video games on your friend&rsquo;s couch&mdash;if your friends were ruthless comedians.<br><br>Details:<br>&bull; Friday, June 27<br>&bull; Doors 5:00 PM | Show 6:00 PM<br>&bull; Eastville Comedy Club (Brooklyn)<br>&bull; 2 drink minimum<br><br>Tickets:<br>&bull; Competitor Pass ($27): guaranteed tournament spot<br>&bull; Audience ($19): watch + chance to be pulled as a wildcard<br>Competitor slots fill fast. Last show sold out.<br>All tickets include 2 takoyaki balls + 1 meat skewer from Karl&rsquo;s Balls and Izakaya Juraku.</p><br>",
       "extraction_method": "json-ld",
       "vendor": "Brotaku: Tournament Comedy Show",
       "location": "Eastville Comedy Club"
@@ -587,15 +535,15 @@
     },
     {
       "date": "2026-06-27T20:00:00-04:00",
-      "title": "Saturday Prime Time Comedy",
+      "title": "Talal Alyan, Jenny Tian, Trayvon Fulton, Eagle Witt",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p>",
+      "description": "<p dir=\"ltr\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>Saturday Prime Time Comedy!</strong></span></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p><br><br><p><span>A regular on the Sydney comedy circuit, <strong>Jenny Tian</strong> exploded onto our #fyp during the pandemic notching up millions of likes and amassing a collective online audience of 1M+.</span></p><p><span>Her debut solo show Picture This sold out to audiences up and down the east coast of Australia and was released as a YouTube special where it has clocked up over 900k views.</span></p><p><span>Her second hour Chinese Australian: A Tale of Internet Fame sold out across Australia and took her to her first ever runs at the Edinburgh Fringe and west end Boulevard Theatre, also selling out both.</span></p><p><span>Off the back of her stand up success, Jenny has secured spots on the lineup for the 2024 and 2025 Melbourne International Comedy Festival Gala&rsquo;s and as a cast member in season 2 of Taskmaster AU, the latter earning her a Logie nomination for Best New Talent.</span></p><p><span>Recently announced as a recipient of Screen Aus and YouTube&rsquo;s funding initiative, Skip Ahead, Jenny continues her mastery of online content creation, often using it as material for her stand up shows.</span></p><p><span>After a stint in London, Jenny is now living in New York where she has just completed her first ever US tour of her most recent hour, the aptly titled Jenny&rsquo;s Travels.</span></p><p><span><br><br><strong>Fumi Abe</strong> is a Japanese-American stand-up comedian/writer based in Los Angeles who recently made his TV debut on the Late Show with Stephen Colbert.</span></p><p><span>He has written for NPR&rsquo;s &ldquo;Wait Wait...Don&#39;t Tell Me!&rdquo;, was part of the 2020 Comedy Central Digital Creators Program, and is currently a staff writer on The Late Late Show with James Corden.</span></p><p><span>He produces and hosts the comedy podcast &quot;Asian Not Asian&quot;, which was most recently included in Vulture&rsquo;s Comedy Podcast Roundup as well as The AV Club&rsquo;s Podcast series highlights.<br><br>A stand-up, writer, and actor, Eagle is a born and raised New Yorker. At 28 years old, he performs at all the major clubs in the city, including as a regular at the Comedy Cellar. Eagle has been featured on Comedy Central&rsquo;s &quot;This Week at the Comedy Cellar&quot; as well as Amazon&rsquo;s scripted series &quot;Millenniums.&quot; </span></p><p><span>He has notably performed twice on &quot;Comedy Central Stand-Up,&quot; with his most recent set having been released in March of 2023. Eagle will be featured as a cast member on MTV&rsquo;s upcoming Season 21 of &quot;Wild &#39;n Out.&quot;&nbsp;</span></p><p><span>&nbsp;</span></p><p><span><br><br></span></p>",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Prime Time Comedy",
+      "vendor": "Talal Alyan, Jenny Tian, Trayvon Fulton, Eagle Witt",
       "location": "Eastville Comedy Club"
     },
     {
@@ -652,7 +600,7 @@
     },
     {
       "date": "2026-06-28T19:30:00-04:00",
-      "title": "Sunday Night Comedy",
+      "title": "Peter Stewart, Tina Zhu, Cesh Reyes, kyle mara",
       "venue": "Eastville Comedy Club",
       "start_time": "7:30 PM ET",
       "end_time": null,
@@ -660,7 +608,7 @@
       "end_time_raw": null,
       "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p>",
       "extraction_method": "json-ld",
-      "vendor": "Sunday Night Comedy",
+      "vendor": "Peter Stewart, Tina Zhu, Cesh Reyes, kyle mara",
       "location": "Eastville Comedy Club"
     },
     {
@@ -792,10 +740,36 @@
       "extraction_method": "html",
       "vendor": "SASHA PARIS-CARTER W/ MADELINE GREEN AND THE YEAR OF THE HARE(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-01T00:00:00",
+      "title": "Cold Plunge with Kurt Braunohler",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Cold Plunge with Kurt Braunohler",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-07-01T18:00:00",
+      "title": "Zine Club",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Join us every two weeks for Zine Club, a gathering dedicated to DIY bookmaking, self-publishing, creative experimentation, and community. Whether you\u2019re new to zines or working on an ongoing project, this is a space to explore ideas, share work, and be creative in community with other artists, writers, activists, and creatives of all kinds.\nEach begins with a quick demo of a technique or process you might incorporate in your own work. Explore a wide range of materials and techniques available in our studio, including collage, drawing, image transfer, stenciling, and printmaking.\nZine Club is led by Lista Studios instructor Wil Bigio, a graphic designer, illustrator, and dedicated doodler based in New York.\nDetails:\nMeets every other Wednesday (first and third of the month) from 6:00 pm \u2013 8:30 pm\nBasic materials provided (paper, collage supplies, and printmaking tools)",
+      "extraction_method": "api",
+      "vendor": "Zine Club",
+      "location": "Industry City"
     }
   ],
-  "updated": "2026-06-23T10:16:02.626198+00:00",
-  "total_events": 61,
+  "updated": "2026-06-24T10:16:36.510879+00:00",
+  "total_events": 59,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
