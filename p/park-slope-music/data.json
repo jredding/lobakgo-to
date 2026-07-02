@@ -1,97 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-01T00:00:00",
-      "title": "Cold Plunge with Kurt Braunohler",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Cold Plunge with Kurt Braunohler",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-07-01T12:00:00+00:00",
-      "title": "52 FILMS PRESENTS(Screening)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "52 FILMS PRESENTS(Screening)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-01T12:00:00+00:00",
-      "title": "SONGWRITER NIGHT(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SONGWRITER NIGHT(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-01T18:00:00",
-      "title": "Zine Club",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "Join us every two weeks for Zine Club, a gathering dedicated to DIY bookmaking, self-publishing, creative experimentation, and community. Whether you\u2019re new to zines or working on an ongoing project, this is a space to explore ideas, share work, and be creative in community with other artists, writers, activists, and creatives of all kinds.\nEach begins with a quick demo of a technique or process you might incorporate in your own work. Explore a wide range of materials and techniques available in our studio, including collage, drawing, image transfer, stenciling, and printmaking.\nZine Club is led by Lista Studios instructor Wil Bigio, a graphic designer, illustrator, and dedicated doodler based in New York.\nDetails:\nMeets every other Wednesday (first and third of the month) from 6:00 pm \u2013 8:30 pm\nBasic materials provided (paper, collage supplies, and printmaking tools)",
-      "extraction_method": "api",
-      "vendor": "Zine Club",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-01T18:00:00",
-      "title": "Team USA Round of 32 Knockout Round World Cup Watch Party",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Tickets Here: https://wl.eventim.us/event/team-usa-round-of-32-knockout-round-world-cup-watch-party/696405?afflky=Getitrightthefirsttime\nDo you believe in miracles?\nFEATURED MATCH at 8pm!\nCome watch Team USA in their first game of Knockout Round competition on our 15-foot wide projection screen and listen to the game in full concert sound under the stars in Sunset Park, Brooklyn.\nOther scheduled matches:\n12:00pm Round of 32 match TBD\n4:00pm Round of 32 match TBD\nThis event requires a $5 RSVP, which includes a $6 discount on your first order at our venue bar.\nThere will be drink specials, but don&#8217;t forget to take advantage of the 2-for-1 drink ticket when you check out! Space is limited and RSVP doesn&#8217;t guarantee entry. Buying advanced drink tickets guarantees entry!\nNO STROLLERS or children under the age of 3.\nLimited seating (about 100 seats), tons of standing room. SO THAT WE MAY INCLUDE AS MANY PEOPLE AS POSSIBLE AND FOR YOUR SAFETY, PLEASE DO NOT BRING YOUR OWN CHAIRS. Trust us, the second the game starts everybody is up and cheering anyway!\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we won&#8217;t be able to let anyone else in.\nNo outside beverages. There will be drink specials all day long from our courtyard bar. Feel free to bring in food from the adjoining food hall!\nEvent Info\nDate: June 30, 2026\nDoors: 7:00pm\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device.\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.",
-      "extraction_method": "api",
-      "vendor": "Team USA Round of 32 Knockout Round World Cup Watch Party",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-01T19:30:00",
-      "title": "WE HAVE FUN STAND-UP(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STAND-UP(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-01T20:00:00-04:00",
-      "title": "The Anxiety of Laughing Disability Pride Month Benefit Comedy Showcase",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Join us for The Anxiety of Laughing: Disability Pride Month Benefit Comedy Showcase, a special evening of comedy featuring disabled comics and advocates in celebration of Disability Pride Month.<br><br>Hosted by Neil Lynskey and featuring Mike Favor, Nick Astor, and Steve Way, this one-night event will raise funds for The Anxiety of Laughing, a new play exploring disability, resilience, relationships, and humor. The production will be presented later this month as part of the Midtown International Theatre Festival.<br><br>Wednesday, July 1, 2026<br>Doors: 7:30 PM<br>Show: 8:00 PM<br><br>VIP tickets include reserved seating.<br><br></p><br>",
-      "extraction_method": "json-ld",
-      "vendor": "The Anxiety of Laughing Disability Pride Month Benefit Comedy Showcase",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-02T00:00:00",
       "title": "RUPI KAUR: UNCUT \u2013 A RESIDENCY",
       "venue": "Union Hall",
@@ -116,6 +25,19 @@
       "extraction_method": "html",
       "vendor": "THE YOUNG ETHELS BARPROV EXPERIMENT(Comedy)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-02T15:00:00",
+      "title": "July 2 Spain Portugal Switzerland World Cup Watch Party",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Come watch Spain, Portugal and Switzerland in Knockout Round competition on our 15-foot wide projection screen and listen to the game in full concert sound under the stars in Sunset Park, Brooklyn.\nScheduled matches:\n3:00pm Spain v Austria\n7:00pm Portugal v Croatia\n11:00pm Switzerland v Algeria\nThis event requires a $5 RSVP, which includes a $6 discount on your first order at our venue bar.\nThere will be drink specials, but don&#8217;t forget to take advantage of the 2-for-1 drink ticket when you check out! Space is limited and RSVP doesn&#8217;t guarantee entry. Buying advanced drink tickets guarantees entry!\nNO STROLLERS or children under the age of 3.\nLimited seating (about 100 seats), tons of standing room. SO THAT WE MAY INCLUDE AS MANY PEOPLE AS POSSIBLE AND FOR YOUR SAFETY, PLEASE DO NOT BRING YOUR OWN CHAIRS. Trust us, the second the game starts everybody is up and cheering anyway!\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we won&#8217;t be able to let anyone else in.\nNo outside beverages. There will be drink specials all day long from our courtyard bar. Feel free to bring in food from the adjoining food hall!",
+      "extraction_method": "api",
+      "vendor": "July 2 Spain Portugal Switzerland World Cup Watch Party",
+      "location": "Industry City"
     },
     {
       "date": "2026-07-02T19:00:00",
@@ -183,6 +105,32 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-07-03T12:00:00+00:00",
+      "title": "DRUNK GIRLS IN THE BATHROOM(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DRUNK GIRLS IN THE BATHROOM(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-03T12:00:00+00:00",
+      "title": "ROCK AND REEDS! FRENCH JESSICA// TELOMERES// BAD KITTY(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ROCK AND REEDS! FRENCH JESSICA// TELOMERES// BAD KITTY(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-07-03T13:00:00",
       "title": "Argentina Round of 32 Knockout Round World Cup Watch Party",
       "venue": "Industry City",
@@ -193,6 +141,19 @@
       "description": "Tickets Here: https://wl.eventim.us/event/argentina-round-of-32-knockout-round-world-cup-watch-party/696435?afflky=Getitrightthefirsttime\nFEATURED MATCH at 6pm!\nCome watch Argentina in their first game of Knockout Round competition on our 15-foot wide projection screen and listen to the game in full concert sound under the stars in Sunset Park, Brooklyn.\nOther scheduled matches:\n2:00pm Round of 32 match TBD\n9:30pm Round of 32 match TBD\nThis event requires a $5 RSVP, which includes a $6 discount on your first order at our venue bar.\nThere will be drink specials, but don&#8217;t forget to take advantage of the 2-for-1 drink ticket when you check out! Space is limited and RSVP doesn&#8217;t guarantee entry. Buying advanced drink tickets guarantees entry!\nNO STROLLERS or children under the age of 3.\nLimited seating (about 100 seats), tons of standing room. SO THAT WE MAY INCLUDE AS MANY PEOPLE AS POSSIBLE AND FOR YOUR SAFETY, PLEASE DO NOT BRING YOUR OWN CHAIRS. Trust us, the second the game starts everybody is up and cheering anyway!\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we won&#8217;t be able to let anyone else in.\nNo outside beverages. There will be drink specials all day long from our courtyard bar. Feel free to bring in food from the adjoining food hall!\nEvent Info\nDate: July 3, 2026\nDoors: 7:00pm\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device.\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.",
       "extraction_method": "api",
       "vendor": "Argentina Round of 32 Knockout Round World Cup Watch Party",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-03T17:00:00",
+      "title": "July 3 Argentina Knockout Round World Cup Watch Party",
+      "venue": "Industry City",
+      "start_time": "5:00 PM ET",
+      "end_time": "11:30 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "11:30 PM",
+      "description": "FEATURED MATCH at 6pm!\nCome watch Argentina in their first game of Knockout Round competition on our 15-foot wide projection screen and listen to the game in full concert sound under the stars in Sunset Park, Brooklyn.\nOther scheduled matches:\n2:00pm Australia vs. Egypt\n9:30pm Columbia vs. Ghana\nThis event requires a $5 RSVP, which includes a $6 discount on your first order at our venue bar.\nThere will be drink specials, but don&#8217;t forget to take advantage of the 2-for-1 drink ticket when you check out! Space is limited and RSVP doesn&#8217;t guarantee entry. Buying advanced drink tickets guarantees entry!\nNO STROLLERS or children under the age of 3.\nLimited seating (about 100 seats), tons of standing room. SO THAT WE MAY INCLUDE AS MANY PEOPLE AS POSSIBLE AND FOR YOUR SAFETY, PLEASE DO NOT BRING YOUR OWN CHAIRS. Trust us, the second the game starts everybody is up and cheering anyway!\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we won&#8217;t be able to let anyone else in.\nNo outside beverages. There will be drink specials all day long from our courtyard bar. Feel free to bring in food from the adjoining food hall!",
+      "extraction_method": "api",
+      "vendor": "July 3 Argentina Knockout Round World Cup Watch Party",
       "location": "Industry City"
     },
     {
@@ -207,6 +168,19 @@
       "extraction_method": "json-ld",
       "vendor": "Matthew Broussard, Vishnu Vaka, Michael Good, Peter Stewart",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-03T18:30:00",
+      "title": "SPONGEBOB DYLAN AND GUESTS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": null,
+      "end_time": "6:30 PM ET",
+      "start_time_raw": null,
+      "end_time_raw": "6:30 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SPONGEBOB DYLAN AND GUESTS(Music)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-07-03T19:30:00",
@@ -285,6 +259,19 @@
       "extraction_method": "html",
       "vendor": "Young Adult Friction: an indie + alt dance party TEN YEAR ANNIVERSARY PARTY",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-07-04T13:00:00",
+      "title": "Fourth of July Round of 16 Canada Morocco France Paraguay World Cup Watch Party",
+      "venue": "Industry City",
+      "start_time": "1:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Come enjoy the Fourth of July and watch the competition on our 15-foot wide projection screen and listen to the game in full concert sound under the stars in Sunset Park, Brooklyn.\nScheduled matches:\n1:00pm Canada vs. Morocco\n5:00pm France vs. Paraguay\nThis event requires a $5 RSVP, which includes a $6 discount on your first order at our venue bar.\nThere will be drink specials, but don&#8217;t forget to take advantage of the 2-for-1 drink ticket when you check out! Space is limited and RSVP doesn&#8217;t guarantee entry. Buying advanced drink tickets guarantees entry!\nNO STROLLERS or children under the age of 3.\nLimited seating (about 100 seats), tons of standing room. SO THAT WE MAY INCLUDE AS MANY PEOPLE AS POSSIBLE AND FOR YOUR SAFETY, PLEASE DO NOT BRING YOUR OWN CHAIRS. Trust us, the second the game starts everybody is up and cheering anyway!\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we won&#8217;t be able to let anyone else in.\nNo outside beverages. There will be drink specials all day long from our courtyard bar. Feel free to bring in food from the adjoining food hall",
+      "extraction_method": "api",
+      "vendor": "Fourth of July Round of 16 Canada Morocco France Paraguay World Cup Watch Party",
+      "location": "Industry City"
     },
     {
       "date": "2026-07-04T14:00:00",
@@ -378,6 +365,58 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-07-05T12:00:00+00:00",
+      "title": "LAKE EFFECT BLUEGRASS BAND(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "1:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LAKE EFFECT BLUEGRASS BAND(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-05T12:00:00+00:00",
+      "title": "THE EDUKATORS EP RELEASE PARTY(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE EDUKATORS EP RELEASE PARTY(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-05T12:00:00+00:00",
+      "title": "AARON QUINN// JACOB JEZIORO// DERIC DICKENS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "AARON QUINN// JACOB JEZIORO// DERIC DICKENS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-05T12:00:00+00:00",
+      "title": "LA BOIX(Draglesque)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LA BOIX(Draglesque)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-07-05T14:30:00",
       "title": "Summerween Spooktacular at Powerhouse IC",
       "venue": "Industry City",
@@ -388,6 +427,19 @@
       "description": "Grab your SPF 5000 and your sunglasses and hop on your broomstick for the spookies, silliest storytime this side of October as we celebrate Summerween at Powerhouse IC on July 5!",
       "extraction_method": "api",
       "vendor": "Summerween Spooktacular at Powerhouse IC",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-05T15:00:00",
+      "title": "Mexico Brazil Knockout Round World Cup Watch Party",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Come to Brooklyn&#8217;s Best World Cup Watch Party Experience!\nCome watch the competition on our 15-foot wide projection screen and listen to the game in full concert sound under the stars in Sunset Park, Brooklyn.\nScheduled matches:\n4:00pm Brazil vs Norway\n8:00pm Mexico Round of 16 match vs. TBD\nThis event requires a $5 RSVP, which includes a $6 discount on your first order at our venue bar.\nThere will be drink specials, but don&#8217;t forget to take advantage of the 2-for-1 drink ticket when you check out! Space is limited and RSVP doesn&#8217;t guarantee entry. Buying advanced drink tickets guarantees entry!\nNO STROLLERS or children under the age of 3.\nLimited seating (about 100 seats), tons of standing room. SO THAT WE MAY INCLUDE AS MANY PEOPLE AS POSSIBLE AND FOR YOUR SAFETY, PLEASE DO NOT BRING YOUR OWN CHAIRS. Trust us, the second the game starts everybody is up and cheering anyway!\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we won&#8217;t be able to let anyone else in.\nNo outside beverages. There will be drink specials all day long from our courtyard bar. Feel free to bring in food from the adjoining food hall!",
+      "extraction_method": "api",
+      "vendor": "Mexico Brazil Knockout Round World Cup Watch Party",
       "location": "Industry City"
     },
     {
@@ -456,6 +508,58 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-06T12:00:00+00:00",
+      "title": "FREAKY DEAKY IMPROV(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "FREAKY DEAKY IMPROV(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-06T12:00:00+00:00",
+      "title": "ANGELA MATAJA FT POLINA WEST AND JAZZMYN COKER(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ANGELA MATAJA FT POLINA WEST AND JAZZMYN COKER(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-06T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-06T16:30:00",
+      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-07-07T00:00:00",
       "title": "NORMAL BEHAVIOR with Chine Ikoro",
       "venue": "Union Hall",
@@ -467,6 +571,32 @@
       "extraction_method": "html",
       "vendor": "NORMAL BEHAVIOR with Chine Ikoro",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-07-07T12:00:00+00:00",
+      "title": "THE NIGHT BREAKERS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE NIGHT BREAKERS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-07T12:00:00+00:00",
+      "title": "KRISAYGON\u2019S SUMMER COMEDY(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "KRISAYGON\u2019S SUMMER COMEDY(Comedy)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-07-08T00:00:00",
@@ -482,6 +612,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-07-08T12:00:00+00:00",
+      "title": "THE KASHANTI GAMES(Draglesque)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE KASHANTI GAMES(Draglesque)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-08T17:30:00",
+      "title": "A BILLION BUGS EP RELEASE SHOW(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "5:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "A BILLION BUGS EP RELEASE SHOW(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-08T19:30:00",
+      "title": "WE HAVE FUN STAND-UP(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "WE HAVE FUN STAND-UP(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-07-08T20:00:00-04:00",
       "title": "Dave Kinney, Samantha Santos, Matt Pena, Joe Mahoney",
       "venue": "Eastville Comedy Club",
@@ -493,10 +662,75 @@
       "extraction_method": "json-ld",
       "vendor": "Dave Kinney, Samantha Santos, Matt Pena, Joe Mahoney",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-09T00:00:00",
+      "title": "Nico Carney & Friends!",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Nico Carney & Friends!",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-07-09T00:00:00",
+      "title": "Leyla Land",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Leyla Land",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-07-09T12:00:00+00:00",
+      "title": "THE YOUNG ETHELS BARPROV EXPERIMENT(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE YOUNG ETHELS BARPROV EXPERIMENT(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-09T20:00:00-04:00",
+      "title": "Stand Up Shenanigans",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>Weekend Warmup comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">Line up Below</p>",
+      "extraction_method": "json-ld",
+      "vendor": "Stand Up Shenanigans",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-09T20:00:00",
+      "title": "No Fun New Perspectives: Bill Nace, Carlos Giffoni, Charmaine Lee, Twig Harper, and more (Night 1)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "A three-day fest with a dream lineup of avant-garde musicians in first-time collaborations.",
+      "extraction_method": "html",
+      "vendor": "No Fun New Perspectives: Bill Nace, Carlos Giffoni, Charmaine Lee, Twig Harper, and more (Night 1)",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-07-01T10:15:56.743224+00:00",
-  "total_events": 38,
+  "updated": "2026-07-02T10:15:45.360834+00:00",
+  "total_events": 56,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
