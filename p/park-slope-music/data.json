@@ -1,58 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-08T12:00:00+00:00",
-      "title": "THE KASHANTI GAMES(Draglesque)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THE KASHANTI GAMES(Draglesque)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-08T17:30:00",
-      "title": "A BILLION BUGS EP RELEASE SHOW(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "5:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "A BILLION BUGS EP RELEASE SHOW(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-08T19:30:00",
-      "title": "WE HAVE FUN STAND-UP(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STAND-UP(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-08T20:00:00-04:00",
-      "title": "Dave Kinney, Samantha Santos, Matt Pena, Joe Mahoney",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br>Featuring<br>Dave Kinney<br>Samantha Santos<br>Matt Pena<br>Joe Mahoney<br>Michael Brigante",
-      "extraction_method": "json-ld",
-      "vendor": "Dave Kinney, Samantha Santos, Matt Pena, Joe Mahoney",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-09T12:00:00+00:00",
       "title": "THE YOUNG ETHELS BARPROV EXPERIMENT(Comedy)",
       "venue": "Young Ethel's",
@@ -209,6 +157,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-07-10T23:30:00-04:00",
+      "title": "Friday Night Late Night Open Mic",
+      "venue": "Eastville Comedy Club",
+      "start_time": "11:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "11:30 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">We bring the best undiscovered and established talent to the stage for this popualr open mic!</span></strong></p><p dir=\"ltr\"><br></p><p dir=\"ltr\">These tickets are to watch the open mic (not to perform).</p>",
+      "extraction_method": "json-ld",
+      "vendor": "Friday Night Late Night Open Mic",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-07-11T12:00:00+00:00",
       "title": "LIVE MUSIC TBA(Music)",
       "venue": "Young Ethel's",
@@ -349,6 +310,19 @@
       "description": "<p dir=\"ltr\"><strong>Prime Time Comedy!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p><br><br>Featuring<br>Nore Davis<br>Christian Finnegan<br>Adrienne Iapalucci<br>Mike Drucker<br>DJ Hairston",
       "extraction_method": "json-ld",
       "vendor": "Nore Davis, Christian Finnegan, Adrienne Iapalucci, Mike Drucker",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-11T23:30:00-04:00",
+      "title": "Saturday Night Late Night Open Mic",
+      "venue": "Eastville Comedy Club",
+      "start_time": "11:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "11:30 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">We bring the best undiscovered and established talent to the stage for this popualr open mic!</span></strong></p><p dir=\"ltr\"><br></p><p dir=\"ltr\">These tickets are to watch the open mic (not to perform).</p>",
+      "extraction_method": "json-ld",
+      "vendor": "Saturday Night Late Night Open Mic",
       "location": "Eastville Comedy Club"
     },
     {
@@ -649,10 +623,62 @@
       "extraction_method": "json-ld",
       "vendor": "Tom Zappia, Tina Zhu, Chris Tos, Mike Recine",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-16T12:00:00+00:00",
+      "title": "1980\u2019S IMPROV CHALLENGE(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "1980\u2019S IMPROV CHALLENGE(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-16T12:00:00+00:00",
+      "title": "SAM BROWN PRESENTS THE MUSIC OF MARY CHAPIN CARPENTER AND VINCE GILL(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SAM BROWN PRESENTS THE MUSIC OF MARY CHAPIN CARPENTER AND VINCE GILL(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-16T18:00:00",
+      "title": "Plant Adoption X Pot DIY",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "What happens to your daily coffee or bubble tea cups after the last sip?\n\ud83d\udca1 DIY your own plant pot using recycled plastic cups and take a plant home! No experience required\u2014just bring your imagination.\nHighlights: Free admission and all supplies included.\n\ud83e\udd64 Cup &amp; Bring-Your-Own Policy:\nWe will provide pre-collected, clean plastic cups at the venue. However, we highly encourage you to bring one or two washed, empty plastic cups from your favorite local caf\u00e9 to give them a second life!\n\ud83d\udc4b Meet Your Organizer:\nThis workshop is hosted by Jessy, an illustrator and product designer based in NYC. Instagram \ud83d\udc49 https://www.instagram.com/jessyyy_liu/\nPlant Adoption x Pot DIY is sponsored, in part, by the Greater New York Arts Development Fund of the New York City Department of Cultural Affairs, administered by Brooklyn Arts Council. The workshop is hosted at Brooklyn Creative Reuse 254 36th Street, Space C244, 2nd Floor.",
+      "extraction_method": "api",
+      "vendor": "Plant Adoption X Pot DIY",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-16T20:00:00-04:00",
+      "title": "Brotaku: Tekken 8 Tournament Comedy Show",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\">Stand-up comedians roast players while they compete live in a chaotic Tekken tournament.<br>16 competitors enter. One leaves with $250. Everyone else gets cooked.<br>Expect:<br>&bull; stand-up to open the show<br>&bull; player intros + live roasting<br>&bull; wildcard players pulled from the audience<br>&bull; unhinged energy the entire time<br>Part tournament, part comedy show, part public execution.<br>Like playing video games on your friend&rsquo;s couch&mdash;if your friends were ruthless comedians.<br><br>Details:<br>&bull; Thursday, July 16 PM<br>&bull; Doors 7:00 PM | Show 8:00 PM<br>&bull; Eastville Comedy Club (Brooklyn)<br>&bull; 2 drink minimum<br><br>Tickets:<br>&bull; Competitor Pass ($27): guaranteed tournament spot<br>&bull; Audience ($19): watch + chance to be pulled as a wildcard<br>Competitor slots fill fast. Last show sold out.<br>All tickets include 2 takoyaki balls + 1 meat skewer from Karl&rsquo;s Balls and Izakaya Juraku.</p><br>",
+      "extraction_method": "json-ld",
+      "vendor": "Brotaku: Tekken 8 Tournament Comedy Show",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-08T10:16:40.446036+00:00",
-  "total_events": 50,
+  "updated": "2026-07-09T10:20:49.286437+00:00",
+  "total_events": 52,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
