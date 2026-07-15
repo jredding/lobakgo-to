@@ -1,58 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-14T15:00:00",
-      "title": "Free World Cup Watch Party @ Fort Hamilton",
-      "venue": "Industry City",
-      "start_time": "3:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Catch every World Cup Semifinal &amp; Final at Fort Hamilton Distillery!\nJoin us for FREE World Cup Watch Parties featuring cocktails, mocktails, beer, wine, pool, shuffleboard, darts, board games, and more.\nNo Cover Charge. Just great drinks, great matches, and great company.",
-      "extraction_method": "api",
-      "vendor": "Free World Cup Watch Party @ Fort Hamilton",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-14T19:00:00",
-      "title": "Spirited Away: Psychic &#038; Paranormal Night",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Gather with NYC\u2019s finest readers and psychics for a glorious evening of craft cocktails and supernatural fun, hosted by The Oracle!\nSpirited Away Psychic &amp; Paranormal Night! Winter Edition!\nCome down to Industry City and join us for a cozy evening of psychic readings and craft cocktails!",
-      "extraction_method": "api",
-      "vendor": "Spirited Away: Psychic &#038; Paranormal Night",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-14T19:30:00",
-      "title": "YOUNG ETHEL\u2019S POP CULTURE TRIVIA TIME MACHINE(Trivia)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "YOUNG ETHEL\u2019S POP CULTURE TRIVIA TIME MACHINE(Trivia)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-14T21:30:00",
-      "title": "WALLACE/KARLSON/NEUBURG TRIO AND KATIE WEBSTER GROUP(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WALLACE/KARLSON/NEUBURG TRIO AND KATIE WEBSTER GROUP(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-07-15T12:00:00+00:00",
       "title": "COMEDY BY THE MOUTHFUL PRESENTED BY A BUNCH OF TEETH(Comedy)",
       "venue": "Young Ethel's",
@@ -326,19 +274,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-07-17T23:30:00-04:00",
-      "title": "Friday Night Late Night Open Mic",
-      "venue": "Eastville Comedy Club",
-      "start_time": "11:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "11:30 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">We bring the best undiscovered and established talent to the stage for this popualr open mic!</span></strong></p><p dir=\"ltr\"><br></p><p dir=\"ltr\">These tickets are to watch the open mic (not to perform).</p>",
-      "extraction_method": "json-ld",
-      "vendor": "Friday Night Late Night Open Mic",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-18T11:00:00",
       "title": "A Taste of Grand Bazaar",
       "venue": "Industry City",
@@ -521,19 +456,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-07-18T23:30:00-04:00",
-      "title": "Saturday Night Late Night Open Mic",
-      "venue": "Eastville Comedy Club",
-      "start_time": "11:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "11:30 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong><span style=\"color: rgb(0, 0, 0);\">We bring the best undiscovered and established talent to the stage for this popualr open mic!</span></strong></p><p dir=\"ltr\"><br></p><p dir=\"ltr\">These tickets are to watch the open mic (not to perform).</p>",
-      "extraction_method": "json-ld",
-      "vendor": "Saturday Night Late Night Open Mic",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-19T12:00:00+00:00",
       "title": "YOUR FRIEND RACHEL\u2019S SOFT LAUNCH MATINEE(Music)",
       "venue": "Young Ethel's",
@@ -662,10 +584,23 @@
       "extraction_method": "api",
       "vendor": "Brooklyn Robot Foundry Summer Circuits! Every Day",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-07-22T20:00:00-04:00",
+      "title": "Chris Tos, John Bennett, Mike Recine, Negin Farsad",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br>Featuring<br>Chris Tos<br>John Bennett<br>Mike Recine<br>Negin Farsad<br>Luis Lopez",
+      "extraction_method": "json-ld",
+      "vendor": "Chris Tos, John Bennett, Mike Recine, Negin Farsad",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-14T10:17:47.341289+00:00",
-  "total_events": 51,
+  "updated": "2026-07-15T10:16:25.245238+00:00",
+  "total_events": 46,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
