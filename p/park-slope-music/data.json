@@ -40,6 +40,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-16T20:00:00",
+      "title": "High School Musical Entirely From Memory",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Performers will attempt (and most likely fail) to recreate \"High School Musical\", without the aid of scripts, rehearsals, or sobriety!",
+      "extraction_method": "api",
+      "vendor": "High School Musical Entirely From Memory",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-16T20:00:00-04:00",
       "title": "Brotaku: Tekken 8 Tournament Comedy Show",
       "venue": "Eastville Comedy Club",
@@ -131,6 +144,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-17T19:00:00",
+      "title": "Brooklyn Lives! From the River to NYC: Poetry, Music, Art & Solidarity",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A community gathering and fundraiser bringing together live music, poetry readings, a panel discussion, and a live auction!",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Lives! From the River to NYC: Poetry, Music, Art & Solidarity",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-17T19:30:00",
       "title": "Plain Slice Comedy Show",
       "venue": "Industry City",
@@ -194,6 +220,19 @@
       "extraction_method": "json-ld",
       "vendor": "Carmen Lagala, Brian Mckenna, Matt Wayne, Trayvon Fulton, Cesh Reyes",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-17T23:00:00",
+      "title": "DANCEHALL vs SOCA - SUMMER PARTY IN BROOKLYN",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "THE BIGGEST DANCEHALL PARTY officially lands in BROOKLYN",
+      "extraction_method": "api",
+      "vendor": "DANCEHALL vs SOCA - SUMMER PARTY IN BROOKLYN",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-18T11:00:00",
@@ -272,6 +311,19 @@
       "extraction_method": "html",
       "vendor": "THE TRANSPLENDENT// ZOMBIES OF THE STRATOSPHERE// THE DESMOND WOLVES(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-18T14:00:00",
+      "title": "BEHIND THE VEIL AND OF THE SENSES: WORKS BY CHAYEL MOSES",
+      "venue": "Littlefield",
+      "start_time": "2:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Seven abstract works exploring consciousness, identity, and the expansive beauty and humanity of Blackness.",
+      "extraction_method": "api",
+      "vendor": "BEHIND THE VEIL AND OF THE SENSES: WORKS BY CHAYEL MOSES",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-18T15:00:00",
@@ -365,6 +417,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-18T20:00:00",
+      "title": "Lil S\u00e1bado with Michelladonna",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Lil S\u00e1bado with Michelladonna: a wild Latine variety show with comedy, burlesque, prizes & chaos. Expect the unexpected.",
+      "extraction_method": "api",
+      "vendor": "Lil S\u00e1bado with Michelladonna",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-18T20:00:00-04:00",
       "title": "Kareem Green, Liam Dalton, Tom Zappia, Chris Tos",
       "venue": "Eastville Comedy Club",
@@ -389,6 +454,19 @@
       "extraction_method": "json-ld",
       "vendor": "Chris \"Catman\" Grant Presents: Si, Pero\u2026No Live",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-18T23:00:00",
+      "title": "REGGAE REWIND",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "BROOKLYN... WE'RE CALLING ALL REGGAE LOVERS, DANCEHALL HEADS, REWIND SPECIALISTS & FORWARD CREW!",
+      "extraction_method": "api",
+      "vendor": "REGGAE REWIND",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-19T12:00:00+00:00",
@@ -482,6 +560,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-19T19:00:00",
+      "title": "Fourth Annual Queen of Cortelyou Pageant: Trailer Park Royalty",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Come see your favorite Queens, Kings, and Things compete for the crown!",
+      "extraction_method": "api",
+      "vendor": "Fourth Annual Queen of Cortelyou Pageant: Trailer Park Royalty",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-19T19:30:00-04:00",
       "title": "Country Cousins Comedy",
       "venue": "Eastville Comedy Club",
@@ -508,6 +599,45 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-20T20:00:00",
+      "title": "Clowns Anthology Book Party",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "An evening celebrating DOPAMINE Book's newest anthology CLOWNS. Hosted by Michelle Tea.",
+      "extraction_method": "api",
+      "vendor": "Clowns Anthology Book Party",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-07-21T19:00:00",
+      "title": "Slate Presents THE CREATOR REVOLUTION: A live podcast show",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "A live show from ICYMI, Slate\u2019s hit internet culture podcast, about the evolution of online influence.",
+      "extraction_method": "api",
+      "vendor": "Slate Presents THE CREATOR REVOLUTION: A live podcast show",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-07-22T19:00:00",
+      "title": "PAGE BREAK Presents: STAGE BREAK",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for a new edition of STAGE BREAK, the only reading series where EVERYONE reads. Hosted by Mikey Friedman. JULY 22nd @ 7PM",
+      "extraction_method": "api",
+      "vendor": "PAGE BREAK Presents: STAGE BREAK",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-22T20:00:00-04:00",
       "title": "Chris Tos, John Bennett, Mike Recine, Negin Farsad",
       "venue": "Eastville Comedy Club",
@@ -519,6 +649,19 @@
       "extraction_method": "json-ld",
       "vendor": "Chris Tos, John Bennett, Mike Recine, Negin Farsad",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-23T20:00:00",
+      "title": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Hear Damon and Josh play Paul and Linda McCartney's 1971 album RAM cover to cover, with a rotating cast of singers joining them on stage.",
+      "extraction_method": "api",
+      "vendor": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-23T20:00:00-04:00",
@@ -534,16 +677,15 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-16T10:16:34.516223+00:00",
-  "total_events": 41,
+  "updated": "2026-07-16T10:17:18.592639+00:00",
+  "total_events": 52,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
