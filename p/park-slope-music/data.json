@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-15T12:00:00+00:00",
-      "title": "COMEDY BY THE MOUTHFUL PRESENTED BY A BUNCH OF TEETH(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "COMEDY BY THE MOUTHFUL PRESENTED BY A BUNCH OF TEETH(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-15T15:00:00",
-      "title": "Free World Cup Watch Party @ Fort Hamilton",
-      "venue": "Industry City",
-      "start_time": "3:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Catch every World Cup Semifinal &amp; Final at Fort Hamilton Distillery!\nJoin us for FREE World Cup Watch Parties featuring cocktails, mocktails, beer, wine, pool, shuffleboard, darts, board games, and more.\nNo Cover Charge. Just great drinks, great matches, and great company.",
-      "extraction_method": "api",
-      "vendor": "Free World Cup Watch Party @ Fort Hamilton",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-15T18:00:00",
-      "title": "Zine Club",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "Join us every two weeks for Zine Club, a gathering dedicated to DIY bookmaking, self-publishing, creative experimentation, and community. Whether you\u2019re new to zines or working on an ongoing project, this is a space to explore ideas, share work, and be creative in community with other artists, writers, activists, and creatives of all kinds.\nEach begins with a quick demo of a technique or process you might incorporate in your own work. Explore a wide range of materials and techniques available in our studio, including collage, drawing, image transfer, stenciling, and printmaking.\nZine Club is led by Lista Studios instructor Wil Bigio, a graphic designer, illustrator, and dedicated doodler based in New York.\nDetails:\nMeets every other Wednesday (first and third of the month) from 6:00 pm \u2013 8:30 pm\nBasic materials provided (paper, collage supplies, and printmaking tools)",
-      "extraction_method": "api",
-      "vendor": "Zine Club",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-15T19:30:00",
-      "title": "WE HAVE FUN STANDUP(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STANDUP(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-15T20:00:00-04:00",
-      "title": "Tom Zappia, Tina Zhu, Chris Tos, Mike Recine",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br>Featuring<br>Tom Zappia<br>Tina Zhu<br>Chris Tos<br>Mike Recine<br>Derrell Meyers",
-      "extraction_method": "json-ld",
-      "vendor": "Tom Zappia, Tina Zhu, Chris Tos, Mike Recine",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-16T12:00:00+00:00",
       "title": "1980\u2019S IMPROV CHALLENGE(Comedy)",
       "venue": "Young Ethel's",
@@ -248,19 +183,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-07-17T20:00:00",
-      "title": "Salsa Night at Sahadi&#8217;s Industry City with Tres Del Solar Salsa Band",
-      "venue": "Industry City",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Salsa Night at Sahadi\u2019s Industry City!\nBrooklyn&#8217;s Best Salsa Night at Sahadi&#8217;s.\nLive Salsa music, dancing, drinks, and great vibes with the Tres Del Solar Band.\n\ud83d\udccd Location:\nSahadi\u2019s Industry City\n52 35th Street, Brooklyn, NY 11232\nIndustry City Courtyard 3/4, Building 4\n\ud83c\udf77 Full Bar featuring tap wines, tap beers, and refreshing cocktails\n\ud83c\udf7d\ufe0f Full Dinner Menu + Shareable Snacks\n\ud83d\udc83 Live Salsa Music &amp; Dancing All Night (Brooklyn&#8217;s Best Salsa Night)\n*If weather conditions are unfavorable, the event will be rescheduled to the following Friday.\nFor Reservations : 718-788-7500\nWalk-ins Are Welcome!!",
-      "extraction_method": "api",
-      "vendor": "Salsa Night at Sahadi&#8217;s Industry City with Tres Del Solar Salsa Band",
-      "location": "Industry City"
-    },
-    {
       "date": "2026-07-17T22:00:00-04:00",
       "title": "Carmen Lagala, Brian Mckenna, Matt Wayne, Trayvon Fulton, Cesh Reyes",
       "venue": "Eastville Comedy Club",
@@ -352,6 +274,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-07-18T15:00:00",
+      "title": "Live Music: Charlie Sub &#038; the Sound Dogs",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Join us at Gun Hill for live music by Charlie Sub &amp; the Sound Dogs! And enjoy Empanada Papa food pop up all day",
+      "extraction_method": "api",
+      "vendor": "Live Music: Charlie Sub &#038; the Sound Dogs",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-07-18T15:30:00",
       "title": "Toasting to Time: A Journey Through Green-Wood Cemetery with Crafted Cocktails",
       "venue": "Industry City",
@@ -392,15 +327,15 @@
     },
     {
       "date": "2026-07-18T17:00:00",
-      "title": "Free World Cup Watch Party @ Fort Hamilton",
+      "title": "House of Goal: FREE World Cup Bronze Medal Game Watch Party",
       "venue": "Industry City",
       "start_time": "5:00 PM ET",
       "end_time": "8:00 PM ET",
       "start_time_raw": "5:00 PM",
       "end_time_raw": "8:00 PM",
-      "description": "Catch every World Cup Semifinal &amp; Final at Fort Hamilton Distillery!\nJoin us for FREE World Cup Watch Parties featuring cocktails, mocktails, beer, wine, pool, shuffleboard, darts, board games, and more.\nNo Cover Charge. Just great drinks, great matches, and great company.",
+      "description": "House of GOAL is taking over Brooklyn\u2019s Industry City as the center of global football culture. Daytime access is free and open to the public.\nRegister for Tickets to Experience:\n\nLive shows and podcasts with soccer legends, including The Rondo, DRAFTED, Soccer Girl Pod, Foz Cast, Front Three and more.\nJoin or watch street soccer and skill battles with local &amp; global players\nWatch live matches on the big screen\nExplore global food &amp; flavors, exclusive fashion drops, gaming and art\n\nHouse of GOAL is family-friendly. Come early, stay late, experience it your way.\nDon\u2019t just watch the game, stand at the center of global football culture.",
       "extraction_method": "api",
-      "vendor": "Free World Cup Watch Party @ Fort Hamilton",
+      "vendor": "House of Goal: FREE World Cup Bronze Medal Game Watch Party",
       "location": "Industry City"
     },
     {
@@ -508,19 +443,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-07-19T12:00:00",
-      "title": "World Cup Final at Gun Hill",
-      "venue": "Industry City",
-      "start_time": "12:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Come watch the historic 2026 FIFA World Cup Final at Gun Hill! And enjoy BirriachiNYC food pop up all day.",
-      "extraction_method": "api",
-      "vendor": "World Cup Final at Gun Hill",
-      "location": "Industry City"
-    },
-    {
       "date": "2026-07-19T12:30:00",
       "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
       "venue": "Industry City",
@@ -535,15 +457,15 @@
     },
     {
       "date": "2026-07-19T15:00:00",
-      "title": "Free World Cup Watch Party @ Fort Hamilton",
+      "title": "House of Goal: FREE World Cup Finals Watch Party",
       "venue": "Industry City",
       "start_time": "3:00 PM ET",
       "end_time": "6:00 PM ET",
       "start_time_raw": "3:00 PM",
       "end_time_raw": "6:00 PM",
-      "description": "Catch every World Cup Semifinal &amp; Final at Fort Hamilton Distillery!\nJoin us for FREE World Cup Watch Parties featuring cocktails, mocktails, beer, wine, pool, shuffleboard, darts, board games, and more.\nNo Cover Charge. Just great drinks, great matches, and great company.",
+      "description": "House of GOAL is taking over Brooklyn\u2019s Industry City as the center of global football culture. Daytime access is free and open to the public.\nRegister for Tickets to Experience:\n\nLive shows and podcasts with soccer legends, including The Rondo, DRAFTED, Soccer Girl Pod, Foz Cast, Front Three and more.\nJoin or watch street soccer and skill battles with local &amp; global players\nWatch live matches on the big screen\nExplore global food &amp; flavors, exclusive fashion drops, gaming and art\n\nHouse of GOAL is family-friendly. Come early, stay late, experience it your way.\nDon\u2019t just watch the game, stand at the center of global football culture.",
       "extraction_method": "api",
-      "vendor": "Free World Cup Watch Party @ Fort Hamilton",
+      "vendor": "House of Goal: FREE World Cup Finals Watch Party",
       "location": "Industry City"
     },
     {
@@ -597,10 +519,23 @@
       "extraction_method": "json-ld",
       "vendor": "Chris Tos, John Bennett, Mike Recine, Negin Farsad",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-23T20:00:00-04:00",
+      "title": "The Comedy Studio by Harvard Square",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Harvard Square&#39;s Comedy Studio takes over Brooklyn, featuring killer comics from both Boston and New York City!",
+      "extraction_method": "json-ld",
+      "vendor": "The Comedy Studio by Harvard Square",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-15T10:16:25.245238+00:00",
-  "total_events": 46,
+  "updated": "2026-07-16T10:16:34.516223+00:00",
+  "total_events": 41,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
