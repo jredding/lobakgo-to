@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-16T12:00:00+00:00",
-      "title": "1980\u2019S IMPROV CHALLENGE(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "1980\u2019S IMPROV CHALLENGE(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-16T12:00:00+00:00",
-      "title": "SAM BROWN PRESENTS THE MUSIC OF MARY CHAPIN CARPENTER AND VINCE GILL(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SAM BROWN PRESENTS THE MUSIC OF MARY CHAPIN CARPENTER AND VINCE GILL(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-16T18:00:00",
-      "title": "Plant Adoption X Pot DIY",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "What happens to your daily coffee or bubble tea cups after the last sip?\n\ud83d\udca1 DIY your own plant pot using recycled plastic cups and take a plant home! No experience required\u2014just bring your imagination.\nHighlights: Free admission and all supplies included.\n\ud83e\udd64 Cup &amp; Bring-Your-Own Policy:\nWe will provide pre-collected, clean plastic cups at the venue. However, we highly encourage you to bring one or two washed, empty plastic cups from your favorite local caf\u00e9 to give them a second life!\n\ud83d\udc4b Meet Your Organizer:\nThis workshop is hosted by Jessy, an illustrator and product designer based in NYC. Instagram \ud83d\udc49 https://www.instagram.com/jessyyy_liu/\nPlant Adoption x Pot DIY is sponsored, in part, by the Greater New York Arts Development Fund of the New York City Department of Cultural Affairs, administered by Brooklyn Arts Council. The workshop is hosted at Brooklyn Creative Reuse 254 36th Street, Space C244, 2nd Floor.",
-      "extraction_method": "api",
-      "vendor": "Plant Adoption X Pot DIY",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-16T20:00:00",
-      "title": "High School Musical Entirely From Memory",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Performers will attempt (and most likely fail) to recreate \"High School Musical\", without the aid of scripts, rehearsals, or sobriety!",
-      "extraction_method": "api",
-      "vendor": "High School Musical Entirely From Memory",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-07-16T20:00:00-04:00",
-      "title": "Brotaku: Tekken 8 Tournament Comedy Show",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Stand-up comedians roast players while they compete live in a chaotic Tekken tournament.<br>16 competitors enter. One leaves with $250. Everyone else gets cooked.<br>Expect:<br>&bull; stand-up to open the show<br>&bull; player intros + live roasting<br>&bull; wildcard players pulled from the audience<br>&bull; unhinged energy the entire time<br>Part tournament, part comedy show, part public execution.<br>Like playing video games on your friend&rsquo;s couch&mdash;if your friends were ruthless comedians.<br><br>Details:<br>&bull; Thursday, July 16 PM<br>&bull; Doors 7:00 PM | Show 8:00 PM<br>&bull; Eastville Comedy Club (Brooklyn)<br>&bull; 2 drink minimum<br><br>Tickets:<br>&bull; Competitor Pass ($27): guaranteed tournament spot<br>&bull; Audience ($19): watch + chance to be pulled as a wildcard<br>Competitor slots fill fast. Last show sold out.<br>All tickets include 2 takoyaki balls + 1 meat skewer from Karl&rsquo;s Balls and Izakaya Juraku.</p><br>",
-      "extraction_method": "json-ld",
-      "vendor": "Brotaku: Tekken 8 Tournament Comedy Show",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-17T12:00:00+00:00",
       "title": "SAD SONG HAPPY HOUR(Music)",
       "venue": "Young Ethel's",
@@ -144,19 +79,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-07-17T19:00:00",
-      "title": "Brooklyn Lives! From the River to NYC: Poetry, Music, Art & Solidarity",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "A community gathering and fundraiser bringing together live music, poetry readings, a panel discussion, and a live auction!",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Lives! From the River to NYC: Poetry, Music, Art & Solidarity",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-17T19:30:00",
       "title": "Plain Slice Comedy Show",
       "venue": "Industry City",
@@ -222,32 +144,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-07-17T23:00:00",
-      "title": "DANCEHALL vs SOCA - SUMMER PARTY IN BROOKLYN",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "THE BIGGEST DANCEHALL PARTY officially lands in BROOKLYN",
-      "extraction_method": "api",
-      "vendor": "DANCEHALL vs SOCA - SUMMER PARTY IN BROOKLYN",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-07-18T11:00:00",
-      "title": "A Taste of Grand Bazaar",
-      "venue": "Industry City",
-      "start_time": "11:00 AM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "11:00 AM",
-      "end_time_raw": "6:00 PM",
-      "description": "Grand Bazaar NYC, a storied Upper West Side institution known for shopping with a charitable mission, is crossing the river for its inaugural Brooklyn event at Industry City. The curated pop-up will transform Courtyard 5/6 into a boutique, curated showcase of exceptional vintage, makers, and one-of-a-kind treasures, making it the tastiest Saturday of the Summer. A Market with a Mission, Grand Bazaar NYC donates its proceeds to four public schools. You won\u2019t want to miss a special opportunity in the borough of love!",
-      "extraction_method": "api",
-      "vendor": "A Taste of Grand Bazaar",
-      "location": "Industry City"
-    },
-    {
       "date": "2026-07-18T11:00:00",
       "title": "Designer Sale",
       "venue": "Industry City",
@@ -311,19 +207,6 @@
       "extraction_method": "html",
       "vendor": "THE TRANSPLENDENT// ZOMBIES OF THE STRATOSPHERE// THE DESMOND WOLVES(Music)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-18T14:00:00",
-      "title": "BEHIND THE VEIL AND OF THE SENSES: WORKS BY CHAYEL MOSES",
-      "venue": "Littlefield",
-      "start_time": "2:00 PM ET",
-      "end_time": "5:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "5:00 PM",
-      "description": "Seven abstract works exploring consciousness, identity, and the expansive beauty and humanity of Blackness.",
-      "extraction_method": "api",
-      "vendor": "BEHIND THE VEIL AND OF THE SENSES: WORKS BY CHAYEL MOSES",
-      "location": "Littlefield"
     },
     {
       "date": "2026-07-18T15:00:00",
@@ -417,19 +300,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-07-18T20:00:00",
-      "title": "Lil S\u00e1bado with Michelladonna",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Lil S\u00e1bado with Michelladonna: a wild Latine variety show with comedy, burlesque, prizes & chaos. Expect the unexpected.",
-      "extraction_method": "api",
-      "vendor": "Lil S\u00e1bado with Michelladonna",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-18T20:00:00-04:00",
       "title": "Kareem Green, Liam Dalton, Tom Zappia, Chris Tos",
       "venue": "Eastville Comedy Club",
@@ -454,19 +324,6 @@
       "extraction_method": "json-ld",
       "vendor": "Chris \"Catman\" Grant Presents: Si, Pero\u2026No Live",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-07-18T23:00:00",
-      "title": "REGGAE REWIND",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "BROOKLYN... WE'RE CALLING ALL REGGAE LOVERS, DANCEHALL HEADS, REWIND SPECIALISTS & FORWARD CREW!",
-      "extraction_method": "api",
-      "vendor": "REGGAE REWIND",
-      "location": "Littlefield"
     },
     {
       "date": "2026-07-19T12:00:00+00:00",
@@ -560,19 +417,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-07-19T19:00:00",
-      "title": "Fourth Annual Queen of Cortelyou Pageant: Trailer Park Royalty",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Come see your favorite Queens, Kings, and Things compete for the crown!",
-      "extraction_method": "api",
-      "vendor": "Fourth Annual Queen of Cortelyou Pageant: Trailer Park Royalty",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-19T19:30:00-04:00",
       "title": "Country Cousins Comedy",
       "venue": "Eastville Comedy Club",
@@ -599,45 +443,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-07-20T20:00:00",
-      "title": "Clowns Anthology Book Party",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "An evening celebrating DOPAMINE Book's newest anthology CLOWNS. Hosted by Michelle Tea.",
-      "extraction_method": "api",
-      "vendor": "Clowns Anthology Book Party",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-07-21T19:00:00",
-      "title": "Slate Presents THE CREATOR REVOLUTION: A live podcast show",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A live show from ICYMI, Slate\u2019s hit internet culture podcast, about the evolution of online influence.",
-      "extraction_method": "api",
-      "vendor": "Slate Presents THE CREATOR REVOLUTION: A live podcast show",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-07-22T19:00:00",
-      "title": "PAGE BREAK Presents: STAGE BREAK",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us for a new edition of STAGE BREAK, the only reading series where EVERYONE reads. Hosted by Mikey Friedman. JULY 22nd @ 7PM",
-      "extraction_method": "api",
-      "vendor": "PAGE BREAK Presents: STAGE BREAK",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-22T20:00:00-04:00",
       "title": "Chris Tos, John Bennett, Mike Recine, Negin Farsad",
       "venue": "Eastville Comedy Club",
@@ -651,19 +456,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-07-23T20:00:00",
-      "title": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Hear Damon and Josh play Paul and Linda McCartney's 1971 album RAM cover to cover, with a rotating cast of singers joining them on stage.",
-      "extraction_method": "api",
-      "vendor": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-23T20:00:00-04:00",
       "title": "The Comedy Studio by Harvard Square",
       "venue": "Eastville Comedy Club",
@@ -675,17 +467,70 @@
       "extraction_method": "json-ld",
       "vendor": "The Comedy Studio by Harvard Square",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-24T18:00:00-04:00",
+      "title": "Doug Smith, Cesh Reyes, Michael Brigante, Mae Planert",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "<p>Eastville Comedy Club is Brooklyn&#39;s oldest comedy club</p><br><br>Featuring<br>Doug Smith<br>Cesh Reyes<br>Michael Brigante<br>Mae Planert<br>DJ Hairston",
+      "extraction_method": "json-ld",
+      "vendor": "Doug Smith, Cesh Reyes, Michael Brigante, Mae Planert",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-24T19:00:00",
+      "title": "Tambour Kings Live Blues &#038; Jazz",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for live Funk/Fusion/R&amp;B/Soul/Blues from the incredible Tambour Kings, craft cocktails, and plenty of whiskey.",
+      "extraction_method": "api",
+      "vendor": "Tambour Kings Live Blues &#038; Jazz",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-24T20:00:00-04:00",
+      "title": "Kareem Green, Doug Smith, Rosey Catherine, Tom Zappia",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><br></p><p dir=\"ltr\"><strong>Prime-Time Comedy in Brooklyn!</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">Lineup Below</p><p dir=\"ltr\"><br></p><p dir=\"ltr\"><br></p><p><br></p><p dir=\"ltr\"><br></p><br><br>Featuring<br>Kareem Green<br>Doug Smith<br>Rosey Catherine<br>Tom Zappia<br>Jonathan Randall",
+      "extraction_method": "json-ld",
+      "vendor": "Kareem Green, Doug Smith, Rosey Catherine, Tom Zappia",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-24T22:00:00-04:00",
+      "title": "Vishnu Vaka, Levi White, Tom Zappia, Tina Zhu",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p><br><br>Featuring<br>Vishnu Vaka<br>Levi White<br>Tom Zappia<br>Tina Zhu<br>John Bennett",
+      "extraction_method": "json-ld",
+      "vendor": "Vishnu Vaka, Levi White, Tom Zappia, Tina Zhu",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-16T10:17:18.592639+00:00",
-  "total_events": 52,
+  "updated": "2026-07-17T10:17:07.822107+00:00",
+  "total_events": 40,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
