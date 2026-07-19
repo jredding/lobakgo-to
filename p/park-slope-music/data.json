@@ -92,6 +92,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-19T19:00:00",
+      "title": "Fourth Annual Queen of Cortelyou Pageant: Trailer Park Royalty",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Come see your favorite Queens, Kings, and Things compete for the crown!",
+      "extraction_method": "api",
+      "vendor": "Fourth Annual Queen of Cortelyou Pageant: Trailer Park Royalty",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-19T19:30:00-04:00",
       "title": "Country Cousins Comedy",
       "venue": "Eastville Comedy Club",
@@ -157,6 +170,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-07-20T20:00:00",
+      "title": "Clowns Anthology Book Party",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "An evening celebrating DOPAMINE Book's newest anthology CLOWNS. Hosted by Michelle Tea.",
+      "extraction_method": "api",
+      "vendor": "Clowns Anthology Book Party",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-21T12:00:00+00:00",
       "title": "BROAD SQUAD COMEDY PRESENTS: MEL\u2019S SUMMER MELTDOWN(Comedy)",
       "venue": "Young Ethel's",
@@ -183,6 +209,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-07-21T19:00:00",
+      "title": "Slate Presents THE CREATOR REVOLUTION: A live podcast show",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "A live show from ICYMI, Slate\u2019s hit internet culture podcast, about the evolution of online influence.",
+      "extraction_method": "api",
+      "vendor": "Slate Presents THE CREATOR REVOLUTION: A live podcast show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-22T12:00:00+00:00",
       "title": "A BUCK AND A QUARTER QUARTET(Music)",
       "venue": "Young Ethel's",
@@ -194,6 +233,19 @@
       "extraction_method": "html",
       "vendor": "A BUCK AND A QUARTER QUARTET(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-22T19:00:00",
+      "title": "PAGE BREAK Presents: STAGE BREAK",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for a new edition of STAGE BREAK, the only reading series where EVERYONE reads. Hosted by Mikey Friedman. JULY 22nd @ 7PM",
+      "extraction_method": "api",
+      "vendor": "PAGE BREAK Presents: STAGE BREAK",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-22T19:30:00",
@@ -261,6 +313,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-07-23T20:00:00",
+      "title": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Hear Damon and Josh play Paul and Linda McCartney's 1971 album RAM cover to cover, with a rotating cast of singers joining them on stage.",
+      "extraction_method": "api",
+      "vendor": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-23T20:00:00-04:00",
       "title": "The Comedy Studio by Harvard Square",
       "venue": "Eastville Comedy Club",
@@ -324,6 +389,19 @@
       "extraction_method": "json-ld",
       "vendor": "Doug Smith, Cesh Reyes, Michael Brigante, Mae Planert",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-24T19:00:00",
+      "title": "Bug Hunter / The Narcissist Cookbook + Jam Mechanics",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:45 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:45 PM",
+      "description": "Bug Hunter and The Narcissist Cookbook are bringing their show back on the road to littlefield!",
+      "extraction_method": "api",
+      "vendor": "Bug Hunter / The Narcissist Cookbook + Jam Mechanics",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-24T19:00:00",
@@ -560,6 +638,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-07-26T19:00:00",
+      "title": "The Camille Harris Show: 40th Birthday Edition \"I'm a Woman Now!\"",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Camille Harris, charming local comedian, hosts her 40th birthday variety show at littlefield: standup, music, storytelling, videos, & more!",
+      "extraction_method": "api",
+      "vendor": "The Camille Harris Show: 40th Birthday Edition \"I'm a Woman Now!\"",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-26T19:30:00-04:00",
       "title": "Old Man Gang Presents - Comedy Competition",
       "venue": "Eastville Comedy Club",
@@ -573,16 +664,15 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-19T10:16:02.719334+00:00",
-  "total_events": 44,
+  "updated": "2026-07-19T10:17:10.865212+00:00",
+  "total_events": 51,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
