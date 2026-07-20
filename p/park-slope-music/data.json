@@ -1,123 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-19T12:00:00+00:00",
-      "title": "YOUR FRIEND RACHEL\u2019S SOFT LAUNCH MATINEE(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "1:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "1:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "YOUR FRIEND RACHEL\u2019S SOFT LAUNCH MATINEE(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-19T12:00:00+00:00",
-      "title": "KOHA BAND & MIRIAM CLANCY LIVE(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "3:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "KOHA BAND & MIRIAM CLANCY LIVE(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-19T12:00:00+00:00",
-      "title": "FEUD(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "FEUD(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-19T12:00:00+00:00",
-      "title": "BEANIE BABE COMEDY(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "BEANIE BABE COMEDY(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-19T12:30:00",
-      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "venue": "Industry City",
-      "start_time": "12:30 PM ET",
-      "end_time": "1:30 PM ET",
-      "start_time_raw": "12:30 PM",
-      "end_time_raw": "1:30 PM",
-      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers!\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come!).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
-      "extraction_method": "api",
-      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-19T15:00:00",
-      "title": "House of Goal: FREE World Cup Finals Watch Party",
-      "venue": "Industry City",
-      "start_time": "3:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "House of GOAL is taking over Brooklyn\u2019s Industry City as the center of global football culture. Daytime access is free and open to the public.\nRegister for Tickets to Experience:\n\nLive shows and podcasts with soccer legends, including The Rondo, DRAFTED, Soccer Girl Pod, Foz Cast, Front Three and more.\nJoin or watch street soccer and skill battles with local &amp; global players\nWatch live matches on the big screen\nExplore global food &amp; flavors, exclusive fashion drops, gaming and art\n\nHouse of GOAL is family-friendly. Come early, stay late, experience it your way.\nDon\u2019t just watch the game, stand at the center of global football culture.",
-      "extraction_method": "api",
-      "vendor": "House of Goal: FREE World Cup Finals Watch Party",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-19T17:30:00",
-      "title": "Sunday Sessions At Fort Hamilton 7/19",
-      "venue": "Industry City",
-      "start_time": "5:30 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "5:30 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "\ud83c\udfb7 Live Jazz &amp; Blues at Fort Hamilton \ud83e\udd43\nJoin us for an evening of live music featuring Will Peters-Seymour and his trio. The night begins with a featured set from 5:30\u20136:30 PM, followed by an open jam session.",
-      "extraction_method": "api",
-      "vendor": "Sunday Sessions At Fort Hamilton 7/19",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-19T19:00:00",
-      "title": "Fourth Annual Queen of Cortelyou Pageant: Trailer Park Royalty",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Come see your favorite Queens, Kings, and Things compete for the crown!",
-      "extraction_method": "api",
-      "vendor": "Fourth Annual Queen of Cortelyou Pageant: Trailer Park Royalty",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-07-19T19:30:00-04:00",
-      "title": "Country Cousins Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": "Featuring<br>Simon U<br>Jenae Boston<br>Trayvon Fulton<br>Vanetta Schoefield<br>Derrell Meyers",
-      "extraction_method": "json-ld",
-      "vendor": "Country Cousins Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-20T09:00:00",
       "title": "Brooklyn Robot Foundry Summer Circuits! Every Day",
       "venue": "Industry City",
@@ -170,19 +53,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-07-20T20:00:00",
-      "title": "Clowns Anthology Book Party",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "An evening celebrating DOPAMINE Book's newest anthology CLOWNS. Hosted by Michelle Tea.",
-      "extraction_method": "api",
-      "vendor": "Clowns Anthology Book Party",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-21T12:00:00+00:00",
       "title": "BROAD SQUAD COMEDY PRESENTS: MEL\u2019S SUMMER MELTDOWN(Comedy)",
       "venue": "Young Ethel's",
@@ -209,19 +79,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-07-21T19:00:00",
-      "title": "Slate Presents THE CREATOR REVOLUTION: A live podcast show",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A live show from ICYMI, Slate\u2019s hit internet culture podcast, about the evolution of online influence.",
-      "extraction_method": "api",
-      "vendor": "Slate Presents THE CREATOR REVOLUTION: A live podcast show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-22T12:00:00+00:00",
       "title": "A BUCK AND A QUARTER QUARTET(Music)",
       "venue": "Young Ethel's",
@@ -233,19 +90,6 @@
       "extraction_method": "html",
       "vendor": "A BUCK AND A QUARTER QUARTET(Music)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-22T19:00:00",
-      "title": "PAGE BREAK Presents: STAGE BREAK",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us for a new edition of STAGE BREAK, the only reading series where EVERYONE reads. Hosted by Mikey Friedman. JULY 22nd @ 7PM",
-      "extraction_method": "api",
-      "vendor": "PAGE BREAK Presents: STAGE BREAK",
-      "location": "Littlefield"
     },
     {
       "date": "2026-07-22T19:30:00",
@@ -313,19 +157,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-07-23T20:00:00",
-      "title": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Hear Damon and Josh play Paul and Linda McCartney's 1971 album RAM cover to cover, with a rotating cast of singers joining them on stage.",
-      "extraction_method": "api",
-      "vendor": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-23T20:00:00-04:00",
       "title": "The Comedy Studio by Harvard Square",
       "venue": "Eastville Comedy Club",
@@ -389,19 +220,6 @@
       "extraction_method": "json-ld",
       "vendor": "Doug Smith, Cesh Reyes, Michael Brigante, Mae Planert",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-07-24T19:00:00",
-      "title": "Bug Hunter / The Narcissist Cookbook + Jam Mechanics",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:45 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:45 PM",
-      "description": "Bug Hunter and The Narcissist Cookbook are bringing their show back on the road to littlefield!",
-      "extraction_method": "api",
-      "vendor": "Bug Hunter / The Narcissist Cookbook + Jam Mechanics",
-      "location": "Littlefield"
     },
     {
       "date": "2026-07-24T19:00:00",
@@ -638,19 +456,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-07-26T19:00:00",
-      "title": "The Camille Harris Show: 40th Birthday Edition \"I'm a Woman Now!\"",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Camille Harris, charming local comedian, hosts her 40th birthday variety show at littlefield: standup, music, storytelling, videos, & more!",
-      "extraction_method": "api",
-      "vendor": "The Camille Harris Show: 40th Birthday Edition \"I'm a Woman Now!\"",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-26T19:30:00-04:00",
       "title": "Old Man Gang Presents - Comedy Competition",
       "venue": "Eastville Comedy Club",
@@ -662,17 +467,44 @@
       "extraction_method": "json-ld",
       "vendor": "Old Man Gang Presents - Comedy Competition",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-27T09:00:00",
+      "title": "Brooklyn Robot Foundry Summer Circuits! Every Day",
+      "venue": "Industry City",
+      "start_time": "9:00 AM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "9:00 AM",
+      "end_time_raw": "4:00 PM",
+      "description": "Join us for Summer Circuits at Industry City!\n254 36th Street, Building 2- Suite C249 ( Second Floor)\nWe\u2019ll be building a different robot every day, all summer! The highlight of our summer programs is the daily robot-building, of course! And we\u2019ll also be playing games, making crafts, enjoying free play, going outside, and more. Our experienced instructors are passionate about inspiring young minds, fostering creativity, championing kindness, and celebrating some goofiness throughout it all.",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Robot Foundry Summer Circuits! Every Day",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-27T20:00:00-04:00",
+      "title": "Diverse City Comedy Tour",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<div dir=\"auto\">Detroit Reid is a rising comedian based out of Bessemer Alabama known for his raw storytelling, quick crowd work, and unfiltered takes on everyday life, relationships, work, and culture. Originally influenced by the humor and energy of Detroit, Reid brings a high-energy style to the stage that blends real-life experiences with sharp punchlines and relatable comedy. Follow @DetroitReidComedy<br><br>&quot;SOUL&quot; is an Actor/Comic and Military Retiree.</div><div dir=\"auto\"><div dir=\"auto\">A veteran of Stage and Screen, he has over 20 background Acting Credits most notably on &ldquo;The Ms. Pat&rdquo; Show and Season 3 of &quot;TIRES&quot; on Netflix.<br>Follow him on-line @TheregoSOUL</div><div dir=\"auto\"><br></div><div dir=\"auto\">Life Of Pablo is a Latino comedian, content creator, and actor known for turning everyday family life, marriage, fatherhood, and cultural experiences into relatable comedy that connects with audiences of all backgrounds.<br>With over 2.1 million followers on Facebook, generating 60+ million monthly views, and a combined audience of 3.1 million followers across Facebook, Instagram, and TikTok, Life Of Pablo continues to entertain millions through viral content, authentic storytelling, and stand-up comedy.<br>Whether on stage or online, Life Of Pablo delivers humor that is personal, relatable, and unforgettable.<br>Follow Life Of Pablo on Facebook, Instagram, TikTok, and YouTube.</div></div>",
+      "extraction_method": "json-ld",
+      "vendor": "Diverse City Comedy Tour",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-19T10:17:10.865212+00:00",
-  "total_events": 51,
+  "updated": "2026-07-20T10:17:21.991334+00:00",
+  "total_events": 38,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
