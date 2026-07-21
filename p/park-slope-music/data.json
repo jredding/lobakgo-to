@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-20T09:00:00",
-      "title": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "venue": "Industry City",
-      "start_time": "9:00 AM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "9:00 AM",
-      "end_time_raw": "4:00 PM",
-      "description": "Join us for Summer Circuits at Industry City!\n254 36th Street, Building 2- Suite C249 ( Second Floor)\nWe\u2019ll be building a different robot every day, all summer! The highlight of our summer programs is the daily robot-building, of course! And we\u2019ll also be playing games, making crafts, enjoying free play, going outside, and more. Our experienced instructors are passionate about inspiring young minds, fostering creativity, championing kindness, and celebrating some goofiness throughout it all.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-20T12:00:00+00:00",
-      "title": "OCCUPIED: FRIENDS AND FAMILY SCREENING(Screening)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "OCCUPIED: FRIENDS AND FAMILY SCREENING(Screening)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-20T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-20T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-20T20:00:00",
-      "title": "Clowns Anthology Book Party",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "An evening celebrating DOPAMINE Book's newest anthology CLOWNS. Hosted by Michelle Tea.",
-      "extraction_method": "api",
-      "vendor": "Clowns Anthology Book Party",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-07-21T12:00:00+00:00",
       "title": "BROAD SQUAD COMEDY PRESENTS: MEL\u2019S SUMMER MELTDOWN(Comedy)",
       "venue": "Young Ethel's",
@@ -314,16 +249,29 @@
     },
     {
       "date": "2026-07-24T22:00:00-04:00",
-      "title": "Vishnu Vaka, Levi White, Tom Zappia, Tina Zhu",
+      "title": "Vishnu Vaka, Levi White, Peter Stewart, Tina Zhu",
       "venue": "Eastville Comedy Club",
       "start_time": "10:00 PM ET",
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\"><strong>TGIF Comedy in Brooklyn!&nbsp;</strong></p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">(Lineup coming soon)</p><br><br>Featuring<br>Vishnu Vaka<br>Levi White<br>Tom Zappia<br>Tina Zhu<br>John Bennett",
+      "description": "<p dir=\"ltr\"><span style=\"background-color: transparent;\">Featuring</span></p>Vishnu Vaka<br>Levi White<br>Peter Stewart<br>Tina Zhu<br>John Bennett",
       "extraction_method": "json-ld",
-      "vendor": "Vishnu Vaka, Levi White, Tom Zappia, Tina Zhu",
+      "vendor": "Vishnu Vaka, Levi White, Peter Stewart, Tina Zhu",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-24T23:00:00",
+      "title": "WHINE SLOW - NYC's Sexiest Dancehall Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
+      "extraction_method": "api",
+      "vendor": "WHINE SLOW - NYC's Sexiest Dancehall Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-25T11:00:00",
@@ -586,8 +534,8 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-20T10:18:46.898399+00:00",
-  "total_events": 45,
+  "updated": "2026-07-21T10:16:16.750189+00:00",
+  "total_events": 41,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
