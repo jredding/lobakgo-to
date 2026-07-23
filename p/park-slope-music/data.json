@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-22T12:00:00+00:00",
-      "title": "A BUCK AND A QUARTER QUARTET(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "A BUCK AND A QUARTER QUARTET(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-22T19:30:00",
-      "title": "WE HAVE FUN STAND-UP(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STAND-UP(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-22T20:00:00-04:00",
-      "title": "Chris Tos, John Bennett, Mike Recine, Negin Farsad",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn</p><br><br>Featuring<br>Chris Tos<br>John Bennett<br>Mike Recine<br>Negin Farsad<br>Luis Lopez",
-      "extraction_method": "json-ld",
-      "vendor": "Chris Tos, John Bennett, Mike Recine, Negin Farsad",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-23T12:00:00+00:00",
       "title": "K XIE DUO(Music)",
       "venue": "Young Ethel's",
@@ -77,6 +38,19 @@
       "extraction_method": "html",
       "vendor": "ALEXA RUSSO, TRAVESS(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-07-23T20:00:00",
+      "title": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Hear Damon and Josh play Paul and Linda McCartney's 1971 album RAM cover to cover, with a rotating cast of singers joining them on stage.",
+      "extraction_method": "api",
+      "vendor": "Damon Smith, Josh Turner and Friends Play Paul McCartney\u2019s RAM",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-23T20:00:00-04:00",
@@ -145,6 +119,19 @@
     },
     {
       "date": "2026-07-24T19:00:00",
+      "title": "Bug Hunter / The Narcissist Cookbook + Jam Mechanics",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:45 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:45 PM",
+      "description": "Bug Hunter and The Narcissist Cookbook are bringing their show back on the road to littlefield!",
+      "extraction_method": "api",
+      "vendor": "Bug Hunter / The Narcissist Cookbook + Jam Mechanics",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-07-24T19:00:00",
       "title": "Tambour Kings Live Blues &#038; Jazz",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -154,6 +141,19 @@
       "description": "Join us for live Funk/Fusion/R&amp;B/Soul/Blues from the incredible Tambour Kings, craft cocktails, and plenty of whiskey.",
       "extraction_method": "api",
       "vendor": "Tambour Kings Live Blues &#038; Jazz",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-24T19:00:00",
+      "title": "Summer Comedy Series at Gun Hill",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Join us for the Summer Comedy Series this July and August at Gun Hill &#8211; FREE comedy show every week hosted by But What&#8217;d You Say and The Stash. Bring your friends, have a beer, and enjoy the laughs!\n7PM on 7/9, 7/16, 7/24, 7/30, 8/6, 8/13, 8/20, 8/28",
+      "extraction_method": "api",
+      "vendor": "Summer Comedy Series at Gun Hill",
       "location": "Industry City"
     },
     {
@@ -181,6 +181,19 @@
       "extraction_method": "json-ld",
       "vendor": "Vishnu Vaka, Levi White, Peter Stewart, Tina Zhu",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-24T23:00:00",
+      "title": "WHINE SLOW - NYC's Sexiest Dancehall Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
+      "extraction_method": "api",
+      "vendor": "WHINE SLOW - NYC's Sexiest Dancehall Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-25T11:00:00",
@@ -378,6 +391,58 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-07-26T12:30:00",
+      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "1:30 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "1:30 PM",
+      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers!\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come!).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-26T15:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Welcome to Brooklyn Kura! Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery.",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-26T17:30:00",
+      "title": "Sunday Sessions At Fort Hamilton 7/26",
+      "venue": "Industry City",
+      "start_time": "5:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "\ud83e\udd43\ud83c\udfb7 Sunday Sessions at Fort Hamilton\nRevolutionize your Sunday at Fort Hamilton Distillery. \ud83d\uddfd\nDistillery tours, craft cocktails, and live jazz &amp; blues.\n\ud83c\udfb7 This week: Andrew Golub brings his quartet to Fort Hamilton for an evening of jazz fusion favorites.\n\ud83e\udd43 Distillery Tours: 2PM &amp; 4PM\n\ud83c\udfb7 Live Music: 5:30PM\u20137:30PM\n\ud83c\udf78 Craft cocktails all evening\nThe perfect Sunday!",
+      "extraction_method": "api",
+      "vendor": "Sunday Sessions At Fort Hamilton 7/26",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-26T19:00:00",
+      "title": "The Camille Harris Show: 40th Birthday Edition \"I'm a Woman Now!\"",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Camille Harris, charming local comedian, hosts her 40th birthday variety show at littlefield: standup, music, storytelling, videos, & more!",
+      "extraction_method": "api",
+      "vendor": "The Camille Harris Show: 40th Birthday Edition \"I'm a Woman Now!\"",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-26T19:30:00-04:00",
       "title": "Old Man Gang Presents - Comedy Competition",
       "venue": "Eastville Comedy Club",
@@ -417,6 +482,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-07-27T20:00:00",
+      "title": "Johnny Ro Forever",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Celebrating the Prince of New York",
+      "extraction_method": "api",
+      "vendor": "Johnny Ro Forever",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-27T20:00:00-04:00",
       "title": "Diverse City Comedy Tour",
       "venue": "Eastville Comedy Club",
@@ -443,6 +521,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-29T20:00:00",
+      "title": "Bushwick News Network Pilot Screening",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Come see the premiere of the cult webseries Bushwick News Network full length pilot! With special guests and a live news report!",
+      "extraction_method": "api",
+      "vendor": "Bushwick News Network Pilot Screening",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-29T20:00:00-04:00",
       "title": "Grassroots Comedy",
       "venue": "Eastville Comedy Club",
@@ -454,18 +545,82 @@
       "extraction_method": "json-ld",
       "vendor": "Grassroots Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-30T18:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Welcome to Brooklyn Kura! Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery.",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-30T18:30:00",
+      "title": "I Love Funny People: Stand Up Comedy Show",
+      "venue": "Industry City",
+      "start_time": "6:30 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "A Stand Up Comedy Show. Diego brings together some of his funniest friends for a night of laughter and booze!",
+      "extraction_method": "api",
+      "vendor": "I Love Funny People: Stand Up Comedy Show",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-30T19:00:00",
+      "title": "Summer Comedy Series at Gun Hill",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Join us for the Summer Comedy Series this July and August at Gun Hill &#8211; FREE comedy show every week hosted by But What&#8217;d You Say and The Stash. Bring your friends, have a beer, and enjoy the laughs!\n7PM on 7/9, 7/16, 7/24, 7/30, 8/6, 8/13, 8/20, 8/28",
+      "extraction_method": "api",
+      "vendor": "Summer Comedy Series at Gun Hill",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-30T20:00:00",
+      "title": "About Last Night: Dating Disaster Stories NYC!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A handful of NYC locals get on stage to share their worst dating and hookup stories.",
+      "extraction_method": "api",
+      "vendor": "About Last Night: Dating Disaster Stories NYC!",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-07-30T20:00:00-04:00",
+      "title": "Farooq Hussain presents Lasergooch!",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "<p dir=\"ltr\">Farooq Hussain presents Lasergooch!</p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">Line up Below</p>",
+      "extraction_method": "json-ld",
+      "vendor": "Farooq Hussain presents Lasergooch!",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-22T10:17:19.521747+00:00",
-  "total_events": 35,
+  "updated": "2026-07-23T10:16:35.819532+00:00",
+  "total_events": 47,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
