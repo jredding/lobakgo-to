@@ -1,58 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-23T12:00:00+00:00",
-      "title": "K XIE DUO(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "K XIE DUO(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-23T12:00:00+00:00",
-      "title": "THE ADVENTURES OF SIR NED THE BRAVE. AN IMPROVISED GAIE MEDIEVAL ROMP(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THE ADVENTURES OF SIR NED THE BRAVE. AN IMPROVISED GAIE MEDIEVAL ROMP(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-23T12:00:00+00:00",
-      "title": "ALEXA RUSSO, TRAVESS(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "ALEXA RUSSO, TRAVESS(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-23T20:00:00-04:00",
-      "title": "The Comedy Studio by Harvard Square",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Harvard Square&#39;s Comedy Studio takes over Brooklyn, featuring killer comics from both Boston and New York City!",
-      "extraction_method": "json-ld",
-      "vendor": "The Comedy Studio by Harvard Square",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-24T12:00:00+00:00",
       "title": "HAPPY HOUR COMEDY(Comedy)",
       "venue": "Young Ethel's",
@@ -519,10 +467,36 @@
       "extraction_method": "json-ld",
       "vendor": "Farooq Hussain presents Lasergooch!",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-07-31T18:00:00",
+      "title": "Introduction to Sake and Brewery Tour",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "If you\u2019ve wanted to learn the basics of sake in a fun and approachable way, this Introduction to Sake tasting class is for you! Join us in person at the Sake Studies Center at Brooklyn Kura in NYC to learn the basics of sake and enjoy a guided tasting of the most delicious sakes. We invite you to taste and learn about sake where sake is made! Get a guided brewery tour, taste and explore a set of 5 premium sakes including some fresh from the press! Let\u2019s level up your sake knowledge and have fun doing it!\nWhat\u2019s included:\nA welcome sake to get you started!\nSake 101 presentation to cover all the basics\nGuided Tasting of 4 Brooklyn Kura craft sakes as well as a premium sake from Japan.\nHandouts so you can bring your sake knowledge home\nTasting some sake fresh from the press!\nGuided tour through our new Sake Brewery\nSome nibbles to pair with your sakes\nGIVING THIS CLASS AS A GIFT??\nYou can send an e-gift card for our &#8220;Introduction to Sake&#8221; class.\nTo purchase an electronic gift card, Please visit:\nhttps://www.sakestudiescenter.com/giftcard",
+      "extraction_method": "api",
+      "vendor": "Introduction to Sake and Brewery Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-07-31T20:00:00",
+      "title": "Salsa &#038; Cocktails @ Standard Wormwood",
+      "venue": "Industry City",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Latin vibes and cocktails at Standard Wormwood \u2013 Salsa, Merengue, Bachata, Cumbia and more with DJ Torres @dj_torres_bk",
+      "extraction_method": "api",
+      "vendor": "Salsa &#038; Cocktails @ Standard Wormwood",
+      "location": "Industry City"
     }
   ],
-  "updated": "2026-07-23T10:18:31.869327+00:00",
-  "total_events": 40,
+  "updated": "2026-07-24T10:16:58.423865+00:00",
+  "total_events": 38,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
