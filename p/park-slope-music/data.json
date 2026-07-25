@@ -235,6 +235,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-26T19:00:00",
+      "title": "The Camille Harris Show: 40th Birthday Edition \"I'm a Woman Now!\"",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Camille Harris, charming local comedian, hosts her 40th birthday variety show at littlefield: standup, music, storytelling, videos, & more!",
+      "extraction_method": "api",
+      "vendor": "The Camille Harris Show: 40th Birthday Edition \"I'm a Woman Now!\"",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-26T19:30:00-04:00",
       "title": "Old Man Gang Presents - Comedy Competition",
       "venue": "Eastville Comedy Club",
@@ -274,6 +287,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-07-27T20:00:00",
+      "title": "Johnny Ro Forever",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Celebrating the Prince of New York",
+      "extraction_method": "api",
+      "vendor": "Johnny Ro Forever",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-27T20:00:00-04:00",
       "title": "Diverse City Comedy Tour",
       "venue": "Eastville Comedy Club",
@@ -298,6 +324,19 @@
       "extraction_method": "api",
       "vendor": "Zine Club",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-07-29T20:00:00",
+      "title": "Bushwick News Network Pilot Screening",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Come see the premiere of the cult webseries Bushwick News Network full length pilot! With special guests and a live news report!",
+      "extraction_method": "api",
+      "vendor": "Bushwick News Network Pilot Screening",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-29T20:00:00-04:00",
@@ -352,6 +391,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-07-30T20:00:00",
+      "title": "About Last Night: Dating Disaster Stories NYC!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A handful of NYC locals get on stage to share their worst dating and hookup stories.",
+      "extraction_method": "api",
+      "vendor": "About Last Night: Dating Disaster Stories NYC!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-07-30T20:00:00-04:00",
       "title": "Farooq Hussain presents Lasergooch!",
       "venue": "Eastville Comedy Club",
@@ -376,6 +428,19 @@
       "extraction_method": "api",
       "vendor": "Introduction to Sake and Brewery Tour",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-07-31T20:00:00",
+      "title": "Love Isn't Blind | A Comedy/Dating Show Where the Men Can't Speak",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Let's judge a book by its cover.",
+      "extraction_method": "api",
+      "vendor": "Love Isn't Blind | A Comedy/Dating Show Where the Men Can't Speak",
+      "location": "Littlefield"
     },
     {
       "date": "2026-07-31T20:00:00",
@@ -443,6 +508,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-01T19:30:00",
+      "title": "Alphabet Mafia Fundraiser Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Comedians! Music! Raffle prizes! And more! Please join us for a night of fundraising and celebration for Alphabet Mafia: A Lesbian Mobster",
+      "extraction_method": "api",
+      "vendor": "Alphabet Mafia Fundraiser Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-01T20:00:00",
       "title": "BLACKLIGHT 3: an art gallery experience",
       "venue": "Industry City",
@@ -456,16 +534,15 @@
       "location": "Industry City"
     }
   ],
-  "updated": "2026-07-25T10:16:08.398088+00:00",
-  "total_events": 35,
+  "updated": "2026-07-25T10:17:09.108175+00:00",
+  "total_events": 41,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
