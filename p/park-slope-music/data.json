@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-27T09:00:00",
-      "title": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "venue": "Industry City",
-      "start_time": "9:00 AM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "9:00 AM",
-      "end_time_raw": "4:00 PM",
-      "description": "Join us for Summer Circuits at Industry City!\n254 36th Street, Building 2- Suite C249 ( Second Floor)\nWe\u2019ll be building a different robot every day, all summer! The highlight of our summer programs is the daily robot-building, of course! And we\u2019ll also be playing games, making crafts, enjoying free play, going outside, and more. Our experienced instructors are passionate about inspiring young minds, fostering creativity, championing kindness, and celebrating some goofiness throughout it all.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-27T12:00:00+00:00",
-      "title": "END OF DAY, EP1(Reading)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "END OF DAY, EP1(Reading)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-27T12:00:00+00:00",
-      "title": "CHECK ON YOUR IMPROV FRIENDS(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "CHECK ON YOUR IMPROV FRIENDS(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-27T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-27T16:30:00",
-      "title": "ROCK FOR TOTS FEATURING MR. RICHARD FROM ROCKNESS MUSIC SOUTH BROOKLYN(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "ROCK FOR TOTS FEATURING MR. RICHARD FROM ROCKNESS MUSIC SOUTH BROOKLYN(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-27T19:30:00-04:00",
-      "title": "Trivia!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": "Every Monday, free to play!<br>Winning team gets a prize!",
-      "extraction_method": "json-ld",
-      "vendor": "Trivia!",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-07-28T19:30:00",
       "title": "F-WORD TRIVIA(Trivia)",
       "venue": "Young Ethel's",
@@ -151,7 +73,7 @@
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Wednesday Night in Brooklyn -&nbsp;</p><h2 data-legacy-thread-id=\"19e4b6a069d44977\" data-thread-perm-id=\"thread-a:r4035571076787073911\" tabindex=\"-1\">Grassroots Comedy</h2>",
+      "description": "Wednesday Night in Brooklyn -&nbsp;Grassroots Comedy",
       "extraction_method": "json-ld",
       "vendor": "Grassroots Comedy",
       "location": "Eastville Comedy Club"
@@ -236,15 +158,15 @@
     },
     {
       "date": "2026-07-30T20:00:00-04:00",
-      "title": "Farooq Hussain presents Lasergooch!",
+      "title": "Farooq Hussain presents Lasergooch! - Usama Siddique",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "<p dir=\"ltr\">Farooq Hussain presents Lasergooch!</p><p dir=\"ltr\">FEATURING SPECIAL GUEST COMEDIANS...</p><p dir=\"ltr\">Usama Siddique from Funny AF on Netflix!</p>",
+      "description": "Farooq Hussain presents Lasergooch!FEATURING SPECIAL GUEST COMEDIANS...Usama Siddique from Funny AF on Netflix!",
       "extraction_method": "json-ld",
-      "vendor": "Farooq Hussain presents Lasergooch!",
+      "vendor": "Farooq Hussain presents Lasergooch! - Usama Siddique",
       "location": "Eastville Comedy Club"
     },
     {
@@ -417,6 +339,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-02T11:00:00",
+      "title": "Cut &#038; Compose with Min",
+      "venue": "Industry City",
+      "start_time": "11:00 AM ET",
+      "end_time": "2:00 PM ET",
+      "start_time_raw": "11:00 AM",
+      "end_time_raw": "2:00 PM",
+      "description": "Cut &amp; Compose: Make patterns, cut shapes, build collage\nYou know that feeling when a cereal box or a piece of wrapping paper is just too pretty to throw away? Same. I have a whole bin for those.\nIn this class we&#8217;re turning that instinct into art \u2014 using recycled food packaging, wrapping paper, toilet paper rolls, and any interesting paper from around your house. As a member of Urban Sketchers New York, I&#8217;ve been experimenting with landscape collage and I love how this process forces you to simplify and see your own work differently.\nYou will learn:\nFun mark-making techniques with acrylic paint\nHow to build your own patterns and textures on recycled paper\nColor and object hierarchy\nHow to simplify your drawing into shapes and composition\nHow to cut, layer, and compose a complete collage piece\nYou&#8217;ll go home with a complete collage made entirely from your own drawing and your own hands.\nWhat to bring:\nYour own drawing, sketchbook page, or a photo you love\nJust bring yourself \u2014 everything else is provided!\nBonus: if you&#8217;ve been saving any fun packaging, wrapping paper, or printed paper \u2014 bring it! The more the merrier.\nAll materials are provided. I&#8217;m also bringing my own collection of interesting packaging and patterns for everyone to dig into.\nAll levels welcome.",
+      "extraction_method": "api",
+      "vendor": "Cut &#038; Compose with Min",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-08-02T12:00:00+00:00",
       "title": "HAPPY SUMMER NIGHT SHOW(Comedy)",
       "venue": "Young Ethel's",
@@ -441,6 +376,32 @@
       "extraction_method": "html",
       "vendor": "LA BOIX(Draglesque)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-02T12:30:00",
+      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "1:30 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "1:30 PM",
+      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-02T17:30:00",
+      "title": "Sunday Sessions At Fort Hamilton 8/2",
+      "venue": "Industry City",
+      "start_time": "5:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Join us for an evening of live music featuring Will Peters-Seymour and his trio. The night begins with a featured set from 5:30\u20136:30 PM, followed by an open jam session.",
+      "extraction_method": "api",
+      "vendor": "Sunday Sessions At Fort Hamilton 8/2",
+      "location": "Industry City"
     },
     {
       "date": "2026-08-03T07:00:00",
@@ -469,8 +430,8 @@
       "location": "Industry City"
     }
   ],
-  "updated": "2026-07-27T10:16:57.434420+00:00",
-  "total_events": 36,
+  "updated": "2026-07-28T10:16:49.207545+00:00",
+  "total_events": 33,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
