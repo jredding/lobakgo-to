@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-07-31T12:00:00+00:00",
-      "title": "SUPER 8 & FRIENDS(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SUPER 8 & FRIENDS(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-31T12:00:00+00:00",
-      "title": "THE ODD ODD BROADS: A NIGHT OF MUSICAL THEATER IN DRAG(Draglesque)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THE ODD ODD BROADS: A NIGHT OF MUSICAL THEATER IN DRAG(Draglesque)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-31T12:00:00+00:00",
-      "title": "GOJUMO// TAHITI SYNDROME// CLONE(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "GOJUMO// TAHITI SYNDROME// CLONE(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-07-31T18:00:00",
-      "title": "Introduction to Sake and Brewery Tour",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "If you\u2019ve wanted to learn the basics of sake in a fun and approachable way, this Introduction to Sake tasting class is for you! Join us in person at the Sake Studies Center at Brooklyn Kura in NYC to learn the basics of sake and enjoy a guided tasting of the most delicious sakes. We invite you to taste and learn about sake where sake is made! Get a guided brewery tour, taste and explore a set of 5 premium sakes including some fresh from the press! Let\u2019s level up your sake knowledge and have fun doing it!\nWhat\u2019s included:\nA welcome sake to get you started!\nSake 101 presentation to cover all the basics\nGuided Tasting of 4 Brooklyn Kura craft sakes as well as a premium sake from Japan.\nHandouts so you can bring your sake knowledge home\nTasting some sake fresh from the press!\nGuided tour through our new Sake Brewery\nSome nibbles to pair with your sakes\nGIVING THIS CLASS AS A GIFT??\nYou can send an e-gift card for our &#8220;Introduction to Sake&#8221; class.\nTo purchase an electronic gift card, Please visit:\nhttps://www.sakestudiescenter.com/giftcard",
-      "extraction_method": "api",
-      "vendor": "Introduction to Sake and Brewery Tour",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-07-31T20:00:00",
-      "title": "Salsa &#038; Cocktails @ Standard Wormwood",
-      "venue": "Industry City",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Latin vibes and cocktails at Standard Wormwood \u2013 Salsa, Merengue, Bachata, Cumbia and more with DJ Torres @dj_torres_bk",
-      "extraction_method": "api",
-      "vendor": "Salsa &#038; Cocktails @ Standard Wormwood",
-      "location": "Industry City"
-    },
-    {
       "date": "2026-08-01T12:00:00+00:00",
       "title": "PIBBY// MIA KAI// FIRST FLIGHT// TREVOR GILL-SNOW(Music)",
       "venue": "Young Ethel's",
@@ -144,6 +79,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-01T18:00:00-04:00",
+      "title": "Marc Theobald, Zahid Dewji, Rosey Catherine, Farooq Hussain",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)FeaturingMarc TheobaldZahid DewjiRosey CatherineFarooq HussainDJ Hairston",
+      "extraction_method": "json-ld",
+      "vendor": "Marc Theobald, Zahid Dewji, Rosey Catherine, Farooq Hussain",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-08-01T18:30:00",
       "title": "An Evening with Brass Queens",
       "venue": "Industry City",
@@ -157,6 +105,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-01T20:00:00-04:00",
+      "title": "Farooq Hussain, Dave Temple, Harry Terjanian, Eagle Witt",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)FeaturingFarooq HussainDave TempleHarry TerjanianEagle WittLiz Glazer",
+      "extraction_method": "json-ld",
+      "vendor": "Farooq Hussain, Dave Temple, Harry Terjanian, Eagle Witt",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-08-01T20:00:00",
       "title": "BLACKLIGHT 3: an art gallery experience",
       "venue": "Industry City",
@@ -168,6 +129,19 @@
       "extraction_method": "api",
       "vendor": "BLACKLIGHT 3: an art gallery experience",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-08-01T22:00:00-04:00",
+      "title": "Michael Good, Nick Tilleli, Stephen Pratt, Cesh Reyes",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)FeaturingMichael GoodNick TilleliStephen PrattCesh ReyesCalvin Cato",
+      "extraction_method": "json-ld",
+      "vendor": "Michael Good, Nick Tilleli, Stephen Pratt, Cesh Reyes",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-08-02T11:00:00",
@@ -235,6 +209,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-02T19:30:00-04:00",
+      "title": "Sunday Night Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
+      "extraction_method": "json-ld",
+      "vendor": "Sunday Night Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-08-03T07:00:00",
       "title": "Tools &#038; Tiaras Summer Camp",
       "venue": "Industry City",
@@ -300,19 +287,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-08-04T12:00:00+00:00",
-      "title": "LOOSE MATCH(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "LOOSE MATCH(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-08-05T12:00:00+00:00",
       "title": "CLOSET CASE BURLESQUE PRESENTS SMOOCHIE GIRL(Draglesque)",
       "venue": "Young Ethel's",
@@ -326,6 +300,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-05T18:00:00-04:00",
+      "title": "Comedy Loves Ya",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Comedy Loves Ya brings the best undiscovered and established talent to the stage for this open mic!",
+      "extraction_method": "json-ld",
+      "vendor": "Comedy Loves Ya",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-08-05T19:30:00",
       "title": "WE HAVE FUN STANDUP(Comedy)",
       "venue": "Young Ethel's",
@@ -337,6 +324,19 @@
       "extraction_method": "html",
       "vendor": "WE HAVE FUN STANDUP(Comedy)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-05T20:00:00-04:00",
+      "title": "Friends and Lovers",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Wednesday Night in Brooklyn",
+      "extraction_method": "json-ld",
+      "vendor": "Friends and Lovers",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-08-06T12:00:00+00:00",
@@ -391,6 +391,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-06T20:00:00-04:00",
+      "title": "Keep It Basement Presents",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Keep It Basement Productions presents a stand up comedy showcase, hosted by Alexis Fawx.Featuring:Rosey Catherine - LMAOFTom Zappia - co-host of Keep It Basement, LMAOF, Time Out New YorkJ Turner - over 200k followers,Lee Syatt - The Church of What&#39;s Happening Now with Joey DiazFood sponsors and post show interviews with The Sweenz!Follow @keepitbasement for updates!",
+      "extraction_method": "json-ld",
+      "vendor": "Keep It Basement Presents",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-08-07T12:00:00+00:00",
       "title": "A BENEFIT SHOW FOR EVLOVESNYC: BLUE SUNSHINE// FOR LACK OF A TERM// AITA// GHOST TOUR(Music)",
       "venue": "Young Ethel's",
@@ -404,6 +417,32 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-07T18:00:00-04:00",
+      "title": "Friday Night Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
+      "extraction_method": "json-ld",
+      "vendor": "Friday Night Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-07T18:00:00-04:00",
+      "title": "Brooklyn Power Hour",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Join us every Friday at 6 PM for Brooklyn Power Hour at the Eastville Comedy Club, a lively happy-hour comedy show hosted by the talented Annette Mullaney, Dara Jemmott, Sara Shipley, and Sarah Barnitt. It\u2019s a perfect way to unwind and enjoy laughs with friends!",
+      "extraction_method": "json-ld",
+      "vendor": "Brooklyn Power Hour",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-08-07T19:30:00",
       "title": "The Night Shift Comedy Show",
       "venue": "Industry City",
@@ -415,10 +454,192 @@
       "extraction_method": "api",
       "vendor": "The Night Shift Comedy Show",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-08-07T20:00:00-04:00",
+      "title": "Reggie Conquest, Chloe Radcliffe, Joe Mahoney, John Bennett",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Prime-Time Comedy in Brooklyn!FEATURING SPECIAL GUEST COMEDIANS...Lineup BelowFeaturingReggie ConquestChloe RadcliffeJoe MahoneyJohn BennettNeema Naz",
+      "extraction_method": "json-ld",
+      "vendor": "Reggie Conquest, Chloe Radcliffe, Joe Mahoney, John Bennett",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-07T22:00:00-04:00",
+      "title": "Talal Alyan, Joe Mahoney, John Bennett, Sonya Vai",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "TGIF Comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)FeaturingTalal AlyanJoe MahoneyJohn BennettSonya VaiLuis Lopez",
+      "extraction_method": "json-ld",
+      "vendor": "Talal Alyan, Joe Mahoney, John Bennett, Sonya Vai",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-08T12:00:00+00:00",
+      "title": "UPPERCASE/LOWERCASE PRESENTS\u2026BANJOS: FOR YOUR CONSIDERATION(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "UPPERCASE/LOWERCASE PRESENTS\u2026BANJOS: FOR YOUR CONSIDERATION(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-08T12:00:00+00:00",
+      "title": "THE SOUND WITHIN WITH EISENBERG AND STERN(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE SOUND WITHIN WITH EISENBERG AND STERN(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-08T12:00:00+00:00",
+      "title": "MUSIC TBA(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "MUSIC TBA(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-08T12:00:00",
+      "title": "Japanese Antique Fair @IPPIN Project",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Discover authentic Japanese antiques and one-of-a-kind treasures, handpicked and brought directly from Japan.\nBrowse a carefully curated collection of timeless pieces, including classic ceramics, handcrafted bamboo baskets, vintage home d\u00e9cor, and unique collectibles. Many of our bamboo baskets were discovered in traditional Japanese homes and date back to the early 20th century, each carrying its own history and craftsmanship.\nAlongside our antiques, you&#8217;ll find contemporary handmade works by artisans in Japan, including aizome (indigo-dyed) and sashiko textiles, tea leaf\u2013dyed and kakishibu (persimmon tannin)\u2013dyed placemats, handcrafted ceramics, and DAIDAI&#8217;s Kurumi Ware\u2014beautiful glassware made with walnut ash, giving each piece its signature soft green hue. A customer favorite from last year, Kurumi Ware is back by popular demand.\nWhether you&#8217;re a collector or simply appreciate Japanese craftsmanship, you&#8217;ll discover timeless pieces that blend tradition, artistry, and everyday beauty.",
+      "extraction_method": "api",
+      "vendor": "Japanese Antique Fair @IPPIN Project",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-08T15:30:00",
+      "title": "Revolutionary Spirits Trolley Tour",
+      "venue": "Industry City",
+      "start_time": "3:30 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:30 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Delve into the storied past of distilled spirits in Brooklyn with Fort Hamilton Distillery and our neighbors at Green-Wood Cemetery.",
+      "extraction_method": "api",
+      "vendor": "Revolutionary Spirits Trolley Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-08T16:00:00",
+      "title": "A Summer Afternoon with Peak",
+      "venue": "Industry City",
+      "start_time": "4:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Click here for tickets: https://wl.eventim.us/event/a-summer-afternoon-with-peak/698743?afflky=Getitrightthefirsttime\nIndustry City and Get It Right Music in association with Murmrr Presents are thrilled to present A Summer afternoon with Peak!\nEvent Info\nDate: August 8th, 2026\nDoors: 4:00pm\nShow: 4:30-8:00pm\nTickets: $15 per person plus fees in advance/$20 per person day of show\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore about Peak\nPEAK is a Brooklyn-based Quartet led by guitarist Jeremy Hilliard, a versatile singer\u2013songwriter, that has been performing in its current incarnation since 2019.PEAK\u2019s original music, characterized as psychedelic indie funk, draws from influences ranging from Talking Heads, Phish, and the Grateful Dead to Tom Petty and Bright Eyes.\nThe band\u2019s three albums, \u201cElectric Bouquet,\u201d \u201cChoppy Water,\u201d and \u201cVanishing Skies\u201d highlight PEAK\u2019s versatile talents within a range that veers from guitar-driven rock to Americana and melodic indie tunes.\nHilliard\u2019s musicianship and lyric narrative style mesh seamlessly with the talents of keyboard master Johnny Young. Friends for many years, the two started writing songs together as the band began to take shape. Blind since age 17, Young has been blessed with a soulful voice and musical talents that help PEAK paint richly detailed, ever-changing visions of color and sound on the stage.\nDrummer Kito Bovenschulte and bassist Josh T. Carter provide the flawless beat that moves the music of PEAK through a playlist including a distinctive mix of searing blues rock, high-energy electro funk and moody indie originals.\nThe band has shared the stage with acts such as Goose, Eggy, Dizgo, Lespecial, Neighbor, Mihali, Kendal Street Company, The Magic Beans, Space Bacon, and many more.",
+      "extraction_method": "api",
+      "vendor": "A Summer Afternoon with Peak",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-08T16:30:00",
+      "title": "MUSIC TBA(Music)",
+      "venue": "Young Ethel's",
+      "start_time": null,
+      "end_time": "4:30 PM ET",
+      "start_time_raw": null,
+      "end_time_raw": "4:30 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "MUSIC TBA(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-08T16:30:00",
+      "title": "Industry City Gourmet Food and Drinks Tour",
+      "venue": "Industry City",
+      "start_time": "4:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Set against the iconic backdrop of Sunset Park\u2019s historic waterfront, the massive, revitalized structures of Industry City form a breathtaking stage for an exclusive culinary journey. This premium food and cocktail tour is a curated exploration of taste and craft, transforming an evening into a memorable, high-end experience.\nYour adventure begins with artistic bonbons at Lilac Chocolates, explores gourmet imports at Sahadi\u2019s, and includes a refined whiskey tasting at Fort Hamilton Distillery, followed by a sophisticated sake flight. Savor additional artisanal discoveries within the awe-inspiring industrial halls.\nPerfect as a distinctive date night, this tour is also fully customizable for private groups and corporate retreats. We specialize in tailoring this engaging experience for team-building and client entertainment, making it an ideal one-day corporate outing. A sophisticated mini-vacation for locals and a profound discovery for visitors.",
+      "extraction_method": "api",
+      "vendor": "Industry City Gourmet Food and Drinks Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-08T18:00:00-04:00",
+      "title": "Saturday Night Live Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)",
+      "extraction_method": "json-ld",
+      "vendor": "Saturday Night Live Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-08T18:00:00",
+      "title": "Making Handmade Books from Scrap Paper",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Making Handmade Books from Recycled Paper: Use Junk Mail, Recycled Papers, and Papers You Design. Led by Frieda Christofides\nJoin us to learn how to make pamphlet styled sketchbooks from your choice of recycled papers. In this workshop we will learn a simple stitching technique to create handmade flat laying sketchbooks. We will use papers collected from junk mail, papers we design ourselves and any other choices of papers provided.",
+      "extraction_method": "api",
+      "vendor": "Making Handmade Books from Scrap Paper",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-08T20:00:00-04:00",
+      "title": "Dan Ahdoot, Tom Delgado, Jonathan Randall, Eagle Witt",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)FeaturingDan AhdootTom DelgadoJonathan RandallEagle WittEmily Catalano",
+      "extraction_method": "json-ld",
+      "vendor": "Dan Ahdoot, Tom Delgado, Jonathan Randall, Eagle Witt",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-08T22:00:00-04:00",
+      "title": "Prateek Srivastava & Friends",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "Prime Time Comedy!Prateek Srivastava &amp; friends.",
+      "extraction_method": "json-ld",
+      "vendor": "Prateek Srivastava & Friends",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-07-31T10:16:56.877102+00:00",
-  "total_events": 32,
+  "updated": "2026-08-01T10:16:15.413894+00:00",
+  "total_events": 49,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
