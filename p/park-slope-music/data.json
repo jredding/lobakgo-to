@@ -144,19 +144,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-08-04T19:00:00",
-      "title": "Person Place Thing with Randy Cohen featuring Myq Kaplan & Taylor Ashton",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A public-radio interview show: Randy Cohen, host; comic Myq Kaplan, guest; singer-songwriter Taylor Ashton, music.",
-      "extraction_method": "api",
-      "vendor": "Person Place Thing with Randy Cohen featuring Myq Kaplan & Taylor Ashton",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-05T12:00:00+00:00",
       "title": "CLOSET CASE BURLESQUE PRESENTS SMOOCHIE GIRL(Draglesque)",
       "venue": "Young Ethel's",
@@ -324,19 +311,6 @@
       "extraction_method": "api",
       "vendor": "The Night Shift Comedy Show",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-08-07T20:00:00",
-      "title": "The Good Liars- Live!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Jason Selvig and Davram Stiefler \u2014 better known as The Good Liars \u2014 have spent the last several years embedded in America\u2019s political circus",
-      "extraction_method": "api",
-      "vendor": "The Good Liars- Live!",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-07T20:00:00-04:00",
@@ -521,19 +495,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-08-08T23:00:00",
-      "title": "Dancehall Forever",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
-      "extraction_method": "api",
-      "vendor": "Dancehall Forever",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-09T12:00:00+00:00",
       "title": "52 FILM SCREENING(Screening)",
       "venue": "Young Ethel's",
@@ -638,15 +599,16 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-02T10:16:22.165291+00:00",
-  "total_events": 49,
+  "updated": "2026-08-02T10:17:11.737980+00:00",
+  "total_events": 46,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
