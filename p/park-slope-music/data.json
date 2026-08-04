@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-03T07:00:00",
-      "title": "Tools &#038; Tiaras Summer Camp",
-      "venue": "Industry City",
-      "start_time": "7:00 AM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "7:00 AM",
-      "end_time_raw": "4:00 PM",
-      "description": "Registration Fee: $150.00\nWe&#8217;ve got a 2 week Summer Program\nJuly 6-10\nAugust 3-7\nThis one-of-a-kind camp introduces participants to the exciting world of construction, skilled trades, and STEAM. Campers will roll up their sleeves and dive into real-life building projects, learn how to safely use tools, and explore skills like carpentry, electrical work, and more\u2014all in a fun, supportive, and empowering environment.",
-      "extraction_method": "api",
-      "vendor": "Tools &#038; Tiaras Summer Camp",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-03T09:00:00",
-      "title": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "venue": "Industry City",
-      "start_time": "9:00 AM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "9:00 AM",
-      "end_time_raw": "4:00 PM",
-      "description": "Join us for Summer Circuits at Industry City!\n254 36th Street, Building 2- Suite C249 ( Second Floor)\nWe\u2019ll be building a different robot every day, all summer! The highlight of our summer programs is the daily robot-building, of course! And we\u2019ll also be playing games, making crafts, enjoying free play, going outside, and more. Our experienced instructors are passionate about inspiring young minds, fostering creativity, championing kindness, and celebrating some goofiness throughout it all.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-03T12:00:00+00:00",
-      "title": "THINKING ABOUT DEATH PRESENTS A LIGHTHEARTED DISTRACTION FROM THE VOID(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THINKING ABOUT DEATH PRESENTS A LIGHTHEARTED DISTRACTION FROM THE VOID(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-03T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-03T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-04T19:00:00",
-      "title": "Person Place Thing with Randy Cohen featuring Myq Kaplan & Taylor Ashton",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A public-radio interview show: Randy Cohen, host; comic Myq Kaplan, guest; singer-songwriter Taylor Ashton, music.",
-      "extraction_method": "api",
-      "vendor": "Person Place Thing with Randy Cohen featuring Myq Kaplan & Taylor Ashton",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-05T12:00:00+00:00",
       "title": "CLOSET CASE BURLESQUE PRESENTS SMOOCHIE GIRL(Draglesque)",
       "venue": "Young Ethel's",
@@ -90,19 +12,6 @@
       "extraction_method": "html",
       "vendor": "CLOSET CASE BURLESQUE PRESENTS SMOOCHIE GIRL(Draglesque)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-05T18:00:00-04:00",
-      "title": "Comedy Loves Ya",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "Comedy Loves Ya brings the best undiscovered and established talent to the stage for this open mic!",
-      "extraction_method": "json-ld",
-      "vendor": "Comedy Loves Ya",
-      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-08-05T19:30:00",
@@ -210,19 +119,6 @@
     },
     {
       "date": "2026-08-07T18:00:00-04:00",
-      "title": "Friday Night Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
-      "extraction_method": "json-ld",
-      "vendor": "Friday Night Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-07T18:00:00-04:00",
       "title": "Brooklyn Power Hour",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
@@ -233,6 +129,19 @@
       "extraction_method": "json-ld",
       "vendor": "Brooklyn Power Hour",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-07T18:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Welcome to Brooklyn Kura! Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery.",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
     },
     {
       "date": "2026-08-07T19:30:00",
@@ -248,19 +157,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-07T20:00:00",
-      "title": "The Good Liars- Live!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Jason Selvig and Davram Stiefler \u2014 better known as The Good Liars \u2014 have spent the last several years embedded in America\u2019s political circus",
-      "extraction_method": "api",
-      "vendor": "The Good Liars- Live!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-07T20:00:00-04:00",
       "title": "Reggie Conquest, Chloe Radcliffe, Joe Mahoney, John Bennett",
       "venue": "Eastville Comedy Club",
@@ -272,6 +168,19 @@
       "extraction_method": "json-ld",
       "vendor": "Reggie Conquest, Chloe Radcliffe, Joe Mahoney, John Bennett",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-07T20:00:00",
+      "title": "Brooklyn Shakespeare Festival presented by bkONE productions",
+      "venue": "Industry City",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Brooklyn Shakespeare Festival\nThe Brooklyn Shakespeare Festival returns for an unforgettable weekend celebrating the works of William Shakespeare through bold productions, live entertainment, and unique theatrical experiences.\nPresented by brooklynONE productions, this year&#8217;s Festival transforms Industry City Courtyard 5/6 into an open-air stage where timeless stories meet contemporary artists in one of Brooklyn&#8217;s most exciting cultural destinations.\nHeadlining the Festival is Shakespeare&#8217;s Twelfth Night, one of the Bard&#8217;s most beloved comedies. Overflowing with romance, mistaken identities, music, wit, and unforgettable characters, this joyful production anchors a weekend dedicated to celebrating Shakespeare&#8217;s enduring legacy.\nBut the Brooklyn Shakespeare Festival is far more than a single production.\nFestival Programming\n\ud83c\udfad Twelfth Night\nOur featured production, performed outdoors under the summer sky by an outstanding cast and creative team.\n\ud83c\udf99\ufe0f Thorn &amp; Petal Stick\nExperience the magic of completely improvised Shakespeare with Thorn &amp; Petal Stick, the acclaimed New York company behind the UnScripted Shakespeare Festival. Using audience suggestions, they&#8217;ll create an entirely original Shakespearean comedy or tragedy on the spot\u2014meaning no two performances are ever the same.\n\u2728 Special Performance by the 11th Hour Players\nEnjoy a special appearance by the 11th Hour Players, adding another exciting interpretation of Shakespeare to this year&#8217;s Festival.\nShakespeare After Dark\nWhen the sun sets, the Festival continues indoors.\nJoin us inside the Tom Kane Theatre for Shakespeare After Dark, an intimate late-night presentation of William Shakespeare&#8217;s The Taming of the Shrew.\nPerformances begin at 10:00 PM on Friday, Saturday, and Sunday, offering audiences a darker, closer, and completely different theatrical experience after the excitement of the outdoor Festival. Admission to Shakespeare After Dark is sold separately from the Festival donation.\nWhether you&#8217;re a lifelong Shakespeare enthusiast or discovering these works for the first time, the Brooklyn Shakespeare Festival offers a full weekend of theatre, comedy, and community.\nFestival Highlights\n\ud83c\udfad Headlining production of Twelfth Night\n\ud83c\udf99\ufe0f Live improvised Shakespeare from Thorn &amp; Petal Stick\n\u2728 Special guest performance by the 11th Hour Players\n\ud83c\udf19 Shakespeare After Dark: The Taming of the Shrew at 10:00 PM on Friday, Saturday &amp; Sunday\n\ud83c\udf06 Outdoor performances in Industry City Courtyard 5/6\n\ud83c\udf7d\ufe0f Food, drinks, shopping, and entertainment throughout Industry City\n\ud83d\udc9c Suggested Festival Donation: $10 (Shakespeare After Dark tickets sold separately.)\nJoin us as we celebrate one of the world&#8217;s greatest playwrights through classic theatre, spontaneous comedy, and unforgettable performances\u2014all in the heart of Brooklyn.",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Shakespeare Festival presented by bkONE productions",
+      "location": "Industry City"
     },
     {
       "date": "2026-08-07T22:00:00-04:00",
@@ -339,6 +248,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-08T12:00:00",
+      "title": "Brooklyn Shakespeare Festival presented by bkONE productions",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Brooklyn Shakespeare Festival\nThe Brooklyn Shakespeare Festival returns for an unforgettable weekend celebrating the works of William Shakespeare through bold productions, live entertainment, and unique theatrical experiences.\nPresented by brooklynONE productions, this year&#8217;s Festival transforms Industry City Courtyard 5/6 into an open-air stage where timeless stories meet contemporary artists in one of Brooklyn&#8217;s most exciting cultural destinations.\nHeadlining the Festival is Shakespeare&#8217;s Twelfth Night, one of the Bard&#8217;s most beloved comedies. Overflowing with romance, mistaken identities, music, wit, and unforgettable characters, this joyful production anchors a weekend dedicated to celebrating Shakespeare&#8217;s enduring legacy.\nBut the Brooklyn Shakespeare Festival is far more than a single production.\nFestival Programming\n\ud83c\udfad Twelfth Night\nOur featured production, performed outdoors under the summer sky by an outstanding cast and creative team.\n\ud83c\udf99\ufe0f Thorn &amp; Petal Stick\nExperience the magic of completely improvised Shakespeare with Thorn &amp; Petal Stick, the acclaimed New York company behind the UnScripted Shakespeare Festival. Using audience suggestions, they&#8217;ll create an entirely original Shakespearean comedy or tragedy on the spot\u2014meaning no two performances are ever the same.\n\u2728 Special Performance by the 11th Hour Players\nEnjoy a special appearance by the 11th Hour Players, adding another exciting interpretation of Shakespeare to this year&#8217;s Festival.\nShakespeare After Dark\nWhen the sun sets, the Festival continues indoors.\nJoin us inside the Tom Kane Theatre for Shakespeare After Dark, an intimate late-night presentation of William Shakespeare&#8217;s The Taming of the Shrew.\nPerformances begin at 10:00 PM on Friday, Saturday, and Sunday, offering audiences a darker, closer, and completely different theatrical experience after the excitement of the outdoor Festival. Admission to Shakespeare After Dark is sold separately from the Festival donation.\nWhether you&#8217;re a lifelong Shakespeare enthusiast or discovering these works for the first time, the Brooklyn Shakespeare Festival offers a full weekend of theatre, comedy, and community.\nFestival Highlights\n\ud83c\udfad Headlining production of Twelfth Night\n\ud83c\udf99\ufe0f Live improvised Shakespeare from Thorn &amp; Petal Stick\n\u2728 Special guest performance by the 11th Hour Players\n\ud83c\udf19 Shakespeare After Dark: The Taming of the Shrew at 10:00 PM on Friday, Saturday &amp; Sunday\n\ud83c\udf06 Outdoor performances in Industry City Courtyard 5/6\n\ud83c\udf7d\ufe0f Food, drinks, shopping, and entertainment throughout Industry City\n\ud83d\udc9c Suggested Festival Donation: $10 (Shakespeare After Dark tickets sold separately.)\nJoin us as we celebrate one of the world&#8217;s greatest playwrights through classic theatre, spontaneous comedy, and unforgettable performances\u2014all in the heart of Brooklyn.",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Shakespeare Festival presented by bkONE productions",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-08-08T15:30:00",
       "title": "Revolutionary Spirits Trolley Tour",
       "venue": "Industry City",
@@ -349,19 +271,6 @@
       "description": "Delve into the storied past of distilled spirits in Brooklyn with Fort Hamilton Distillery and our neighbors at Green-Wood Cemetery.",
       "extraction_method": "api",
       "vendor": "Revolutionary Spirits Trolley Tour",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-08T16:00:00",
-      "title": "A Summer Afternoon with Peak",
-      "venue": "Industry City",
-      "start_time": "4:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "4:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "Click here for tickets: https://wl.eventim.us/event/a-summer-afternoon-with-peak/698743?afflky=Getitrightthefirsttime\nIndustry City and Get It Right Music in association with Murmrr Presents are thrilled to present A Summer afternoon with Peak!\nEvent Info\nDate: August 8th, 2026\nDoors: 4:00pm\nShow: 4:30-8:00pm\nTickets: $15 per person plus fees in advance/$20 per person day of show\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore about Peak\nPEAK is a Brooklyn-based Quartet led by guitarist Jeremy Hilliard, a versatile singer\u2013songwriter, that has been performing in its current incarnation since 2019.PEAK\u2019s original music, characterized as psychedelic indie funk, draws from influences ranging from Talking Heads, Phish, and the Grateful Dead to Tom Petty and Bright Eyes.\nThe band\u2019s three albums, \u201cElectric Bouquet,\u201d \u201cChoppy Water,\u201d and \u201cVanishing Skies\u201d highlight PEAK\u2019s versatile talents within a range that veers from guitar-driven rock to Americana and melodic indie tunes.\nHilliard\u2019s musicianship and lyric narrative style mesh seamlessly with the talents of keyboard master Johnny Young. Friends for many years, the two started writing songs together as the band began to take shape. Blind since age 17, Young has been blessed with a soulful voice and musical talents that help PEAK paint richly detailed, ever-changing visions of color and sound on the stage.\nDrummer Kito Bovenschulte and bassist Josh T. Carter provide the flawless beat that moves the music of PEAK through a playlist including a distinctive mix of searing blues rock, high-energy electro funk and moody indie originals.\nThe band has shared the stage with acts such as Goose, Eggy, Dizgo, Lespecial, Neighbor, Mihali, Kendal Street Company, The Magic Beans, Space Bacon, and many more.",
-      "extraction_method": "api",
-      "vendor": "A Summer Afternoon with Peak",
       "location": "Industry City"
     },
     {
@@ -392,15 +301,15 @@
     },
     {
       "date": "2026-08-08T18:00:00-04:00",
-      "title": "Saturday Night Live Comedy",
+      "title": "Sean Millea, Neema Naz",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)",
+      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!FeaturingSean MilleaNeema NazSean Millea is a stand-up comedian and viral video creator based in NYC. Sean is best known for his many viral comedy videos across Youtube, Tiktok, and Instagram. His wide range of content has received over 500 million views, garnering him more than a million followers across all of his platforms. He has opened for comedians like Mark Normand and Trevor Wallace, had a brief appearance on the Tim Dillon podcast with Gary Vee, and even went viral for winning the &ldquo;musical chairs boxing&rdquo; tournament at the Skankfest comedy festival &ndash; dubbing him the nickname &ldquo;Bowie&rdquo;.Neema Naz is an Iranian-Canadian stand up comedian, actor, and content creator. During the fall of 2014 he launched his comedy career in Toronto. His inaugural headline stand up comedy tour in 2022, &ldquo;I&rsquo;m Your Sugar Daddy&quot; welcomed over 15,000 fans from Los Angeles to Vancouver, New York to Montreal, San Francisco to Toronto, and many more. He has also headlined shows in Sydney, Berlin, and Melbourne. Neema has toured with and supported several comedy greats including Russell Peters, Theo Von, Howie Mandel, Omid Djalili, and Maz Jobrani. His online presence has garnered him over 1.5 billion views and has been co-signed by the likes of Gary Vaynerchuk, David Goggins, Gordon Ramsay, Kevin Hart, and Andrew Schulz. Neema will be performing the &ldquo;My Estupid Life&rdquo; Tour around the globe in 2025 starting in North America, followed by UK, Europe, Asia, Australia, and the Middle East. Neema has several acting credits for &ldquo;The Boys&rdquo; (Amazon Prime), US National Bank, and a lead role in &ldquo;Please, After You&rdquo; (in theatres 2025).",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Night Live Comedy",
+      "vendor": "Sean Millea, Neema Naz",
       "location": "Eastville Comedy Club"
     },
     {
@@ -441,19 +350,6 @@
       "extraction_method": "json-ld",
       "vendor": "Prateek Srivastava & Friends",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-08T23:00:00",
-      "title": "Dancehall Forever",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
-      "extraction_method": "api",
-      "vendor": "Dancehall Forever",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-09T12:00:00+00:00",
@@ -508,6 +404,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-09T12:00:00",
+      "title": "Brooklyn Shakespeare Festival presented by bkONE productions",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Brooklyn Shakespeare Festival\nThe Brooklyn Shakespeare Festival returns for an unforgettable weekend celebrating the works of William Shakespeare through bold productions, live entertainment, and unique theatrical experiences.\nPresented by brooklynONE productions, this year&#8217;s Festival transforms Industry City Courtyard 5/6 into an open-air stage where timeless stories meet contemporary artists in one of Brooklyn&#8217;s most exciting cultural destinations.\nHeadlining the Festival is Shakespeare&#8217;s Twelfth Night, one of the Bard&#8217;s most beloved comedies. Overflowing with romance, mistaken identities, music, wit, and unforgettable characters, this joyful production anchors a weekend dedicated to celebrating Shakespeare&#8217;s enduring legacy.\nBut the Brooklyn Shakespeare Festival is far more than a single production.\nFestival Programming\n\ud83c\udfad Twelfth Night\nOur featured production, performed outdoors under the summer sky by an outstanding cast and creative team.\n\ud83c\udf99\ufe0f Thorn &amp; Petal Stick\nExperience the magic of completely improvised Shakespeare with Thorn &amp; Petal Stick, the acclaimed New York company behind the UnScripted Shakespeare Festival. Using audience suggestions, they&#8217;ll create an entirely original Shakespearean comedy or tragedy on the spot\u2014meaning no two performances are ever the same.\n\u2728 Special Performance by the 11th Hour Players\nEnjoy a special appearance by the 11th Hour Players, adding another exciting interpretation of Shakespeare to this year&#8217;s Festival.\nShakespeare After Dark\nWhen the sun sets, the Festival continues indoors.\nJoin us inside the Tom Kane Theatre for Shakespeare After Dark, an intimate late-night presentation of William Shakespeare&#8217;s The Taming of the Shrew.\nPerformances begin at 10:00 PM on Friday, Saturday, and Sunday, offering audiences a darker, closer, and completely different theatrical experience after the excitement of the outdoor Festival. Admission to Shakespeare After Dark is sold separately from the Festival donation.\nWhether you&#8217;re a lifelong Shakespeare enthusiast or discovering these works for the first time, the Brooklyn Shakespeare Festival offers a full weekend of theatre, comedy, and community.\nFestival Highlights\n\ud83c\udfad Headlining production of Twelfth Night\n\ud83c\udf99\ufe0f Live improvised Shakespeare from Thorn &amp; Petal Stick\n\u2728 Special guest performance by the 11th Hour Players\n\ud83c\udf19 Shakespeare After Dark: The Taming of the Shrew at 10:00 PM on Friday, Saturday &amp; Sunday\n\ud83c\udf06 Outdoor performances in Industry City Courtyard 5/6\n\ud83c\udf7d\ufe0f Food, drinks, shopping, and entertainment throughout Industry City\n\ud83d\udc9c Suggested Festival Donation: $10 (Shakespeare After Dark tickets sold separately.)\nJoin us as we celebrate one of the world&#8217;s greatest playwrights through classic theatre, spontaneous comedy, and unforgettable performances\u2014all in the heart of Brooklyn.",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Shakespeare Festival presented by bkONE productions",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-08-09T12:30:00",
       "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
       "venue": "Industry City",
@@ -547,6 +456,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-09T17:30:00",
+      "title": "Sunday Sessions At Fort Hamilton 8/9",
+      "venue": "Industry City",
+      "start_time": "5:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "\ud83c\udfb7 This week: Andrew Golub brings his quartet to Fort Hamilton for an evening of jazz fusion favorites.\n\ud83e\udd43 Distillery Tours: 2PM &amp; 4PM\n\ud83c\udfb7 Live Music: 5:30PM\u20137:30PM",
+      "extraction_method": "api",
+      "vendor": "Sunday Sessions At Fort Hamilton 8/9",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-08-09T19:30:00-04:00",
       "title": "Blk Rose Presents: James Davis in Brooklyn!",
       "venue": "Eastville Comedy Club",
@@ -573,28 +495,29 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-10T18:30:00",
-      "title": "Caroline Chambers: What to Cook: Make It Fast",
-      "venue": "Littlefield",
-      "start_time": "6:30 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "6:30 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Join Books Are Magic at Littlefield to celebrate Caroline Chambers' new book, What to Cook When You Don\u2019t Feel Like Cooking: Make It Fast!",
+      "date": "2026-08-11T19:00:00",
+      "title": "Spirited Away: Psychic &#038; Paranormal Night",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Gather with NYC\u2019s finest readers and psychics for a glorious evening of craft cocktails and supernatural fun, hosted by The Oracle!\nSpirited Away Psychic &amp; Paranormal Night! Winter Edition!\nCome down to Industry City and join us for a cozy evening of psychic readings and craft cocktails!",
       "extraction_method": "api",
-      "vendor": "Caroline Chambers: What to Cook: Make It Fast",
-      "location": "Littlefield"
+      "vendor": "Spirited Away: Psychic &#038; Paranormal Night",
+      "location": "Industry City"
     }
   ],
-  "updated": "2026-08-03T10:17:32.204368+00:00",
-  "total_events": 45,
+  "updated": "2026-08-04T10:16:38.565562+00:00",
+  "total_events": 39,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
