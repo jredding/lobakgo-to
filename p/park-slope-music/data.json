@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-05T12:00:00+00:00",
-      "title": "CLOSET CASE BURLESQUE PRESENTS SMOOCHIE GIRL(Draglesque)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "CLOSET CASE BURLESQUE PRESENTS SMOOCHIE GIRL(Draglesque)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-05T19:30:00",
-      "title": "WE HAVE FUN STANDUP(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STANDUP(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-05T20:00:00-04:00",
-      "title": "Friends and Lovers",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Wednesday Night in Brooklyn",
-      "extraction_method": "json-ld",
-      "vendor": "Friends and Lovers",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-08-06T12:00:00+00:00",
       "title": "THE PIGGIES// LIPSTICK DRIVER// MOMSOMNIA(Music)",
       "venue": "Young Ethel's",
@@ -157,6 +118,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-07T20:00:00",
+      "title": "The Good Liars- Live!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Jason Selvig and Davram Stiefler \u2014 better known as The Good Liars \u2014 have spent the last several years embedded in America\u2019s political circus",
+      "extraction_method": "api",
+      "vendor": "The Good Liars- Live!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-07T20:00:00-04:00",
       "title": "Reggie Conquest, Chloe Radcliffe, Joe Mahoney, John Bennett",
       "venue": "Eastville Comedy Club",
@@ -194,6 +168,19 @@
       "extraction_method": "json-ld",
       "vendor": "Talal Alyan, Joe Mahoney, John Bennett, Sonya Vai",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-07T23:00:00",
+      "title": "WHINE SLOW - NYC's Sexiest JA Independence Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
+      "extraction_method": "api",
+      "vendor": "WHINE SLOW - NYC's Sexiest JA Independence Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-08T12:00:00+00:00",
@@ -261,6 +248,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-08T15:00:00",
+      "title": "Live Music: Seth Goldart Band",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Join us at Gun Hill for live music by Seth Goldart Band! And enjoy Meat Asia BBQ food pop up all day.",
+      "extraction_method": "api",
+      "vendor": "Live Music: Seth Goldart Band",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-08-08T15:30:00",
       "title": "Revolutionary Spirits Trolley Tour",
       "venue": "Industry City",
@@ -301,15 +301,15 @@
     },
     {
       "date": "2026-08-08T18:00:00-04:00",
-      "title": "Sean Millea, Neema Naz",
+      "title": "John Bennett, Cesh Reyes",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!FeaturingSean MilleaNeema NazSean Millea is a stand-up comedian and viral video creator based in NYC. Sean is best known for his many viral comedy videos across Youtube, Tiktok, and Instagram. His wide range of content has received over 500 million views, garnering him more than a million followers across all of his platforms. He has opened for comedians like Mark Normand and Trevor Wallace, had a brief appearance on the Tim Dillon podcast with Gary Vee, and even went viral for winning the &ldquo;musical chairs boxing&rdquo; tournament at the Skankfest comedy festival &ndash; dubbing him the nickname &ldquo;Bowie&rdquo;.Neema Naz is an Iranian-Canadian stand up comedian, actor, and content creator. During the fall of 2014 he launched his comedy career in Toronto. His inaugural headline stand up comedy tour in 2022, &ldquo;I&rsquo;m Your Sugar Daddy&quot; welcomed over 15,000 fans from Los Angeles to Vancouver, New York to Montreal, San Francisco to Toronto, and many more. He has also headlined shows in Sydney, Berlin, and Melbourne. Neema has toured with and supported several comedy greats including Russell Peters, Theo Von, Howie Mandel, Omid Djalili, and Maz Jobrani. His online presence has garnered him over 1.5 billion views and has been co-signed by the likes of Gary Vaynerchuk, David Goggins, Gordon Ramsay, Kevin Hart, and Andrew Schulz. Neema will be performing the &ldquo;My Estupid Life&rdquo; Tour around the globe in 2025 starting in North America, followed by UK, Europe, Asia, Australia, and the Middle East. Neema has several acting credits for &ldquo;The Boys&rdquo; (Amazon Prime), US National Bank, and a lead role in &ldquo;Please, After You&rdquo; (in theatres 2025).",
+      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!FeaturingVishnu VakaFeaturingVishnu VakaCesh ReyesFeaturingJohn BennettCesh Reyes",
       "extraction_method": "json-ld",
-      "vendor": "Sean Millea, Neema Naz",
+      "vendor": "John Bennett, Cesh Reyes",
       "location": "Eastville Comedy Club"
     },
     {
@@ -340,16 +340,29 @@
     },
     {
       "date": "2026-08-08T22:00:00-04:00",
-      "title": "Prateek Srivastava & Friends",
+      "title": "Subhah Agarwal, Emma Willmann, John Bennett, Menuhin Hart",
       "venue": "Eastville Comedy Club",
       "start_time": "10:00 PM ET",
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "Prime Time Comedy!Prateek Srivastava &amp; friends.",
+      "description": "FeaturingSubhah AgarwalEmma WillmannVishnu VakaMenuhin HartFeaturingSubhah AgarwalEmma WillmannJohn BennettMenuhin Hart",
       "extraction_method": "json-ld",
-      "vendor": "Prateek Srivastava & Friends",
+      "vendor": "Subhah Agarwal, Emma Willmann, John Bennett, Menuhin Hart",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-08T23:00:00",
+      "title": "Dancehall Forever",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
+      "extraction_method": "api",
+      "vendor": "Dancehall Forever",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-09T12:00:00+00:00",
@@ -547,6 +560,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-10T18:30:00",
+      "title": "Caroline Chambers: What to Cook: Make It Fast",
+      "venue": "Littlefield",
+      "start_time": "6:30 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Join Books Are Magic at Littlefield to celebrate Caroline Chambers' new book, What to Cook When You Don\u2019t Feel Like Cooking: Make It Fast!",
+      "extraction_method": "api",
+      "vendor": "Caroline Chambers: What to Cook: Make It Fast",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-11T19:00:00",
       "title": "Spirited Away: Psychic &#038; Paranormal Night",
       "venue": "Industry City",
@@ -638,6 +664,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-12T20:00:00",
+      "title": "I Really Hope This Works: An Evening of Discovery with Greta Titelman",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Greta has been developing her incredible new hour in hopes of finding a gorgeous narrative arc that will take us all on a journey!",
+      "extraction_method": "api",
+      "vendor": "I Really Hope This Works: An Evening of Discovery with Greta Titelman",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-12T20:00:00-04:00",
       "title": "Laughs In The East",
       "venue": "Eastville Comedy Club",
@@ -649,18 +688,69 @@
       "extraction_method": "json-ld",
       "vendor": "Laughs In The East",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-13T18:00:00",
+      "title": "Introduction to Shochu &#8211; Tasting Class and Brewery Tour",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Are you curious about Shochu? Join us to learn the basics of this delicious and unique 500+ year old Japanese Spirit, how to differentiate between styles, and how to serve Shochu to its best advantage and use it in delicious craft cocktails. We&#8217;ll also explore the nuance of Shochu vs Sake and Soju! The course includes a guided tour of Brooklyn Kura&#8217;s sake brewery (through the lens of shochu making), a flight of 5 different shochus served in a variety of styles, and a few snacks to accompany the tasting.\nWhat&#8217;s included:\n-Shochu 101 presentation to walk you through the fundamentals of the Japanese spirit\n-A guided tasting of 4 different Japanese Shochus, as well as Brooklyn Kura&#8217;s house-made Shochu\n-A Handout/notes section for reference at home\n-Snacks to accompany the spirit tasting\n-A 10% discount for purchasing bottles at Brooklyn Kura or select bottles at Kuraichi",
+      "extraction_method": "api",
+      "vendor": "Introduction to Shochu &#8211; Tasting Class and Brewery Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-13T19:00:00",
+      "title": "Summer Comedy Series at Gun Hill",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Join us for the Summer Comedy Series this July and August at Gun Hill &#8211; FREE comedy show every week hosted by But What&#8217;d You Say and The Stash. Bring your friends, have a beer, and enjoy the laughs!\n7PM on 7/9, 7/16, 7/24, 7/30, 8/6, 8/13, 8/20, 8/28",
+      "extraction_method": "api",
+      "vendor": "Summer Comedy Series at Gun Hill",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-13T20:00:00",
+      "title": "Millennial Tour Featuring Geena Fontanella Support From David Michael Frank",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Geena Fontanella is coming through Brooklyn with her Millennial Tour with direct support from David Michael Frank. VIP available!",
+      "extraction_method": "api",
+      "vendor": "Millennial Tour Featuring Geena Fontanella Support From David Michael Frank",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-08-13T20:00:00-04:00",
+      "title": "Stand Up Shenanigans",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Weekend Warmup comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...Line up Below",
+      "extraction_method": "json-ld",
+      "vendor": "Stand Up Shenanigans",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-05T10:16:28.606679+00:00",
-  "total_events": 50,
+  "updated": "2026-08-06T10:16:33.792135+00:00",
+  "total_events": 57,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
