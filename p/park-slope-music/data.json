@@ -53,19 +53,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-07T20:00:00",
-      "title": "The Good Liars- Live!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Jason Selvig and Davram Stiefler \u2014 better known as The Good Liars \u2014 have spent the last several years embedded in America\u2019s political circus",
-      "extraction_method": "api",
-      "vendor": "The Good Liars- Live!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-07T20:00:00-04:00",
       "title": "Reggie Conquest, Chloe Radcliffe, Joe Mahoney, John Bennett",
       "venue": "Eastville Comedy Club",
@@ -103,19 +90,6 @@
       "extraction_method": "json-ld",
       "vendor": "Talal Alyan, Joe Mahoney, John Bennett, Sonya Vai",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-07T23:00:00",
-      "title": "WHINE SLOW - NYC's Sexiest JA Independence Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
-      "extraction_method": "api",
-      "vendor": "WHINE SLOW - NYC's Sexiest JA Independence Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-08T12:00:00+00:00",
@@ -285,19 +259,6 @@
       "extraction_method": "json-ld",
       "vendor": "Subhah Agarwal, Emma Willmann, John Bennett, Menuhin Hart",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-08T23:00:00",
-      "title": "Dancehall Forever",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
-      "extraction_method": "api",
-      "vendor": "Dancehall Forever",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-09T12:00:00+00:00",
@@ -495,19 +456,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-08-10T18:30:00",
-      "title": "Caroline Chambers: What to Cook: Make It Fast",
-      "venue": "Littlefield",
-      "start_time": "6:30 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "6:30 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Join Books Are Magic at Littlefield to celebrate Caroline Chambers' new book, What to Cook When You Don\u2019t Feel Like Cooking: Make It Fast!",
-      "extraction_method": "api",
-      "vendor": "Caroline Chambers: What to Cook: Make It Fast",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-11T10:00:00",
       "title": "DWR Task Seating Sale Promotion Begins (8/11 &#8211; 8/19)",
       "venue": "Industry City",
@@ -612,19 +560,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-08-12T20:00:00",
-      "title": "I Really Hope This Works: An Evening of Discovery with Greta Titelman",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Greta has been developing her incredible new hour in hopes of finding a gorgeous narrative arc that will take us all on a journey!",
-      "extraction_method": "api",
-      "vendor": "I Really Hope This Works: An Evening of Discovery with Greta Titelman",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-12T20:00:00-04:00",
       "title": "Laughs In The East",
       "venue": "Eastville Comedy Club",
@@ -662,19 +597,6 @@
       "extraction_method": "api",
       "vendor": "Summer Comedy Series at Gun Hill",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-08-13T20:00:00",
-      "title": "Millennial Tour Featuring Geena Fontanella Support From David Michael Frank",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Geena Fontanella is coming through Brooklyn with her Millennial Tour with direct support from David Michael Frank. VIP available!",
-      "extraction_method": "api",
-      "vendor": "Millennial Tour Featuring Geena Fontanella Support From David Michael Frank",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-13T20:00:00-04:00",
@@ -742,19 +664,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-08-14T19:00:00",
-      "title": "Cruel Summer 80s & 90s Dance Party",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "An 80s & 90s throwback dance party with live band The Engagements and DJ Steve Reynolds!",
-      "extraction_method": "api",
-      "vendor": "Cruel Summer 80s & 90s Dance Party",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-14T19:30:00",
       "title": "Tiny Distillery Concerts",
       "venue": "Industry City",
@@ -807,15 +716,16 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-07T10:17:17.091572+00:00",
-  "total_events": 62,
+  "updated": "2026-08-07T10:18:36.730604+00:00",
+  "total_events": 55,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
