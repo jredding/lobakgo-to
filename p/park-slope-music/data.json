@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-11T10:00:00",
-      "title": "DWR Task Seating Sale Promotion Begins (8/11 &#8211; 8/19)",
-      "venue": "Industry City",
-      "start_time": "10:00 AM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "10:00 AM",
-      "end_time_raw": "6:00 PM",
-      "description": "Up to 25% off task seating &amp; gaming, plus an extra 25% off markdowns.",
-      "extraction_method": "api",
-      "vendor": "DWR Task Seating Sale Promotion Begins (8/11 &#8211; 8/19)",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-11T19:00:00",
-      "title": "Spirited Away: Psychic &#038; Paranormal Night",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Gather with NYC\u2019s finest readers and psychics for a glorious evening of craft cocktails and supernatural fun, hosted by The Oracle!\nSpirited Away Psychic &amp; Paranormal Night! Winter Edition!\nCome down to Industry City and join us for a cozy evening of psychic readings and craft cocktails!",
-      "extraction_method": "api",
-      "vendor": "Spirited Away: Psychic &#038; Paranormal Night",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-11T19:30:00",
-      "title": "F-WORD TRIVIA. SAM ASKS THE TOUGH QUESTIONS AND THE WINNING TEAM GETS $50 OFF THEIR BAR-TAB(Trivia)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "F-WORD TRIVIA. SAM ASKS THE TOUGH QUESTIONS AND THE WINNING TEAM GETS $50 OFF THEIR BAR-TAB(Trivia)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-08-12T12:00:00+00:00",
       "title": "ELIZABETH WALSH(Music)",
       "venue": "Young Ethel's",
@@ -145,7 +106,7 @@
     },
     {
       "date": "2026-08-13T20:00:00-04:00",
-      "title": "Stand Up Shenanigans",
+      "title": "Tight Pants Comedy",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
@@ -153,7 +114,7 @@
       "end_time_raw": null,
       "description": "Weekend Warmup comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...Line up Below",
       "extraction_method": "json-ld",
-      "vendor": "Stand Up Shenanigans",
+      "vendor": "Tight Pants Comedy",
       "location": "Eastville Comedy Club"
     },
     {
@@ -522,7 +483,7 @@
     },
     {
       "date": "2026-08-16T19:30:00-04:00",
-      "title": "Sunday Night Comedy",
+      "title": "Punchline Comedy",
       "venue": "Eastville Comedy Club",
       "start_time": "7:30 PM ET",
       "end_time": null,
@@ -530,7 +491,7 @@
       "end_time_raw": null,
       "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
       "extraction_method": "json-ld",
-      "vendor": "Sunday Night Comedy",
+      "vendor": "Punchline Comedy",
       "location": "Eastville Comedy Club"
     },
     {
@@ -623,9 +584,48 @@
       "extraction_method": "api",
       "vendor": "Brooklyn Books &#038; Booze Reading Series at Barrow&#8217;s Intense",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-08-19T12:00:00+00:00",
+      "title": "THE BUCK AND A QUARTER QUARTET(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE BUCK AND A QUARTER QUARTET(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-19T19:30:00",
+      "title": "WE HAVE FUN STAND-UP(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "WE HAVE FUN STAND-UP(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-19T20:00:00-04:00",
+      "title": "Alvin Kuai, Nick Tilleli, Tom Zappia, Cesh Reyes",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Wednesday Night in BrooklynFeaturingAlvin KuaiNick TilleliTom ZappiaCesh ReyesDJ Hairston",
+      "extraction_method": "json-ld",
+      "vendor": "Alvin Kuai, Nick Tilleli, Tom Zappia, Cesh Reyes",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-11T10:17:10.719184+00:00",
+  "updated": "2026-08-12T10:16:52.346072+00:00",
   "total_events": 48,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
