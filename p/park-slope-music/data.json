@@ -53,19 +53,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-08-14T19:00:00",
-      "title": "Cruel Summer 80s & 90s Dance Party",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "An 80s & 90s throwback dance party with live band The Engagements and DJ Steve Reynolds!",
-      "extraction_method": "api",
-      "vendor": "Cruel Summer 80s & 90s Dance Party",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-14T19:30:00",
       "title": "Tiny Distillery Concerts",
       "venue": "Industry City",
@@ -261,19 +248,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-08-15T20:00:00",
-      "title": "The Newest Olympian LIVE in Brooklyn!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "The #1 Percy Jackson podcast comes to the stage! We'll cover part of The House of Hades plus Q&A!",
-      "extraction_method": "api",
-      "vendor": "The Newest Olympian LIVE in Brooklyn!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-15T20:00:00-04:00",
       "title": "James Mattern, Adrienne Iapalucci, Anthony DeVito, Bryan McKenna",
       "venue": "Eastville Comedy Club",
@@ -298,19 +272,6 @@
       "extraction_method": "json-ld",
       "vendor": "Harris Stanton, Matt Goldich, Carmen Lagala, Levi White",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-15T23:00:00",
-      "title": "Reggae Rewind",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "BUJU \u2022 SIZZLA \u2022 BERES",
-      "extraction_method": "api",
-      "vendor": "Reggae Rewind",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-16T12:00:00+00:00",
@@ -521,19 +482,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-08-19T19:00:00",
-      "title": "Club Internet Presents: DOES \u2018CANCEL CULTURE\u2019 REALLY EXIST?",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Writers and researchers debate the merits of \u201ccancel culture,\u201d analyzing what came of the buzziest term of the 2020s.",
-      "extraction_method": "api",
-      "vendor": "Club Internet Presents: DOES \u2018CANCEL CULTURE\u2019 REALLY EXIST?",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-19T19:30:00",
       "title": "WE HAVE FUN STAND-UP(Comedy)",
       "venue": "Young Ethel's",
@@ -610,19 +558,6 @@
       "extraction_method": "api",
       "vendor": "Summer Comedy Series at Gun Hill",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-08-20T20:00:00",
-      "title": "Ever After: A Cinderella Story Entirely From Memory",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Performers will attempt (& most likely fail) to recreate \"Ever After: A Cinderella Story,\" w/o the aid of scripts, rehearsals, or sobriety!",
-      "extraction_method": "api",
-      "vendor": "Ever After: A Cinderella Story Entirely From Memory",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-20T20:00:00-04:00",
@@ -742,19 +677,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-21T20:00:00",
-      "title": "The Family Room Comedy Show",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "An intimate night of the greatest comedy in New York A night of comedy, music, & maybe the greatest vibes you'll ever get from a comedy show",
-      "extraction_method": "api",
-      "vendor": "The Family Room Comedy Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-21T20:00:00-04:00",
       "title": "Kareem Green, Chloe Radcliffe, Jonathan Randall, Dave Temple",
       "venue": "Eastville Comedy Club",
@@ -781,15 +703,16 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-14T10:16:38.156771+00:00",
-  "total_events": 60,
+  "updated": "2026-08-14T10:17:59.764955+00:00",
+  "total_events": 54,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
