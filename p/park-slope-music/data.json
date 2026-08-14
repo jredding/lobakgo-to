@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-13T18:00:00",
-      "title": "Introduction to Shochu &#8211; Tasting Class and Brewery Tour",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "Are you curious about Shochu? Join us to learn the basics of this delicious and unique 500+ year old Japanese Spirit, how to differentiate between styles, and how to serve Shochu to its best advantage and use it in delicious craft cocktails. We&#8217;ll also explore the nuance of Shochu vs Sake and Soju! The course includes a guided tour of Brooklyn Kura&#8217;s sake brewery (through the lens of shochu making), a flight of 5 different shochus served in a variety of styles, and a few snacks to accompany the tasting.\nWhat&#8217;s included:\n-Shochu 101 presentation to walk you through the fundamentals of the Japanese spirit\n-A guided tasting of 4 different Japanese Shochus, as well as Brooklyn Kura&#8217;s house-made Shochu\n-A Handout/notes section for reference at home\n-Snacks to accompany the spirit tasting\n-A 10% discount for purchasing bottles at Brooklyn Kura or select bottles at Kuraichi",
-      "extraction_method": "api",
-      "vendor": "Introduction to Shochu &#8211; Tasting Class and Brewery Tour",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-13T19:00:00",
-      "title": "Summer Comedy Series at Gun Hill",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Join us for the Summer Comedy Series this July and August at Gun Hill &#8211; FREE comedy show every week hosted by But What&#8217;d You Say and The Stash. Bring your friends, have a beer, and enjoy the laughs!\n7PM on 7/9, 7/16, 7/24, 7/30, 8/6, 8/13, 8/20, 8/28",
-      "extraction_method": "api",
-      "vendor": "Summer Comedy Series at Gun Hill",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-13T20:00:00-04:00",
-      "title": "Tight Pants Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Weekend Warmup comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...Line up Below",
-      "extraction_method": "json-ld",
-      "vendor": "Tight Pants Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-08-14T12:00:00+00:00",
       "title": "GIRL SCOUT HANDBOOK(Music)",
       "venue": "Young Ethel's",
@@ -90,6 +51,19 @@
       "extraction_method": "json-ld",
       "vendor": "Brooklyn Power Hour",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-14T19:00:00",
+      "title": "Cruel Summer 80s & 90s Dance Party",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "An 80s & 90s throwback dance party with live band The Engagements and DJ Steve Reynolds!",
+      "extraction_method": "api",
+      "vendor": "Cruel Summer 80s & 90s Dance Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-14T19:30:00",
@@ -287,6 +261,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-08-15T20:00:00",
+      "title": "The Newest Olympian LIVE in Brooklyn!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "The #1 Percy Jackson podcast comes to the stage! We'll cover part of The House of Hades plus Q&A!",
+      "extraction_method": "api",
+      "vendor": "The Newest Olympian LIVE in Brooklyn!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-15T20:00:00-04:00",
       "title": "James Mattern, Adrienne Iapalucci, Anthony DeVito, Bryan McKenna",
       "venue": "Eastville Comedy Club",
@@ -311,6 +298,19 @@
       "extraction_method": "json-ld",
       "vendor": "Harris Stanton, Matt Goldich, Carmen Lagala, Levi White",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-15T23:00:00",
+      "title": "Reggae Rewind",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "BUJU \u2022 SIZZLA \u2022 BERES",
+      "extraction_method": "api",
+      "vendor": "Reggae Rewind",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-16T12:00:00+00:00",
@@ -521,6 +521,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-19T19:00:00",
+      "title": "Club Internet Presents: DOES \u2018CANCEL CULTURE\u2019 REALLY EXIST?",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Writers and researchers debate the merits of \u201ccancel culture,\u201d analyzing what came of the buzziest term of the 2020s.",
+      "extraction_method": "api",
+      "vendor": "Club Internet Presents: DOES \u2018CANCEL CULTURE\u2019 REALLY EXIST?",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-19T19:30:00",
       "title": "WE HAVE FUN STAND-UP(Comedy)",
       "venue": "Young Ethel's",
@@ -599,6 +612,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-20T20:00:00",
+      "title": "Ever After: A Cinderella Story Entirely From Memory",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Performers will attempt (& most likely fail) to recreate \"Ever After: A Cinderella Story,\" w/o the aid of scripts, rehearsals, or sobriety!",
+      "extraction_method": "api",
+      "vendor": "Ever After: A Cinderella Story Entirely From Memory",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-20T20:00:00-04:00",
       "title": "Brotaku",
       "venue": "Eastville Comedy Club",
@@ -623,18 +649,147 @@
       "extraction_method": "html",
       "vendor": "Jim Staley with Ikue Mori and Zeena Parkins",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-08-21T12:00:00+00:00",
+      "title": "SAD SONG HAPPY HOUR(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SAD SONG HAPPY HOUR(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-21T12:00:00+00:00",
+      "title": "THE NIGHT BREAKERS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE NIGHT BREAKERS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-21T12:00:00+00:00",
+      "title": "CELLO AND BRASS METAL NIGHT FEAT FUNKRUST BRASS BAND// EIGHT FOOT MANCHILD// YOU BRED RAPTORS?(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "CELLO AND BRASS METAL NIGHT FEAT FUNKRUST BRASS BAND// EIGHT FOOT MANCHILD// YOU BRED RAPTORS?(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-21T18:00:00-04:00",
+      "title": "Harvard Square Presents - Comedy Studio",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
+      "extraction_method": "json-ld",
+      "vendor": "Harvard Square Presents - Comedy Studio",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-21T18:00:00",
+      "title": "Sake and Cheese Pairing Class and Brewery Tour",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Step away from that bottle of vino and join us to sample the absolute best beverage to pair with cheese &#8211; We are talking about sake! If you haven&#8217;t yet tried pairing craft sake and premium cheese, you are in for a revelation. We&#8217;ll explore a wide range of flavors and textures&#8230; and together, we&#8217;ll discover the most exciting combinations of sake styles and cheeses from around the world. The experience is fun, interactive and absolutely delicious! Join us at Brooklyn Kura to learn about sake where sake is made!\nWhat&#8217;s included:\nA welcome sake to get you started!\nA brief intro to sake and cheese basics.\nGuided Tasting of 5 Japanese craft sakes from different regions paired to perfection with 5 outstanding cheese varieties.\nExploration of sake and cheese production styles and terrior.\nEnjoy some nibbles and spreads on your cheese board that will take the pairing over the top.\nHandouts so you can bring your newfound sake and cheese knowledge home\nFinish with a Guided tour through our new Sake Brewery",
+      "extraction_method": "api",
+      "vendor": "Sake and Cheese Pairing Class and Brewery Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-21T18:00:00",
+      "title": "Latin Night with JuanMa at Gun Hill",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Join us for Latin Night at Gun Hill featuring live music by JuanMa!",
+      "extraction_method": "api",
+      "vendor": "Latin Night with JuanMa at Gun Hill",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-21T19:30:00",
+      "title": "Plain Slice Comedy Show",
+      "venue": "Industry City",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Join Fort Hamilton Distillery Friday August 21st for Plain Slice Comedy. This show features some of New York\u2019s best comics and rising talents.",
+      "extraction_method": "api",
+      "vendor": "Plain Slice Comedy Show",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-21T20:00:00",
+      "title": "The Family Room Comedy Show",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "An intimate night of the greatest comedy in New York A night of comedy, music, & maybe the greatest vibes you'll ever get from a comedy show",
+      "extraction_method": "api",
+      "vendor": "The Family Room Comedy Show",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-08-21T20:00:00-04:00",
+      "title": "Kareem Green, Chloe Radcliffe, Jonathan Randall, Dave Temple",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Prime-Time Comedy in Brooklyn!FEATURING SPECIAL GUEST COMEDIANS...Lineup BelowFeaturingKareem GreenChloe RadcliffeJonathan RandallDave TempleEagle Witt",
+      "extraction_method": "json-ld",
+      "vendor": "Kareem Green, Chloe Radcliffe, Jonathan Randall, Dave Temple",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-21T22:00:00-04:00",
+      "title": "Farooq Hussain, Joe Mahoney, kyle mara, Whitney Chanel",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "TGIF Comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)FeaturingFarooq HussainJoe Mahoneykyle maraWhitney ChanelDJ Hairston",
+      "extraction_method": "json-ld",
+      "vendor": "Farooq Hussain, Joe Mahoney, kyle mara, Whitney Chanel",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-13T10:17:22.248540+00:00",
-  "total_events": 48,
+  "updated": "2026-08-14T10:16:38.156771+00:00",
+  "total_events": 60,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
