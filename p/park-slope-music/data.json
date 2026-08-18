@@ -40,19 +40,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-08-19T19:00:00",
-      "title": "Club Internet Presents: DOES \u2018CANCEL CULTURE\u2019 REALLY EXIST?",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Writers and researchers debate the merits of \u201ccancel culture,\u201d analyzing what came of the buzziest term of the 2020s.",
-      "extraction_method": "api",
-      "vendor": "Club Internet Presents: DOES \u2018CANCEL CULTURE\u2019 REALLY EXIST?",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-19T19:30:00",
       "title": "WE HAVE FUN STAND-UP(Comedy)",
       "venue": "Young Ethel's",
@@ -129,19 +116,6 @@
       "extraction_method": "api",
       "vendor": "Summer Comedy Series at Gun Hill",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-08-20T20:00:00",
-      "title": "Ever After: A Cinderella Story Entirely From Memory",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Performers will attempt (& most likely fail) to recreate \"Ever After: A Cinderella Story,\" w/o the aid of scripts, rehearsals, or sobriety!",
-      "extraction_method": "api",
-      "vendor": "Ever After: A Cinderella Story Entirely From Memory",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-20T20:00:00-04:00",
@@ -261,19 +235,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-21T20:00:00",
-      "title": "The Family Room Comedy Show",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "An intimate night of the greatest comedy in New York A night of comedy, music, & maybe the greatest vibes you'll ever get from a comedy show",
-      "extraction_method": "api",
-      "vendor": "The Family Room Comedy Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-21T20:00:00-04:00",
       "title": "Kareem Green, Chloe Radcliffe, Jonathan Randall, Dave Temple",
       "venue": "Eastville Comedy Club",
@@ -311,19 +272,6 @@
       "extraction_method": "json-ld",
       "vendor": "Farooq Hussain, Joe Mahoney, kyle mara, Whitney Chanel",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-21T23:00:00",
-      "title": "WHINE SLOW - NYC's Sexiest Summer Day Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
-      "extraction_method": "api",
-      "vendor": "WHINE SLOW - NYC's Sexiest Summer Day Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-22T10:00:00",
@@ -443,19 +391,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-08-22T19:30:00",
-      "title": "Do You Still Like Me? A Comedy Dating Show",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A live comedy dating show where comics perform for their blind dates before asking the big question: Do you still like me?",
-      "extraction_method": "api",
-      "vendor": "Do You Still Like Me? A Comedy Dating Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-22T20:00:00-04:00",
       "title": "James Mattern, Anthony DeVito, Tom Zappia, Shaunak Godkhindi",
       "venue": "Eastville Comedy Club",
@@ -480,19 +415,6 @@
       "extraction_method": "json-ld",
       "vendor": "Michael Good, Tom Zappia, Chris Tos, Isabel Hagen",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-22T23:00:00",
-      "title": "BASHMENT IN BK - Summer Dancehall & Soca Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
-      "extraction_method": "api",
-      "vendor": "BASHMENT IN BK - Summer Dancehall & Soca Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-23T12:00:00+00:00",
@@ -586,19 +508,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-23T19:00:00",
-      "title": "Hot Guy Draft: First Crush",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:30 PM",
-      "description": "This Hot Guy Draft pits 4 comedians against one another in a fantasy draft of our collective pop culture crushes",
-      "extraction_method": "api",
-      "vendor": "Hot Guy Draft: First Crush",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-23T19:30:00-04:00",
       "title": "Sunday Night Comedy",
       "venue": "Eastville Comedy Club",
@@ -675,30 +584,18 @@
       "extraction_method": "html",
       "vendor": "KA-BINGO!(Variety)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-25T20:00:00",
-      "title": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "See the indie southern gothic horror sensation DARK HOLLOW (coming to theaters and VoD in September) in this exclusive sneak preview!",
-      "extraction_method": "api",
-      "vendor": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
-      "location": "Littlefield"
     }
   ],
-  "updated": "2026-08-18T10:17:00.377873+00:00",
-  "total_events": 53,
+  "updated": "2026-08-18T10:18:44.446914+00:00",
+  "total_events": 45,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
