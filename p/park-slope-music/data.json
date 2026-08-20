@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-19T12:00:00+00:00",
-      "title": "THE BUCK AND A QUARTER QUARTET(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THE BUCK AND A QUARTER QUARTET(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-19T19:30:00",
-      "title": "WE HAVE FUN STAND-UP(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STAND-UP(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-19T20:00:00-04:00",
-      "title": "Alvin Kuai, Nick Tilleli, Tom Zappia, Cesh Reyes",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Wednesday Night in BrooklynFeaturingAlvin KuaiNick TilleliTom ZappiaCesh ReyesDJ Hairston",
-      "extraction_method": "json-ld",
-      "vendor": "Alvin Kuai, Nick Tilleli, Tom Zappia, Cesh Reyes",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-08-20T10:00:00",
       "title": "DWR Semiannual Sale Promotion Begins (8/20 &#8211; 9/22)",
       "venue": "Industry City",
@@ -92,16 +53,29 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-20T20:00:00",
+      "title": "Ever After: A Cinderella Story Entirely From Memory",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Performers will attempt (& most likely fail) to recreate \"Ever After: A Cinderella Story,\" w/o the aid of scripts, rehearsals, or sobriety!",
+      "extraction_method": "api",
+      "vendor": "Ever After: A Cinderella Story Entirely From Memory",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-20T20:00:00-04:00",
-      "title": "Brotaku",
+      "title": "Vishnu Vaka, Joe Mahoney, Cesh Reyes, kyle mara",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "Video game tournament featuring New York&#39;s funniest comedians commentating and roasting participants as they compete for cash &amp; prizes!",
+      "description": "Video game tournament featuring New York&#39;s funniest comedians commentating and roasting participants as they compete for cash &amp; prizes!FeaturingVishnu VakaJoe MahoneyCesh Reyeskyle maraWhitney ChanelJoe Mahoney is an NYC comic from Long Island who can play to many different crowds. His clever writing has earned him countless spots at the legendary Comic Strip Live and feature work on the road. He&rsquo;s appeared on Adult Swim and Compound Media.Joe Mahoney is an NYC comic from Long Island who can play to many different crowds. His clever writing has earned him countless spots at the legendary Comic Strip Live and feature work on the road. He&rsquo;s appeared on Adult Swim and Compound Media.",
       "extraction_method": "json-ld",
-      "vendor": "Brotaku",
+      "vendor": "Vishnu Vaka, Joe Mahoney, Cesh Reyes, kyle mara",
       "location": "Eastville Comedy Club"
     },
     {
@@ -209,6 +183,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-21T20:00:00",
+      "title": "The Family Room Comedy Show",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "An intimate night of the greatest comedy in New York A night of comedy, music, & maybe the greatest vibes you'll ever get from a comedy show",
+      "extraction_method": "api",
+      "vendor": "The Family Room Comedy Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-21T20:00:00-04:00",
       "title": "Kareem Green, Chloe Radcliffe, Jonathan Randall, Dave Temple",
       "venue": "Eastville Comedy Club",
@@ -248,6 +235,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-08-21T23:00:00",
+      "title": "WHINE SLOW - NYC's Sexiest Summer Day Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
+      "extraction_method": "api",
+      "vendor": "WHINE SLOW - NYC's Sexiest Summer Day Party",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-22T10:00:00",
       "title": "Tin Type: A 19th Century Portrait Experience",
       "venue": "Industry City",
@@ -271,6 +271,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "YELLOW COUCH MUSIC PRESENTS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-22T12:00:00+00:00",
+      "title": "LIP SERVICE: PLAYING LIVE THE BEST OF ELVIS COSTELLO(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "LIP SERVICE: PLAYING LIVE THE BEST OF ELVIS COSTELLO(Music)",
       "location": "Young Ethel's"
     },
     {
@@ -365,6 +378,32 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-08-22T18:00:00",
+      "title": "SOMOS BKLYN Latin Dance and Culture Festival",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "11:30 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "11:30 PM",
+      "description": "RSVP Here! https://wl.eventim.us/event/somos-bklyn-latin-dance-and-culture-festival/701362?afflky=Getitrightthefirsttime\nGet it Right the First and Industry City are proud to present the SOMOS BKLYN Latin Dance and Culture Festival featuring DJ Aguapenela, DJ Hanzi and DJ Retromelodies. The Lulada Club will also be presenting their Music Video Premiere.\nBring your dancing shows for a Salsa lesson with Salsa Salsa studio\nTickets are free, but you must RSVP for entry. RSVP doesn&#8217;t guarantee entry so arrive early! No outside beverages, the venue has a full, reasonably-price bar!\nShowtime: 6pm\nEnd-time: midnight\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore about Somos Brooklyn Latin Dance and Culture Festival\nIt is our great pleasure to announce the first annual Somos BKLYN Festival! This is a COMMUNITY driven effort to celebrate latinidad and the end of summer! Bring your flags and bring your friends as we celebrate our culture in one big baile inolvidable! We invite you to feel the warmth of our community while we learn to salsa thanks to Salsa Salsa dance studio providing a FREE lesson! Then we will watch the premier of Lulada Club\u2019s music video that was filmed right here in Industry City! We will dance the rest of the evening with music by DJ Retro Melodies, DJ Aguapanela and DJ Hanzi! Be part of the inaugural fiesta as we say good bye to summer 2026! This event will be hosted by the incredible comedian Gadiel Del Orbe!",
+      "extraction_method": "api",
+      "vendor": "SOMOS BKLYN Latin Dance and Culture Festival",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-22T19:30:00",
+      "title": "Do You Still Like Me? A Comedy Dating Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "A live comedy dating show where comics perform for their blind dates before asking the big question: Do you still like me?",
+      "extraction_method": "api",
+      "vendor": "Do You Still Like Me? A Comedy Dating Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-22T20:00:00-04:00",
       "title": "James Mattern, Anthony DeVito, Tom Zappia, Shaunak Godkhindi",
       "venue": "Eastville Comedy Club",
@@ -389,6 +428,19 @@
       "extraction_method": "json-ld",
       "vendor": "Michael Good, Tom Zappia, Chris Tos, Isabel Hagen",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-22T23:00:00",
+      "title": "BASHMENT IN BK - Summer Dancehall & Soca Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
+      "extraction_method": "api",
+      "vendor": "BASHMENT IN BK - Summer Dancehall & Soca Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-23T12:00:00+00:00",
@@ -482,6 +534,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-23T19:00:00",
+      "title": "Hot Guy Draft: First Crush",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "This Hot Guy Draft pits 4 comedians against one another in a fantasy draft of our collective pop culture crushes",
+      "extraction_method": "api",
+      "vendor": "Hot Guy Draft: First Crush",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-23T19:30:00-04:00",
       "title": "Sunday Night Comedy",
       "venue": "Eastville Comedy Club",
@@ -560,6 +625,84 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-25T12:00:00+00:00",
+      "title": "KOCI & FOTI + FRIENDS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "KOCI & FOTI + FRIENDS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-25T12:00:00+00:00",
+      "title": "RAY GEHRING GROUP(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "RAY GEHRING GROUP(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-25T20:00:00",
+      "title": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "See the indie southern gothic horror sensation DARK HOLLOW (coming to theaters and VoD in September) in this exclusive sneak preview!",
+      "extraction_method": "api",
+      "vendor": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-08-26T12:00:00+00:00",
+      "title": "FREAKY DEAKY IMPROV(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "FREAKY DEAKY IMPROV(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-26T12:00:00+00:00",
+      "title": "OFF THE CLOCK: HOSPITALITY, HEALING, RITUAL, PRESENTED BY INDUSTRY WITCH(Other)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "OFF THE CLOCK: HOSPITALITY, HEALING, RITUAL, PRESENTED BY INDUSTRY WITCH(Other)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-26T16:30:00",
+      "title": "ROCK FOR TOTS FEATURING MR. RICHARD FROM ROCKNESS MUSIC(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ROCK FOR TOTS FEATURING MR. RICHARD FROM ROCKNESS MUSIC(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-08-26T17:00:00",
       "title": "FREE Beer &#038; Bites @ Dog &#038; Owner Lookalike Contest Hosted by Dogfish Head",
       "venue": "Industry City",
@@ -586,6 +729,32 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-26T19:30:00",
+      "title": "WE HAVE FUN STAND-UP BROUGHT TO YOU BY DAN AND ZACH(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "WE HAVE FUN STAND-UP BROUGHT TO YOU BY DAN AND ZACH(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-26T20:00:00",
+      "title": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is  August 26!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Hosted by Firestone, Featuring Champs: HOT CROSS PUNS, WHEN WIT HITS THE FAN, LEXI KAHN, PUNAMERICAN ACTIVITIES, VOWEL MOVEMENT & More!",
+      "extraction_method": "api",
+      "vendor": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is  August 26!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-26T20:00:00-04:00",
       "title": "Grassroots Comedy",
       "venue": "Eastville Comedy Club",
@@ -597,18 +766,95 @@
       "extraction_method": "json-ld",
       "vendor": "Grassroots Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-27T12:00:00+00:00",
+      "title": "MAGIC AND MENTALISM(Other)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "MAGIC AND MENTALISM(Other)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-27T12:00:00+00:00",
+      "title": "MUSIC TBA(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "MUSIC TBA(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-27T18:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Welcome to Brooklyn Kura! Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery.",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-27T19:00:00",
+      "title": "Diego Campoverde Presents: I Love Funny People",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Diego brings together some of his funniest friends for a night of laughter, fun, and a little booze!",
+      "extraction_method": "api",
+      "vendor": "Diego Campoverde Presents: I Love Funny People",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-27T20:00:00",
+      "title": "Richie's Mafia Game",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Inspired by The Traitors on Peacock. Comedians, reality stars, & microcelebrities compete in a game of deception, investigation & accusation",
+      "extraction_method": "api",
+      "vendor": "Richie's Mafia Game",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-08-27T20:00:00-04:00",
+      "title": "LASERGOOCH: A Comedy Show Featuring Colin Armstrong",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
+      "extraction_method": "json-ld",
+      "vendor": "LASERGOOCH: A Comedy Show Featuring Colin Armstrong",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-19T10:16:23.509140+00:00",
-  "total_events": 46,
+  "updated": "2026-08-20T10:17:00.808753+00:00",
+  "total_events": 65,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
