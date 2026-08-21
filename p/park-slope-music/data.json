@@ -92,6 +92,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-21T20:00:00",
+      "title": "The Family Room Comedy Show",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "An intimate night of the greatest comedy in New York A night of comedy, music, & maybe the greatest vibes you'll ever get from a comedy show",
+      "extraction_method": "api",
+      "vendor": "The Family Room Comedy Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-21T20:00:00-04:00",
       "title": "Kareem Green, Chloe Radcliffe, Jonathan Randall, Dave Temple",
       "venue": "Eastville Comedy Club",
@@ -129,6 +142,19 @@
       "extraction_method": "json-ld",
       "vendor": "Farooq Hussain, Joe Mahoney, kyle mara, Whitney Chanel",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-21T23:00:00",
+      "title": "WHINE SLOW - NYC's Sexiest Summer Day Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
+      "extraction_method": "api",
+      "vendor": "WHINE SLOW - NYC's Sexiest Summer Day Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-22T10:00:00",
@@ -274,6 +300,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-22T19:30:00",
+      "title": "Do You Still Like Me? A Comedy Dating Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "A live comedy dating show where comics perform for their blind dates before asking the big question: Do you still like me?",
+      "extraction_method": "api",
+      "vendor": "Do You Still Like Me? A Comedy Dating Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-22T20:00:00-04:00",
       "title": "James Mattern, Anthony DeVito, Tom Zappia, Shaunak Godkhindi",
       "venue": "Eastville Comedy Club",
@@ -298,6 +337,19 @@
       "extraction_method": "json-ld",
       "vendor": "Michael Good, Tom Zappia, Chris Tos, Isabel Hagen",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-22T23:00:00",
+      "title": "BASHMENT IN BK - Summer Dancehall & Soca Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
+      "extraction_method": "api",
+      "vendor": "BASHMENT IN BK - Summer Dancehall & Soca Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-23T12:00:00+00:00",
@@ -389,6 +441,19 @@
       "extraction_method": "api",
       "vendor": "Quilted Needle Book Workshop",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-08-23T19:00:00",
+      "title": "Hot Guy Draft: First Crush",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "This Hot Guy Draft pits 4 comedians against one another in a fantasy draft of our collective pop culture crushes",
+      "extraction_method": "api",
+      "vendor": "Hot Guy Draft: First Crush",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-23T19:30:00-04:00",
@@ -495,6 +560,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-25T20:00:00",
+      "title": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "See the indie southern gothic horror sensation DARK HOLLOW (coming to theaters and VoD in September) in this exclusive sneak preview!",
+      "extraction_method": "api",
+      "vendor": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-26T12:00:00+00:00",
       "title": "FREAKY DEAKY IMPROV(Improv Comedy)",
       "venue": "Young Ethel's",
@@ -573,6 +651,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-26T20:00:00",
+      "title": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is  August 26!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Hosted by Firestone, Featuring Champs: HOT CROSS PUNS, WHEN WIT HITS THE FAN, LEXI KAHN, PUNAMERICAN ACTIVITIES, VOWEL MOVEMENT & More!",
+      "extraction_method": "api",
+      "vendor": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is  August 26!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-26T20:00:00-04:00",
       "title": "Grassroots Comedy",
       "venue": "Eastville Comedy Club",
@@ -636,6 +727,19 @@
       "extraction_method": "api",
       "vendor": "Diego Campoverde Presents: I Love Funny People",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-08-27T20:00:00",
+      "title": "Richie's Mafia Game",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Inspired by The Traitors on Peacock. Comedians, reality stars, & microcelebrities compete in a game of deception, investigation & accusation",
+      "extraction_method": "api",
+      "vendor": "Richie's Mafia Game",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-27T20:00:00-04:00",
@@ -755,16 +859,15 @@
       "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-21T10:17:22.421862+00:00",
-  "total_events": 58,
+  "updated": "2026-08-21T10:19:12.062910+00:00",
+  "total_events": 66,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
