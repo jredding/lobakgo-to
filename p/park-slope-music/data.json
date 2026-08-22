@@ -1,162 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-21T12:00:00+00:00",
-      "title": "SAD SONG HAPPY HOUR(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SAD SONG HAPPY HOUR(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-21T12:00:00+00:00",
-      "title": "THE NIGHT BREAKERS(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THE NIGHT BREAKERS(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-21T12:00:00+00:00",
-      "title": "CELLO AND BRASS METAL NIGHT FEAT FUNKRUST BRASS BAND// EIGHT FOOT MANCHILD// YOU BRED RAPTORS?(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "CELLO AND BRASS METAL NIGHT FEAT FUNKRUST BRASS BAND// EIGHT FOOT MANCHILD// YOU BRED RAPTORS?(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-21T18:00:00-04:00",
-      "title": "Harvard Square Presents - Comedy Studio",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
-      "extraction_method": "json-ld",
-      "vendor": "Harvard Square Presents - Comedy Studio",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-21T18:00:00",
-      "title": "Sake and Cheese Pairing Class and Brewery Tour",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "Step away from that bottle of vino and join us to sample the absolute best beverage to pair with cheese &#8211; We are talking about sake! If you haven&#8217;t yet tried pairing craft sake and premium cheese, you are in for a revelation. We&#8217;ll explore a wide range of flavors and textures&#8230; and together, we&#8217;ll discover the most exciting combinations of sake styles and cheeses from around the world. The experience is fun, interactive and absolutely delicious! Join us at Brooklyn Kura to learn about sake where sake is made!\nWhat&#8217;s included:\nA welcome sake to get you started!\nA brief intro to sake and cheese basics.\nGuided Tasting of 5 Japanese craft sakes from different regions paired to perfection with 5 outstanding cheese varieties.\nExploration of sake and cheese production styles and terrior.\nEnjoy some nibbles and spreads on your cheese board that will take the pairing over the top.\nHandouts so you can bring your newfound sake and cheese knowledge home\nFinish with a Guided tour through our new Sake Brewery",
-      "extraction_method": "api",
-      "vendor": "Sake and Cheese Pairing Class and Brewery Tour",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-21T18:00:00",
-      "title": "Latin Night with JuanMa at Gun Hill",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Join us for Latin Night at Gun Hill featuring live music by JuanMa!",
-      "extraction_method": "api",
-      "vendor": "Latin Night with JuanMa at Gun Hill",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-21T19:30:00",
-      "title": "Plain Slice Comedy Show",
-      "venue": "Industry City",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:30 PM",
-      "description": "Join Fort Hamilton Distillery Friday August 21st for Plain Slice Comedy. This show features some of New York\u2019s best comics and rising talents.",
-      "extraction_method": "api",
-      "vendor": "Plain Slice Comedy Show",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-21T20:00:00",
-      "title": "The Family Room Comedy Show",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "An intimate night of the greatest comedy in New York A night of comedy, music, & maybe the greatest vibes you'll ever get from a comedy show",
-      "extraction_method": "api",
-      "vendor": "The Family Room Comedy Show",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-08-21T20:00:00-04:00",
-      "title": "Kareem Green, Chloe Radcliffe, Jonathan Randall, Dave Temple",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Prime-Time Comedy in Brooklyn!FEATURING SPECIAL GUEST COMEDIANS...Lineup BelowFeaturingKareem GreenChloe RadcliffeJonathan RandallDave TempleEagle Witt",
-      "extraction_method": "json-ld",
-      "vendor": "Kareem Green, Chloe Radcliffe, Jonathan Randall, Dave Temple",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-21T20:00:00",
-      "title": "Salsa Night at Sahadi&#8217;s Industry City with Tres Del Solar Salsa Band",
-      "venue": "Industry City",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Salsa Night at Sahadi\u2019s Industry City!\nBrooklyn&#8217;s Best Salsa Night at Sahadi&#8217;s.\nLive Salsa music, dancing, drinks, and great vibes with the Tres Del Solar Band.\n\ud83d\udccd Location:\nSahadi\u2019s Industry City\n52 35th Street, Brooklyn, NY 11232\nIndustry City Courtyard 3/4, Building 4\n\ud83c\udf77 Full Bar featuring tap wines, tap beers, and refreshing cocktails\n\ud83c\udf7d\ufe0f Full Dinner Menu + Shareable Snacks\n\ud83d\udc83 Live Salsa Music &amp; Dancing All Night (Brooklyn&#8217;s Best Salsa Night)\n*If weather conditions are unfavorable, the event will be rescheduled to the following Friday.\nFor Reservations : 718-788-7500\nWalk-ins Are Welcome!!",
-      "extraction_method": "api",
-      "vendor": "Salsa Night at Sahadi&#8217;s Industry City with Tres Del Solar Salsa Band",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-21T22:00:00-04:00",
-      "title": "Farooq Hussain, Joe Mahoney, kyle mara, Whitney Chanel",
-      "venue": "Eastville Comedy Club",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": "TGIF Comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)FeaturingFarooq HussainJoe Mahoneykyle maraWhitney ChanelDJ Hairston",
-      "extraction_method": "json-ld",
-      "vendor": "Farooq Hussain, Joe Mahoney, kyle mara, Whitney Chanel",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-21T23:00:00",
-      "title": "WHINE SLOW - NYC's Sexiest Summer Day Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
-      "extraction_method": "api",
-      "vendor": "WHINE SLOW - NYC's Sexiest Summer Day Party",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-22T10:00:00",
       "title": "Tin Type: A 19th Century Portrait Experience",
       "venue": "Industry City",
@@ -300,19 +144,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-22T19:30:00",
-      "title": "Do You Still Like Me? A Comedy Dating Show",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "A live comedy dating show where comics perform for their blind dates before asking the big question: Do you still like me?",
-      "extraction_method": "api",
-      "vendor": "Do You Still Like Me? A Comedy Dating Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-22T20:00:00-04:00",
       "title": "James Mattern, Anthony DeVito, Tom Zappia, Shaunak Godkhindi",
       "venue": "Eastville Comedy Club",
@@ -337,19 +168,6 @@
       "extraction_method": "json-ld",
       "vendor": "Michael Good, Tom Zappia, Chris Tos, Isabel Hagen",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-22T23:00:00",
-      "title": "BASHMENT IN BK - Summer Dancehall & Soca Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
-      "extraction_method": "api",
-      "vendor": "BASHMENT IN BK - Summer Dancehall & Soca Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-23T12:00:00+00:00",
@@ -443,21 +261,8 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-23T19:00:00",
-      "title": "Hot Guy Draft: First Crush",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:30 PM",
-      "description": "This Hot Guy Draft pits 4 comedians against one another in a fantasy draft of our collective pop culture crushes",
-      "extraction_method": "api",
-      "vendor": "Hot Guy Draft: First Crush",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-23T19:30:00-04:00",
-      "title": "Sunday Night Comedy",
+      "title": "Vishnu Vaka, Zahid Dewji, John Bennett",
       "venue": "Eastville Comedy Club",
       "start_time": "7:30 PM ET",
       "end_time": null,
@@ -465,7 +270,7 @@
       "end_time_raw": null,
       "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
       "extraction_method": "json-ld",
-      "vendor": "Sunday Night Comedy",
+      "vendor": "Vishnu Vaka, Zahid Dewji, John Bennett",
       "location": "Eastville Comedy Club"
     },
     {
@@ -535,7 +340,7 @@
     },
     {
       "date": "2026-08-25T12:00:00+00:00",
-      "title": "KOCI & FOTI + FRIENDS(Music)",
+      "title": "KOCI & FOTI + AND FRIENDS(Music)",
       "venue": "Young Ethel's",
       "start_time": "7:00 PM ET",
       "end_time": null,
@@ -543,7 +348,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "KOCI & FOTI + FRIENDS(Music)",
+      "vendor": "KOCI & FOTI + AND FRIENDS(Music)",
       "location": "Young Ethel's"
     },
     {
@@ -558,19 +363,6 @@
       "extraction_method": "html",
       "vendor": "RAY GEHRING GROUP(Music)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-25T20:00:00",
-      "title": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "See the indie southern gothic horror sensation DARK HOLLOW (coming to theaters and VoD in September) in this exclusive sneak preview!",
-      "extraction_method": "api",
-      "vendor": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-26T12:00:00+00:00",
@@ -651,19 +443,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-08-26T20:00:00",
-      "title": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is  August 26!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Hosted by Firestone, Featuring Champs: HOT CROSS PUNS, WHEN WIT HITS THE FAN, LEXI KAHN, PUNAMERICAN ACTIVITIES, VOWEL MOVEMENT & More!",
-      "extraction_method": "api",
-      "vendor": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is  August 26!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-26T20:00:00-04:00",
       "title": "Grassroots Comedy",
       "venue": "Eastville Comedy Club",
@@ -727,19 +506,6 @@
       "extraction_method": "api",
       "vendor": "Diego Campoverde Presents: I Love Funny People",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-08-27T20:00:00",
-      "title": "Richie's Mafia Game",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Inspired by The Traitors on Peacock. Comedians, reality stars, & microcelebrities compete in a game of deception, investigation & accusation",
-      "extraction_method": "api",
-      "vendor": "Richie's Mafia Game",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-27T20:00:00-04:00",
@@ -857,17 +623,174 @@
       "extraction_method": "json-ld",
       "vendor": "Comedy Rap Battle",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-29T12:00:00+00:00",
+      "title": "FOLDING CHAIRS// THE CLOWDS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "1:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "FOLDING CHAIRS// THE CLOWDS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-29T12:00:00+00:00",
+      "title": "IMPROV TBA(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "IMPROV TBA(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-29T12:00:00+00:00",
+      "title": "TBA: BUT I KNOW IT\u2019S A DOLLS THEMED EVENING OF BURLESQUE(Draglesque)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TBA: BUT I KNOW IT\u2019S A DOLLS THEMED EVENING OF BURLESQUE(Draglesque)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-29T12:00:00+00:00",
+      "title": "TIM ELLIS// TANASHA G// OWEN LLOYD(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TIM ELLIS// TANASHA G// OWEN LLOYD(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-29T12:00:00",
+      "title": "Frank Morrison Open Studio: A Mannerist Approach",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Join Frank Morrison for the final weekend of his Brooklyn Artist Residency.\nExperience a powerful new body of work inspired by Mannerism and Cubism. Created during his residency, these original works on paper celebrate imagination, identity, and the brilliance of our urban communities through Frank Morrison\u2019s distinctive visual language.\nBe among the first to view this exclusive collection, meet the artist, and gain insight into the creative process behind this exciting new direction in his work.\nOPEN STUDIO\nOpen to the Public\nSATURDAY, AUGUST 29, 2026 12:00 PM &#8211; 6:00 PM\nSUNDAY, AUGUST 30, 2026 12:00 PM &#8211; 5:00 PM\nVisit the studio, experience the works, and engage with the artistic process.\nFRANK MORRISON STUDIO\nINDUSTRY CITY\n254 36TH STREET\nBUILDING 2, SUITE 534\nBROOKLYN, NY 11232",
+      "extraction_method": "api",
+      "vendor": "Frank Morrison Open Studio: A Mannerist Approach",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-29T13:00:00",
+      "title": "Japan Village Summer Festival",
+      "venue": "Industry City",
+      "start_time": "1:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "\ud83c\udf89 JAPAN VILLAGE\u2019S 6TH ANNUAL SUMMER FESTIVAL IS BACK! \ud83c\uddef\ud83c\uddf5\u2600\ufe0f\nGet ready for an unforgettable afternoon of Japanese culture, live entertainment, games, food, and BIG prizes! \ud83c\udf8a\nJoin us on Saturday, August 29 and celebrate summer at Japan Village! \ud83c\udf38\nHere\u2019s what\u2019s waiting for you:\n\ud83c\udfa4 Live performances\n\ud83d\udc83 Traditional Japanese dances representing local prefectures\n\ud83c\udfaf Games &amp; activities for all ages\n\ud83c\udf62 Delicious food vendors outdoors\n\ud83c\udfc6 Exciting contests with prizes to win\n\u2708\ufe0f AND YES\u2026 YOU COULD WIN ROUND-TRIP FLIGHT TICKETS TO JAPAN! \ud83c\uddef\ud83c\uddf5\ud83c\udf9f\ufe0f\nBring your friends, bring your family, and come enjoy an afternoon filled with Japanese culture, entertainment, and summer fun. You won\u2019t want to miss this one! \ud83d\udd25\n\ud83d\udccd Japan Village \u2014 934 3rd Ave\n\ud83d\uddd3\ufe0f Saturday, August 29\n\u23f0 1\u20136 PM",
+      "extraction_method": "api",
+      "vendor": "Japan Village Summer Festival",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-29T15:00:00",
+      "title": "Live Music: Irish Music",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Join us at Gun Hill for live Irish music!",
+      "extraction_method": "api",
+      "vendor": "Live Music: Irish Music",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-29T15:00:00",
+      "title": "Le San Culottes at Industry City + Hank&#8217;s Saloon Documentary",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Click here for tickets! https://wl.eventim.us/event/le-san-culottes-at-industry-city-hanks-saloon-documentary/700610?afflky=Getitrightthefirsttime\nIndustry City and Get It Right Music in association with Murmrr Presents are proud to welcome Les Sans Culottes to Industry City. And after the concert by one of the last bands to ever play the legendary Hank&#8217;s Saloon, we will be showing Leon Chase&#8217;s &#8220;Hank&#8217;s Saloon&#8221; documentary that will also feature an introduction and Q&amp;A with filmmaker Leon Chase!\nPlease note: for the concert, there are approximately 60 seats and the rest of the space is standing room. For the movie, there will be about 100-150 seats.\nEvent Info\nDate: August 29th, 2026\nDoors: 3:00pm\nShow: 3:30pm-6:00pm / 2 Sets\nMovie screening: 6:30pm\nTickets: $15 advance / $20 day of show\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore on Les Sans Culottes:\nNamed after the citizen-soldiers of the French Revolution (and also the absence of \u201cculottes\u201d!), the Brooklyn-based French language septet, LES SANS CULOTTES, have been performing their inspired variety of 60\u2019s inspired garage rock and French Pop since 1998, in NYC, across the U.S., Canada and France. The band is known for its high-energy, take-no-prisoners, cirque du slay- performance style and has released nine recordings.\nMore on the Hank&#8217;s Saloon Movie:\nFor over 100 years, Hank\u2019s Saloon existed, under various names and owners, as a beloved local Brooklyn dive bar.\nIn 2018, after nearly a decade of speculation and financial uncertainty, the rickety little building on the corner of Third Avenue and Atlantic announced that they would finally be closing their doors for good.\nThis feature documentary follows Hank\u2019s\u2014along with its colorful staff and rotating cast of oddball patrons\u2014through its stressful and celebratory final months. It also takes a deep-dive into the fascinating history of the building, from its roots as a working-class Irish bar, through its various roles as Prohibition-era speakeasy, Indigenous ironworker hangout, and safe haven in an era of danger and decay, up to its final state as a quintessential \u201cold man bar\u201d turned legendary indie music venue, all pitted against the backdrop of a rapidly changing New York.",
+      "extraction_method": "api",
+      "vendor": "Le San Culottes at Industry City + Hank&#8217;s Saloon Documentary",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-29T16:30:00",
+      "title": "Industry City Gourmet Food and Drinks Tour",
+      "venue": "Industry City",
+      "start_time": "4:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Set against the iconic backdrop of Sunset Park\u2019s historic waterfront, the massive, revitalized structures of Industry City form a breathtaking stage for an exclusive culinary journey. This premium food and cocktail tour is a curated exploration of taste and craft, transforming an evening into a memorable, high-end experience.\nYour adventure begins with artistic bonbons at Lilac Chocolates, explores gourmet imports at Sahadi\u2019s, and includes a refined whiskey tasting at Fort Hamilton Distillery, followed by a sophisticated sake flight. Savor additional artisanal discoveries within the awe-inspiring industrial halls.\nPerfect as a distinctive date night, this tour is also fully customizable for private groups and corporate retreats. We specialize in tailoring this engaging experience for team-building and client entertainment, making it an ideal one-day corporate outing. A sophisticated mini-vacation for locals and a profound discovery for visitors.",
+      "extraction_method": "api",
+      "vendor": "Industry City Gourmet Food and Drinks Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-08-29T18:00:00-04:00",
+      "title": "Combat Zone 360 Presents: Operation LOL",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Combat Zone 360 Presents: Operation LOL",
+      "extraction_method": "json-ld",
+      "vendor": "Combat Zone 360 Presents: Operation LOL",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-29T20:00:00-04:00",
+      "title": "Ariel Elias, Tom Delgado, Tom Zappia, Jonathan Randall",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)FeaturingAriel EliasTom DelgadoTom ZappiaJonathan RandallEagle Witt",
+      "extraction_method": "json-ld",
+      "vendor": "Ariel Elias, Tom Delgado, Tom Zappia, Jonathan Randall",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-08-29T22:00:00-04:00",
+      "title": "Close the Door Behind You - Every Last Saturday",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "Close the Door Behind You - Every Last Saturday FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)",
+      "extraction_method": "json-ld",
+      "vendor": "Close the Door Behind You - Every Last Saturday",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-08-21T10:19:12.062910+00:00",
-  "total_events": 66,
+  "updated": "2026-08-22T10:17:58.397056+00:00",
+  "total_events": 60,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
