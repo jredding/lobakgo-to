@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-24T09:00:00",
-      "title": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "venue": "Industry City",
-      "start_time": "9:00 AM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "9:00 AM",
-      "end_time_raw": "4:00 PM",
-      "description": "Join us for Summer Circuits at Industry City!\n254 36th Street, Building 2- Suite C249 ( Second Floor)\nWe\u2019ll be building a different robot every day, all summer! The highlight of our summer programs is the daily robot-building, of course! And we\u2019ll also be playing games, making crafts, enjoying free play, going outside, and more. Our experienced instructors are passionate about inspiring young minds, fostering creativity, championing kindness, and celebrating some goofiness throughout it all.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-24T10:00:00",
-      "title": "Sake Server Certification",
-      "venue": "Industry City",
-      "start_time": "10:00 AM ET",
-      "end_time": "5:00 PM ET",
-      "start_time_raw": "10:00 AM",
-      "end_time_raw": "5:00 PM",
-      "description": "This is a one day in person seminar from 10am to 5pm with a 1 hour lunch break.\nLevel up your service skills in sake! This one day sake training certification course will teach you all the ins and outs of proper service and sales for sake in your your restaurant or retail shop. There is no prerequisite and this course is open to anyone wishing to get training in professional service of sake. The course consists of four modules.\n1) Introduction to sake &amp; Brewery Tour\n2) sake sales techniques\n3) sake service and presentation\n4) sake menus and pairing\nAfter the one day training course in completed, you&#8217;ll have to option to complete an online course review and online exam within two weeks time. Upon successful completion of the review and exam, you&#8217;ll receive the Sake Studies Center &#8220;Sake Server Certification&#8221; diploma.\nAs a graduate of our professional Sake Server Certification, you&#8217;ll also have ongoing access to our free online sake community for the sake industry. Ask questions, and stay in touch with your fellow sake students and industry leaders.",
-      "extraction_method": "api",
-      "vendor": "Sake Server Certification",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-24T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-24T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-24T21:30:00",
-      "title": "KA-BINGO!(Variety)",
-      "venue": "Young Ethel's",
-      "start_time": null,
-      "end_time": "9:30 PM ET",
-      "start_time_raw": null,
-      "end_time_raw": "9:30 PM",
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "KA-BINGO!(Variety)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-08-25T12:00:00+00:00",
       "title": "KOCI & FOTI + AND FRIENDS(Music)",
       "venue": "Young Ethel's",
@@ -90,6 +25,19 @@
       "extraction_method": "html",
       "vendor": "RAY GEHRING GROUP(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-08-25T20:00:00",
+      "title": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "See the indie southern gothic horror sensation DARK HOLLOW (coming to theaters and VoD in September) in this exclusive sneak preview!",
+      "extraction_method": "api",
+      "vendor": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-26T12:00:00+00:00",
@@ -170,6 +118,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-26T20:00:00",
+      "title": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is  August 26!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Hosted by Firestone, Featuring Champs: HOT CROSS PUNS, WHEN WIT HITS THE FAN, LEXI KAHN, PUNAMERICAN ACTIVITIES, VOWEL MOVEMENT & More!",
+      "extraction_method": "api",
+      "vendor": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is  August 26!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-26T20:00:00-04:00",
       "title": "Grassroots Comedy",
       "venue": "Eastville Comedy Club",
@@ -233,6 +194,19 @@
       "extraction_method": "api",
       "vendor": "Diego Campoverde Presents: I Love Funny People",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-08-27T20:00:00",
+      "title": "Richie's Mafia Game",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Inspired by The Traitors on Peacock. Comedians, reality stars, & microcelebrities compete in a game of deception, investigation & accusation",
+      "extraction_method": "api",
+      "vendor": "Richie's Mafia Game",
+      "location": "Littlefield"
     },
     {
       "date": "2026-08-27T20:00:00-04:00",
@@ -508,6 +482,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-08-29T23:00:00",
+      "title": "Dancehall Forever",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
+      "extraction_method": "api",
+      "vendor": "Dancehall Forever",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-30T12:00:00+00:00",
       "title": "ZOAR\u2019S PAIN(Music)",
       "venue": "Young Ethel's",
@@ -662,9 +649,22 @@
       "extraction_method": "html",
       "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-01T18:30:00",
+      "title": "THERE\u2019S A LOT TO UNPACK HERE(Reading)",
+      "venue": "Young Ethel's",
+      "start_time": "6:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THERE\u2019S A LOT TO UNPACK HERE(Reading)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-08-24T10:17:11.596037+00:00",
+  "updated": "2026-08-25T10:16:33.754782+00:00",
   "total_events": 51,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
@@ -672,8 +672,7 @@
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall",
-    "Failed to fetch information for: Littlefield"
+    "Failed to fetch information for: Union Hall"
   ],
   "haiku": null
 }
