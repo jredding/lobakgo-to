@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-25T12:00:00+00:00",
-      "title": "KOCI & FOTI + AND FRIENDS(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "KOCI & FOTI + AND FRIENDS(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-25T12:00:00+00:00",
-      "title": "RAY GEHRING GROUP(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "RAY GEHRING GROUP(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-25T20:00:00",
-      "title": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "See the indie southern gothic horror sensation DARK HOLLOW (coming to theaters and VoD in September) in this exclusive sneak preview!",
-      "extraction_method": "api",
-      "vendor": "DARK HOLLOW | Indie Horror Feature Sneak Preview Screening",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-26T12:00:00+00:00",
       "title": "FREAKY DEAKY IMPROV(Improv Comedy)",
       "venue": "Young Ethel's",
@@ -326,6 +287,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-08-28T23:00:00",
+      "title": "DANCEHALL vs SOCA - SUMMER PARTY IN BROOKLYN",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
+      "extraction_method": "api",
+      "vendor": "DANCEHALL vs SOCA - SUMMER PARTY IN BROOKLYN",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-08-29T12:00:00+00:00",
       "title": "FOLDING CHAIRS// THE CLOWDS(Music)",
       "venue": "Young Ethel's",
@@ -547,6 +521,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-08-30T14:30:00",
+      "title": "Special Lunar Eclipse Sunday Storytime: O&#8217;win and the Moon by Roseanne Baxter Frank",
+      "venue": "Industry City",
+      "start_time": "2:30 PM ET",
+      "end_time": "3:15 PM ET",
+      "start_time_raw": "2:30 PM",
+      "end_time_raw": "3:15 PM",
+      "description": "When the Moon is swallowed by darkness during a lunar eclipse (much like the one happening on August 28th!), young O\u2019win embarks on a daring quest. With the help of Bear, Lion, and Swan, he races against time\u2014only to dis that the answer lies within him. Blending mythology and wonder, O\u2019win and the Moon is a spell origin tale of how the Bear, Lion, Swan, and Orion constellations came to light the night sky. Author Roseanne Baxter Frank visits Powerhouse IC to share this story of magic and courage.",
+      "extraction_method": "api",
+      "vendor": "Special Lunar Eclipse Sunday Storytime: O&#8217;win and the Moon by Roseanne Baxter Frank",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-08-30T15:00:00",
       "title": "Introduction to Sake Tasting Class and Brewery Tour",
       "venue": "Industry City",
@@ -638,6 +625,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-08-31T12:00:00",
+      "title": "Book Reading with Frank Morrison",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "1:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "1:00 PM",
+      "description": "Come join me, Frank Morrison, Monday, August 31, from 12\u20131 PM at The Landings in industry city\nI\u2019ll be reading from my illustrated children\u2019s book, Kick Push, followed by a live drawing demonstration and Q&amp;A.\nCome hang out, draw with me, and get a behind the scenes look at the creative process.\nMonday, August 31 | 12\u20131 PM\nThe Landings\nI look forward to seeing you there!",
+      "extraction_method": "api",
+      "vendor": "Book Reading with Frank Morrison",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-08-31T16:30:00",
       "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
       "venue": "Young Ethel's",
@@ -664,7 +664,7 @@
       "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-08-25T10:16:33.754782+00:00",
+  "updated": "2026-08-26T10:16:57.659978+00:00",
   "total_events": 51,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
