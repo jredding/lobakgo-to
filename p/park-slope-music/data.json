@@ -53,19 +53,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-08-27T20:00:00",
-      "title": "Richie's Mafia Game",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Inspired by The Traitors on Peacock. Comedians, reality stars, & microcelebrities compete in a game of deception, investigation & accusation",
-      "extraction_method": "api",
-      "vendor": "Richie's Mafia Game",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-08-27T20:00:00-04:00",
       "title": "LASERGOOCH: A Comedy Show Featuring Colin Armstrong",
       "venue": "Eastville Comedy Club",
@@ -181,19 +168,6 @@
       "extraction_method": "json-ld",
       "vendor": "Comedy Rap Battle",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-28T23:00:00",
-      "title": "DANCEHALL vs SOCA - SUMMER PARTY IN BROOKLYN",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to \u2018Fling Yuh Shoulder\u2019 and \"Buss a whine\" as we prepare the BADDEST Bashment Party in NYC",
-      "extraction_method": "api",
-      "vendor": "DANCEHALL vs SOCA - SUMMER PARTY IN BROOKLYN",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-29T12:00:00+00:00",
@@ -350,19 +324,6 @@
       "extraction_method": "json-ld",
       "vendor": "Close the Door Behind You - Every Last Saturday",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-08-29T23:00:00",
-      "title": "Dancehall Forever",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
-      "extraction_method": "api",
-      "vendor": "Dancehall Forever",
-      "location": "Littlefield"
     },
     {
       "date": "2026-08-30T12:00:00+00:00",
@@ -558,30 +519,18 @@
       "extraction_method": "api",
       "vendor": "Friends Theme Trivia Night",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-09-03T20:00:00",
-      "title": "Noah Show: Live!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Where Brooklyn\u2019s biggest comedians face off in a game show that you CAN\u2019T MISS!",
-      "extraction_method": "api",
-      "vendor": "Noah Show: Live!",
-      "location": "Littlefield"
     }
   ],
-  "updated": "2026-08-27T10:17:21.276597+00:00",
-  "total_events": 44,
+  "updated": "2026-08-27T10:19:31.517582+00:00",
+  "total_events": 40,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
   "errors": [
-    "Failed to fetch information for: Union Hall"
+    "Failed to fetch information for: Union Hall",
+    "Failed to fetch information for: Littlefield"
   ],
   "haiku": null
 }
