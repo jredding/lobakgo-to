@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-27T12:00:00+00:00",
-      "title": "MAGIC AND MENTALISM(Other)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "MAGIC AND MENTALISM(Other)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-27T12:00:00+00:00",
-      "title": "MUSIC TBA(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "MUSIC TBA(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-27T18:00:00",
-      "title": "Guided Brewery Tour and Sake Tasting",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "Welcome to Brooklyn Kura! Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery.",
-      "extraction_method": "api",
-      "vendor": "Guided Brewery Tour and Sake Tasting",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-27T19:00:00",
-      "title": "Diego Campoverde Presents: I Love Funny People",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "Diego brings together some of his funniest friends for a night of laughter, fun, and a little booze!",
-      "extraction_method": "api",
-      "vendor": "Diego Campoverde Presents: I Love Funny People",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-27T20:00:00-04:00",
-      "title": "LASERGOOCH: A Comedy Show Featuring Colin Armstrong",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
-      "extraction_method": "json-ld",
-      "vendor": "LASERGOOCH: A Comedy Show Featuring Colin Armstrong",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-08-28T12:00:00+00:00",
       "title": "DYKE PLANET, A MUSICAL BY SWEET PRINCESS(Other)",
       "venue": "Young Ethel's",
@@ -519,10 +454,23 @@
       "extraction_method": "api",
       "vendor": "Friends Theme Trivia Night",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-09-04T19:30:00",
+      "title": "The Night Shift Comedy Show",
+      "venue": "Industry City",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Join us at Fort Hamilton Distillery for a night of big laughs and great pours. Catch NYC\u2019s next wave of comedy talent \u2014 all in our tasting room.",
+      "extraction_method": "api",
+      "vendor": "The Night Shift Comedy Show",
+      "location": "Industry City"
     }
   ],
-  "updated": "2026-08-27T10:19:31.517582+00:00",
-  "total_events": 40,
+  "updated": "2026-08-28T10:17:05.132467+00:00",
+  "total_events": 36,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
