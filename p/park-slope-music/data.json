@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-31T09:00:00",
-      "title": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "venue": "Industry City",
-      "start_time": "9:00 AM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "9:00 AM",
-      "end_time_raw": "4:00 PM",
-      "description": "Join us for Summer Circuits at Industry City!\n254 36th Street, Building 2- Suite C249 ( Second Floor)\nWe\u2019ll be building a different robot every day, all summer! The highlight of our summer programs is the daily robot-building, of course! And we\u2019ll also be playing games, making crafts, enjoying free play, going outside, and more. Our experienced instructors are passionate about inspiring young minds, fostering creativity, championing kindness, and celebrating some goofiness throughout it all.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-31T12:00:00+00:00",
-      "title": "GRACETREE(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "GRACETREE(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-31T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-08-31T12:00:00",
-      "title": "Book Reading with Frank Morrison",
-      "venue": "Industry City",
-      "start_time": "12:00 PM ET",
-      "end_time": "1:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "1:00 PM",
-      "description": "Come join me, Frank Morrison, Monday, August 31, from 12\u20131 PM at The Landings in industry city\nI\u2019ll be reading from my illustrated children\u2019s book, Kick Push, followed by a live drawing demonstration and Q&amp;A.\nCome hang out, draw with me, and get a behind the scenes look at the creative process.\nMonday, August 31 | 12\u20131 PM\nThe Landings\nI look forward to seeing you there!",
-      "extraction_method": "api",
-      "vendor": "Book Reading with Frank Morrison",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-08-31T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-09-01T12:00:00+00:00",
       "title": "WHY DO YOU HATE ME?(Comedy)",
       "venue": "Young Ethel's",
@@ -131,6 +66,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-09-02T20:00:00-04:00",
+      "title": "Laughs on the East Featuring: Cole Cosby, Tom Zappia, Lauren Cocroft, Alex Quow, Whitney Chanel",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy clubFeaturingCole CosbyTom ZappiaLauren CocroftAlex QuowWhitney ChanelCole Cosby is a comedian from Philadelphia (raised in South Jersey), now residing in New York. Cole&rsquo;s interest in stand up comedy began in middle school from watching the performances of legends such as Dave Chappelle, Kevin Hart and the sitcoms of Jerry Seinfeld and Kevin James. Cole&rsquo;s first time performing stand-up comedy came during his junior year of college at an open mic on Temple University&rsquo;s campus. Since that day, and after graduation, Cole Cosby went on to rise in the Philadelphia comedy circuit, becoming a regular host (and feature act) at Helium and Punchline comedy clubs, and working with headliners such as Sam Jay, Josh Johnson, and Tony Rock. Cole Cosby has also opened on the road for comedy legends Sinbad, Caroline Rhea and Tammy Pescatelli. Since moving to New York City in 2023, Cole has passed at Stand Up NY, earned a residency at Broadway Comedy Club, and is on a mission to create his own Cosby legacy.Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.Alex Quow is a New York City&ndash;based stand-up comedian with over 100,000 followers across social platforms, whose work has been featured on HBO, Amazon Prime, and in the New York Comedy Festival. A veteran of nearly a decade on stage, Alex has performed at clubs and theaters nationwide.",
+      "extraction_method": "json-ld",
+      "vendor": "Laughs on the East Featuring: Cole Cosby, Tom Zappia, Lauren Cocroft, Alex Quow, Whitney Chanel",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-09-03T12:00:00+00:00",
       "title": "THE YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT(Improv Comedy)",
       "venue": "Young Ethel's",
@@ -155,6 +103,19 @@
       "extraction_method": "api",
       "vendor": "Friends Theme Trivia Night",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-09-03T20:00:00-04:00",
+      "title": "Miss Lissa Knows, Will Purpura, Chris Tos, Dave Temple, Lori Palminteri",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Weekend Warmup comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...Line up BelowChristos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.Miss Lissa is a traveling comedian, host, actor and writer from New York City. For over 12 years, Melissa &#39;Miss Lissa&#39; Finney has been building the &quot;Miss Lissa Knows&quot; brand. From interviewing celebrities and covering events, to performing in various comedy clubs across the country. Miss Lissa has worked as on-air talent for Vibe Magazine, TMZ, and iOne Digital. In addition, Miss Lissa has been featured in the New York Comedy Festival (2022) (2023)&nbsp;Miss Lissa draws audiences in with her hilarious stories and stands out because of her witty style and dramatic delivery.&nbsp;Dave Temple is the Spotlight stealing comic that has clubs managers and college bookers across the country asking, &quot;Where did you find this guy?!&quot; Originally from Philadelphia, Dave began stand-up comedy as a challenge amongst friends. Dave brings an unadulterated view on life and his immediate surroundings with a poignancy that is unparalleled and leaves every single audience in stitches. Dave has appeared on TruTV&#39;s LaffMobb LaffTracks, Showtime at the Apollo, VH1 Live as well as his own YouTube Show #LOOKATITTHISWAY",
+      "extraction_method": "json-ld",
+      "vendor": "Miss Lissa Knows, Will Purpura, Chris Tos, Dave Temple, Lori Palminteri",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-09-04T12:00:00+00:00",
@@ -183,6 +144,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-09-04T18:00:00-04:00",
+      "title": "Brooklyn Power Hour",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Join us every Friday at 6 PM for Brooklyn Power Hour at the Eastville Comedy Club, a lively happy-hour comedy show hosted by the talented Annette Mullaney, Dara Jemmott, Sara Shipley, and Sarah Barnitt. It\u2019s a perfect way to unwind and enjoy laughs with friends!",
+      "extraction_method": "json-ld",
+      "vendor": "Brooklyn Power Hour",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-09-04T19:30:00",
       "title": "The Night Shift Comedy Show",
       "venue": "Industry City",
@@ -194,6 +168,32 @@
       "extraction_method": "api",
       "vendor": "The Night Shift Comedy Show",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-09-04T20:00:00-04:00",
+      "title": "TGIF Prime Time Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Prime-Time Comedy in Brooklyn!FEATURING SPECIAL GUEST COMEDIANS...Lineup Below",
+      "extraction_method": "json-ld",
+      "vendor": "TGIF Prime Time Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-04T22:00:00-04:00",
+      "title": "Subhah Agarwal, Anthony Moore, Farooq Hussain, John Bennett, Cesh Reyes",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "TGIF Comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)Subhah Agarwal has brought an honesty to her comedy that will leave you saying &quot;I didn&#39;t need to know that.&quot; Subhah has written for Netflix&rsquo;s &ldquo;Arsenio Hall&rdquo; limited series, the &quot;Plan B&quot; movie on Hulu,&quot; and The Jim Jefferies Show&quot;on Comedy Central, amongst others. You can also catch her jokes live at stand up comedy clubs across the country. If you don&#39;t want to leave your couch, you can see her late night debut on NBC&#39;s &quot;A Little Late With Lilly Singh.&quot; She&#39;s also appeared on season three of HBO&#39;s &quot;Westworld&quot;, &quot;General Hospital,&quot; TruTv&#39;s sketch comedy &quot;Friends of the People&quot;, and as herself on MTV2, Comedy Central, and Gotham Comedy Live.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival.",
+      "extraction_method": "json-ld",
+      "vendor": "Subhah Agarwal, Anthony Moore, Farooq Hussain, John Bennett, Cesh Reyes",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-09-05T12:00:00+00:00",
@@ -248,6 +248,45 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-05T18:00:00-04:00",
+      "title": "Dina Hashem, Carmen Lagala, Chris Tos, John Bennett, Dave Temple",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)Dina started comedy in 2010 while attending Rutgers University in her home state of New Jersey. She has since performed in festivals including the Melbourne International Comedy Festival and Bridgetown Comedy Festival, and has been on Comedy Central&#39;s Roast Battle and CONAN. She can be seen at venues all around NYC and followed on social media @dinahashem_Carmen Lagala is a New York City based stand-up comedian who made her network television debut in 2018 on The Late Show with Stephen Colbert.&nbsp;Originally from Vermont, Carmen endears audiences with her small-town charm, delivering jokes that are smart, dark, dirty and playful. She regularly features for comedian Hari Kondabolu at the best clubs and theaters across the country, and recently appeared in the web sketch &ldquo;Dollar Store Therapist&rdquo; for Comedy Central.Carmen was featured in the 2018 New York Comedy Festival for stand-up, sketch, a roast, and her own show &ldquo;Puppets Present&rdquo; which was a Time Out New York pick for &ldquo;Best Shows to See&rdquo;. She&rsquo;s performed in several other festivals including Brooklyn Comedy Festival, Bridgetown, Rogue Island, and the Women in Comedy Festival. Christos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival. Dave Temple is the Spotlight stealing comic that has clubs managers and college bookers across the country asking, &quot;Where did you find this guy?!&quot; Originally from Philadelphia, Dave began stand-up comedy as a challenge amongst friends. Dave brings an unadulterated view on life and his immediate surroundings with a poignancy that is unparalleled and leaves every single audience in stitches. Dave has appeared on TruTV&#39;s LaffMobb LaffTracks, Showtime at the Apollo, VH1 Live as well as his own YouTube Show #LOOKATITTHISWAY",
+      "extraction_method": "json-ld",
+      "vendor": "Dina Hashem, Carmen Lagala, Chris Tos, John Bennett, Dave Temple",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-05T20:00:00-04:00",
+      "title": "Saturday Prime Time Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)",
+      "extraction_method": "json-ld",
+      "vendor": "Saturday Prime Time Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-05T22:00:00-04:00",
+      "title": "Nore Davis, Miss Lissa Knows, Tom Zappia, Lauren Cocroft, Alex Quow",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)Recurring on HBO&#39;s &ldquo;Boardwalk Empire&rdquo; and MTV&#39;s &ldquo;Nikki &amp; Sara Live.&rdquo; Appearances on &ldquo;Inside Amy Schumer,&rdquo; Jerry Seinfeld&rsquo;s &ldquo;Comedians in Cars Getting Coffee,&rdquo; &ldquo;Ours to Own&rdquo; Campaign on Upworthy.com, &ldquo;Russell Simmons Presents: The Ruckus&rdquo; Comedy Central and two appearances on &ldquo;Gotham Comedy Live&rdquo; AXS TV. He has been seen on nickmom &ldquo;Night Out&rdquo; and &ldquo;Mother Funny Specials&rdquo; as well as BET&#39;s &ldquo;Comic View.&rdquo; Recorded an hour special &ldquo;Off the Chain&rdquo; for Bounce TV and New Wave Entertainment. His first CD &ldquo;Home Game&rdquo; for RooftopComedy.com was released on Black Friday, November 28, 2014, to rave reviews. His second CD &ldquo;Away Game&rdquo; for New Wave has also been released. He was a writer on &ldquo;Comedy Fight Night&rdquo; and writer performer on &ldquo;Bullet Pudding&rdquo; truTV and a writer on &ldquo;Yo Is This Racist?,&rdquo; MTV. Nore is currently a writer and on-air talent for seriously.tv.&nbsp;NORE DAVIS, the young refreshing face of comedy, delivers an energetic performance filled with witty quips and sharp punch lines, combined with an amazing stage presence. Edgy and clean, NORE tells it like it is, speaking to audiences everywhere. NORE is a comedian for the masses, relating to everyone from teens to the mature adult, delivering original content, and leaving no topic unturned. From relationships to family, race, and politics, NORE brings a comedic talent that has been refined in front of countless audiences on the world&#39;s biggest stages.&nbsp;NORE&rsquo;s credits include Boardwalk Empire, Inside Amy Schumer, Jerry Seinfeld&rsquo;s Comedians in Cars Getting Coffee, Ours to Own Campaign on www.Upworthy.com, two appearances on Gotham Comedy Live, nickmom Night Out, and The Ruckus. He has been seen at Just for Laughs, Bridgetown and Chicago Comedy Festivals. His first CD Home Game was released on Black Friday, November 28, 2014, on www.RoofTopComedy.com to rave reviews, with sales still climbing. NORE is always perfecting his act. Look out for this rising star, as he reinvents comedy one laugh at a time.Miss Lissa is a traveling comedian, host, actor and writer from New York City. For over 12 years, Melissa &#39;Miss Lissa&#39; Finney has been building the &quot;Miss Lissa Knows&quot; brand. From interviewing celebrities and covering events, to performing in various comedy clubs across the country. Miss Lissa has worked as on-air talent for Vibe Magazine, TMZ, and iOne Digital. In addition, Miss Lissa has been featured in the New York Comedy Festival (2022) (2023)&nbsp;Miss Lissa draws audiences in with her hilarious stories and stands out because of her witty style and dramatic delivery.&nbsp;Alex Quow is a New York City&ndash;based stand-up comedian with over 100,000 followers across social platforms, whose work has been featured on HBO, Amazon Prime, and in the New York Comedy Festival. A veteran of nearly a decade on stage, Alex has performed at clubs and theaters nationwide.",
+      "extraction_method": "json-ld",
+      "vendor": "Nore Davis, Miss Lissa Knows, Tom Zappia, Lauren Cocroft, Alex Quow",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-09-06T12:00:00+00:00",
       "title": "ANGELA MATAJA AND MOLLY WHITAKER(Music)",
       "venue": "Young Ethel's",
@@ -300,17 +339,17 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-09-07T09:00:00",
-      "title": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "venue": "Industry City",
-      "start_time": "9:00 AM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "9:00 AM",
-      "end_time_raw": "4:00 PM",
-      "description": "Join us for Summer Circuits at Industry City!\n254 36th Street, Building 2- Suite C249 ( Second Floor)\nWe\u2019ll be building a different robot every day, all summer! The highlight of our summer programs is the daily robot-building, of course! And we\u2019ll also be playing games, making crafts, enjoying free play, going outside, and more. Our experienced instructors are passionate about inspiring young minds, fostering creativity, championing kindness, and celebrating some goofiness throughout it all.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Robot Foundry Summer Circuits! Every Day",
-      "location": "Industry City"
+      "date": "2026-09-06T19:30:00-04:00",
+      "title": "Jenny Tian, Chris Tos, Joe Mahoney, John Bennett, Whitney Chanel",
+      "venue": "Eastville Comedy Club",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy clubChristos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.A regular on the Sydney comedy circuit, Jenny Tian exploded onto our #fyp during the pandemic notching up millions of likes and amassing a collective online audience of 1M+.Her debut solo show Picture This sold out to audiences up and down the east coast of Australia and was released as a YouTube special where it has clocked up over 900k views.Her second hour Chinese Australian: A Tale of Internet Fame sold out across Australia and took her to her first ever runs at the Edinburgh Fringe and west end Boulevard Theatre, also selling out both.Off the back of her stand up success, Jenny has secured spots on the lineup for the 2024 and 2025 Melbourne International Comedy Festival Gala&rsquo;s and as a cast member in season 2 of Taskmaster AU, the latter earning her a Logie nomination for Best New Talent.Recently announced as a recipient of Screen Aus and YouTube&rsquo;s funding initiative, Skip Ahead, Jenny continues her mastery of online content creation, often using it as material for her stand up shows.After a stint in London, Jenny is now living in New York where she has just completed her first ever US tour of her most recent hour, the aptly titled Jenny&rsquo;s Travels.Joe Mahoney is an NYC comic from Long Island who can play to many different crowds. His clever writing has earned him countless spots at the legendary Comic Strip Live and feature work on the road. He&rsquo;s appeared on Adult Swim and Compound Media.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival. Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.",
+      "extraction_method": "json-ld",
+      "vendor": "Jenny Tian, Chris Tos, Joe Mahoney, John Bennett, Whitney Chanel",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-09-07T12:00:00+00:00",
@@ -363,10 +402,62 @@
       "extraction_method": "html",
       "vendor": "TODDLER SING-A-LONG(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-08T12:00:00+00:00",
+      "title": "TUESDAY OPEN MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TUESDAY OPEN MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-08T19:00:00",
+      "title": "Spirited Away: Psychic &#038; Paranormal Night",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Gather with NYC\u2019s finest readers and psychics for a glorious evening of craft cocktails and supernatural fun, hosted by The Oracle!\nSpirited Away Psychic &amp; Paranormal Night! Winter Edition!\nCome down to Industry City and join us for a cozy evening of psychic readings and craft cocktails!",
+      "extraction_method": "api",
+      "vendor": "Spirited Away: Psychic &#038; Paranormal Night",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-08T19:30:00",
+      "title": "YOUNG ETHELS PRESENTS POP CULTURE TRIVIA TIME MACHINE!(Trivia)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "YOUNG ETHELS PRESENTS POP CULTURE TRIVIA TIME MACHINE!(Trivia)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-08T21:30:00",
+      "title": "JACK WRIGHT, DREW WESLEY, ELI WALLACE(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "JACK WRIGHT, DREW WESLEY, ELI WALLACE(Music)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-08-31T10:16:45.377001+00:00",
-  "total_events": 28,
+  "updated": "2026-09-01T10:17:24.443250+00:00",
+  "total_events": 35,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
