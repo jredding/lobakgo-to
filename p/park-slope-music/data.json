@@ -1,32 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-01T12:00:00+00:00",
-      "title": "WHY DO YOU HATE ME?(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WHY DO YOU HATE ME?(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-01T18:30:00",
-      "title": "THERE\u2019S A LOT TO UNPACK HERE(Reading)",
-      "venue": "Young Ethel's",
-      "start_time": "6:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THERE\u2019S A LOT TO UNPACK HERE(Reading)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-09-02T12:00:00+00:00",
       "title": "COMEDY BY THE MOUTHFUL(Comedy)",
       "venue": "Young Ethel's",
@@ -340,15 +314,15 @@
     },
     {
       "date": "2026-09-06T19:30:00-04:00",
-      "title": "Jenny Tian, Chris Tos, Joe Mahoney, John Bennett, Whitney Chanel",
+      "title": "Comics Anonymous",
       "venue": "Eastville Comedy Club",
       "start_time": "7:30 PM ET",
       "end_time": null,
       "start_time_raw": "7:30 PM",
       "end_time_raw": null,
-      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy clubChristos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.A regular on the Sydney comedy circuit, Jenny Tian exploded onto our #fyp during the pandemic notching up millions of likes and amassing a collective online audience of 1M+.Her debut solo show Picture This sold out to audiences up and down the east coast of Australia and was released as a YouTube special where it has clocked up over 900k views.Her second hour Chinese Australian: A Tale of Internet Fame sold out across Australia and took her to her first ever runs at the Edinburgh Fringe and west end Boulevard Theatre, also selling out both.Off the back of her stand up success, Jenny has secured spots on the lineup for the 2024 and 2025 Melbourne International Comedy Festival Gala&rsquo;s and as a cast member in season 2 of Taskmaster AU, the latter earning her a Logie nomination for Best New Talent.Recently announced as a recipient of Screen Aus and YouTube&rsquo;s funding initiative, Skip Ahead, Jenny continues her mastery of online content creation, often using it as material for her stand up shows.After a stint in London, Jenny is now living in New York where she has just completed her first ever US tour of her most recent hour, the aptly titled Jenny&rsquo;s Travels.Joe Mahoney is an NYC comic from Long Island who can play to many different crowds. His clever writing has earned him countless spots at the legendary Comic Strip Live and feature work on the road. He&rsquo;s appeared on Adult Swim and Compound Media.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival. Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.",
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy club",
       "extraction_method": "json-ld",
-      "vendor": "Jenny Tian, Chris Tos, Joe Mahoney, John Bennett, Whitney Chanel",
+      "vendor": "Comics Anonymous",
       "location": "Eastville Comedy Club"
     },
     {
@@ -454,10 +428,23 @@
       "extraction_method": "html",
       "vendor": "JACK WRIGHT, DREW WESLEY, ELI WALLACE(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-09T20:00:00-04:00",
+      "title": "Laughs In The East",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Wednesday Night in Brooklyn",
+      "extraction_method": "json-ld",
+      "vendor": "Laughs In The East",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-09-01T10:17:24.443250+00:00",
-  "total_events": 35,
+  "updated": "2026-09-02T10:17:23.382222+00:00",
+  "total_events": 34,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
