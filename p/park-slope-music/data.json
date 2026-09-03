@@ -1,58 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-02T12:00:00+00:00",
-      "title": "COMEDY BY THE MOUTHFUL(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "COMEDY BY THE MOUTHFUL(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-02T12:00:00+00:00",
-      "title": "SKIRTING// THE ROULETTES// VIENETTA(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SKIRTING// THE ROULETTES// VIENETTA(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-02T19:30:00",
-      "title": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-02T20:00:00-04:00",
-      "title": "Laughs on the East Featuring: Cole Cosby, Tom Zappia, Lauren Cocroft, Alex Quow, Whitney Chanel",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy clubFeaturingCole CosbyTom ZappiaLauren CocroftAlex QuowWhitney ChanelCole Cosby is a comedian from Philadelphia (raised in South Jersey), now residing in New York. Cole&rsquo;s interest in stand up comedy began in middle school from watching the performances of legends such as Dave Chappelle, Kevin Hart and the sitcoms of Jerry Seinfeld and Kevin James. Cole&rsquo;s first time performing stand-up comedy came during his junior year of college at an open mic on Temple University&rsquo;s campus. Since that day, and after graduation, Cole Cosby went on to rise in the Philadelphia comedy circuit, becoming a regular host (and feature act) at Helium and Punchline comedy clubs, and working with headliners such as Sam Jay, Josh Johnson, and Tony Rock. Cole Cosby has also opened on the road for comedy legends Sinbad, Caroline Rhea and Tammy Pescatelli. Since moving to New York City in 2023, Cole has passed at Stand Up NY, earned a residency at Broadway Comedy Club, and is on a mission to create his own Cosby legacy.Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.Alex Quow is a New York City&ndash;based stand-up comedian with over 100,000 followers across social platforms, whose work has been featured on HBO, Amazon Prime, and in the New York Comedy Festival. A veteran of nearly a decade on stage, Alex has performed at clubs and theaters nationwide.",
-      "extraction_method": "json-ld",
-      "vendor": "Laughs on the East Featuring: Cole Cosby, Tom Zappia, Lauren Cocroft, Alex Quow, Whitney Chanel",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-09-03T12:00:00+00:00",
       "title": "THE YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT(Improv Comedy)",
       "venue": "Young Ethel's",
@@ -145,7 +93,7 @@
     },
     {
       "date": "2026-09-04T20:00:00-04:00",
-      "title": "TGIF Prime Time Comedy",
+      "title": "Tracey Carnazzo, Chloe Radcliffe, John Bennett, Natan Badalov, Whitney Chanel",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
@@ -153,7 +101,7 @@
       "end_time_raw": null,
       "description": "Prime-Time Comedy in Brooklyn!FEATURING SPECIAL GUEST COMEDIANS...Lineup Below",
       "extraction_method": "json-ld",
-      "vendor": "TGIF Prime Time Comedy",
+      "vendor": "Tracey Carnazzo, Chloe Radcliffe, John Bennett, Natan Badalov, Whitney Chanel",
       "location": "Eastville Comedy Club"
     },
     {
@@ -236,15 +184,15 @@
     },
     {
       "date": "2026-09-05T20:00:00-04:00",
-      "title": "Saturday Prime Time Comedy",
+      "title": "Starring Jeffrey Scheen & Rojo Perez Hosted by Sam Castillo",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)",
+      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...Starring Jeffrey Scheen &amp; Rojo Perez Hosted by Sam Castillo",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Prime Time Comedy",
+      "vendor": "Starring Jeffrey Scheen & Rojo Perez Hosted by Sam Castillo",
       "location": "Eastville Comedy Club"
     },
     {
@@ -437,14 +385,53 @@
       "end_time": null,
       "start_time_raw": "8:00 PM",
       "end_time_raw": null,
-      "description": "Wednesday Night in Brooklyn",
+      "description": "Wednesday Night in BrooklynChristos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.Rosey Catherine is one of the youngest rising stars in the New York comedy scene. Once a staple in the DC comedy scene she broke Dave Chappelle&rsquo;s record as the youngest headling act in the scene when she was 16. She currently tours nationally with Troy Bond. You can see her nightly at Gotham Comedy Club, New York Comedy Club, Westside Comedy Club, Broadway Comedy Club, and Greenwich Village Comedy Club.Colin &ldquo;Cab&rdquo; Washington is a Philly-born actor, writer, comedian and producer known for blending sharp observational humor with personal storytelling. His credits include &quot;Insecure&quot; (HBO), BuzzFeed, Cracked, &quot;Timeout New York,&quot; and producing for &quot;First Things First&quot; on Fox Sports. Cab was featured as an emerging artist at SF Sketchfest &#39;24 and the New York Comedy Festival &#39;24, drawing laughs from the chaos of relationships, identity, and the trials and tribulations of being a millennial in their 30&rsquo;s. He&rsquo;s the creator and host of &quot;Runnin&rsquo; Late&quot; comedy show, a live comedy show featuring stand-up, interviews, and music which has sold out over 100 shows around the country. When he&rsquo;s not performing every night at the best comedy clubs in New York City, he has enjoyed touring with Brian Simpson, Liza Treyger, Aida Rodriguez, and Chris Redd. Outside comedy, he co-owns Ron&rsquo;s Signature Sauce, reviving his family&rsquo;s iconic Philly BBQ legacy, which was recently featured on &quot;Good Day Philadelphia.&quot; Whether on stage, screen, or the grill, Cab brings heart, humor, and authenticity to everything he does.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival.",
       "extraction_method": "json-ld",
       "vendor": "Laughs In The East",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-10T18:00:00",
+      "title": "RARE Steak Championship New York",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Get Ready, New York!\nDiningOut is bringing its signature steak showdown to Brooklyn the only way we know how: loud, indulgent, and unforgettable.\nRARE Steak Championship is a high-energy tasting festival where the city\u2019s top culinary firepower collide for one massive night of premium steak, craft cocktails, live entertainment, and full-throttle celebration.\nMore than 25 of New York\u2019s most celebrated chefs and restaurants will fire up the grills and battle for steak supremacy across two categories:\nTraditional Steak\nCreative Steak\nFeaturing elite cuts from Buckhead Meat and Seafood \u2014 including Certified Angus Beef\u00ae, American Wagyu, and Australian Wagyu \u2014 every chef brings their boldest flavors, sharpest techniques, and most over-the-top creations to the table.\nAnd the best part?\nYou decide who wins.\nEvery guest gets a vote in the coveted People\u2019s Choice competition, helping crown the 2026 RARE Steak Champion.\nBeyond the tasting experience, expect:\nmultiple DJ stages,\nimmersive activations,\nsurprise experiences,\npremium cocktails,\nand nonstop energy throughout the night.\nSet against the industrial backdrop and electric atmosphere of Industry City, RARE is more than a food festival \u2014 it\u2019s a full-sensory feast for carnivores, cocktail lovers, and nightlife seekers alike.\nCapacity is extremely limited. Secure your tickets now before this one sells out.\nThe SURF VIP Lounge\nWant to really throw down?\nUpgrade to VIP and add a little SURF to your turf with exclusive access to the SURF Seafood VIP Lounge \u2014 featuring chef-driven seafood and sushi tastings, premium lounge spaces, private bars, elevated cocktails, and exclusive culinary experiences available only to VIP guests.\nWhat\u2019s Included\nUnlimited steak tastings from 25+ top restaurants\nSignature cocktails paired alongside featured bites\nSpirits, wine, beer, and non-alcoholic beverages\nLive DJs, entertainment, activations, and surprise experiences\nVote alongside celebrity judges in the People\u2019s Choice competition\nAccess to one of NYC\u2019s boldest food and nightlife experiences\nTicket Information\nGA Admission\n21+ ONLY \u2022 Rain or Shine \u2022 All Tickets Non-Refundable\nYour all-inclusive GA ticket includes:\nUnlimited steak tastings from 25+ restaurants\nSample cocktails, spirits, wine, beer, and non-alcoholic beverages\nAccess to entertainment and event activations throughout the evening\nEntry begins at 7:00 PM\nFirst Taste Admission\n21+ ONLY \u2022 Rain or Shine \u2022 All Tickets Non-Refundable\nGet a one-hour head start before general admission.\nYour all-inclusive First Taste ticket includes:\nEverything included with GA\nEarly entry beginning at 6:00 PM\nFirst access to featured tastings and cocktails before the crowds arrive\nVIP Admission\n21+ ONLY \u2022 Rain or Shine \u2022 All Tickets Non-Refundable\nYour VIP experience includes:\n6:00 PM early entry\nUnlimited steak tastings in the Grand Tasting\nExclusive access to the SURF Seafood VIP Lounge\nVIP-only seafood and sushi tastings\nPremium lounge areas and private bars\nElevated cocktails and exclusive culinary experiences",
+      "extraction_method": "api",
+      "vendor": "RARE Steak Championship New York",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-10T18:00:00",
+      "title": "Create A Custom Medicine Case!",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Handsew a beautiful custom sleeve for medications using reclaimed felt from our shop \ud83e\uddf5. Learn simple hand\u2011sewing (running stitch, beading, blanket stitch) while turning leftover supplies into something custom, cute, and functional. All levels welcome.\nThis workshop is led by Haele Wolfe and is sponsored in part by the Greater New York Arts Development Fund of the New York City Department of Cultural Affairs, administered by Brooklyn Arts Council.\nTickets are free, but please let us know if you can&#8217;t make it after RSVPing so we can release the ticket to someone else!",
+      "extraction_method": "api",
+      "vendor": "Create A Custom Medicine Case!",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-10T20:00:00-04:00",
+      "title": "Vishnu Vaka, Will Purpura, Rosey Catherine, Joe Mahoney, Cesh Reyes",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Weekend Warmup comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...Line up BelowVishnu Vaka has recently been featured for Pete Lee at Carolines, he has also written dialogue for two Telugu (South Indian films). He had been touring with Josh Blue for the past few years as the feature, they were doing the two men show.Rosey Catherine is one of the youngest rising stars in the New York comedy scene. Once a staple in the DC comedy scene she broke Dave Chappelle&rsquo;s record as the youngest headling act in the scene when she was 16. She currently tours nationally with Troy Bond. You can see her nightly at Gotham Comedy Club, New York Comedy Club, Westside Comedy Club, Broadway Comedy Club, and Greenwich Village Comedy Club.Joe Mahoney is an NYC comic from Long Island who can play to many different crowds. His clever writing has earned him countless spots at the legendary Comic Strip Live and feature work on the road. He&rsquo;s appeared on Adult Swim and Compound Media.",
+      "extraction_method": "json-ld",
+      "vendor": "Vishnu Vaka, Will Purpura, Rosey Catherine, Joe Mahoney, Cesh Reyes",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-09-02T10:17:23.382222+00:00",
-  "total_events": 34,
+  "updated": "2026-09-03T10:18:18.050905+00:00",
+  "total_events": 33,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
