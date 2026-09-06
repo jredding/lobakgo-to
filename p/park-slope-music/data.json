@@ -1,149 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-05T00:00:00",
-      "title": "Nick Naney\u2019s Big Secret Project Reveal",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Nick Naney\u2019s Big Secret Project Reveal",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-05T00:00:00",
-      "title": "Shaunak Does Improvised Standup",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Shaunak Does Improvised Standup",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-05T00:00:00",
-      "title": "DJ Lord Easy Plays Songs You Like To Dance To",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DJ Lord Easy Plays Songs You Like To Dance To",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-05T12:00:00+00:00",
-      "title": "A COMEDY SHOW BROUGHT TO YOU BY MATT KOFF(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "1:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "1:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "A COMEDY SHOW BROUGHT TO YOU BY MATT KOFF(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-05T12:00:00+00:00",
-      "title": "HANK\u2019S SALOON THE MOVIE(Screening)",
-      "venue": "Young Ethel's",
-      "start_time": "3:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "HANK\u2019S SALOON THE MOVIE(Screening)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-05T12:00:00+00:00",
-      "title": "EXPRESS YOURSELF OPEN MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "EXPRESS YOURSELF OPEN MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-05T16:30:00",
-      "title": "Industry City Gourmet Food and Drinks Tour",
-      "venue": "Industry City",
-      "start_time": "4:30 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "Set against the iconic backdrop of Sunset Park\u2019s historic waterfront, the massive, revitalized structures of Industry City form a breathtaking stage for an exclusive culinary journey. This premium food and cocktail tour is a curated exploration of taste and craft, transforming an evening into a memorable, high-end experience.\nYour adventure begins with artistic bonbons at Lilac Chocolates, explores gourmet imports at Sahadi\u2019s, and includes a refined whiskey tasting at Fort Hamilton Distillery, followed by a sophisticated sake flight. Savor additional artisanal discoveries within the awe-inspiring industrial halls.\nPerfect as a distinctive date night, this tour is also fully customizable for private groups and corporate retreats. We specialize in tailoring this engaging experience for team-building and client entertainment, making it an ideal one-day corporate outing. A sophisticated mini-vacation for locals and a profound discovery for visitors.",
-      "extraction_method": "api",
-      "vendor": "Industry City Gourmet Food and Drinks Tour",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-05T18:00:00-04:00",
-      "title": "Dina Hashem, Carmen Lagala, Chris Tos, John Bennett, Dave Temple",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)Dina started comedy in 2010 while attending Rutgers University in her home state of New Jersey. She has since performed in festivals including the Melbourne International Comedy Festival and Bridgetown Comedy Festival, and has been on Comedy Central&#39;s Roast Battle and CONAN. She can be seen at venues all around NYC and followed on social media @dinahashem_Carmen Lagala is a New York City based stand-up comedian who made her network television debut in 2018 on The Late Show with Stephen Colbert.&nbsp;Originally from Vermont, Carmen endears audiences with her small-town charm, delivering jokes that are smart, dark, dirty and playful. She regularly features for comedian Hari Kondabolu at the best clubs and theaters across the country, and recently appeared in the web sketch &ldquo;Dollar Store Therapist&rdquo; for Comedy Central.Carmen was featured in the 2018 New York Comedy Festival for stand-up, sketch, a roast, and her own show &ldquo;Puppets Present&rdquo; which was a Time Out New York pick for &ldquo;Best Shows to See&rdquo;. She&rsquo;s performed in several other festivals including Brooklyn Comedy Festival, Bridgetown, Rogue Island, and the Women in Comedy Festival. Christos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival. Dave Temple is the Spotlight stealing comic that has clubs managers and college bookers across the country asking, &quot;Where did you find this guy?!&quot; Originally from Philadelphia, Dave began stand-up comedy as a challenge amongst friends. Dave brings an unadulterated view on life and his immediate surroundings with a poignancy that is unparalleled and leaves every single audience in stitches. Dave has appeared on TruTV&#39;s LaffMobb LaffTracks, Showtime at the Apollo, VH1 Live as well as his own YouTube Show #LOOKATITTHISWAY",
-      "extraction_method": "json-ld",
-      "vendor": "Dina Hashem, Carmen Lagala, Chris Tos, John Bennett, Dave Temple",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-09-05T20:00:00-04:00",
-      "title": "Starring Jeffrey Scheen & Rojo Perez Hosted by Sam Castillo",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...Starring Jeffrey Scheen &amp; Rojo Perez Hosted by Sam Castillo",
-      "extraction_method": "json-ld",
-      "vendor": "Starring Jeffrey Scheen & Rojo Perez Hosted by Sam Castillo",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-09-05T22:00:00-04:00",
-      "title": "Nore Davis, Miss Lissa Knows, Tom Zappia, Lauren Cocroft, Alex Quow",
-      "venue": "Eastville Comedy Club",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": "Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)Recurring on HBO&#39;s &ldquo;Boardwalk Empire&rdquo; and MTV&#39;s &ldquo;Nikki &amp; Sara Live.&rdquo; Appearances on &ldquo;Inside Amy Schumer,&rdquo; Jerry Seinfeld&rsquo;s &ldquo;Comedians in Cars Getting Coffee,&rdquo; &ldquo;Ours to Own&rdquo; Campaign on Upworthy.com, &ldquo;Russell Simmons Presents: The Ruckus&rdquo; Comedy Central and two appearances on &ldquo;Gotham Comedy Live&rdquo; AXS TV. He has been seen on nickmom &ldquo;Night Out&rdquo; and &ldquo;Mother Funny Specials&rdquo; as well as BET&#39;s &ldquo;Comic View.&rdquo; Recorded an hour special &ldquo;Off the Chain&rdquo; for Bounce TV and New Wave Entertainment. His first CD &ldquo;Home Game&rdquo; for RooftopComedy.com was released on Black Friday, November 28, 2014, to rave reviews. His second CD &ldquo;Away Game&rdquo; for New Wave has also been released. He was a writer on &ldquo;Comedy Fight Night&rdquo; and writer performer on &ldquo;Bullet Pudding&rdquo; truTV and a writer on &ldquo;Yo Is This Racist?,&rdquo; MTV. Nore is currently a writer and on-air talent for seriously.tv.&nbsp;NORE DAVIS, the young refreshing face of comedy, delivers an energetic performance filled with witty quips and sharp punch lines, combined with an amazing stage presence. Edgy and clean, NORE tells it like it is, speaking to audiences everywhere. NORE is a comedian for the masses, relating to everyone from teens to the mature adult, delivering original content, and leaving no topic unturned. From relationships to family, race, and politics, NORE brings a comedic talent that has been refined in front of countless audiences on the world&#39;s biggest stages.&nbsp;NORE&rsquo;s credits include Boardwalk Empire, Inside Amy Schumer, Jerry Seinfeld&rsquo;s Comedians in Cars Getting Coffee, Ours to Own Campaign on www.Upworthy.com, two appearances on Gotham Comedy Live, nickmom Night Out, and The Ruckus. He has been seen at Just for Laughs, Bridgetown and Chicago Comedy Festivals. His first CD Home Game was released on Black Friday, November 28, 2014, on www.RoofTopComedy.com to rave reviews, with sales still climbing. NORE is always perfecting his act. Look out for this rising star, as he reinvents comedy one laugh at a time.Miss Lissa is a traveling comedian, host, actor and writer from New York City. For over 12 years, Melissa &#39;Miss Lissa&#39; Finney has been building the &quot;Miss Lissa Knows&quot; brand. From interviewing celebrities and covering events, to performing in various comedy clubs across the country. Miss Lissa has worked as on-air talent for Vibe Magazine, TMZ, and iOne Digital. In addition, Miss Lissa has been featured in the New York Comedy Festival (2022) (2023)&nbsp;Miss Lissa draws audiences in with her hilarious stories and stands out because of her witty style and dramatic delivery.&nbsp;Alex Quow is a New York City&ndash;based stand-up comedian with over 100,000 followers across social platforms, whose work has been featured on HBO, Amazon Prime, and in the New York Comedy Festival. A veteran of nearly a decade on stage, Alex has performed at clubs and theaters nationwide.",
-      "extraction_method": "json-ld",
-      "vendor": "Nore Davis, Miss Lissa Knows, Tom Zappia, Lauren Cocroft, Alex Quow",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-09-05T23:00:00",
-      "title": "STAMINA: BLACKOUT | Black & Gold Bashment Gala, Queer Festival @littlefield",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "The crown jewel of STAMINA Festival. Labor Day Weekend (Sept 4\u20136). NYC.",
-      "extraction_method": "api",
-      "vendor": "STAMINA: BLACKOUT | Black & Gold Bashment Gala, Queer Festival @littlefield",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-09-06T12:00:00+00:00",
       "title": "ANGELA MATAJA AND MOLLY WHITAKER(Music)",
       "venue": "Young Ethel's",
@@ -183,19 +40,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-09-06T15:00:00",
-      "title": "STAMINA: COLORS | Paint & Powder Fete | Queer Caribbean Festival @Parklife",
-      "venue": "Littlefield",
-      "start_time": "3:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "The grand finale of STAMINA Festival. Labor Day Weekend (Sept 4\u20136). NYC.",
-      "extraction_method": "api",
-      "vendor": "STAMINA: COLORS | Paint & Powder Fete | Queer Caribbean Festival @Parklife",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-09-06T17:30:00",
       "title": "Sunday Sessions: Live Jazz &#038; Blues",
       "venue": "Industry City",
@@ -220,19 +64,6 @@
       "extraction_method": "json-ld",
       "vendor": "Comics Anonymous",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-09-06T20:00:00",
-      "title": "We Will Always Love You: A Dolly Parton Celebration with Doll Parts",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Doll Parts, Brooklyn's Dolly Parton cover band, remembers Dolly Parton (and plays the hits).",
-      "extraction_method": "api",
-      "vendor": "We Will Always Love You: A Dolly Parton Celebration with Doll Parts",
-      "location": "Littlefield"
     },
     {
       "date": "2026-09-07T00:00:00",
@@ -340,19 +171,6 @@
     },
     {
       "date": "2026-09-08T19:30:00",
-      "title": "Heel Toe Rodeo",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Hey y'all! A beginner friendly line dancing event is coming your way. Line dancing lessons will be taught throughout the night!",
-      "extraction_method": "api",
-      "vendor": "Heel Toe Rodeo",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-09-08T19:30:00",
       "title": "YOUNG ETHELS PRESENTS POP CULTURE TRIVIA TIME MACHINE!(Trivia)",
       "venue": "Young Ethel's",
       "start_time": "7:30 PM ET",
@@ -402,19 +220,6 @@
       "extraction_method": "html",
       "vendor": "Mary Beth's New Joke Night *late show*",
       "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-09T20:00:00",
-      "title": "Mortified NYC Live Show",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "MORTIFIED is a storytelling project where adults share the strange & embarrassing artifacts they saved from childhood.",
-      "extraction_method": "api",
-      "vendor": "Mortified NYC Live Show",
-      "location": "Littlefield"
     },
     {
       "date": "2026-09-09T20:00:00-04:00",
@@ -482,19 +287,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-09-10T19:00:00",
-      "title": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "\u201cThe Donor\u201d is a live comedy game show created by comedian Sami Schwaeber, inspired by her real-life journey with her wife to find a donor!",
-      "extraction_method": "api",
-      "vendor": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-09-10T20:00:00-04:00",
       "title": "Vishnu Vaka, Will Purpura, Rosey Catherine, Joe Mahoney, Cesh Reyes",
       "venue": "Eastville Comedy Club",
@@ -558,19 +350,6 @@
       "extraction_method": "json-ld",
       "vendor": "Brooklyn Power Hour",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-09-11T19:00:00",
-      "title": "Nerd Nite",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us back in Brooklyn at Littlefield for three fun-yet-informative presentations and TRIVIA!",
-      "extraction_method": "api",
-      "vendor": "Nerd Nite",
-      "location": "Littlefield"
     },
     {
       "date": "2026-09-11T19:00:00",
@@ -781,19 +560,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-09-12T20:00:00",
-      "title": "Switch n' Play",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us for a wild night of drag, burlesque, & queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play collective!",
-      "extraction_method": "api",
-      "vendor": "Switch n' Play",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-09-12T20:00:00-04:00",
       "title": "Starring Zahid Dewji & Madison Sinclair Hosted by Alfonso Hernandez",
       "venue": "Eastville Comedy Club",
@@ -807,19 +573,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-09-12T22:00:00",
-      "title": "Switch N' Play Afterparty @ Parklife",
-      "venue": "Littlefield",
-      "start_time": "10:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Presented by Parklife After Hours",
-      "extraction_method": "api",
-      "vendor": "Switch N' Play Afterparty @ Parklife",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-09-12T22:00:00-04:00",
       "title": "Saturday Late Night Comedy",
       "venue": "Eastville Comedy Club",
@@ -831,15 +584,108 @@
       "extraction_method": "json-ld",
       "vendor": "Saturday Late Night Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-13T00:00:00",
+      "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Steve Martin Presents with Andrew Dismukes and Michael Good",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-09-13T00:00:00",
+      "title": "RUPI KAUR: UNCUT \u2013 A RESIDENCY",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "RUPI KAUR: UNCUT \u2013 A RESIDENCY",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-09-13T12:30:00",
+      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "1:30 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "1:30 PM",
+      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-13T15:00:00",
+      "title": "Shakedown Citi Plays Music of Grateful Dead",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Get Tickets here: https://wl.eventim.us/event/shakedown-citi/698254?afflky=Getitrightthefirsttime\nIndustry City and Get It Right Music in association with Murmrr Presents are thrilled to present Shakedown Citi play under the sun in Brooklyn&#8217;s Sunset Park!\nEvent Info\nDate: September 13, 2026\nDoors: 2:30pm\nShow: 3:00-6:30pm\nTickets: $20 per person plus fees in advance/$25 per person day of show\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore about Shakedown Citi\nShakedown Citi is a fresh new force on the jam band scene, born in the heart of a Grateful Dead parking lot at Citi Field in 2023. When the band&#8217;s members crossed paths on Shakedown Street, something clicked &#8211; and the music hasn&#8217;t stopped since.\nRather than imitating the Dead, Shakedown Citi channels their spirit &#8211; creating spontaneous, soulful performances that feel alive, adventurous and totally in the moment. Each set is a journey, full of unexpected twists, deep grooves and musical conversation that pulls even the most skeptical listener into the vibe. Every Shakedown Citi show begins long before the first note. Each setlist is thoughtfully and meticulously crafted from the Dead repertoire, affiliated catalogs and beyond, balancing deep cuts and beloved anthems, rarities and reprises. No two nights are ever the same &#8211; each performance stands as a work of art on its own, alive in its moment, while also fitting into the larger patchwork of the repertoire.\nIt&#8217;s not just a tribute &#8211; it&#8217;s the Dead, reborn.",
+      "extraction_method": "api",
+      "vendor": "Shakedown Citi Plays Music of Grateful Dead",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-13T17:30:00",
+      "title": "Sunday Sessions: Live Jazz &#038; Blues",
+      "venue": "Industry City",
+      "start_time": "5:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "\ud83c\udfb7 Live Jazz &amp; Blues at Fort Hamilton \ud83e\udd43\nLive music, great cocktails, and the perfect way to spend your Sunday evening.\n\ud83c\udf78 Cocktails, mocktails, beer and wine available at the bar.",
+      "extraction_method": "api",
+      "vendor": "Sunday Sessions: Live Jazz &#038; Blues",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-13T19:00:00-04:00",
+      "title": "Peter Liu Headlines!",
+      "venue": "Eastville Comedy Club",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": "Peter Liu is a New York based comedian who has opened for Ronny Chieng and has been featured on the New York and Boston comedy festivals, SFsketchfest, and Amazon Prime.His social media channels have amassed over 100k followers. He performs regularly at New York Comedy Club and headlines clubs and colleges (Harvard, MIT, Brown, USC etc)&nbsp;across the country.",
+      "extraction_method": "json-ld",
+      "vendor": "Peter Liu Headlines!",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-13T20:00:00",
+      "title": "Raven Chacon + Tashi Dorji + Alex Zhang Hungtai // Leo Chang",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "An interactive sound-movement piece reimagines the Korean folk practice of sangmonori, followed by the debut of a new improvising trio.",
+      "extraction_method": "html",
+      "vendor": "Raven Chacon + Tashi Dorji + Alex Zhang Hungtai // Leo Chang",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-09-05T10:16:49.737775+00:00",
-  "total_events": 64,
+  "updated": "2026-09-06T10:17:39.451798+00:00",
+  "total_events": 52,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
