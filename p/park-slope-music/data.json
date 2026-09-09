@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-08T00:00:00",
-      "title": "PRETTY  MAJOR Hosted by Jay Jurden",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "PRETTY  MAJOR Hosted by Jay Jurden",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-08T12:00:00+00:00",
-      "title": "TUESDAY OPEN MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TUESDAY OPEN MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-08T19:00:00",
-      "title": "Spirited Away: Psychic &#038; Paranormal Night",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Gather with NYC\u2019s finest readers and psychics for a glorious evening of craft cocktails and supernatural fun, hosted by The Oracle!\nSpirited Away Psychic &amp; Paranormal Night! Winter Edition!\nCome down to Industry City and join us for a cozy evening of psychic readings and craft cocktails!",
-      "extraction_method": "api",
-      "vendor": "Spirited Away: Psychic &#038; Paranormal Night",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-08T19:30:00",
-      "title": "YOUNG ETHELS PRESENTS POP CULTURE TRIVIA TIME MACHINE!(Trivia)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "YOUNG ETHELS PRESENTS POP CULTURE TRIVIA TIME MACHINE!(Trivia)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-08T21:30:00",
-      "title": "JACK WRIGHT, DREW WESLEY, ELI WALLACE(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "JACK WRIGHT, DREW WESLEY, ELI WALLACE(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-09-09T00:00:00",
       "title": "Mary Beth's New Joke Night",
       "venue": "Union Hall",
@@ -131,8 +66,21 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-09-09T20:00:00",
+      "title": "Mortified NYC Live Show",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "MORTIFIED is a storytelling project where adults share the strange & embarrassing artifacts they saved from childhood.",
+      "extraction_method": "api",
+      "vendor": "Mortified NYC Live Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-09T20:00:00-04:00",
-      "title": "Laughs In The East",
+      "title": "Rosey Catherine, Chris Tos, John Bennett, Colin Cab Washington, Derrell Meyers",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
@@ -140,7 +88,7 @@
       "end_time_raw": null,
       "description": "Wednesday Night in BrooklynChristos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.Rosey Catherine is one of the youngest rising stars in the New York comedy scene. Once a staple in the DC comedy scene she broke Dave Chappelle&rsquo;s record as the youngest headling act in the scene when she was 16. She currently tours nationally with Troy Bond. You can see her nightly at Gotham Comedy Club, New York Comedy Club, Westside Comedy Club, Broadway Comedy Club, and Greenwich Village Comedy Club.Colin &ldquo;Cab&rdquo; Washington is a Philly-born actor, writer, comedian and producer known for blending sharp observational humor with personal storytelling. His credits include &quot;Insecure&quot; (HBO), BuzzFeed, Cracked, &quot;Timeout New York,&quot; and producing for &quot;First Things First&quot; on Fox Sports. Cab was featured as an emerging artist at SF Sketchfest &#39;24 and the New York Comedy Festival &#39;24, drawing laughs from the chaos of relationships, identity, and the trials and tribulations of being a millennial in their 30&rsquo;s. He&rsquo;s the creator and host of &quot;Runnin&rsquo; Late&quot; comedy show, a live comedy show featuring stand-up, interviews, and music which has sold out over 100 shows around the country. When he&rsquo;s not performing every night at the best comedy clubs in New York City, he has enjoyed touring with Brian Simpson, Liza Treyger, Aida Rodriguez, and Chris Redd. Outside comedy, he co-owns Ron&rsquo;s Signature Sauce, reviving his family&rsquo;s iconic Philly BBQ legacy, which was recently featured on &quot;Good Day Philadelphia.&quot; Whether on stage, screen, or the grill, Cab brings heart, humor, and authenticity to everything he does.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival.",
       "extraction_method": "json-ld",
-      "vendor": "Laughs In The East",
+      "vendor": "Rosey Catherine, Chris Tos, John Bennett, Colin Cab Washington, Derrell Meyers",
       "location": "Eastville Comedy Club"
     },
     {
@@ -207,6 +155,32 @@
       "extraction_method": "api",
       "vendor": "Create A Custom Medicine Case!",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-09-10T18:00:00",
+      "title": "WITHOUT BOUNDARIES",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "WITHOUT BOUNDARIES is an extension of that journey a practice without limits, creating works that embodies his culture, memory, place, and experience come together. Through his own visual language, Moses tells a story that is deeply personal in his solo exhibition, yet able to move beyond borders.",
+      "extraction_method": "api",
+      "vendor": "WITHOUT BOUNDARIES",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-10T20:00:00",
+      "title": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "\u201cThe Donor\u201d is a live comedy game show created by comedian Sami Schwaeber, inspired by her real-life journey with her wife to find a donor!",
+      "extraction_method": "api",
+      "vendor": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-10T20:00:00-04:00",
@@ -314,6 +288,19 @@
     },
     {
       "date": "2026-09-11T19:00:00",
+      "title": "Nerd Nite",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us back in Brooklyn at Littlefield for three fun-yet-informative presentations and TRIVIA!",
+      "extraction_method": "api",
+      "vendor": "Nerd Nite",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-09-11T19:00:00",
       "title": "Prodigal Drunk",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -350,6 +337,19 @@
       "extraction_method": "json-ld",
       "vendor": "No Cent to My Name Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-11T23:00:00",
+      "title": "BASHMENT IN BK - NYC's Biggest Dancehall Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to vibe all night with the hottest dancehall beats.",
+      "extraction_method": "api",
+      "vendor": "BASHMENT IN BK - NYC's Biggest Dancehall Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-12T00:00:00",
@@ -573,6 +573,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-12T20:00:00",
+      "title": "Switch n' Play",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for a wild night of drag, burlesque, & queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play collective!",
+      "extraction_method": "api",
+      "vendor": "Switch n' Play",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-12T20:00:00-04:00",
       "title": "Starring Zahid Dewji & Madison Sinclair Hosted by Alfonso Hernandez",
       "venue": "Eastville Comedy Club",
@@ -586,16 +599,29 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-09-12T22:00:00",
+      "title": "Switch N' Play Afterparty @ Parklife",
+      "venue": "Littlefield",
+      "start_time": "10:00 PM ET",
+      "end_time": "2:00 AM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "2:00 AM",
+      "description": "Presented by Parklife After Hours",
+      "extraction_method": "api",
+      "vendor": "Switch N' Play Afterparty @ Parklife",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-12T22:00:00-04:00",
-      "title": "Saturday Late Night Comedy",
+      "title": "Battle of the Sexes",
       "venue": "Eastville Comedy Club",
       "start_time": "10:00 PM ET",
       "end_time": null,
       "start_time_raw": "10:00 PM",
       "end_time_raw": null,
-      "description": "Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)",
+      "description": null,
       "extraction_method": "json-ld",
-      "vendor": "Saturday Late Night Comedy",
+      "vendor": "Battle of the Sexes",
       "location": "Eastville Comedy Club"
     },
     {
@@ -690,6 +716,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-13T14:00:00",
+      "title": "Summer Season Finale: Indiana Edition",
+      "venue": "Littlefield",
+      "start_time": "2:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "It\u2019s an Indiana party and you can absolutely get in! End of summer kickback with your favorite New York Poodles AND Nupes! EVENT 2PM - 7PM",
+      "extraction_method": "api",
+      "vendor": "Summer Season Finale: Indiana Edition",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-13T15:00:00",
       "title": "Shakedown Citi Plays Music of Grateful Dead",
       "venue": "Industry City",
@@ -727,6 +766,19 @@
       "extraction_method": "json-ld",
       "vendor": "Peter Liu Headlines!",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-13T20:00:00",
+      "title": "Gals & Goblins: A D&D Live Show",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Gals & Goblins uses the popular tabletop roleplaying game, Dungeons & Dragons, to weave a magical tale before a live audience.",
+      "extraction_method": "api",
+      "vendor": "Gals & Goblins: A D&D Live Show",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-13T20:00:00",
@@ -807,6 +859,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-09-14T19:30:00",
+      "title": "We Belong Variety Show Hosted by Shonali Bhowmik",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A benefit for South Brooklyn Sanctuary - a non profit providing aid to New Yorkers representing themselves in Immigration Court. 16+.",
+      "extraction_method": "api",
+      "vendor": "We Belong Variety Show Hosted by Shonali Bhowmik",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-15T00:00:00",
       "title": "LAUGH",
       "venue": "Union Hall",
@@ -817,6 +882,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "LAUGH",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-09-15T00:00:00",
+      "title": "Richard Perez: For One Night Okay",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Richard Perez: For One Night Okay",
       "location": "Union Hall"
     },
     {
@@ -859,6 +937,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-09-15T18:00:00",
+      "title": "FAIR's 40th Anniversary Celebration!",
+      "venue": "Littlefield",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Come kick back, mingle and celebrate 40 years of FAIR\u2019s fearless media activism!",
+      "extraction_method": "api",
+      "vendor": "FAIR's 40th Anniversary Celebration!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-15T20:00:00",
       "title": "S\u014d Laboratories in Memory of Tim Thomas",
       "venue": "Roulette",
@@ -870,17 +961,80 @@
       "extraction_method": "html",
       "vendor": "S\u014d Laboratories in Memory of Tim Thomas",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-09-16T12:00:00+00:00",
+      "title": "CARROLL STREET COLLECTIVE(Reading)",
+      "venue": "Young Ethel's",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "CARROLL STREET COLLECTIVE(Reading)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-16T12:00:00+00:00",
+      "title": "STAR AND THE MOONGLOW(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "STAR AND THE MOONGLOW(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-16T19:30:00",
+      "title": "WE HAVE FUN STAND-UP POSTED BY DAN AND ZACH(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "WE HAVE FUN STAND-UP POSTED BY DAN AND ZACH(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-16T20:00:00-04:00",
+      "title": "Starr Struck Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Wednesday Night in Brooklyn",
+      "extraction_method": "json-ld",
+      "vendor": "Starr Struck Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-16T20:00:00",
+      "title": "Joy Guidry: Five Prayers in Five Movements // A Space for Sound (Rena Anakwe)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Bassoonist melds sound, spirit, and radical self-expression, opened by solo improvisations on tapes, voice, synths, and samples.",
+      "extraction_method": "html",
+      "vendor": "Joy Guidry: Five Prayers in Five Movements // A Space for Sound (Rena Anakwe)",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-09-08T10:16:43.872133+00:00",
-  "total_events": 67,
+  "updated": "2026-09-09T10:17:00.184743+00:00",
+  "total_events": 79,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
