@@ -93,6 +93,19 @@
     },
     {
       "date": "2026-09-11T19:00:00",
+      "title": "Nerd Nite",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us back in Brooklyn at Littlefield for three fun-yet-informative presentations and TRIVIA!",
+      "extraction_method": "api",
+      "vendor": "Nerd Nite",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-09-11T19:00:00",
       "title": "Prodigal Drunk",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -129,6 +142,19 @@
       "extraction_method": "json-ld",
       "vendor": "No Cent to My Name Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-11T23:00:00",
+      "title": "BASHMENT IN BK - NYC's Biggest Dancehall Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to vibe all night with the hottest dancehall beats.",
+      "extraction_method": "api",
+      "vendor": "BASHMENT IN BK - NYC's Biggest Dancehall Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-12T00:00:00",
@@ -352,6 +378,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-12T20:00:00",
+      "title": "Switch n' Play",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for a wild night of drag, burlesque, & queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play collective!",
+      "extraction_method": "api",
+      "vendor": "Switch n' Play",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-12T20:00:00-04:00",
       "title": "Starring Zahid Dewji & Madison Sinclair Hosted by Alfonso Hernandez",
       "venue": "Eastville Comedy Club",
@@ -363,6 +402,19 @@
       "extraction_method": "json-ld",
       "vendor": "Starring Zahid Dewji & Madison Sinclair Hosted by Alfonso Hernandez",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-12T22:00:00",
+      "title": "Switch N' Play Afterparty @ Parklife",
+      "venue": "Littlefield",
+      "start_time": "10:00 PM ET",
+      "end_time": "2:00 AM ET",
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": "2:00 AM",
+      "description": "Presented by Parklife After Hours",
+      "extraction_method": "api",
+      "vendor": "Switch N' Play Afterparty @ Parklife",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-12T22:00:00-04:00",
@@ -469,6 +521,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-13T14:00:00",
+      "title": "Summer Season Finale: Indiana Edition",
+      "venue": "Littlefield",
+      "start_time": "2:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "It\u2019s an Indiana party and you can absolutely get in! End of summer kickback with your favorite New York Poodles AND Nupes! EVENT 2PM - 7PM",
+      "extraction_method": "api",
+      "vendor": "Summer Season Finale: Indiana Edition",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-13T15:00:00",
       "title": "Shakedown Citi Plays Music of Grateful Dead",
       "venue": "Industry City",
@@ -506,6 +571,19 @@
       "extraction_method": "json-ld",
       "vendor": "Peter Liu Headlines!",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-13T20:00:00",
+      "title": "Gals & Goblins: A D&D Live Show",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Gals & Goblins uses the popular tabletop roleplaying game, Dungeons & Dragons, to weave a magical tale before a live audience.",
+      "extraction_method": "api",
+      "vendor": "Gals & Goblins: A D&D Live Show",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-13T20:00:00",
@@ -599,6 +677,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-09-14T19:30:00",
+      "title": "We Belong Variety Show Hosted by Shonali Bhowmik",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A benefit for South Brooklyn Sanctuary - a non profit providing aid to New Yorkers representing themselves in Immigration Court. 16+.",
+      "extraction_method": "api",
+      "vendor": "We Belong Variety Show Hosted by Shonali Bhowmik",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-15T00:00:00",
       "title": "LAUGH",
       "venue": "Union Hall",
@@ -662,6 +753,19 @@
       "extraction_method": "html",
       "vendor": "COMMUNITEASE, A MUTUAL AID SHOW WITH ARTINA DARKLY(Draglesque)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-15T18:00:00",
+      "title": "FAIR's 40th Anniversary Celebration!",
+      "venue": "Littlefield",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Come kick back, mingle and celebrate 40 years of FAIR\u2019s fearless media activism!",
+      "extraction_method": "api",
+      "vendor": "FAIR's 40th Anniversary Celebration!",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-15T20:00:00",
@@ -859,6 +963,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-17T20:00:00",
+      "title": "The Hunger Games: Catching Fire Entirely From Memory",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Performers will attempt (and most likely fail) to recreate \"Catching Fire\", without the aid of scripts, rehearsals, or sobriety.",
+      "extraction_method": "api",
+      "vendor": "The Hunger Games: Catching Fire Entirely From Memory",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-17T20:00:00-04:00",
       "title": "Joe Fenti Headlines!",
       "venue": "Eastville Comedy Club",
@@ -950,6 +1067,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-18T20:00:00",
+      "title": "The Gaspare Randazzo Show w/ Opener Frank Favia",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Come laugh with 14 year teaching veteran Gaspare Randazzo as he talks about life inside and outside of the classroom.",
+      "extraction_method": "api",
+      "vendor": "The Gaspare Randazzo Show w/ Opener Frank Favia",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-18T20:00:00-04:00",
       "title": "TGIF Prime Time Comedy",
       "venue": "Eastville Comedy Club",
@@ -1000,17 +1130,28 @@
       "extraction_method": "json-ld",
       "vendor": "Tom Zappia, Lauren Cocroft, Cesh Reyes",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-18T23:00:00",
+      "title": "DANCEHALL vs SOCA - SUMMER CLOSING PARTY IN BROOKLYN",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to vibe all night with the hottest dancehall beats.",
+      "extraction_method": "api",
+      "vendor": "DANCEHALL vs SOCA - SUMMER CLOSING PARTY IN BROOKLYN",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-09-11T10:16:41.096736+00:00",
-  "total_events": 77,
+  "updated": "2026-09-11T10:18:47.883122+00:00",
+  "total_events": 88,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
