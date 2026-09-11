@@ -1,123 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-10T00:00:00",
-      "title": "LOVE THAT: Hosted by Jessie Lee & Megan Rosenblum",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "LOVE THAT: Hosted by Jessie Lee & Megan Rosenblum",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-10T00:00:00",
-      "title": "Alistair Ogden & Dan Duvall: An Evening of Divine Stand Up Comedy",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Alistair Ogden & Dan Duvall: An Evening of Divine Stand Up Comedy",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-10T12:00:00+00:00",
-      "title": "YOUNG ETHEL\u2019S BAR PROV EXPERIMENT(Improv Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "YOUNG ETHEL\u2019S BAR PROV EXPERIMENT(Improv Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-10T18:00:00",
-      "title": "RARE Steak Championship New York",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Get Ready, New York!\nDiningOut is bringing its signature steak showdown to Brooklyn the only way we know how: loud, indulgent, and unforgettable.\nRARE Steak Championship is a high-energy tasting festival where the city\u2019s top culinary firepower collide for one massive night of premium steak, craft cocktails, live entertainment, and full-throttle celebration.\nMore than 25 of New York\u2019s most celebrated chefs and restaurants will fire up the grills and battle for steak supremacy across two categories:\nTraditional Steak\nCreative Steak\nFeaturing elite cuts from Buckhead Meat and Seafood \u2014 including Certified Angus Beef\u00ae, American Wagyu, and Australian Wagyu \u2014 every chef brings their boldest flavors, sharpest techniques, and most over-the-top creations to the table.\nAnd the best part?\nYou decide who wins.\nEvery guest gets a vote in the coveted People\u2019s Choice competition, helping crown the 2026 RARE Steak Champion.\nBeyond the tasting experience, expect:\nmultiple DJ stages,\nimmersive activations,\nsurprise experiences,\npremium cocktails,\nand nonstop energy throughout the night.\nSet against the industrial backdrop and electric atmosphere of Industry City, RARE is more than a food festival \u2014 it\u2019s a full-sensory feast for carnivores, cocktail lovers, and nightlife seekers alike.\nCapacity is extremely limited. Secure your tickets now before this one sells out.\nThe SURF VIP Lounge\nWant to really throw down?\nUpgrade to VIP and add a little SURF to your turf with exclusive access to the SURF Seafood VIP Lounge \u2014 featuring chef-driven seafood and sushi tastings, premium lounge spaces, private bars, elevated cocktails, and exclusive culinary experiences available only to VIP guests.\nWhat\u2019s Included\nUnlimited steak tastings from 25+ top restaurants\nSignature cocktails paired alongside featured bites\nSpirits, wine, beer, and non-alcoholic beverages\nLive DJs, entertainment, activations, and surprise experiences\nVote alongside celebrity judges in the People\u2019s Choice competition\nAccess to one of NYC\u2019s boldest food and nightlife experiences\nTicket Information\nGA Admission\n21+ ONLY \u2022 Rain or Shine \u2022 All Tickets Non-Refundable\nYour all-inclusive GA ticket includes:\nUnlimited steak tastings from 25+ restaurants\nSample cocktails, spirits, wine, beer, and non-alcoholic beverages\nAccess to entertainment and event activations throughout the evening\nEntry begins at 7:00 PM\nFirst Taste Admission\n21+ ONLY \u2022 Rain or Shine \u2022 All Tickets Non-Refundable\nGet a one-hour head start before general admission.\nYour all-inclusive First Taste ticket includes:\nEverything included with GA\nEarly entry beginning at 6:00 PM\nFirst access to featured tastings and cocktails before the crowds arrive\nVIP Admission\n21+ ONLY \u2022 Rain or Shine \u2022 All Tickets Non-Refundable\nYour VIP experience includes:\n6:00 PM early entry\nUnlimited steak tastings in the Grand Tasting\nExclusive access to the SURF Seafood VIP Lounge\nVIP-only seafood and sushi tastings\nPremium lounge areas and private bars\nElevated cocktails and exclusive culinary experiences",
-      "extraction_method": "api",
-      "vendor": "RARE Steak Championship New York",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-10T18:00:00",
-      "title": "Create A Custom Medicine Case!",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Handsew a beautiful custom sleeve for medications using reclaimed felt from our shop \ud83e\uddf5. Learn simple hand\u2011sewing (running stitch, beading, blanket stitch) while turning leftover supplies into something custom, cute, and functional. All levels welcome.\nThis workshop is led by Haele Wolfe and is sponsored in part by the Greater New York Arts Development Fund of the New York City Department of Cultural Affairs, administered by Brooklyn Arts Council.\nTickets are free, but please let us know if you can&#8217;t make it after RSVPing so we can release the ticket to someone else!",
-      "extraction_method": "api",
-      "vendor": "Create A Custom Medicine Case!",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-10T18:00:00",
-      "title": "WITHOUT BOUNDARIES",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "WITHOUT BOUNDARIES is an extension of that journey a practice without limits, creating works that embodies his culture, memory, place, and experience come together. Through his own visual language, Moses tells a story that is deeply personal in his solo exhibition, yet able to move beyond borders.",
-      "extraction_method": "api",
-      "vendor": "WITHOUT BOUNDARIES",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-10T19:00:00",
-      "title": "Pink Floyd Live at Pompeii Movie Screening",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Don&#8217;t miss out! RSVP Here! https://wl.eventim.us/event/pink-floyd-live-at-pompeii/704432?afflky=Getitrightthefirsttime\nGet It Right Music in association with BK One Productions is proud to present our late summer/early fall music documentary and horror film movies (yes, those two things go together, and yes, we ARE wondering why you are asking!). Watch fan favorites on our 16-foot wide LED video wall and enjoy the film in full concert sound!\nYou have reached the ticketing page for Pink Floyd Live at Pompeii!\nPink Floyd at Pompeii &#8211; MCMLXXII, the groundbreaking 1972 film directed by Adrian Maben. Digitally re-mastered from the original 35mm footage, with enhanced audio newly mixed by Steven Wilson. Set in the hauntingly beautiful ruins of the ancient Roman Amphitheatre in Pompeii, Italy, this unique film captures Pink Floyd performing an intimate concert with additional rare behind-the-scenes footage of the band beginning work on The Dark Side of the Moon at Abbey Road Studios.\nEvent Info\nFilm: Pink Floyd Live at Pompeii\nDate: September 10, 2026\nDoors: 7:00pm\nRSVP: Free or strongly encourage guaranteed $20 two-drink included RSVP.\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn, New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe selection of music documentaries was curated by audience vote from our summer concert series and the horror movies came from out of our brains!\nSeating for these screenings are limited to 150 people or so (with slightly more for the music docs so peeps can throw down appropriately.\nFans who purchase the 2 drink guaranteed RSVP will be guaranteed entry, natch! So you will save money at the bar, AND make sure you aren&#8217;t shut out!\nThis event is free with RSVP, ages 8 and up are welcome. There will be drink specials, all night, as well.\nLimited seating (about 100-125 seats), tons of standing room. No strollers.\nNo outside beverages. There will be drink specials all night long from our courtyard bar.\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we will only let people in on an in and out basis! Fans who purchase the 2 drink RSVP at check-out will be guaranteed entry!\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.",
-      "extraction_method": "api",
-      "vendor": "Pink Floyd Live at Pompeii Movie Screening",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-10T20:00:00",
-      "title": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "\u201cThe Donor\u201d is a live comedy game show created by comedian Sami Schwaeber, inspired by her real-life journey with her wife to find a donor!",
-      "extraction_method": "api",
-      "vendor": "The Donor: A Live Game Show to Find the Perfect Sperm Donor",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-09-10T20:00:00-04:00",
-      "title": "Vishnu Vaka, Will Purpura, Rosey Catherine, Joe Mahoney, Cesh Reyes",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Weekend Warmup comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...Line up BelowVishnu Vaka has recently been featured for Pete Lee at Carolines, he has also written dialogue for two Telugu (South Indian films). He had been touring with Josh Blue for the past few years as the feature, they were doing the two men show.Rosey Catherine is one of the youngest rising stars in the New York comedy scene. Once a staple in the DC comedy scene she broke Dave Chappelle&rsquo;s record as the youngest headling act in the scene when she was 16. She currently tours nationally with Troy Bond. You can see her nightly at Gotham Comedy Club, New York Comedy Club, Westside Comedy Club, Broadway Comedy Club, and Greenwich Village Comedy Club.Joe Mahoney is an NYC comic from Long Island who can play to many different crowds. His clever writing has earned him countless spots at the legendary Comic Strip Live and feature work on the road. He&rsquo;s appeared on Adult Swim and Compound Media.",
-      "extraction_method": "json-ld",
-      "vendor": "Vishnu Vaka, Will Purpura, Rosey Catherine, Joe Mahoney, Cesh Reyes",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-09-11T00:00:00",
       "title": "Hack City Comedy with Mic Nguyen and Jenny Arimoto",
       "venue": "Union Hall",
@@ -210,19 +93,6 @@
     },
     {
       "date": "2026-09-11T19:00:00",
-      "title": "Nerd Nite",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us back in Brooklyn at Littlefield for three fun-yet-informative presentations and TRIVIA!",
-      "extraction_method": "api",
-      "vendor": "Nerd Nite",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-09-11T19:00:00",
       "title": "Prodigal Drunk",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -259,19 +129,6 @@
       "extraction_method": "json-ld",
       "vendor": "No Cent to My Name Comedy",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-09-11T23:00:00",
-      "title": "BASHMENT IN BK - NYC's Biggest Dancehall Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to vibe all night with the hottest dancehall beats.",
-      "extraction_method": "api",
-      "vendor": "BASHMENT IN BK - NYC's Biggest Dancehall Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-09-12T00:00:00",
@@ -470,15 +327,15 @@
     },
     {
       "date": "2026-09-12T18:00:00-04:00",
-      "title": "Saturday Night Live Comedy",
+      "title": "Vishnu Vaka, Will Purpura, Shannon Keye, Chris Tos, Napoleon Emill",
       "venue": "Eastville Comedy Club",
       "start_time": "6:00 PM ET",
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)Vishnu Vaka has recently been featured for Pete Lee at Carolines, he has also written dialogue for two Telugu (South Indian films). He had been touring with Josh Blue for the past few years as the feature, they were doing the two men show.Christos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.",
+      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)Vishnu Vaka has recently been featured for Pete Lee at Carolines, he has also written dialogue for two Telugu (South Indian films). He had been touring with Josh Blue for the past few years as the feature, they were doing the two men show.Christos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.Vishnu Vaka has recently been featured for Pete Lee at Carolines, he has also written dialogue for two Telugu (South Indian films). He had been touring with Josh Blue for the past few years as the feature, they were doing the two men show.Christos Petropopoudopoulos is a New York-based stand-up comedian, viral creator, and professional internet menace whose comedy has generated over 500 million views across social media. Drawing from his Greek and Albanian roots, years living in Japan, and the surreal experience of becoming a dad in the age of the internet, Christos blends sharp stand-up, cultural identity, anime obsession, and online chaos into a style that feels completely unfiltered.",
       "extraction_method": "json-ld",
-      "vendor": "Saturday Night Live Comedy",
+      "vendor": "Vishnu Vaka, Will Purpura, Shannon Keye, Chris Tos, Napoleon Emill",
       "location": "Eastville Comedy Club"
     },
     {
@@ -495,19 +352,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-09-12T20:00:00",
-      "title": "Switch n' Play",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us for a wild night of drag, burlesque, & queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play collective!",
-      "extraction_method": "api",
-      "vendor": "Switch n' Play",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-09-12T20:00:00-04:00",
       "title": "Starring Zahid Dewji & Madison Sinclair Hosted by Alfonso Hernandez",
       "venue": "Eastville Comedy Club",
@@ -519,19 +363,6 @@
       "extraction_method": "json-ld",
       "vendor": "Starring Zahid Dewji & Madison Sinclair Hosted by Alfonso Hernandez",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-09-12T22:00:00",
-      "title": "Switch N' Play Afterparty @ Parklife",
-      "venue": "Littlefield",
-      "start_time": "10:00 PM ET",
-      "end_time": "2:00 AM ET",
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": "2:00 AM",
-      "description": "Presented by Parklife After Hours",
-      "extraction_method": "api",
-      "vendor": "Switch N' Play Afterparty @ Parklife",
-      "location": "Littlefield"
     },
     {
       "date": "2026-09-12T22:00:00-04:00",
@@ -638,19 +469,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-09-13T14:00:00",
-      "title": "Summer Season Finale: Indiana Edition",
-      "venue": "Littlefield",
-      "start_time": "2:00 PM ET",
-      "end_time": "7:00 PM ET",
-      "start_time_raw": "2:00 PM",
-      "end_time_raw": "7:00 PM",
-      "description": "It\u2019s an Indiana party and you can absolutely get in! End of summer kickback with your favorite New York Poodles AND Nupes! EVENT 2PM - 7PM",
-      "extraction_method": "api",
-      "vendor": "Summer Season Finale: Indiana Edition",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-09-13T15:00:00",
       "title": "Shakedown Citi Plays Music of Grateful Dead",
       "venue": "Industry City",
@@ -691,19 +509,6 @@
     },
     {
       "date": "2026-09-13T20:00:00",
-      "title": "Gals & Goblins: A D&D Live Show",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Gals & Goblins uses the popular tabletop roleplaying game, Dungeons & Dragons, to weave a magical tale before a live audience.",
-      "extraction_method": "api",
-      "vendor": "Gals & Goblins: A D&D Live Show",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-09-13T20:00:00",
       "title": "Raven Chacon + Tashi Dorji + Alex Zhang Hungtai // Leo Chang",
       "venue": "Roulette",
       "start_time": null,
@@ -726,6 +531,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "Alex Moffat: Moffat\u2019s Mouth-Watering Must-Stops",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-09-14T00:00:00",
+      "title": "Rachel Kaly: Between Us (A Crowd Work Show)",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Rachel Kaly: Between Us (A Crowd Work Show)",
       "location": "Union Hall"
     },
     {
@@ -779,19 +597,6 @@
       "extraction_method": "html",
       "vendor": "ROCK FOR TOTS FEATURING MR. RICHARD FROM ROCKNESS MUSIC(Music)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-14T19:30:00",
-      "title": "We Belong Variety Show Hosted by Shonali Bhowmik",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "A benefit for South Brooklyn Sanctuary - a non profit providing aid to New Yorkers representing themselves in Immigration Court. 16+.",
-      "extraction_method": "api",
-      "vendor": "We Belong Variety Show Hosted by Shonali Bhowmik",
-      "location": "Littlefield"
     },
     {
       "date": "2026-09-15T00:00:00",
@@ -857,19 +662,6 @@
       "extraction_method": "html",
       "vendor": "COMMUNITEASE, A MUTUAL AID SHOW WITH ARTINA DARKLY(Draglesque)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-15T18:00:00",
-      "title": "FAIR's 40th Anniversary Celebration!",
-      "venue": "Littlefield",
-      "start_time": "6:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Come kick back, mingle and celebrate 40 years of FAIR\u2019s fearless media activism!",
-      "extraction_method": "api",
-      "vendor": "FAIR's 40th Anniversary Celebration!",
-      "location": "Littlefield"
     },
     {
       "date": "2026-09-15T20:00:00",
@@ -989,6 +781,19 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-09-17T00:00:00",
+      "title": "RUPI KAUR: UNCUT \u2013 A RESIDENCY",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "RUPI KAUR: UNCUT \u2013 A RESIDENCY",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-09-17T10:00:00",
       "title": "Small Talk NYC",
       "venue": "Industry City",
@@ -1054,19 +859,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-09-17T20:00:00",
-      "title": "The Hunger Games: Catching Fire Entirely From Memory",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Performers will attempt (and most likely fail) to recreate \"Catching Fire\", without the aid of scripts, rehearsals, or sobriety.",
-      "extraction_method": "api",
-      "vendor": "The Hunger Games: Catching Fire Entirely From Memory",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-09-17T20:00:00-04:00",
       "title": "Joe Fenti Headlines!",
       "venue": "Eastville Comedy Club",
@@ -1091,15 +883,134 @@
       "extraction_method": "html",
       "vendor": "Katherine Young: BIOMES (Album Release)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-09-18T10:00:00",
+      "title": "Sweater Sample Sale",
+      "venue": "Industry City",
+      "start_time": "10:00 AM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "10:00 AM",
+      "end_time_raw": "6:00 PM",
+      "description": "Ladies and mens sweaters $5 &amp; up",
+      "extraction_method": "api",
+      "vendor": "Sweater Sample Sale",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-18T18:00:00-04:00",
+      "title": "Brooklyn Power Hour",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Join us every Friday at 6 PM for Brooklyn Power Hour at the Eastville Comedy Club, a lively happy-hour comedy show hosted by the talented Annette Mullaney, Dara Jemmott, Sara Shipley, and Sarah Barnitt. It\u2019s a perfect way to unwind and enjoy laughs with friends!",
+      "extraction_method": "json-ld",
+      "vendor": "Brooklyn Power Hour",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-18T18:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Welcome to Brooklyn Kura! Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery.",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-18T19:30:00",
+      "title": "Plain Slice Comedy Show",
+      "venue": "Industry City",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Join Fort Hamilton Distillery for Plain Slice Comedy. This show features some of New York\u2019s best comics and rising talents.\n\ud83c\udf78Cocktail Hr @ 6:00\n\ud83c\udf9f Doors open @ 7:00\n\ud83c\udfa4 Show Starts @ 7:30\n\ud83e\udd43 Cocktails and mocktails are available for purchase &#8211; Support local business!",
+      "extraction_method": "api",
+      "vendor": "Plain Slice Comedy Show",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-18T19:30:00",
+      "title": "Unsteady &#8211; Live Music Fundraiser",
+      "venue": "Industry City",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for an evening of live music performances supporting \u201cUnsteady \u2013 Democracy in Motion\u201d, a grant recipient of the Queens Arts Fund, exploring democracy through music, dance, and community conversation.",
+      "extraction_method": "api",
+      "vendor": "Unsteady &#8211; Live Music Fundraiser",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-18T20:00:00-04:00",
+      "title": "TGIF Prime Time Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Prime-Time Comedy in Brooklyn!FEATURING SPECIAL GUEST COMEDIANS...Lineup Below",
+      "extraction_method": "json-ld",
+      "vendor": "TGIF Prime Time Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-09-18T20:00:00",
+      "title": "David Zayas Jr. Premiere Solo Photography Show",
+      "venue": "Industry City",
+      "start_time": "8:00 PM ET",
+      "end_time": "1:00 AM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "1:00 AM",
+      "description": "DAVID ZAYAS JR.: SOLO ART SHOW\nFriday, September 18 at 8PM\nTom Kane Theatre at brooklynONE Productions\nbrooklynONE Productions presents the first-ever solo photography exhibition from Bronx-born photographer, filmmaker, actor and director David Zayas Jr.\nLong before his work as a theatre and film director, Zayas began his artistic journey behind the camera. Over more than a decade, photography became a foundation for a creative career that would eventually take him across New York&#8217;s independent film and theatre communities. Now, for the first time, that body of photographic work takes center stage.\nDAVID ZAYAS JR.: SOLO ART SHOW transforms the Tom Kane Theatre into a gallery for an evening celebrating Zayas&#8217; photography, visual storytelling and distinctive perspective on the people and world around him.\nZayas is a multidisciplinary New York artist and member of LAByrinth Theater Company and The Actors Studio&#8217;s Playwright/Directors Unit. His directing career includes his Off-Broadway debut with Sam Shepard&#8217;s Simpatico, work with LAByrinth&#8217;s Barn Series, Chain Theatre, Planet Connections and Actors Theatre of NY, as well as brooklynONE Productions, where he has previously directed on the Tom Kane Theatre stage that will now house his first solo photography exhibition. His work also extends into independent filmmaking, with films screened and recognized at festivals around the country.\nFor bkONE, this exhibition marks another chapter in an ongoing artistic relationship with Zayas, this time turning the spotlight away from the stage and toward the images he creates behind the camera.\nJoin David, brooklynONE and the NYC arts community for the opening of this landmark first solo exhibition and an evening dedicated to independent art, photography and storytelling.\nPLEASE NOTE: This exhibition contains mature content and is intended for guests ages 18 and older.\nFriday, September 18 \u2022 8PM\nTom Kane Theatre at brooklynONE Productions\n51 35th Street, Building 5\nIndustry City, Brooklyn",
+      "extraction_method": "api",
+      "vendor": "David Zayas Jr. Premiere Solo Photography Show",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-18T20:00:00",
+      "title": "Red Hook Records 5th Anniversary: Andrew Cyrille, Wadada Leo Smith, and Qasim Naqvi // Amina Claudine Myers",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "A two-night showcase curated by Red Hook Records spotlights artists from its catalog and collaborators across its orbit.",
+      "extraction_method": "html",
+      "vendor": "Red Hook Records 5th Anniversary: Andrew Cyrille, Wadada Leo Smith, and Qasim Naqvi // Amina Claudine Myers",
+      "location": "Roulette"
+    },
+    {
+      "date": "2026-09-18T22:00:00-04:00",
+      "title": "Tom Zappia, Lauren Cocroft, Cesh Reyes",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "TGIF Comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)",
+      "extraction_method": "json-ld",
+      "vendor": "Tom Zappia, Lauren Cocroft, Cesh Reyes",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-09-10T10:19:27.317821+00:00",
-  "total_events": 84,
+  "updated": "2026-09-11T10:16:41.096736+00:00",
+  "total_events": 77,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
