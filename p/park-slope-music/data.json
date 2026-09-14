@@ -1,149 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-13T00:00:00",
-      "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Steve Martin Presents with Andrew Dismukes and Michael Good",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-13T00:00:00",
-      "title": "RUPI KAUR: UNCUT \u2013 A RESIDENCY",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "RUPI KAUR: UNCUT \u2013 A RESIDENCY",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-13T12:00:00+00:00",
-      "title": "SUNDAY MATINEE SHOW FEAT SKETCHY// NOTHING WRONG// DOG FATHER// VINNY AND THE HOOLIGANS(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "1:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "1:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SUNDAY MATINEE SHOW FEAT SKETCHY// NOTHING WRONG// DOG FATHER// VINNY AND THE HOOLIGANS(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-13T12:00:00+00:00",
-      "title": "52 FILMS(Screening)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "52 FILMS(Screening)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-13T12:00:00+00:00",
-      "title": "VANDALIA V HAD A FULL FRONTAL LOBE(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "VANDALIA V HAD A FULL FRONTAL LOBE(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-13T12:00:00+00:00",
-      "title": "RAGGA, RIOT AND ROCK\u2019N\u2019ROLL FEAT DUB CORPS AND MAMA\u2019S DIRTY LI\u2019L SECRET(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "RAGGA, RIOT AND ROCK\u2019N\u2019ROLL FEAT DUB CORPS AND MAMA\u2019S DIRTY LI\u2019L SECRET(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-13T12:30:00",
-      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "venue": "Industry City",
-      "start_time": "12:30 PM ET",
-      "end_time": "1:30 PM ET",
-      "start_time_raw": "12:30 PM",
-      "end_time_raw": "1:30 PM",
-      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
-      "extraction_method": "api",
-      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-13T15:00:00",
-      "title": "Shakedown Citi Plays Music of Grateful Dead",
-      "venue": "Industry City",
-      "start_time": "3:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Get Tickets here: https://wl.eventim.us/event/shakedown-citi/698254?afflky=Getitrightthefirsttime\nIndustry City and Get It Right Music in association with Murmrr Presents are thrilled to present Shakedown Citi play under the sun in Brooklyn&#8217;s Sunset Park!\nEvent Info\nDate: September 13, 2026\nDoors: 2:30pm\nShow: 3:00-6:30pm\nTickets: $20 per person plus fees in advance/$25 per person day of show\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore about Shakedown Citi\nShakedown Citi is a fresh new force on the jam band scene, born in the heart of a Grateful Dead parking lot at Citi Field in 2023. When the band&#8217;s members crossed paths on Shakedown Street, something clicked &#8211; and the music hasn&#8217;t stopped since.\nRather than imitating the Dead, Shakedown Citi channels their spirit &#8211; creating spontaneous, soulful performances that feel alive, adventurous and totally in the moment. Each set is a journey, full of unexpected twists, deep grooves and musical conversation that pulls even the most skeptical listener into the vibe. Every Shakedown Citi show begins long before the first note. Each setlist is thoughtfully and meticulously crafted from the Dead repertoire, affiliated catalogs and beyond, balancing deep cuts and beloved anthems, rarities and reprises. No two nights are ever the same &#8211; each performance stands as a work of art on its own, alive in its moment, while also fitting into the larger patchwork of the repertoire.\nIt&#8217;s not just a tribute &#8211; it&#8217;s the Dead, reborn.",
-      "extraction_method": "api",
-      "vendor": "Shakedown Citi Plays Music of Grateful Dead",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-13T17:30:00",
-      "title": "Sunday Sessions: Live Jazz &#038; Blues",
-      "venue": "Industry City",
-      "start_time": "5:30 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "5:30 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "\ud83c\udfb7 Live Jazz &amp; Blues at Fort Hamilton \ud83e\udd43\nLive music, great cocktails, and the perfect way to spend your Sunday evening.\n\ud83c\udf78 Cocktails, mocktails, beer and wine available at the bar.",
-      "extraction_method": "api",
-      "vendor": "Sunday Sessions: Live Jazz &#038; Blues",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-13T19:00:00-04:00",
-      "title": "Peter Liu Headlines!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": "Peter Liu is a New York based comedian who has opened for Ronny Chieng and has been featured on the New York and Boston comedy festivals, SFsketchfest, and Amazon Prime.His social media channels have amassed over 100k followers. He performs regularly at New York Comedy Club and headlines clubs and colleges (Harvard, MIT, Brown, USC etc)&nbsp;across the country.",
-      "extraction_method": "json-ld",
-      "vendor": "Peter Liu Headlines!",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-09-13T20:00:00",
-      "title": "Raven Chacon + Tashi Dorji + Alex Zhang Hungtai // Leo Chang",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "An interactive sound-movement piece reimagines the Korean folk practice of sangmonori, followed by the debut of a new improvising trio.",
-      "extraction_method": "html",
-      "vendor": "Raven Chacon + Tashi Dorji + Alex Zhang Hungtai // Leo Chang",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-09-14T00:00:00",
       "title": "Alex Moffat: Moffat\u2019s Mouth-Watering Must-Stops",
       "venue": "Union Hall",
@@ -222,6 +79,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-09-14T19:30:00",
+      "title": "We Belong Variety Show Hosted by Shonali Bhowmik",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "A benefit for South Brooklyn Sanctuary - a non profit providing aid to New Yorkers representing themselves in Immigration Court. 16+.",
+      "extraction_method": "api",
+      "vendor": "We Belong Variety Show Hosted by Shonali Bhowmik",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-15T00:00:00",
       "title": "LAUGH",
       "venue": "Union Hall",
@@ -285,6 +155,19 @@
       "extraction_method": "html",
       "vendor": "COMMUNITEASE, A MUTUAL AID SHOW WITH ARTINA DARKLY(Draglesque)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-15T18:00:00",
+      "title": "FAIR's 40th Anniversary Celebration!",
+      "venue": "Littlefield",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Come kick back, mingle and celebrate 40 years of FAIR\u2019s fearless media activism!",
+      "extraction_method": "api",
+      "vendor": "FAIR's 40th Anniversary Celebration!",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-15T20:00:00",
@@ -418,19 +301,6 @@
     },
     {
       "date": "2026-09-17T00:00:00",
-      "title": "*cancelled* Taylor Tomlinson: Tries Out New Ideas",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "*cancelled* Taylor Tomlinson: Tries Out New Ideas",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-17T00:00:00",
       "title": "Sophie Buddle",
       "venue": "Union Hall",
       "start_time": null,
@@ -440,6 +310,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "Sophie Buddle",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-09-17T00:00:00",
+      "title": "*cancelled* Taylor Tomlinson: Tries Out New Ideas",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "*cancelled* Taylor Tomlinson: Tries Out New Ideas",
       "location": "Union Hall"
     },
     {
@@ -467,6 +350,32 @@
       "extraction_method": "api",
       "vendor": "Sweater Sample Sale",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-09-17T12:00:00+00:00",
+      "title": "THE 1980S IMPROV CHALLENGE(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE 1980S IMPROV CHALLENGE(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-17T12:00:00+00:00",
+      "title": "FLINCH// UNDER THE COVERS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "FLINCH// UNDER THE COVERS(Music)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-09-17T17:00:00",
@@ -506,6 +415,19 @@
       "extraction_method": "api",
       "vendor": "David Bowie &#8211; Ziggy Stardust and the Spiders from Mars Outdoor Movie Screening",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-09-17T20:00:00",
+      "title": "The Hunger Games: Catching Fire Entirely From Memory",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Performers will attempt (and most likely fail) to recreate \"Catching Fire\", without the aid of scripts, rehearsals, or sobriety.",
+      "extraction_method": "api",
+      "vendor": "The Hunger Games: Catching Fire Entirely From Memory",
+      "location": "Littlefield"
     },
     {
       "date": "2026-09-17T20:00:00-04:00",
@@ -586,6 +508,32 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-18T12:00:00+00:00",
+      "title": "WHOEVER\u2019S AROUND(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "WHOEVER\u2019S AROUND(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-18T12:00:00+00:00",
+      "title": "THE 86\u2019S// EDEN AND THE SHAME// THE SLEEPAWAYS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE 86\u2019S// EDEN AND THE SHAME// THE SLEEPAWAYS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-09-18T18:00:00-04:00",
       "title": "Brooklyn Power Hour",
       "venue": "Eastville Comedy Club",
@@ -638,8 +586,21 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-18T20:00:00",
+      "title": "The Gaspare Randazzo Show w/ Opener Frank Favia",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Come laugh with 14 year teaching veteran Gaspare Randazzo as he talks about life inside and outside of the classroom.",
+      "extraction_method": "api",
+      "vendor": "The Gaspare Randazzo Show w/ Opener Frank Favia",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-18T20:00:00-04:00",
-      "title": "TGIF Prime Time Comedy",
+      "title": "Friday Primetime Comedy Featuring Sean Patton & Napoleon Emil Hosted by Kevin Casey White",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
@@ -647,7 +608,7 @@
       "end_time_raw": null,
       "description": "Prime-Time Comedy in Brooklyn!FEATURING SPECIAL GUEST COMEDIANS...Lineup Below",
       "extraction_method": "json-ld",
-      "vendor": "TGIF Prime Time Comedy",
+      "vendor": "Friday Primetime Comedy Featuring Sean Patton & Napoleon Emil Hosted by Kevin Casey White",
       "location": "Eastville Comedy Club"
     },
     {
@@ -690,6 +651,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-09-18T23:00:00",
+      "title": "DANCEHALL vs SOCA - SUMMER CLOSING PARTY IN BROOKLYN",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to vibe all night with the hottest dancehall beats.",
+      "extraction_method": "api",
+      "vendor": "DANCEHALL vs SOCA - SUMMER CLOSING PARTY IN BROOKLYN",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-09-19T00:00:00",
       "title": "Taylor Tomlinson: Tries Out New Ideas",
       "venue": "Union Hall",
@@ -713,6 +687,32 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "Taylor Tomlinson: Tries Out New Ideas",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-09-19T00:00:00",
+      "title": "*cancelled* Taylor Tomlinson: Tries Out New Ideas",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "*cancelled* Taylor Tomlinson: Tries Out New Ideas",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-09-19T00:00:00",
+      "title": "Sophie Buddle",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Sophie Buddle",
       "location": "Union Hall"
     },
     {
@@ -766,6 +766,58 @@
       "extraction_method": "api",
       "vendor": "Brooklyn Books &#038; Booze Author Book Fair: The Bookening!",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-09-19T12:00:00+00:00",
+      "title": "STEPHANIE RODGERS (SIDE BANGS) AND PHOEBE JOHNSON (REVULVA)(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "1:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "STEPHANIE RODGERS (SIDE BANGS) AND PHOEBE JOHNSON (REVULVA)(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-19T12:00:00+00:00",
+      "title": "POETRY AND MUSIC(Variety)",
+      "venue": "Young Ethel's",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "POETRY AND MUSIC(Variety)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-19T12:00:00+00:00",
+      "title": "TOM FOOLERS IMPROV PRESENTS(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TOM FOOLERS IMPROV PRESENTS(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-19T12:00:00+00:00",
+      "title": "DEBBY SCHWARTZ// MARY LEE\u2019S CORVETTE// JULIA GREENBERG(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DEBBY SCHWARTZ// MARY LEE\u2019S CORVETTE// JULIA GREENBERG(Music)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-09-19T12:00:00",
@@ -860,6 +912,19 @@
     },
     {
       "date": "2026-09-19T19:00:00",
+      "title": "Gangstagrass",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Gangstagrass is the America where bluegrass fans, hip-hop heads, city & country folk, grandparents and grandkids are all inspired to dance!",
+      "extraction_method": "api",
+      "vendor": "Gangstagrass",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-09-19T19:00:00",
       "title": "Trainspotting 30th Anniversary Screening",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -911,6 +976,45 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-09-19T23:00:00",
+      "title": "REGGAE REWIND",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "BROOKLYN... WE'RE CALLING ALL REGGAE LOVERS, DANCEHALL HEADS, REWIND SPECIALISTS & FORWARD CREW!",
+      "extraction_method": "api",
+      "vendor": "REGGAE REWIND",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-09-20T12:00:00+00:00",
+      "title": "ELITE TRAVELERS + PETE GALUB(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "1:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ELITE TRAVELERS + PETE GALUB(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-20T12:00:00+00:00",
+      "title": "A NIGHT OF IMPROV DUOS(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "A NIGHT OF IMPROV DUOS(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-09-20T12:30:00",
       "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
       "venue": "Industry City",
@@ -935,17 +1039,93 @@
       "extraction_method": "api",
       "vendor": "Sunday Sessions: Live Jazz &#038; Blues",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-09-20T18:30:00",
+      "title": "SHAKIN AND STIRRED. A DANCE VARIETY SHOW PRODUCED BY OH DANCE(Other)",
+      "venue": "Young Ethel's",
+      "start_time": "6:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SHAKIN AND STIRRED. A DANCE VARIETY SHOW PRODUCED BY OH DANCE(Other)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-20T19:30:00",
+      "title": "Spell Checc: A Spelling Bee Gameshow!",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Watch New York\u2019s funniest comedians compete in a spelling bee meets try-not-to-laugh showdown!",
+      "extraction_method": "api",
+      "vendor": "Spell Checc: A Spelling Bee Gameshow!",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-09-21T12:00:00+00:00",
+      "title": "SPUYTEN DUYVIL PRESENTS: SEVEN SPOUTING DEVILS\u2014ONE NIGHT: AN EVENING OF FICTION AND POETRY(Reading)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SPUYTEN DUYVIL PRESENTS: SEVEN SPOUTING DEVILS\u2014ONE NIGHT: AN EVENING OF FICTION AND POETRY(Reading)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-21T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-21T16:30:00",
+      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG.(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-21T19:30:00",
+      "title": "Slick: The Release Party",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "An award-winning absurdist workplace comedy web series!",
+      "extraction_method": "api",
+      "vendor": "Slick: The Release Party",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-09-13T10:17:37.631187+00:00",
-  "total_events": 72,
+  "updated": "2026-09-14T10:17:07.964621+00:00",
+  "total_events": 86,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
