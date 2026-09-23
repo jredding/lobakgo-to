@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-22T00:00:00",
-      "title": "PRETTY  MAJOR Hosted by Jay Jurden",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "PRETTY  MAJOR Hosted by Jay Jurden",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-22T12:00:00+00:00",
-      "title": "CLAY ONES OPEN MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "CLAY ONES OPEN MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-22T19:00:00",
-      "title": "Brooklyn Books &#038; Booze Reading Series",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Join Brooklyn Books &amp; Booze for our September reading event with award-winning, bestselling authors Carol Gyzander, Megan Frampton, Micaiah Johnson and Mia V. Moss as they read at Barrow&#8217;s Intense. Monthly event will have a special one-night cocktail and is free.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Books &#038; Booze Reading Series",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-22T19:30:00",
-      "title": "F-WORD TRIVIA HOSTED BY SAM(Trivia)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "F-WORD TRIVIA HOSTED BY SAM(Trivia)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-22T20:00:00",
-      "title": "The Monkathon: Miles Okazaki plays Thelonious Monk (World Premiere Screening)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "A concert film capturing guitarist Miles Okazaki's live performance of the complete works of Thelonious Monk.",
-      "extraction_method": "html",
-      "vendor": "The Monkathon: Miles Okazaki plays Thelonious Monk (World Premiere Screening)",
-      "location": "Roulette"
-    },
-    {
-      "date": "2026-09-22T21:30:00",
-      "title": "J STEW GROOVE(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "J STEW GROOVE(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-09-23T00:00:00",
       "title": "Pizzazz with Gary Gulman",
       "venue": "Union Hall",
@@ -378,6 +300,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-09-25T18:00:00",
+      "title": "Floral Ave Upcycled Style Popup at StyleCrush",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "StyleCrush Treasure Gallery hosts Floral Ave, a sustainable fashion brand built around the thrill of the find.\nJoin us for a preview party on Friday from 6-8pm!\nAll through the weekend you can meet designer Nancy Brooke, who creates one-of-a-kind clothing from Brooklyn finds, years of thrifted treasures, and her grandmother\u2019s leftovers.\nNancy\u2019s clothing collages extends the life of garments by combining damaged pieces, visibly mending flaws, and layering unexpected materials\u2014the result is witty, whimsical clothes that invite a second look\u2014and sometimes a conversation.",
+      "extraction_method": "api",
+      "vendor": "Floral Ave Upcycled Style Popup at StyleCrush",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-09-25T19:00:00",
       "title": "Tambour Kings Live Blues &#038; Jazz",
       "venue": "Industry City",
@@ -388,6 +323,19 @@
       "description": "Join us for live Funk/Fusion/R&amp;B/Soul/Blues from the incredible Tambour Kings, craft cocktails, and plenty of whiskey.",
       "extraction_method": "api",
       "vendor": "Tambour Kings Live Blues &#038; Jazz",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-25T19:00:00",
+      "title": "Stein Hoisting Competition",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "\ud83c\udf7a OKTOBERFEST AT CARREAU CLUB \u2014 SEPTEMBER 25! \ud83e\udd68\nBreak out your best stein-hoisting arm and join us at Carreau Club for an Oktoberfest celebration featuring Jack\u2019s Abby Copper Legend Oktoberfest, a Stein Hoisting Competition, prizes, a live DJ, and plenty of Bavarian-inspired food.\nWe\u2019ll be serving up giant pretzels, choucroute garnie, and other Oktoberfest specials all night long.\nThink you\u2019ve got what it takes? Grab a stein, hold it high, and compete for prizes including steins, T-shirts, and Alpine hats. Or just come hang, eat, drink, and enjoy the music.\n\ud83c\udf7a Jack\u2019s Abby Copper Legend\n\ud83d\udcaa Stein Hoisting Competition + prizes\n\ud83e\udd68 Oktoberfest food specials\n\ud83c\udfb6 DJ all night\nSeptember 25 at Carreau Club\n68 34th St, Brooklyn\nProst! \ud83c\udf7b",
+      "extraction_method": "api",
+      "vendor": "Stein Hoisting Competition",
       "location": "Industry City"
     },
     {
@@ -469,6 +417,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-09-26T10:00:00",
+      "title": "Floral Ave Upcycled Style Popup at StyleCrush",
+      "venue": "Industry City",
+      "start_time": "10:00 AM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "10:00 AM",
+      "end_time_raw": "5:00 PM",
+      "description": "StyleCrush Treasure Gallery hosts Floral Ave, a sustainable fashion brand built around the thrill of the find.\nJoin us for a preview party on Friday from 6-8pm!\nAll through the weekend you can meet designer Nancy Brooke, who creates one-of-a-kind clothing from Brooklyn finds, years of thrifted treasures, and her grandmother\u2019s leftovers.\nNancy\u2019s clothing collages extends the life of garments by combining damaged pieces, visibly mending flaws, and layering unexpected materials\u2014the result is witty, whimsical clothes that invite a second look\u2014and sometimes a conversation.",
+      "extraction_method": "api",
+      "vendor": "Floral Ave Upcycled Style Popup at StyleCrush",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-09-26T11:00:00",
       "title": "A Taste of Grand Bazaar",
       "venue": "Industry City",
@@ -518,6 +479,19 @@
       "description": "Learn the fundamentals of natural dyeing by transforming plants into vibrant colors for textiles. In this hands-on workshop, participants will explore sustainable dye practices and create beautifully patterned fabric using the bundle dyeing technique with flowers, leaves, and roots.\nAll materials are provided, but participants are encouraged to bring any natural materials they want to experiment with. We recommend wearing clothing that you don\u2019t mind getting messy.",
       "extraction_method": "api",
       "vendor": "Bundle Dyeing",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-26T16:00:00",
+      "title": "Meet the Brewers: Sake Class and Brewery Tour",
+      "venue": "Industry City",
+      "start_time": "4:00 PM ET",
+      "end_time": "5:30 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "5:30 PM",
+      "description": "Meet the Brewers brings together sake makers from three breweries for one evening of tasting and storytelling, including a U.S. debut. Tenzan Brewery&#8217;s President Kensuke Shichida will pour Shichida Junmai \u201cShunyo,\u201d making its first U.S. appearance at this event. Tsuji Honten&#8217;s President Soichiro Tsuji will pour Gozenshu 1859, and Brooklyn Kura co-founder and Master Brewer Brandon Doughan will \u2026",
+      "extraction_method": "api",
+      "vendor": "Meet the Brewers: Sake Class and Brewery Tour",
       "location": "Industry City"
     },
     {
@@ -638,6 +612,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-09-27T10:00:00",
+      "title": "Floral Ave Upcycled Style Popup at StyleCrush",
+      "venue": "Industry City",
+      "start_time": "10:00 AM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "10:00 AM",
+      "end_time_raw": "5:00 PM",
+      "description": "StyleCrush Treasure Gallery hosts Floral Ave, a sustainable fashion brand built around the thrill of the find.\nJoin us for a preview party on Friday from 6-8pm!\nAll through the weekend you can meet designer Nancy Brooke, who creates one-of-a-kind clothing from Brooklyn finds, years of thrifted treasures, and her grandmother\u2019s leftovers.\nNancy\u2019s clothing collages extends the life of garments by combining damaged pieces, visibly mending flaws, and layering unexpected materials\u2014the result is witty, whimsical clothes that invite a second look\u2014and sometimes a conversation.",
+      "extraction_method": "api",
+      "vendor": "Floral Ave Upcycled Style Popup at StyleCrush",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-09-27T11:00:00",
       "title": "MILNA MARKET: South Asian Pop-Up Market NYC",
       "venue": "Industry City",
@@ -688,6 +675,32 @@
       "extraction_method": "html",
       "vendor": "TBA(Variety)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-09-27T12:30:00",
+      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-09-27T14:00:00",
+      "title": "Brooklyn Kura Tie-Dye Party",
+      "venue": "Industry City",
+      "start_time": "2:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Come celebrate the changing of the seasons with a tie-dye party at Brooklyn Kura!\nWe&#8217;ll be tie-dying our merch in the Industry City courtyard with Peaboy of Bin Bin fame, drinking Orion Beer/Brooklyn Kura Sake Boilermakers with their Brand Rep. Hamer, and serving Sunset Park staple Nour&#8217;s famous Lebanese Cuisine.\n\u200bSunday, Sept 27th, 2pm until we sell out!\n\u200bBrooklyn Kura shirt or bag + dye materials + glass of sake &#8211; $45",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Kura Tie-Dye Party",
+      "location": "Industry City"
     },
     {
       "date": "2026-09-27T17:30:00",
@@ -820,6 +833,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-09-29T00:00:00",
+      "title": "Comedy Para Colombia",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Comedy Para Colombia",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-09-29T12:00:00+00:00",
       "title": "CLAY ONES OPEN MIC(Open mic)",
       "venue": "Young Ethel's",
@@ -870,10 +896,23 @@
       "extraction_method": "html",
       "vendor": "Bathed in Sound: James Brandon Lewis Trio // Trap Music Orchestra // Angelica Sanchez // Clinton Patterson, Sheela Bringi & Elden Kelly",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-09-30T20:00:00",
+      "title": "Nate Wooley\u2019s Mutual Aid Music // Larry Ochs Safe Havens (for the Abstract Truth)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Two ensembles create collective sound-worlds deeply rooted in the spirit of improvisation.",
+      "extraction_method": "html",
+      "vendor": "Nate Wooley\u2019s Mutual Aid Music // Larry Ochs Safe Havens (for the Abstract Truth)",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-09-22T10:17:32.141524+00:00",
-  "total_events": 67,
+  "updated": "2026-09-23T10:17:59.174343+00:00",
+  "total_events": 70,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
