@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-30T00:00:00",
-      "title": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-09-30T12:00:00+00:00",
-      "title": "ALEX\u2018S GOOD TIME SING-ALONG REQUEST HOUR JAMBAROO!(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "ALEX\u2018S GOOD TIME SING-ALONG REQUEST HOUR JAMBAROO!(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-30T12:00:00+00:00",
-      "title": "FREAKY DEAKY IMPROV(Improv Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "FREAKY DEAKY IMPROV(Improv Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-30T18:00:00",
-      "title": "Decompression Art Club",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "8:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "8:00 PM",
-      "description": "A facilitated Open Studio Art Therapy Workshop! All materials included. Please register and join us!",
-      "extraction_method": "api",
-      "vendor": "Decompression Art Club",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-09-30T19:30:00",
-      "title": "WE HAVE FUN STAND-UP POSTED BY DAN AND ZACH(Standup )",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STAND-UP POSTED BY DAN AND ZACH(Standup )",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-09-30T20:00:00",
-      "title": "Nate Wooley\u2019s Mutual Aid Music // Larry Ochs Safe Havens (for the Abstract Truth)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Two ensembles create collective sound-worlds deeply rooted in the spirit of improvisation.",
-      "extraction_method": "html",
-      "vendor": "Nate Wooley\u2019s Mutual Aid Music // Larry Ochs Safe Havens (for the Abstract Truth)",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-10-01T00:00:00",
       "title": "Slumber Party with Clare Donaher and Shelby Latterman",
       "venue": "Union Hall",
@@ -155,6 +77,19 @@
       "extraction_method": "api",
       "vendor": "The Helm Family Ramble Band Return to Industry City",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-10-01T20:00:00-04:00",
+      "title": "Ayanna Dookie, Dara Jemmott, Liam Dalton, Paul Valdes-Rodriguez, Cesh Reyes, Whitney Chanel",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Weekend Warmup comedy in Brooklyn!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...Line up BelowFeaturingAyanna DookieDara JemmottLiam DaltonPaul Valdes-RodriguezCesh ReyesWhitney ChanelLiam Dalton is a New York City based comedian, actor and writer, born and raised in Queens. His conversational style mixes observational humor with personal stories of growing up the only boy in a big Irish Catholic household. Fresh off of performing on Bert Kreischer&rsquo;s &ldquo;Fully Loaded&ldquo; cruise, Liam performed on the Impractical Jokers cruise and the Netflix is a Joke comedy festival in Los Angeles. He has opened for big acts like Mark Normand, Rachel Feinstein and Cipha Sounds. He just finished his stint as a radio personality on New York radio station 94.7 the block. When he&rsquo;s not touring the country or seas, Liam performs all over New York City and uploads sketches to his social media daily. Paul Valdes-Rodriguez is an NYC based standup Comedian. He&#39;s a Cuban comic that&#39;s been described as &quot;lovable, sassy, and a little urban.&quot; His vulnerable humor and quick wit won him the 2022 Connecticut Comedy Contest and he produces a weekly comedy show in Brooklyn, called Cuba Libre that&#39;s been regularly featured in Timeout NY.&nbsp;Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.",
+      "extraction_method": "json-ld",
+      "vendor": "Ayanna Dookie, Dara Jemmott, Liam Dalton, Paul Valdes-Rodriguez, Cesh Reyes, Whitney Chanel",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-10-01T20:00:00",
@@ -261,6 +196,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-02T18:00:00-04:00",
+      "title": "Soo Ra, Cole Cosby, Will Purpura, Tom Zappia, Neko White",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Comedy Showcase featuring New York&#39;s funniest comedians!Cole Cosby is a comedian from Philadelphia (raised in South Jersey), now residing in New York. Cole&rsquo;s interest in stand up comedy began in middle school from watching the performances of legends such as Dave Chappelle, Kevin Hart and the sitcoms of Jerry Seinfeld and Kevin James. Cole&rsquo;s first time performing stand-up comedy came during his junior year of college at an open mic on Temple University&rsquo;s campus. Since that day, and after graduation, Cole Cosby went on to rise in the Philadelphia comedy circuit, becoming a regular host (and feature act) at Helium and Punchline comedy clubs, and working with headliners such as Sam Jay, Josh Johnson, and Tony Rock. Cole Cosby has also opened on the road for comedy legends Sinbad, Caroline Rhea and Tammy Pescatelli. Since moving to New York City in 2023, Cole has passed at Stand Up NY, earned a residency at Broadway Comedy Club, and is on a mission to create his own Cosby legacy.Funny, smart, fresh, and magnetic, Neko White is a star. A comedian born and raised in Harlem, Neko has brought his unique perspective and sharp comedy from New York to international audiences. Beginning his career at just fourteen years old, the then high school freshman was sitting in class when a teacher asked, &ldquo;Does anyone have a talent?&rdquo; Something in Neko&rsquo;s mind said, &ldquo;Go tell jokes!&ldquo; He went up in front of his classmates and it worked. And, as they say, the rest is history.&nbsp;As a stand-up, Neko has been featured on Netflix&rsquo;s &quot;Pete Davidson Presents: The Best Friends,&quot; Cracked Comedy Club, TruTV&rsquo;s &quot;Laff Tracks,&quot; AXS TV&rsquo;s &quot;Gotham Comedy Live,&quot; STARZ&rsquo;s &quot;New York&rsquo;s Funniest,&quot; and Kevin Hart&rsquo;s LOL Network. He was named one of the &quot;New Faces&quot; in the Just For Laughs Festival, performed in Netflix is a Joke Festival, and won Carolines&rsquo; prestigious March Madness competition. Neko released a comedy album titled &quot;Marscellus,&quot; then produced one of the most original filmed specials in recent memory with his self-released &quot;Dark Out.&quot; Shot with no audience, a pitch-black background, and recorded with an old-fashioned microphone, Neko&rsquo;s special received critical acclaim. One publication said &quot;Dark Out&quot; made Neko one of the &ldquo;innovators changing comedy.&rdquo; Neko also self-produced his first hour special, &quot;Neko White: Introducing Me.&rdquo; He was the subject of the award-winning documentary, &ldquo;One Mic.&rdquo;Neko is an accomplished television personality. He hosted Vice News&rsquo; popular series, &quot;How To Be A Person&quot; and has been a regular guest on MTV2&rsquo;s &quot;Hip Hop Hollywood Squares&quot; and Comedy Central&rsquo;s &quot;Dark Humor.&quot; Neko made his film acting debut in the movie, &quot;Midlife.&quot;",
+      "extraction_method": "json-ld",
+      "vendor": "Soo Ra, Cole Cosby, Will Purpura, Tom Zappia, Neko White",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-10-02T19:30:00",
       "title": "The Night Shift Comedy Show",
       "venue": "Industry City",
@@ -274,6 +222,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-02T20:00:00-04:00",
+      "title": "Subhah Agarwal, Miss Lissa Knows, Cole Cosby, Cab Washington, Tom Zappia, Greg Melly, Sharief Johnson",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy clubFeaturingSubhah AgarwalMiss Lissa KnowsCole CosbyCab WashingtonTom ZappiaGreg MellySharief JohnsonSubhah Agarwal has brought an honesty to her comedy that will leave you saying &quot;I didn&#39;t need to know that.&quot; Subhah has written for Netflix&rsquo;s &ldquo;Arsenio Hall&rdquo; limited series, the &quot;Plan B&quot; movie on Hulu,&quot; and The Jim Jefferies Show&quot;on Comedy Central, amongst others. You can also catch her jokes live at stand up comedy clubs across the country. If you don&#39;t want to leave your couch, you can see her late night debut on NBC&#39;s &quot;A Little Late With Lilly Singh.&quot; She&#39;s also appeared on season three of HBO&#39;s &quot;Westworld&quot;, &quot;General Hospital,&quot; TruTv&#39;s sketch comedy &quot;Friends of the People&quot;, and as herself on MTV2, Comedy Central, and Gotham Comedy Live.Miss Lissa is a traveling comedian, host, actor and writer from New York City. For over 12 years, Melissa &#39;Miss Lissa&#39; Finney has been building the &quot;Miss Lissa Knows&quot; brand. From interviewing celebrities and covering events, to performing in various comedy clubs across the country. Miss Lissa has worked as on-air talent for Vibe Magazine, TMZ, and iOne Digital. In addition, Miss Lissa has been featured in the New York Comedy Festival (2022) (2023)&nbsp;Miss Lissa draws audiences in with her hilarious stories and stands out because of her witty style and dramatic delivery.&nbsp;Cole Cosby is a comedian from Philadelphia (raised in South Jersey), now residing in New York. Cole&rsquo;s interest in stand up comedy began in middle school from watching the performances of legends such as Dave Chappelle, Kevin Hart and the sitcoms of Jerry Seinfeld and Kevin James. Cole&rsquo;s first time performing stand-up comedy came during his junior year of college at an open mic on Temple University&rsquo;s campus. Since that day, and after graduation, Cole Cosby went on to rise in the Philadelphia comedy circuit, becoming a regular host (and feature act) at Helium and Punchline comedy clubs, and working with headliners such as Sam Jay, Josh Johnson, and Tony Rock. Cole Cosby has also opened on the road for comedy legends Sinbad, Caroline Rhea and Tammy Pescatelli. Since moving to New York City in 2023, Cole has passed at Stand Up NY, earned a residency at Broadway Comedy Club, and is on a mission to create his own Cosby legacy.Colin &quot;Cab&quot; Washington is a stand-up comedian and host known for appearances on HBO&#39;s Insecure and for running the Runnin&#39; Late Comedy Show in New York City",
+      "extraction_method": "json-ld",
+      "vendor": "Subhah Agarwal, Miss Lissa Knows, Cole Cosby, Cab Washington, Tom Zappia, Greg Melly, Sharief Johnson",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-10-02T20:00:00",
       "title": "Us v. Them: The Fiery Furnaces, Oneida, and Skeletons Big Band",
       "venue": "Roulette",
@@ -285,6 +246,19 @@
       "extraction_method": "html",
       "vendor": "Us v. Them: The Fiery Furnaces, Oneida, and Skeletons Big Band",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-10-02T21:45:00-04:00",
+      "title": "Comedy Rap Battle",
+      "venue": "Eastville Comedy Club",
+      "start_time": "9:45 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:45 PM",
+      "end_time_raw": null,
+      "description": "Reggie Kush&#39;s Comedy Rap Battle has become a New York City staple. Comedians from all over the city come together for a hilarious night of rap battles.Komedy Kombat!",
+      "extraction_method": "json-ld",
+      "vendor": "Comedy Rap Battle",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-10-03T00:00:00",
@@ -391,6 +365,32 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-03T18:00:00-04:00",
+      "title": "Eva Evans, Cole Cosby, Lauren Cocroft, Joe Mahoney",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)FeaturingEva EvansCole CosbyLauren CocroftJoe MahoneyJohn BennettColin Cab WashingtonCole Cosby is a comedian from Philadelphia (raised in South Jersey), now residing in New York. Cole&rsquo;s interest in stand up comedy began in middle school from watching the performances of legends such as Dave Chappelle, Kevin Hart and the sitcoms of Jerry Seinfeld and Kevin James. Cole&rsquo;s first time performing stand-up comedy came during his junior year of college at an open mic on Temple University&rsquo;s campus. Since that day, and after graduation, Cole Cosby went on to rise in the Philadelphia comedy circuit, becoming a regular host (and feature act) at Helium and Punchline comedy clubs, and working with headliners such as Sam Jay, Josh Johnson, and Tony Rock. Cole Cosby has also opened on the road for comedy legends Sinbad, Caroline Rhea and Tammy Pescatelli. Since moving to New York City in 2023, Cole has passed at Stand Up NY, earned a residency at Broadway Comedy Club, and is on a mission to create his own Cosby legacy.Hailing from Brooklyn and Jamaica, Eva Evans is a comedian that has been described as &ldquo;the true definition of a hustler.&rdquo; She recently showcased in the coveted Netflix Introducing showcase, recorded in Los Angeles May 2025. She&rsquo;s been featured on Sway in the Morning at Caroline&rsquo;s and The Wendy Williams Show, BET, and at the request of Senator Jessie Williams performed at the 2018 Women&rsquo;s Empowerment Awards. Eva has performed in the Netflix is a Joke Festival, Laughing Skull Festival, Harlem Comedy Festival, and Manhattan Comedy Festival; and was the only female comedian to regularly perform in front of detainees at Riker&#39;s Island.Colin &ldquo;Cab&rdquo; Washington is a Philly-born actor, writer, comedian and producer known for blending sharp observational humor with personal storytelling. His credits include &quot;Insecure&quot; (HBO), BuzzFeed, Cracked, &quot;Timeout New York,&quot; and producing for &quot;First Things First&quot; on Fox Sports. Cab was featured as an emerging artist at SF Sketchfest &#39;24 and the New York Comedy Festival &#39;24, drawing laughs from the chaos of relationships, identity, and the trials and tribulations of being a millennial in their 30&rsquo;s. He&rsquo;s the creator and host of &quot;Runnin&rsquo; Late&quot; comedy show, a live comedy show featuring stand-up, interviews, and music which has sold out over 100 shows around the country. When he&rsquo;s not performing every night at the best comedy clubs in New York City, he has enjoyed touring with Brian Simpson, Liza Treyger, Aida Rodriguez, and Chris Redd. Outside comedy, he co-owns Ron&rsquo;s Signature Sauce, reviving his family&rsquo;s iconic Philly BBQ legacy, which was recently featured on &quot;Good Day Philadelphia.&quot; Whether on stage, screen, or the grill, Cab brings heart, humor, and authenticity to everything he does.Joe Mahoney is an NYC comic from Long Island who can play to many different crowds. His clever writing has earned him countless spots at the legendary Comic Strip Live and feature work on the road. He&rsquo;s appeared on Adult Swim and Compound Media.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival.",
+      "extraction_method": "json-ld",
+      "vendor": "Eva Evans, Cole Cosby, Lauren Cocroft, Joe Mahoney",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-03T20:00:00-04:00",
+      "title": "Anthony Moore, Cole Cosby, Tom Zappia, Lauren Cocroft, Mae Planert, Derrell Meyers",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)Cole Cosby is a comedian from Philadelphia (raised in South Jersey), now residing in New York. Cole&rsquo;s interest in stand up comedy began in middle school from watching the performances of legends such as Dave Chappelle, Kevin Hart and the sitcoms of Jerry Seinfeld and Kevin James. Cole&rsquo;s first time performing stand-up comedy came during his junior year of college at an open mic on Temple University&rsquo;s campus. Since that day, and after graduation, Cole Cosby went on to rise in the Philadelphia comedy circuit, becoming a regular host (and feature act) at Helium and Punchline comedy clubs, and working with headliners such as Sam Jay, Josh Johnson, and Tony Rock. Cole Cosby has also opened on the road for comedy legends Sinbad, Caroline Rhea and Tammy Pescatelli. Since moving to New York City in 2023, Cole has passed at Stand Up NY, earned a residency at Broadway Comedy Club, and is on a mission to create his own Cosby legacy.FeaturingAnthony MooreCole CosbyTom ZappiaLauren CocroftMae PlanertDerrell Meyers",
+      "extraction_method": "json-ld",
+      "vendor": "Anthony Moore, Cole Cosby, Tom Zappia, Lauren Cocroft, Mae Planert, Derrell Meyers",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-10-03T20:00:00",
       "title": "Firas Zreik\u2019s Tarabesque: New Journeys in Arabic Music (RBA)",
       "venue": "Roulette",
@@ -402,6 +402,19 @@
       "extraction_method": "html",
       "vendor": "Firas Zreik\u2019s Tarabesque: New Journeys in Arabic Music (RBA)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-10-03T22:00:00-04:00",
+      "title": "Corinne Fisher, Peter Stewart, Tom Zappia, Stephon Bishop",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)CORINNE FISHER is a stand-up comedian, writer, director &amp; actor originally from Union, NJ and currently residing in New York City. Most recently, she directed the debut comedy special from her and herlongtime comedy partner, Krystyna Hutchinson. The special is set to air in February 2022. The duo is most known for co-creating and co-hosting their groundbreaking, genre-creating GUYS WE F*CKED: The Anti Slut-Shaming podcast &mdash; a vulnerable firsthand look into modern female sexuality from a comedic perspective &mdash; which began tearing up charts in December 2013. Over eight years later, the show boasts millions of listeners nationally and internationally and has inspired dozens of female-led comedy/sexuality shows. The podcast has hit #1 on the iTunes comedy charts multiple times and has been featured in Vogue, Interview, Esquire, The Huffington Post, The Daily Beast, Splitsider, Mother Jones, Perez Hilton, Elle, A.V. Club, E! News, People, US Magazine, Bust, CNN, and The Village Voice as well as on Sirius Radio, and NBC&rsquo;s Last Call with Carson Daly. High-profile guests include Amanda Knox, Amber Rose, and Fran Drescher. The podcast was also turned into a book by HarperCollins entitled F*CKED: Being Sexually Explorative and Self-Confident in a World That&rsquo;s Screwed and the duo was asked to give a TEDx talk exploring topics from their show.Corinne first made a splash in the comedy scene with her debut one-woman show Corinne Fisher: I STALK YOU (Dir. David Crabb) which had a run at The Peoples Improv Theater in the Summer of 2010 and was a featured show in Time Out New York. Since then, she has been a regular on the stand-up scene selling out shows at world-famous clubs like The Comedy Store, New York Comedy Club, The Stand, and Caroline&rsquo;s on Broadway and theaters such as The Wilbur in Boston, the Athenaeum inChicago, and the Tribeca Performing Arts Center in New York City. Fisher has also been selected to perform at the prestigious Just For Laughs Comedy Festival in both Montreal and Toronto, Moontower Comedy Festival, Boston Comedy Festival, and cult favorite Skankfest. She&rsquo;s been seen on FOX&rsquo;s LAUGHS and her show with fellow comic Katie Hannigan THE COMEDIENNE PROJECT (Dir. Ted Alexandro) was selected for the NYC Fringe Festival.Fisher remains an innovator in podcasting, having co-created the WITHOUT A COUNTRY podcast which she currently co-hosts with comedian Shayne Smith, a weekly news shows that covers stories using aslew of sources from various political perspectives. She also previously co-hosted and co-created TWO LESS LONELY GIRLS, a podcast for adult Justin Bieber fans with comedian Rosebud Baker.Right now, Corinne is working on writing and producing several projects including the cartoon series MYSTERY SQUAD GALS created by Ryan Duff. In an unexpected plot twist, she also took over her Dad&rsquo;sbaseball card and horror collectibles store, Perfectly Centered, in 2021.Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.Originally from the Bay Area, Salma Zaky moved to Los Angeles to attend college, where she began her comedy journey. Salma has filmed a mini stand-up special with OnlyFans on OFTV (unfortunately clothed), as well as a Don&#39;t Tell taping. She now resides in Brooklyn, NY to take her anxiety and career to new heights. FeaturingCorinne FisherPeter StewartTom ZappiaStephon BishopWhitney ChanelSalma Zaky",
+      "extraction_method": "json-ld",
+      "vendor": "Corinne Fisher, Peter Stewart, Tom Zappia, Stephon Bishop",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-10-04T00:00:00",
@@ -495,6 +508,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-04T19:30:00-04:00",
+      "title": "Subhah Agarwal, Vishnu Vaka, Peter Stewart, Lauren Cocroft, Cesh Reyes, Whitney Chanel",
+      "venue": "Eastville Comedy Club",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy clubFeaturingSubhah AgarwalVishnu VakaPeter StewartLauren CocroftCesh ReyesWhitney ChanelSubhah Agarwal has brought an honesty to her comedy that will leave you saying &quot;I didn&#39;t need to know that.&quot; Subhah has written for Netflix&rsquo;s &ldquo;Arsenio Hall&rdquo; limited series, the &quot;Plan B&quot; movie on Hulu,&quot; and The Jim Jefferies Show&quot;on Comedy Central, amongst others. You can also catch her jokes live at stand up comedy clubs across the country. If you don&#39;t want to leave your couch, you can see her late night debut on NBC&#39;s &quot;A Little Late With Lilly Singh.&quot; She&#39;s also appeared on season three of HBO&#39;s &quot;Westworld&quot;, &quot;General Hospital,&quot; TruTv&#39;s sketch comedy &quot;Friends of the People&quot;, and as herself on MTV2, Comedy Central, and Gotham Comedy Live.Vishnu Vaka has recently been featured for Pete Lee at Carolines, he has also written dialogue for two Telugu (South Indian films). He had been touring with Josh Blue for the past few years as the feature, they were doing the two men show.Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.",
+      "extraction_method": "json-ld",
+      "vendor": "Subhah Agarwal, Vishnu Vaka, Peter Stewart, Lauren Cocroft, Cesh Reyes, Whitney Chanel",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-10-05T12:00:00+00:00",
       "title": "DOODLE MIC(Open mic)",
       "venue": "Young Ethel's",
@@ -519,6 +545,19 @@
       "extraction_method": "html",
       "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY, HAPPY HOUR FEATURING A SING-ALONG(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-05T19:30:00-04:00",
+      "title": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
+      "venue": "Eastville Comedy Club",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": "Join us every Friday at 6 PM for Brooklyn Power Hour at the Eastville Comedy Club, a lively happy-hour comedy show hosted by the talented Annette Mullaney, Dara Jemmott, Sara Shipley, and Sarah Barnitt. It&rsquo;s a perfect way to unwind and enjoy laughs with friends!",
+      "extraction_method": "json-ld",
+      "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
+      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-10-05T21:30:00",
@@ -574,7 +613,7 @@
     },
     {
       "date": "2026-10-06T19:00:00",
-      "title": "Carla Kihlstedt & Rafael Os\u00e9s: A Workshop on the Process Behind X Amendments",
+      "title": "Carla Kihlstedt & Rafael Os\u00e9s: A Workshop on the Process Behind X AMENDMENTS",
       "venue": "Roulette",
       "start_time": null,
       "end_time": null,
@@ -582,7 +621,7 @@
       "end_time_raw": null,
       "description": "An interactive workshop exploring the ideas behind the artist's most recent collaboration with Rafael Os\u00e9s, X Amendments.",
       "extraction_method": "html",
-      "vendor": "Carla Kihlstedt & Rafael Os\u00e9s: A Workshop on the Process Behind X Amendments",
+      "vendor": "Carla Kihlstedt & Rafael Os\u00e9s: A Workshop on the Process Behind X AMENDMENTS",
       "location": "Roulette"
     },
     {
@@ -651,6 +690,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-07T20:00:00-04:00",
+      "title": "UG! KNOCKOUTS \u2014 Stand-Up Comedy as a Sport! ????????",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Wednesday Night in BrooklynUG! Comedy teams up with Pro League Network for a brand-new filmed comedy competition where stand-up meets fight night! 4 comics. 3 rounds. 5 judges. 1 winner. Comics battle through scored rounds, eliminations and the Final Knockout to see who comes out on top.&nbsp;Pilot Tapings: Sept. 30, Oct. 7 &amp; Oct. 14&nbsp;8:30 PM&nbsp;EastVille Comedy Club &mdash; Brooklyn&nbsp;$10 cover + 2-drink/item minimumWho&rsquo;ll knock &rsquo;em all out?&nbsp;&nbsp;#UGIT-----UG! KNOCKOUTS &mdash; Stand-Up Comedy as a Sport! | Pilot Tapings",
+      "extraction_method": "json-ld",
+      "vendor": "UG! KNOCKOUTS \u2014 Stand-Up Comedy as a Sport! ????????",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-10-07T20:00:00",
       "title": "X AMENDMENTS: Carla Kihlstedt, Rafael Os\u00e9s, Holland Andrews, Gelsey Bell, Ana\u00efs Maviel, Kalyn Harewood, and Dither (Night 1)",
       "venue": "Roulette",
@@ -662,10 +714,75 @@
       "extraction_method": "html",
       "vendor": "X AMENDMENTS: Carla Kihlstedt, Rafael Os\u00e9s, Holland Andrews, Gelsey Bell, Ana\u00efs Maviel, Kalyn Harewood, and Dither (Night 1)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-10-08T00:00:00",
+      "title": "Musical Comedy Is Cool",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Musical Comedy Is Cool",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-08T12:00:00+00:00",
+      "title": "THE YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-08T19:00:00",
+      "title": "Talking Heads &#8211; Stop Making Sense Film Screening",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "REDUCE FOMO BY CLICKING HERE!\nhttps://wl.eventim.us/event/talking-heads-stop-making-sense/704440?afflky=Getitrightthefirsttime\nGet It Right Music in association with BK One Productions is proud to present our late summer/early fall music documentary and horror film movies (yes, those two things go together, and yes, we ARE wondering why you are asking!). Watch fan favorites on our 16-foot wide LED video wall and enjoy the film in full concert sound!\nYou have reached the ticketing page for Talking Heads &#8211; Stop Making Sense! This is gonna be one heck of a dance party under the stars.\nThis is the seminal 1984 American concert film featuring a live performance by the American rock band Talking Heads. The film was directed by Jonathan Demme and executive produced by Gary Kurfirst, the band\u2019s longtime manager. The film was shot over four nights in December 1983 at Hollywood&#8217;s Pantages Theatre while Talking Heads were on tour promoting their fifth studio album, Speaking in Tongues (1983). Stop Making Sense includes performances of the early Talking Heads single &#8220;Psycho Killer&#8221; (1977), through to their most recent hit at the time, &#8220;Burning Down the House&#8221; (1983). It also includes songs from the solo career of frontman David Byrne and by Tom Tom Club, the side project of drummer Chris Frantz and bassist Tina Weymouth. Some have said it&#8217;s the greatest band document of all time.\nEvent Info\nFilm: Talking Heads &#8211; Stop Making Sense\nDate: October 8th, 2026\nDoors: 7pm\nScreening Time: 7:30pm\nRSVP: Free or strongly encourage guaranteed $20 two-drink included RSVP.\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn, New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe selection of music documentaries was curated by audience vote from our summer concert series and the horror movies came from out of our brains!\nSeating for these screenings are limited to 150 people or so (with slightly more for the music docs so peeps can throw down appropriately.\nFans who purchase the 2 drink guaranteed RSVP will be guaranteed entry, natch! So you will save money at the bar, AND make sure you aren&#8217;t shut out!\nThis event is free with RSVP, ages 8 and up are welcome. There will be drink specials, all night, as well.\nLimited seating (about 100-125 seats), tons of standing room. No strollers.\nNo outside beverages. There will be drink specials all night long from our courtyard bar.\nWhile we do our best to gauge the number of RSVPs, entry is still on a first-come, first-served basis, so please arrive early! Once we hit capacity, we will only let people in on an in and out basis! Fans who purchase the 2 drink RSVP at check-out will be guaranteed entry!\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.",
+      "extraction_method": "api",
+      "vendor": "Talking Heads &#8211; Stop Making Sense Film Screening",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-10-08T20:00:00-04:00",
+      "title": "Lisa Wallen Headlines",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": "Lisa Wallen is a stand up comedian, host, and all-around professional nerd who&rsquo;s incredibly online everywhere. She&rsquo;s made a viral name for herself with her silly, but very relatable nerdy humor, which has led to really cool gigs with SEGA, Bandai Namco, Netflix, IGN, Kinda Funny, and headliner shows in some pretty sweet places all over the US, Japan, and way too many anime and gaming conventions. She just recently released her first, full length comedy special &quot;Lisa Wallen Leaves the House&quot; on YouTube, which is the first, self-proclaimed stand up comedy special filmed inside a gaming store.Lisa&#39;s YouTube special: https://www.youtube.com/watch?v=O9xY-3AN35U",
+      "extraction_method": "json-ld",
+      "vendor": "Lisa Wallen Headlines",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-08T20:00:00",
+      "title": "X AMENDMENTS: Carla Kihlstedt, Rafael Os\u00e9s, Holland Andrews, Gelsey Bell, Ana\u00efs Maviel, Kalyn Harewood, and Dither (Night 2)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "An improvised structure for an orchestra of voices, electric guitars, and an audience, using the Bill of Rights as its source material.",
+      "extraction_method": "html",
+      "vendor": "X AMENDMENTS: Carla Kihlstedt, Rafael Os\u00e9s, Holland Andrews, Gelsey Bell, Ana\u00efs Maviel, Kalyn Harewood, and Dither (Night 2)",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-09-30T10:19:05.673025+00:00",
-  "total_events": 51,
+  "updated": "2026-10-01T10:19:05.666171+00:00",
+  "total_events": 60,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
