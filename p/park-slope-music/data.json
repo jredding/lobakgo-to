@@ -1,162 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-03T00:00:00",
-      "title": "The Liva Experiment",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "The Liva Experiment",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-03T00:00:00",
-      "title": "Hoodo Hersi: Extraordinary Alien (a pretty funny comedy show)",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Hoodo Hersi: Extraordinary Alien (a pretty funny comedy show)",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-03T00:00:00",
-      "title": "Young Adult Friction: an indie + alt dance party",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Young Adult Friction: an indie + alt dance party",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-03T11:00:00",
-      "title": "El Souq: NYC&#8217;s Swana &#038; South Asian Marketplace",
-      "venue": "Industry City",
-      "start_time": "11:00 AM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "11:00 AM",
-      "end_time_raw": "6:00 PM",
-      "description": "El Souq makes its Brooklyn debut at Industry City with a one-day celebration of independent SWANA and South Asian brands, creativity, music, food, and community.\nDiscover 50+ emerging designers, makers, artists, and small businesses across fashion, jewelry, home, art, beauty, food and more\u2014all brought together in El Souq\u2019s signature marketplace-meets-gathering-space experience.\nCome to shop, stay for the music. The day features sounds by 360 Record Shop and headliner DJ Mansaf Mama, alongside interactive experiences and activations designed to bring people together.\nA new borough. Same El Souq energy. Like no other.",
-      "extraction_method": "api",
-      "vendor": "El Souq: NYC&#8217;s Swana &#038; South Asian Marketplace",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-03T12:00:00",
-      "title": "CiderFeast Brooklyn",
-      "venue": "Industry City",
-      "start_time": "12:00 PM ET",
-      "end_time": "4:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "4:00 PM",
-      "description": "The CiderFeast\u2122 East Coast Tour lands in Brooklyn at Industry City on Saturday, October 3, for an all-inclusive celebration of everything hard cider and all the delicious foods that go with it.\nCiderFeast Brooklyn brings together the region\u2019s best cideries and perfectly pairs pours of hard cider with outstanding bites from neighborhood favorites.\nThis year\u2019s lineup features nationally recognized ciders as well as producers whose work is rooted in the region\u2019s distinctive fruit and terroir, including:\n1911 Established\nAtomic Dog Ciders\nAval Cider\nEden Ciders\nFrosty Twig Cider\nIndian Ladder Farms Cidery &amp; Brewery\nLong View Cider\nNine Pin Cider Works\nOccam Fine Cider\nOrchard Hill Cider Mill at Soons\nOriginal Sin Cider\nQuartz Rock Cider House\nStone Ridge Orchard\nTreasury Cider\nVermont Cider Co. and Woodchuck Cider\nWayside Cider\nand more\nDiscover cider\u2019s remarkable range with outstanding bites. Cider\u2019s nuances shine with food pairings, whether you\u2019re trying something sweet or savory. Taste how complex flavors emerge when you try a sip of cider with nibbles from favorite local restaurants, chefs, and hot sauces like Achilles Heat Smoked Chili Crisp.",
-      "extraction_method": "api",
-      "vendor": "CiderFeast Brooklyn",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-03T12:00:00",
-      "title": "Beyond the Classic: Japanese YOUKOKU Relief Ceramics Exhibition by SUIYO @IPPIN Project",
-      "venue": "Industry City",
-      "start_time": "12:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Beyond the Classic: Japanese YOUKOKU Relief Ceramics Exhibition by SUIYO @IPPIN Project\n[Introducing the Japanese YOUKOKU Relief Carving Ceramic Collection by Suiyo at IPPIN PROJECT]\nDiscover the captivating world of contemporary Japanese ceramics with the YOUKOKU Relief Carving Ceramic Collection by Suiyo, crafted in Aichi, Japan.\n\u201cAs we\u2019ve studied the classics, and with an eye on what will remain in the future, we will \u2018go beyond\u2019 images, genres, borders, and history, as well as our own past.\u201d\n\u2014 Daisuke Anayama\nThe collection showcases exquisite relief-carved ceramics featuring intricate motifs of auspicious animals, including cranes, turtles, and the animals of the Chinese Zodiac. Each piece brings together traditional Japanese craftsmanship and distinctive sculptural details, creating objects that are both meaningful and beautifully tactile.\nSuiyo\u2019s designs also draw inspiration from the classics of European art. In particular, Suiyo&#8217;s painter and carvener, Anayama Fumika&#8217;s designs reflects the decorative richness and intricate patterns of Austrian painter Gustav Klimt, creating a fascinating dialogue between Japanese ceramic traditions and European artistic heritage.\nExperience a unique meeting of Eastern and Western cultural influences, where traditional craftsmanship goes beyond borders and is reimagined through a contemporary artistic lens.\nDiscover these beautifully crafted pieces at IPPIN PROJECT and bring a touch of Japanese artistry, symbolism, and timeless beauty to your collection.\n*Artist: Daisuke Anayama: a ceramic artist and Fumika Anayama: a painter and carver.\nSuiyo is a pottery brand produced by artists, Daisuke Anayama and Fumika Anayama based in Seto, Aichi. The brand concept &#8220;Beyond the Classic.&#8221; expresses their determination and hope to move forward to make their artworks a new classic in the modern age.",
-      "extraction_method": "api",
-      "vendor": "Beyond the Classic: Japanese YOUKOKU Relief Ceramics Exhibition by SUIYO @IPPIN Project",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-03T15:00:00",
-      "title": "Family Program: Printmaking Play with Gelli Plates",
-      "venue": "Industry City",
-      "start_time": "3:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "This all-ages workshop will introduce children and families to the fundamentals of printmaking through Gelli plate monoprinting. Participants will explore accessible printing using botanicals, found materials, and everyday objects to create unique one-of-a-kind prints. The workshop encourages experimentation and creative play while providing an accessible introduction to the printmaking process for all ages.",
-      "extraction_method": "api",
-      "vendor": "Family Program: Printmaking Play with Gelli Plates",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-03T16:30:00",
-      "title": "Industry City Gourmet Food and Drinks Tour",
-      "venue": "Industry City",
-      "start_time": "4:30 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "Set against the iconic backdrop of Sunset Park\u2019s historic waterfront, the massive, revitalized structures of Industry City form a breathtaking stage for an exclusive culinary journey. This premium food and cocktail tour is a curated exploration of taste and craft, transforming an evening into a memorable, high-end experience.\nYour adventure begins with artistic bonbons at Lilac Chocolates, explores gourmet imports at Sahadi\u2019s, and includes a refined whiskey tasting at Fort Hamilton Distillery, followed by a sophisticated sake flight. Savor additional artisanal discoveries within the awe-inspiring industrial halls.\nPerfect as a distinctive date night, this tour is also fully customizable for private groups and corporate retreats. We specialize in tailoring this engaging experience for team-building and client entertainment, making it an ideal one-day corporate outing. A sophisticated mini-vacation for locals and a profound discovery for visitors.",
-      "extraction_method": "api",
-      "vendor": "Industry City Gourmet Food and Drinks Tour",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-03T18:00:00-04:00",
-      "title": "Cole Cosby, Heidi Grandberry, Greg Melly, Julia Barnard, John Bennett, Colin Cab Washington",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "Saturday Night Live! Comedy kicks starts the weekend off with a bang featuring NYC&#39;s best comedians!&nbsp;FEATURING SPECIAL GUEST COMEDIANS...(remainder of lineup coming soon)FeaturingEva EvansCole CosbyLauren CocroftJoe MahoneyJohn BennettColin Cab WashingtonCole Cosby is a comedian from Philadelphia (raised in South Jersey), now residing in New York. Cole&rsquo;s interest in stand up comedy began in middle school from watching the performances of legends such as Dave Chappelle, Kevin Hart and the sitcoms of Jerry Seinfeld and Kevin James. Cole&rsquo;s first time performing stand-up comedy came during his junior year of college at an open mic on Temple University&rsquo;s campus. Since that day, and after graduation, Cole Cosby went on to rise in the Philadelphia comedy circuit, becoming a regular host (and feature act) at Helium and Punchline comedy clubs, and working with headliners such as Sam Jay, Josh Johnson, and Tony Rock. Cole Cosby has also opened on the road for comedy legends Sinbad, Caroline Rhea and Tammy Pescatelli. Since moving to New York City in 2023, Cole has passed at Stand Up NY, earned a residency at Broadway Comedy Club, and is on a mission to create his own Cosby legacy.Hailing from Brooklyn and Jamaica, Eva Evans is a comedian that has been described as &ldquo;the true definition of a hustler.&rdquo; She recently showcased in the coveted Netflix Introducing showcase, recorded in Los Angeles May 2025. She&rsquo;s been featured on Sway in the Morning at Caroline&rsquo;s and The Wendy Williams Show, BET, and at the request of Senator Jessie Williams performed at the 2018 Women&rsquo;s Empowerment Awards. Eva has performed in the Netflix is a Joke Festival, Laughing Skull Festival, Harlem Comedy Festival, and Manhattan Comedy Festival; and was the only female comedian to regularly perform in front of detainees at Riker&#39;s Island.Colin &ldquo;Cab&rdquo; Washington is a Philly-born actor, writer, comedian and producer known for blending sharp observational humor with personal storytelling. His credits include &quot;Insecure&quot; (HBO), BuzzFeed, Cracked, &quot;Timeout New York,&quot; and producing for &quot;First Things First&quot; on Fox Sports. Cab was featured as an emerging artist at SF Sketchfest &#39;24 and the New York Comedy Festival &#39;24, drawing laughs from the chaos of relationships, identity, and the trials and tribulations of being a millennial in their 30&rsquo;s. He&rsquo;s the creator and host of &quot;Runnin&rsquo; Late&quot; comedy show, a live comedy show featuring stand-up, interviews, and music which has sold out over 100 shows around the country. When he&rsquo;s not performing every night at the best comedy clubs in New York City, he has enjoyed touring with Brian Simpson, Liza Treyger, Aida Rodriguez, and Chris Redd. Outside comedy, he co-owns Ron&rsquo;s Signature Sauce, reviving his family&rsquo;s iconic Philly BBQ legacy, which was recently featured on &quot;Good Day Philadelphia.&quot; Whether on stage, screen, or the grill, Cab brings heart, humor, and authenticity to everything he does.Joe Mahoney is an NYC comic from Long Island who can play to many different crowds. His clever writing has earned him countless spots at the legendary Comic Strip Live and feature work on the road. He&rsquo;s appeared on Adult Swim and Compound Media.John Bennett is a NYC based comedian from Milford Connecticut, known for his high energy on stage and sharp witted observation humor. John&rsquo;s comedic style involves a blend of personal storytelling and inherent goofiness, with an undercurrent of controlled rage. He has performed all over the US and is a local favorite among NYC comedy clubs. He currently co-produces &quot;Tight Pants Comedy Show&quot;, which has been featured in TimeOutNY and the NY Comedy Festival.",
-      "extraction_method": "json-ld",
-      "vendor": "Cole Cosby, Heidi Grandberry, Greg Melly, Julia Barnard, John Bennett, Colin Cab Washington",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-03T20:00:00-04:00",
-      "title": "Anthony Moore, Cole Cosby, Tom Zappia, Lauren Cocroft, Mae Planert, Derrell Meyers",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Saturday Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)Cole Cosby is a comedian from Philadelphia (raised in South Jersey), now residing in New York. Cole&rsquo;s interest in stand up comedy began in middle school from watching the performances of legends such as Dave Chappelle, Kevin Hart and the sitcoms of Jerry Seinfeld and Kevin James. Cole&rsquo;s first time performing stand-up comedy came during his junior year of college at an open mic on Temple University&rsquo;s campus. Since that day, and after graduation, Cole Cosby went on to rise in the Philadelphia comedy circuit, becoming a regular host (and feature act) at Helium and Punchline comedy clubs, and working with headliners such as Sam Jay, Josh Johnson, and Tony Rock. Cole Cosby has also opened on the road for comedy legends Sinbad, Caroline Rhea and Tammy Pescatelli. Since moving to New York City in 2023, Cole has passed at Stand Up NY, earned a residency at Broadway Comedy Club, and is on a mission to create his own Cosby legacy.FeaturingAnthony MooreCole CosbyTom ZappiaLauren CocroftMae PlanertDerrell Meyers",
-      "extraction_method": "json-ld",
-      "vendor": "Anthony Moore, Cole Cosby, Tom Zappia, Lauren Cocroft, Mae Planert, Derrell Meyers",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-03T20:00:00",
-      "title": "Firas Zreik\u2019s Tarabesque: New Journeys in Arabic Music (RBA)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Composer and master qanun player marks the release of his new album with a jazz quartet, hybrid ensemble, and an Arab takht.",
-      "extraction_method": "html",
-      "vendor": "Firas Zreik\u2019s Tarabesque: New Journeys in Arabic Music (RBA)",
-      "location": "Roulette"
-    },
-    {
-      "date": "2026-10-03T22:00:00-04:00",
-      "title": "Corinne Fisher, Peter Stewart, Tom Zappia, Stephon Bishop",
-      "venue": "Eastville Comedy Club",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": "Prime Time Comedy!FEATURING SPECIAL GUEST COMEDIANS...(Lineup coming soon)CORINNE FISHER is a stand-up comedian, writer, director &amp; actor originally from Union, NJ and currently residing in New York City. Most recently, she directed the debut comedy special from her and herlongtime comedy partner, Krystyna Hutchinson. The special is set to air in February 2022. The duo is most known for co-creating and co-hosting their groundbreaking, genre-creating GUYS WE F*CKED: The Anti Slut-Shaming podcast &mdash; a vulnerable firsthand look into modern female sexuality from a comedic perspective &mdash; which began tearing up charts in December 2013. Over eight years later, the show boasts millions of listeners nationally and internationally and has inspired dozens of female-led comedy/sexuality shows. The podcast has hit #1 on the iTunes comedy charts multiple times and has been featured in Vogue, Interview, Esquire, The Huffington Post, The Daily Beast, Splitsider, Mother Jones, Perez Hilton, Elle, A.V. Club, E! News, People, US Magazine, Bust, CNN, and The Village Voice as well as on Sirius Radio, and NBC&rsquo;s Last Call with Carson Daly. High-profile guests include Amanda Knox, Amber Rose, and Fran Drescher. The podcast was also turned into a book by HarperCollins entitled F*CKED: Being Sexually Explorative and Self-Confident in a World That&rsquo;s Screwed and the duo was asked to give a TEDx talk exploring topics from their show.Corinne first made a splash in the comedy scene with her debut one-woman show Corinne Fisher: I STALK YOU (Dir. David Crabb) which had a run at The Peoples Improv Theater in the Summer of 2010 and was a featured show in Time Out New York. Since then, she has been a regular on the stand-up scene selling out shows at world-famous clubs like The Comedy Store, New York Comedy Club, The Stand, and Caroline&rsquo;s on Broadway and theaters such as The Wilbur in Boston, the Athenaeum inChicago, and the Tribeca Performing Arts Center in New York City. Fisher has also been selected to perform at the prestigious Just For Laughs Comedy Festival in both Montreal and Toronto, Moontower Comedy Festival, Boston Comedy Festival, and cult favorite Skankfest. She&rsquo;s been seen on FOX&rsquo;s LAUGHS and her show with fellow comic Katie Hannigan THE COMEDIENNE PROJECT (Dir. Ted Alexandro) was selected for the NYC Fringe Festival.Fisher remains an innovator in podcasting, having co-created the WITHOUT A COUNTRY podcast which she currently co-hosts with comedian Shayne Smith, a weekly news shows that covers stories using aslew of sources from various political perspectives. She also previously co-hosted and co-created TWO LESS LONELY GIRLS, a podcast for adult Justin Bieber fans with comedian Rosebud Baker.Right now, Corinne is working on writing and producing several projects including the cartoon series MYSTERY SQUAD GALS created by Ryan Duff. In an unexpected plot twist, she also took over her Dad&rsquo;sbaseball card and horror collectibles store, Perfectly Centered, in 2021.Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.Originally from the Bay Area, Salma Zaky moved to Los Angeles to attend college, where she began her comedy journey. Salma has filmed a mini stand-up special with OnlyFans on OFTV (unfortunately clothed), as well as a Don&#39;t Tell taping. She now resides in Brooklyn, NY to take her anxiety and career to new heights. FeaturingCorinne FisherPeter StewartTom ZappiaStephon BishopWhitney ChanelSalma Zaky",
-      "extraction_method": "json-ld",
-      "vendor": "Corinne Fisher, Peter Stewart, Tom Zappia, Stephon Bishop",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-10-04T00:00:00",
       "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
       "venue": "Union Hall",
@@ -235,6 +79,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-04T15:00:00",
+      "title": "Daylighters (A Comedy Show You Can Bring Your Kids To)",
+      "venue": "Littlefield",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:30 PM",
+      "description": "Hosted by Kurt Braunohler",
+      "extraction_method": "api",
+      "vendor": "Daylighters (A Comedy Show You Can Bring Your Kids To)",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-10-04T17:30:00",
       "title": "Sunday Sessions: Live Jazz &#038; Blues",
       "venue": "Industry City",
@@ -259,6 +116,19 @@
       "extraction_method": "json-ld",
       "vendor": "Subhah Agarwal, Vishnu Vaka, Peter Stewart, Lauren Cocroft, Cesh Reyes, Whitney Chanel",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-04T20:00:00",
+      "title": "If You're Really From New York with Onika McLean",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Brooklyn, USA. One birthday. The hottest talent. Comedy, music, prizes & more. If you\u2019re really from New York, you know where to be October",
+      "extraction_method": "api",
+      "vendor": "If You're Really From New York with Onika McLean",
+      "location": "Littlefield"
     },
     {
       "date": "2026-10-05T12:00:00+00:00",
@@ -365,6 +235,19 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-10-06T19:30:00",
+      "title": "Heel Toe Rodeo",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Hey y'all! A beginner friendly line dancing event is coming your way. Line dancing lessons will be taught throughout the night!",
+      "extraction_method": "api",
+      "vendor": "Heel Toe Rodeo",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-10-07T00:00:00",
       "title": "Cold Plunge with Kurt Braunohler",
       "venue": "Union Hall",
@@ -430,6 +313,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-07T20:00:00",
+      "title": "Great Job News: A NYC Launch Screening!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "GREAT JOB NEWS debuts with a screening in NYC. Nat & Alex are cookin' up a new kind of news show. Come see it first.",
+      "extraction_method": "api",
+      "vendor": "Great Job News: A NYC Launch Screening!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-10-07T20:00:00-04:00",
       "title": "UG! KNOCKOUTS \u2014 Stand-Up Comedy as a Sport! ????????",
       "venue": "Eastville Comedy Club",
@@ -493,6 +389,19 @@
       "extraction_method": "api",
       "vendor": "Talking Heads &#8211; Stop Making Sense Film Screening",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-10-08T20:00:00",
+      "title": "The George Lucas Talk Show with Special Guests!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Retired Filmmaker George Lucas hosts a talk show alongside his sidekick CGI flying junk shop owner Watto and producer Patrick Cotnoir.",
+      "extraction_method": "api",
+      "vendor": "The George Lucas Talk Show with Special Guests!",
+      "location": "Littlefield"
     },
     {
       "date": "2026-10-08T20:00:00-04:00",
@@ -571,6 +480,19 @@
       "extraction_method": "json-ld",
       "vendor": "Tom Zappia, Tina Zhu, Malachi Fox, Joe Mahoney, Shaunak Godkhindi, Natan Badalov, Derrell Meyers",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-09T19:00:00",
+      "title": "The Dream Eaters w/ special guests Mary Shelley",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "The Dream Eaters come home to Brooklyn to make you laugh and cry and vomit all over yourself. With the incredible Mary Shelley.",
+      "extraction_method": "api",
+      "vendor": "The Dream Eaters w/ special guests Mary Shelley",
+      "location": "Littlefield"
     },
     {
       "date": "2026-10-09T19:30:00",
@@ -755,6 +677,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-10T19:30:00",
+      "title": "EXOPOCALYPSE TOUR feat. RAV, Teller Bank$, and Fatboi Sharif",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Join Rav, Teller Bank$, and Fatboi Sharif for an incredible night of music!",
+      "extraction_method": "api",
+      "vendor": "EXOPOCALYPSE TOUR feat. RAV, Teller Bank$, and Fatboi Sharif",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-10-10T20:00:00-04:00",
       "title": "Peter Stewart, Ed Rodriguez, Tom Zappia, Sharief Johnson, Jessica Levin, Whitney Chanel",
       "venue": "Eastville Comedy Club",
@@ -779,17 +714,93 @@
       "extraction_method": "json-ld",
       "vendor": "KLK Comedy Tour",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-11T00:00:00",
+      "title": "Aparna Nancherla Is Trying\u2026Again!",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Aparna Nancherla Is Trying\u2026Again!",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-11T00:00:00",
+      "title": "Dark Tank",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Dark Tank",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-11T16:00:00",
+      "title": "Warm Sake Tasting Class and Brewery Tour",
+      "venue": "Industry City",
+      "start_time": "4:00 PM ET",
+      "end_time": "5:30 PM ET",
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": "5:30 PM",
+      "description": "Exploring sake temperature and pairing \u2014 warm sake, done right, is a revelation.\nFor a long time, warm sake has gotten a bad rap! But it can be absolutely delicious when you pick the right sake and the right temperature. Join us for this exciting exploration of sake temperature and the joys of warming sake \u2014 the perfect way to explore the subtle umami and richness of premium sake.\nWe&#8217;ll contrast chilled sake with the same sake served warm, and enjoy carefully selected food pairings to round out the tasting flight. In all, we&#8217;ll taste five kinds of sake, each paired with a delicious bite to bring out the flavors and textures. As always, this class includes a behind-the-scenes brewery tour to see how sake is made at NY State&#8217;s first sake brewery.",
+      "extraction_method": "api",
+      "vendor": "Warm Sake Tasting Class and Brewery Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-10-11T17:30:00",
+      "title": "Sunday Sessions: Live Jazz &#038; Blues",
+      "venue": "Industry City",
+      "start_time": "5:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "\ud83c\udfb7 Live Jazz &amp; Blues at Fort Hamilton \ud83e\udd43\nLive music, great cocktails, and the perfect way to spend your Sunday evening.\n\ud83c\udf78 Cocktails, mocktails, beer and wine available at the bar.",
+      "extraction_method": "api",
+      "vendor": "Sunday Sessions: Live Jazz &#038; Blues",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-10-11T18:00:00-04:00",
+      "title": "Wait, What\u2019s Sri Lanka? - **THIS IS A COMEDY SPECIAL TAPING**",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "Buying a ticket means you consent to potentially being on camera.&nbsp;ARRIVAL INFO:Please arrive early to be seated and experience any of the pre-built pre-show. We recommend showing up at least 30 minutes before show time. Once the show begins there is no late seating because the cameras will be rolling.&nbsp;Wait, What&rsquo;s Sri Lanka? is a one hour stand-up special, written by Shenuque and directed by Sunny Laprade, this show is for anyone who has ever felt invisible. The show explores the joy of embracing all parts of your identity while navigating the pain of not feeling seen. Shenuque uses a narrative stand-up style to talk about their life through the lens of being Sri Lankan and how that intersects with their other identities. The show reveals how interconnected we all are. Regardless of whether or not you&#39;re Sri Lankan, this show is for you. Topics include race, gender, sexuality, and of course, aunties. If you enjoy stand-up comedy that weaves together humor with a compelling narrative, you will enjoy this show.All graphics are designed by: Elliot Davis.Music by:&nbsp;DJ UshkaOriginal Music by:&nbsp;Roshane KarunaratneBio:Shenuque is a Sri Lankan American comedian born and raised on Staten Island. Their stand-up is infused with a passion for storytelling and an enrapturing stage presence. They are currently touring their debut stand-up special, Wait, What&rsquo;s Sri Lanka?, a show for anyone who has ever felt invisible. They&rsquo;ve graced the stage in Off-Broadway productions and contributed their writing talents to HBO Max. They&rsquo;ve worked as a director for the Murmuration Theater Company and co-founded the award-winning podcast studio Many Sided Media, where you can regularly hear their voice acting on the show My First Dungeon. Audiences have said that Shenuque is like if Hasan Minhaj, Tiffany Haddish, and John Mulaney were in a polycule and didn&rsquo;t let Shenuque in, so he modeled his comedy after all of them.",
+      "extraction_method": "json-ld",
+      "vendor": "Wait, What\u2019s Sri Lanka? - **THIS IS A COMEDY SPECIAL TAPING**",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-11T21:00:00-04:00",
+      "title": "Wait, What\u2019s Sri Lanka? - **THIS IS A COMEDY SPECIAL TAPING**",
+      "venue": "Eastville Comedy Club",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": "Buying a ticket means you consent to potentially being on camera.&nbsp;ARRIVAL INFO:Please arrive early to be seated and experience any of the pre-built pre-show. We recommend showing up at least 30 minutes before show time. Once the show begins there is no late seating because the cameras will be rolling.&nbsp;Wait, What&rsquo;s Sri Lanka? is a one hour stand-up special, written by Shenuque and directed by Sunny Laprade, this show is for anyone who has ever felt invisible. The show explores the joy of embracing all parts of your identity while navigating the pain of not feeling seen. Shenuque uses a narrative stand-up style to talk about their life through the lens of being Sri Lankan and how that intersects with their other identities. The show reveals how interconnected we all are. Regardless of whether or not you&#39;re Sri Lankan, this show is for you. Topics include race, gender, sexuality, and of course, aunties. If you enjoy stand-up comedy that weaves together humor with a compelling narrative, you will enjoy this show.All graphics are designed by: Elliot Davis.Music by:&nbsp;DJ UshkaOriginal Music by:&nbsp;Roshane KarunaratneBio:Shenuque is a Sri Lankan American comedian born and raised on Staten Island. Their stand-up is infused with a passion for storytelling and an enrapturing stage presence. They are currently touring their debut stand-up special, Wait, What&rsquo;s Sri Lanka?, a show for anyone who has ever felt invisible. They&rsquo;ve graced the stage in Off-Broadway productions and contributed their writing talents to HBO Max. They&rsquo;ve worked as a director for the Murmuration Theater Company and co-founded the award-winning podcast studio Many Sided Media, where you can regularly hear their voice acting on the show My First Dungeon. Audiences have said that Shenuque is like if Hasan Minhaj, Tiffany Haddish, and John Mulaney were in a polycule and didn&rsquo;t let Shenuque in, so he modeled his comedy after all of them.",
+      "extraction_method": "json-ld",
+      "vendor": "Wait, What\u2019s Sri Lanka? - **THIS IS A COMEDY SPECIAL TAPING**",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-10-03T10:16:59.700161+00:00",
-  "total_events": 60,
+  "updated": "2026-10-04T10:16:43.719447+00:00",
+  "total_events": 61,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
