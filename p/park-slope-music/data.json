@@ -1,136 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-04T00:00:00",
-      "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Steve Martin Presents with Andrew Dismukes and Michael Good",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-04T00:00:00",
-      "title": "BAGWORK with Ontonio Kareem",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "BAGWORK with Ontonio Kareem",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-04T12:00:00+00:00",
-      "title": "TUFFY// CHILDLESS// GRAND GESTURE// THE DESIRE LINES(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "1:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "1:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TUFFY// CHILDLESS// GRAND GESTURE// THE DESIRE LINES(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-04T12:00:00+00:00",
-      "title": "NINJAMAN PRESENTS MUSIC MATINEE SHOW VOL 30(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "NINJAMAN PRESENTS MUSIC MATINEE SHOW VOL 30(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-04T12:00:00+00:00",
-      "title": "LA BOIX! BROUGHT TO YOU BY MASC. ARI AND GOMORRAH(Draglesque)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "LA BOIX! BROUGHT TO YOU BY MASC. ARI AND GOMORRAH(Draglesque)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-04T12:30:00",
-      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "venue": "Industry City",
-      "start_time": "12:30 PM ET",
-      "end_time": "1:30 PM ET",
-      "start_time_raw": "12:30 PM",
-      "end_time_raw": "1:30 PM",
-      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
-      "extraction_method": "api",
-      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-04T15:00:00",
-      "title": "Daylighters (A Comedy Show You Can Bring Your Kids To)",
-      "venue": "Littlefield",
-      "start_time": "3:00 PM ET",
-      "end_time": "4:30 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "4:30 PM",
-      "description": "Hosted by Kurt Braunohler",
-      "extraction_method": "api",
-      "vendor": "Daylighters (A Comedy Show You Can Bring Your Kids To)",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-10-04T17:30:00",
-      "title": "Sunday Sessions: Live Jazz &#038; Blues",
-      "venue": "Industry City",
-      "start_time": "5:30 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "5:30 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "\ud83c\udfb7 Live Jazz &amp; Blues at Fort Hamilton \ud83e\udd43\nLive music, great cocktails, and the perfect way to spend your Sunday evening.\n\ud83c\udf78 Cocktails, mocktails, beer and wine available at the bar.",
-      "extraction_method": "api",
-      "vendor": "Sunday Sessions: Live Jazz &#038; Blues",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-04T19:30:00-04:00",
-      "title": "Subhah Agarwal, Vishnu Vaka, Peter Stewart, Lauren Cocroft, Cesh Reyes, Whitney Chanel",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": "Eastville Comedy Club is Brooklyn&#39;s oldest comedy clubFeaturingSubhah AgarwalVishnu VakaPeter StewartLauren CocroftCesh ReyesWhitney ChanelSubhah Agarwal has brought an honesty to her comedy that will leave you saying &quot;I didn&#39;t need to know that.&quot; Subhah has written for Netflix&rsquo;s &ldquo;Arsenio Hall&rdquo; limited series, the &quot;Plan B&quot; movie on Hulu,&quot; and The Jim Jefferies Show&quot;on Comedy Central, amongst others. You can also catch her jokes live at stand up comedy clubs across the country. If you don&#39;t want to leave your couch, you can see her late night debut on NBC&#39;s &quot;A Little Late With Lilly Singh.&quot; She&#39;s also appeared on season three of HBO&#39;s &quot;Westworld&quot;, &quot;General Hospital,&quot; TruTv&#39;s sketch comedy &quot;Friends of the People&quot;, and as herself on MTV2, Comedy Central, and Gotham Comedy Live.Vishnu Vaka has recently been featured for Pete Lee at Carolines, he has also written dialogue for two Telugu (South Indian films). He had been touring with Josh Blue for the past few years as the feature, they were doing the two men show.Whitney Chanel is a New York City comedian whose work has been featured on VH1, Bravo, Tubi, BuzzFeed, and The Sweet Spot. Known for her sharp storytelling and authentic perspective, Whitney creates a space where audiences can laugh, relate, and see their own life experiences reflected on stage. Her comedy is honest, engaging, and unapologetically real, inviting people to embrace their authentic selves while finding humor in everyday life.",
-      "extraction_method": "json-ld",
-      "vendor": "Subhah Agarwal, Vishnu Vaka, Peter Stewart, Lauren Cocroft, Cesh Reyes, Whitney Chanel",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-04T20:00:00",
-      "title": "If You're Really From New York with Onika McLean",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Brooklyn, USA. One birthday. The hottest talent. Comedy, music, prizes & more. If you\u2019re really from New York, you know where to be October",
-      "extraction_method": "api",
-      "vendor": "If You're Really From New York with Onika McLean",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-05T12:00:00+00:00",
       "title": "DOODLE MIC(Open mic)",
       "venue": "Young Ethel's",
@@ -235,19 +105,6 @@
       "location": "Roulette"
     },
     {
-      "date": "2026-10-06T19:30:00",
-      "title": "Heel Toe Rodeo",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Hey y'all! A beginner friendly line dancing event is coming your way. Line dancing lessons will be taught throughout the night!",
-      "extraction_method": "api",
-      "vendor": "Heel Toe Rodeo",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-07T00:00:00",
       "title": "Cold Plunge with Kurt Braunohler",
       "venue": "Union Hall",
@@ -311,19 +168,6 @@
       "extraction_method": "api",
       "vendor": "Movie Screening of Halloween (1978)",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-10-07T20:00:00",
-      "title": "Great Job News: A NYC Launch Screening!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "GREAT JOB NEWS debuts with a screening in NYC. Nat & Alex are cookin' up a new kind of news show. Come see it first.",
-      "extraction_method": "api",
-      "vendor": "Great Job News: A NYC Launch Screening!",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-07T20:00:00-04:00",
@@ -391,19 +235,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-10-08T20:00:00",
-      "title": "The George Lucas Talk Show with Special Guests!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Retired Filmmaker George Lucas hosts a talk show alongside his sidekick CGI flying junk shop owner Watto and producer Patrick Cotnoir.",
-      "extraction_method": "api",
-      "vendor": "The George Lucas Talk Show with Special Guests!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-08T20:00:00-04:00",
       "title": "Lisa Wallen Headlines",
       "venue": "Eastville Comedy Club",
@@ -469,6 +300,58 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-10-09T12:00:00+00:00",
+      "title": "SPONGEBOB DYLAN(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SPONGEBOB DYLAN(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-09T12:00:00+00:00",
+      "title": "TALL SHOW(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TALL SHOW(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-09T12:00:00+00:00",
+      "title": "ART ROBOT// MADBOARD// LORELEI// KUDU(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ART ROBOT// MADBOARD// LORELEI// KUDU(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-09T12:00:00+00:00",
+      "title": "NAMI EP RELEASE SHOW(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NAMI EP RELEASE SHOW(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-10-09T18:00:00-04:00",
       "title": "Tom Zappia, Tina Zhu, Malachi Fox, Joe Mahoney, Shaunak Godkhindi, Natan Badalov, Derrell Meyers",
       "venue": "Eastville Comedy Club",
@@ -480,19 +363,6 @@
       "extraction_method": "json-ld",
       "vendor": "Tom Zappia, Tina Zhu, Malachi Fox, Joe Mahoney, Shaunak Godkhindi, Natan Badalov, Derrell Meyers",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-09T19:00:00",
-      "title": "The Dream Eaters w/ special guests Mary Shelley",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "The Dream Eaters come home to Brooklyn to make you laugh and cry and vomit all over yourself. With the incredible Mary Shelley.",
-      "extraction_method": "api",
-      "vendor": "The Dream Eaters w/ special guests Mary Shelley",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-09T19:30:00",
@@ -571,6 +441,45 @@
       "extraction_method": "html",
       "vendor": "NO DJ: Downstairs showroom closed for a private event (upstairs bar open)",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-10T12:00:00+00:00",
+      "title": "SPOOKY DOINGS(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "1:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SPOOKY DOINGS(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-10T12:00:00+00:00",
+      "title": "THE VERY SWELL VARIETY SHOW(Variety)",
+      "venue": "Young Ethel's",
+      "start_time": "3:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE VERY SWELL VARIETY SHOW(Variety)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-10T12:00:00+00:00",
+      "title": "FRESHLY SQUEEZED PRESENTS:TBD(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "FRESHLY SQUEEZED PRESENTS:TBD(Improv Comedy)",
+      "location": "Young Ethel's"
     },
     {
       "date": "2026-10-10T13:00:00",
@@ -677,19 +586,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-10-10T19:30:00",
-      "title": "EXOPOCALYPSE TOUR feat. RAV, Teller Bank$, and Fatboi Sharif",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Join Rav, Teller Bank$, and Fatboi Sharif for an incredible night of music!",
-      "extraction_method": "api",
-      "vendor": "EXOPOCALYPSE TOUR feat. RAV, Teller Bank$, and Fatboi Sharif",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-10T20:00:00-04:00",
       "title": "Peter Stewart, Ed Rodriguez, Tom Zappia, Sharief Johnson, Jessica Levin, Whitney Chanel",
       "venue": "Eastville Comedy Club",
@@ -742,6 +638,45 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-10-11T12:00:00+00:00",
+      "title": "SIX IDEAS LAUNCH PARTY(Music)",
+      "venue": "Young Ethel's",
+      "start_time": null,
+      "end_time": "7:00 PM ET",
+      "start_time_raw": null,
+      "end_time_raw": "7:00 PM",
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SIX IDEAS LAUNCH PARTY(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-11T12:00:00+00:00",
+      "title": "SO FUN. TAYLOR GRAVES AND FRIENDS(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "1:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SO FUN. TAYLOR GRAVES AND FRIENDS(Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-11T12:00:00+00:00",
+      "title": "THE TREES// BLACK SWAN EVENTS// IVY AND THE POISON// ATHENA COMPLEX(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE TREES// BLACK SWAN EVENTS// IVY AND THE POISON// ATHENA COMPLEX(Music)",
+      "location": "Young Ethel's"
+    },
+    {
       "date": "2026-10-11T16:00:00",
       "title": "Warm Sake Tasting Class and Brewery Tour",
       "venue": "Industry City",
@@ -792,15 +727,82 @@
       "extraction_method": "json-ld",
       "vendor": "Wait, What\u2019s Sri Lanka? - **THIS IS A COMEDY SPECIAL TAPING**",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-12T00:00:00",
+      "title": "Aparna Nancherla Is Trying\u2026Again!",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Aparna Nancherla Is Trying\u2026Again!",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-12T12:00:00+00:00",
+      "title": "FILAMENT// SUPERPRO TRIO// ORJEDRA 683(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "FILAMENT// SUPERPRO TRIO// ORJEDRA 683(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-12T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-12T16:30:00",
+      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING AND SING-A-LONG(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING AND SING-A-LONG(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-12T19:30:00-04:00",
+      "title": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
+      "venue": "Eastville Comedy Club",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-10-04T10:16:43.719447+00:00",
+  "updated": "2026-10-05T10:17:40.968963+00:00",
   "total_events": 61,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
