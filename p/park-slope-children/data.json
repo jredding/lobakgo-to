@@ -1,58 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-05T18:30:00+00:00",
-      "title": "\u2702\ufe0f Crafternoon at House of Wonder in Clinton Hill (ages 0-6)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "6:30 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "6:30 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "House of Wonder",
-      "extraction_method": "api",
-      "vendor": "\u2702\ufe0f Crafternoon at House of Wonder in Clinton Hill (ages 0-6)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-05T19:30:00+00:00",
-      "title": "\ud83d\udefc FREE Admission Fridays at Brooklyn Bridge Park - Pier 2 in Brooklyn Heights (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Brooklyn Bridge Park \u2013 Pier 2",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udefc FREE Admission Fridays at Brooklyn Bridge Park - Pier 2 in Brooklyn Heights (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-05T19:45:00+00:00",
-      "title": "\ud83e\uddd8 Yoga for Tweens at Llamaste Family Yoga Studio in Carroll Gardens (ages 9-12)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:45 PM ET",
-      "end_time": "8:35 PM ET",
-      "start_time_raw": "7:45 PM",
-      "end_time_raw": "8:35 PM",
-      "description": "Llamaste Family Yoga Studio",
-      "extraction_method": "api",
-      "vendor": "\ud83e\uddd8 Yoga for Tweens at Llamaste Family Yoga Studio in Carroll Gardens (ages 9-12)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-05T22:00:00+00:00",
-      "title": "\u265f\ufe0fPark Slope Chess Club at Sip & Play in Park Slope (all skill levels)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": "Sip & Play Board Game Cafe",
-      "extraction_method": "api",
-      "vendor": "\u265f\ufe0fPark Slope Chess Club at Sip & Play in Park Slope (all skill levels)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
       "date": "2026-10-06T21:00:00+00:00",
       "title": "\ud83e\udef6\ud83c\udffc Greenhouse Gang at Kingsland Wildflowers Green Roof & Community Engagement Center in Greenpoint (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -690,8 +638,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-10-05T08:32:54.884836+00:00",
-  "total_events": 53,
+  "updated": "2026-10-06T08:33:02.155394+00:00",
+  "total_events": 49,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
