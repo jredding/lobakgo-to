@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-06T21:00:00+00:00",
-      "title": "\ud83e\udef6\ud83c\udffc Greenhouse Gang at Kingsland Wildflowers Green Roof & Community Engagement Center in Greenpoint (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "9:00 PM ET",
-      "end_time": "12:00 AM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "12:00 AM",
-      "description": "Kingsland Wildflowers Green Roof & Community Engagement Center",
-      "extraction_method": "api",
-      "vendor": "\ud83e\udef6\ud83c\udffc Greenhouse Gang at Kingsland Wildflowers Green Roof & Community Engagement Center in Greenpoint (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
       "date": "2026-10-07T14:00:00+00:00",
       "title": "\ud83c\udfb5 Strawberry Tunes: Singing with Doro at SPAR\u015aA in Greenpoint (ages 0-4 yrs)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -636,10 +623,36 @@
       "extraction_method": "api",
       "vendor": "\u265f\ufe0fPark Slope Chess Club at Sip & Play in Park Slope (all skill levels)",
       "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-14T14:00:00+00:00",
+      "title": "\ud83c\udfb5 Strawberry Tunes: Singing with Doro at SPAR\u015aA in Greenpoint (ages 0-4 yrs)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": null,
+      "description": "SPAR\u015aA - Greenpoint",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb5 Strawberry Tunes: Singing with Doro at SPAR\u015aA in Greenpoint (ages 0-4 yrs)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-14T19:00:00+00:00",
+      "title": "\ud83d\udc2c Free Admission at the New York Aquarium in Coney Island",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "New York Aquarium",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc2c Free Admission at the New York Aquarium in Coney Island",
+      "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-10-06T08:33:02.155394+00:00",
-  "total_events": 49,
+  "updated": "2026-10-07T08:34:16.937607+00:00",
+  "total_events": 50,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
