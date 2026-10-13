@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-12T15:00:00+00:00",
-      "title": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "12:00 AM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "12:00 AM",
-      "description": "Luna Park in Coney Island",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-12T18:30:00+00:00",
-      "title": "\u2702\ufe0f Crafternoon at House of Wonder in Clinton Hill (ages 0-6)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "6:30 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "6:30 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "House of Wonder",
-      "extraction_method": "api",
-      "vendor": "\u2702\ufe0f Crafternoon at House of Wonder in Clinton Hill (ages 0-6)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-12T19:30:00+00:00",
-      "title": "\ud83d\udefc FREE Admission Fridays at Brooklyn Bridge Park - Pier 2 in Brooklyn Heights (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Brooklyn Bridge Park \u2013 Pier 2",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udefc FREE Admission Fridays at Brooklyn Bridge Park - Pier 2 in Brooklyn Heights (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-12T19:45:00+00:00",
-      "title": "\ud83e\uddd8 Yoga for Tweens at Llamaste Family Yoga Studio in Carroll Gardens (ages 9-12)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:45 PM ET",
-      "end_time": "8:35 PM ET",
-      "start_time_raw": "7:45 PM",
-      "end_time_raw": "8:35 PM",
-      "description": "Llamaste Family Yoga Studio",
-      "extraction_method": "api",
-      "vendor": "\ud83e\uddd8 Yoga for Tweens at Llamaste Family Yoga Studio in Carroll Gardens (ages 9-12)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-12T22:00:00+00:00",
-      "title": "\u265f\ufe0fPark Slope Chess Club at Sip & Play in Park Slope (all skill levels)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": "Sip & Play Board Game Cafe",
-      "extraction_method": "api",
-      "vendor": "\u265f\ufe0fPark Slope Chess Club at Sip & Play in Park Slope (all skill levels)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
       "date": "2026-10-14T14:00:00+00:00",
       "title": "\ud83c\udfb5 Strawberry Tunes: Singing with Doro at SPAR\u015aA in Greenpoint (ages 0-4 yrs)",
       "venue": "MacaroniKid Brooklyn NW",
@@ -145,19 +80,6 @@
     },
     {
       "date": "2026-10-15T19:00:00+00:00",
-      "title": "\ud83d\udd0d Open Hours at the Environmental Education Center in Brooklyn Bridge Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Environmental Education Center (Brooklyn Bridge Park)",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udd0d Open Hours at the Environmental Education Center in Brooklyn Bridge Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-15T19:00:00+00:00",
       "title": "\ud83d\udcda Nature Storytime at the Environmental Education Center in Brooklyn Bridge Park (all ages)",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
@@ -167,6 +89,19 @@
       "description": "Environmental Education Center (Brooklyn Bridge Park)",
       "extraction_method": "api",
       "vendor": "\ud83d\udcda Nature Storytime at the Environmental Education Center in Brooklyn Bridge Park (all ages)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-15T19:00:00+00:00",
+      "title": "\ud83d\udd0d Open Hours at the Environmental Education Center in Brooklyn Bridge Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Environmental Education Center (Brooklyn Bridge Park)",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udd0d Open Hours at the Environmental Education Center in Brooklyn Bridge Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -353,19 +288,6 @@
     },
     {
       "date": "2026-10-17T15:00:00+00:00",
-      "title": "\ud83d\ude0b Smorgasburg at Marsha P. Johnson State Park in Williamsburg",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Marsha P. Johnson State Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\ude0b Smorgasburg at Marsha P. Johnson State Park in Williamsburg",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-17T15:00:00+00:00",
       "title": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -375,6 +297,19 @@
       "description": "Luna Park in Coney Island",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-17T15:00:00+00:00",
+      "title": "\ud83d\ude0b Smorgasburg at Marsha P. Johnson State Park in Williamsburg",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Marsha P. Johnson State Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\ude0b Smorgasburg at Marsha P. Johnson State Park in Williamsburg",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -496,19 +431,6 @@
     },
     {
       "date": "2026-10-18T15:00:00+00:00",
-      "title": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "12:00 AM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "12:00 AM",
-      "description": "Luna Park in Coney Island",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-18T15:00:00+00:00",
       "title": "\ud83d\ude0b Smorgasburg at Prospect Park",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -518,6 +440,19 @@
       "description": "Smorgasburg Prospect Park",
       "extraction_method": "api",
       "vendor": "\ud83d\ude0b Smorgasburg at Prospect Park",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-18T15:00:00+00:00",
+      "title": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "12:00 AM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "12:00 AM",
+      "description": "Luna Park in Coney Island",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -664,8 +599,8 @@
       "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-10-12T08:32:59.468877+00:00",
-  "total_events": 51,
+  "updated": "2026-10-13T08:32:32.073086+00:00",
+  "total_events": 46,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
