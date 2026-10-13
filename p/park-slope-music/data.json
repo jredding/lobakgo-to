@@ -1,110 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-12T00:00:00",
-      "title": "Aparna Nancherla Is Trying\u2026Again!",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Aparna Nancherla Is Trying\u2026Again!",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-12T00:00:00",
-      "title": "Abby Govindan and Friends",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Abby Govindan and Friends",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-12T12:00:00+00:00",
-      "title": "FILAMENT// SUPERPRO TRIO// ORJEDRA 683(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "FILAMENT// SUPERPRO TRIO// ORJEDRA 683(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-12T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-12T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING AND SING-A-LONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING AND SING-A-LONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-12T18:00:00-04:00",
-      "title": "6PM Weekday Open Mics @ Eastville Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
-      "extraction_method": "json-ld",
-      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-12T19:30:00",
-      "title": "Miss Mississippi Comedy: Red State Comics for Reproductive Justice",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Come bevel, giggle, and holler with us for If/When/How's Repro Legal Defense Fund!",
-      "extraction_method": "api",
-      "vendor": "Miss Mississippi Comedy: Red State Comics for Reproductive Justice",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-10-12T19:30:00-04:00",
-      "title": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "json-ld",
-      "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-10-13T00:00:00",
       "title": "PRETTY  MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
@@ -138,7 +34,7 @@
       "end_time": null,
       "start_time_raw": "6:00 PM",
       "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
+      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it\u2019s polished.Eastville\u2019s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won\u2019t. That\u2019s the point.You\u2019re getting an unfiltered look at the process of becoming a comedian\u2014and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, \u201cI saw them when\u2026\u201d",
       "extraction_method": "json-ld",
       "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
       "location": "Eastville Comedy Club"
@@ -168,19 +64,6 @@
       "extraction_method": "html",
       "vendor": "POP-CULTURE TRIVIA TIME MACHINE! FEATURING QUESTIONS FROM THE PAST, PRESENT, AND FUTURE!(Trivia)",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-13T20:00:00",
-      "title": "Words and Guitar",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "An all acoustic variety show featuring readings about our favorite tunes, and covers of them from our favorite musicians.",
-      "extraction_method": "api",
-      "vendor": "Words and Guitar",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-13T21:30:00",
@@ -248,19 +131,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-10-14T18:00:00-04:00",
-      "title": "6PM Weekday Open Mics @ Eastville Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
-      "extraction_method": "json-ld",
-      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-10-14T19:30:00",
       "title": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Standup )",
       "venue": "Young Ethel's",
@@ -272,19 +142,6 @@
       "extraction_method": "html",
       "vendor": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Standup )",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-14T20:00:00",
-      "title": "Health, Mostly Mental: Via Abolencia & Kendall Allison's Half Hours",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Live from the abyss between expectations and reality, two transgenders joke about mental health, gender identity, relationships and money.",
-      "extraction_method": "api",
-      "vendor": "Health, Mostly Mental: Via Abolencia & Kendall Allison's Half Hours",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-14T20:00:00-04:00",
@@ -352,19 +209,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-10-15T18:00:00-04:00",
-      "title": "6PM Weekday Open Mics @ Eastville Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
-      "extraction_method": "json-ld",
-      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-10-15T19:30:00",
       "title": "Movie Screening of Prince &#8211; Sign O&#8217; the Times",
       "venue": "Industry City",
@@ -376,19 +220,6 @@
       "extraction_method": "api",
       "vendor": "Movie Screening of Prince &#8211; Sign O&#8217; the Times",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-10-15T20:00:00",
-      "title": "It Entirely From Memory",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Performers will attempt (and most likely fail) to recreate \"It\", without the aid of scripts, rehearsals, or sobriety.",
-      "extraction_method": "api",
-      "vendor": "It Entirely From Memory",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-15T20:00:00-04:00",
@@ -521,19 +352,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-10-16T20:00:00",
-      "title": "Buffering the Vampire Slayer presents HOMECOMING WEEKEND 2026",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join Jenny Owen Youngs & Kristin Russo for a live podcast taping & Homecoming Dance to celebrate 10 years of Buffering the Vampire Slayer!",
-      "extraction_method": "api",
-      "vendor": "Buffering the Vampire Slayer presents HOMECOMING WEEKEND 2026",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-16T20:00:00-04:00",
       "title": "Corinne Fisher, James Mattern, Dara Jemmott, Mariel Jimenez, Tom Zappia, Zahid Dewji, Napoleon Emill",
       "venue": "Eastville Comedy Club",
@@ -623,19 +441,6 @@
       "extraction_method": "api",
       "vendor": "CollectedCon Brooklyn",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-10-17T12:00:00",
-      "title": "The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios",
-      "venue": "Littlefield",
-      "start_time": "12:00 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Experience a cutting-edge interactive art display with original artwork and generated images that memorialize traffic crashes across NYC",
-      "extraction_method": "api",
-      "vendor": "The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-17T12:00:00+00:00",
@@ -781,19 +586,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-10-17T23:00:00",
-      "title": "REGGAE REWIND \u2014 FALL EDITION",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get excited for Reggae Rewind's fall party!",
-      "extraction_method": "api",
-      "vendor": "REGGAE REWIND \u2014 FALL EDITION",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-18T00:00:00",
       "title": "Room Full of Strangers with Chris Turner (Work in Progress)",
       "venue": "Union Hall",
@@ -818,19 +610,6 @@
       "extraction_method": "html",
       "vendor": "Good God",
       "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-18T12:00:00",
-      "title": "The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios",
-      "venue": "Littlefield",
-      "start_time": "12:00 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Experience a cutting-edge interactive art display with original artwork and generated images that memorialize traffic crashes across NYC",
-      "extraction_method": "api",
-      "vendor": "The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-18T12:00:00+00:00",
@@ -909,32 +688,6 @@
       "extraction_method": "json-ld",
       "vendor": "Blaq Ron in Brooklyn!",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-18T19:00:00",
-      "title": "Kendall Farrell: Standup Comedy Special Taping",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "\"Comic to Watch,\" and \"Breakout Artist\" Kendall Farrell tapes his debut hour of standup comedy. Intros by Ashley Gavin and Rachel Feinstein.",
-      "extraction_method": "api",
-      "vendor": "Kendall Farrell: Standup Comedy Special Taping",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-10-18T21:30:00",
-      "title": "Kendall Farrell: Standup Comedy Special Taping",
-      "venue": "Littlefield",
-      "start_time": "9:30 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "9:30 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "\"Comic to Watch,\" and \"Breakout Artist\" Kendall Farrell tapes his debut hour of standup comedy. Intros by Ashley Gavin and Rachel Feinstein.",
-      "extraction_method": "api",
-      "vendor": "Kendall Farrell: Standup Comedy Special Taping",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-19T00:00:00",
@@ -1039,15 +792,95 @@
       "extraction_method": "html",
       "vendor": "Marc Ribot Quartet: Hurry Red Telephone (Album Release)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-10-20T00:00:00",
+      "title": "Girl Mountain Goes Missing!",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Girl Mountain Goes Missing!",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-20T12:00:00+00:00",
+      "title": "CLAY ONES OPEN MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "CLAY ONES OPEN MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-20T12:00:00+00:00",
+      "title": "INSTANT GRATIFICATION: A NIGHT OF CREATIVE IMPROVISED MUSIC(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "INSTANT GRATIFICATION: A NIGHT OF CREATIVE IMPROVISED MUSIC(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-20T18:00:00-04:00",
+      "title": "6PM Weekday Open Mics @ Eastville Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
+      "extraction_method": "json-ld",
+      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-20T20:00:00-04:00",
+      "title": "Tipsy Tuesday Showcase",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Tipsy Tuesday Showcase",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-20T20:00:00",
+      "title": "Contemporaneous, Recap, and Mantra present: Seeing in the Dark",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Three transformative works by Brendon Randall-Myers, Lila Meretzky, and Paul Pinto offer different ways to light our path through darkness.",
+      "extraction_method": "html",
+      "vendor": "Contemporaneous, Recap, and Mantra present: Seeing in the Dark",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-10-12T10:16:33.074362+00:00",
-  "total_events": 80,
+  "updated": "2026-10-13T10:20:17.047310+00:00",
+  "total_events": 67,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
