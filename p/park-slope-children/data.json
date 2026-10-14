@@ -80,19 +80,6 @@
     },
     {
       "date": "2026-10-15T19:00:00+00:00",
-      "title": "\ud83d\udcda Nature Storytime at the Environmental Education Center in Brooklyn Bridge Park (all ages)",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "7:00 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "Environmental Education Center (Brooklyn Bridge Park)",
-      "extraction_method": "api",
-      "vendor": "\ud83d\udcda Nature Storytime at the Environmental Education Center in Brooklyn Bridge Park (all ages)",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-15T19:00:00+00:00",
       "title": "\ud83d\udd0d Open Hours at the Environmental Education Center in Brooklyn Bridge Park",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "7:00 PM ET",
@@ -102,6 +89,19 @@
       "description": "Environmental Education Center (Brooklyn Bridge Park)",
       "extraction_method": "api",
       "vendor": "\ud83d\udd0d Open Hours at the Environmental Education Center in Brooklyn Bridge Park",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-15T19:00:00+00:00",
+      "title": "\ud83d\udcda Nature Storytime at the Environmental Education Center in Brooklyn Bridge Park (all ages)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Environmental Education Center (Brooklyn Bridge Park)",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udcda Nature Storytime at the Environmental Education Center in Brooklyn Bridge Park (all ages)",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -288,19 +288,6 @@
     },
     {
       "date": "2026-10-17T15:00:00+00:00",
-      "title": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "12:00 AM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "12:00 AM",
-      "description": "Luna Park in Coney Island",
-      "extraction_method": "api",
-      "vendor": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-17T15:00:00+00:00",
       "title": "\ud83d\ude0b Smorgasburg at Marsha P. Johnson State Park in Williamsburg",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -310,6 +297,19 @@
       "description": "Marsha P. Johnson State Park",
       "extraction_method": "api",
       "vendor": "\ud83d\ude0b Smorgasburg at Marsha P. Johnson State Park in Williamsburg",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-17T15:00:00+00:00",
+      "title": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "12:00 AM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "12:00 AM",
+      "description": "Luna Park in Coney Island",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -431,19 +431,6 @@
     },
     {
       "date": "2026-10-18T15:00:00+00:00",
-      "title": "\ud83d\ude0b Smorgasburg at Prospect Park",
-      "venue": "MacaroniKid Brooklyn NW",
-      "start_time": "3:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Smorgasburg Prospect Park",
-      "extraction_method": "api",
-      "vendor": "\ud83d\ude0b Smorgasburg at Prospect Park",
-      "location": "MacaroniKid Brooklyn NW"
-    },
-    {
-      "date": "2026-10-18T15:00:00+00:00",
       "title": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
       "venue": "MacaroniKid Brooklyn NW",
       "start_time": "3:00 PM ET",
@@ -453,6 +440,19 @@
       "description": "Luna Park in Coney Island",
       "extraction_method": "api",
       "vendor": "\ud83c\udfa1 Luna Park Coney Island Halloween Harvest",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-18T15:00:00+00:00",
+      "title": "\ud83d\ude0b Smorgasburg at Prospect Park",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "3:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Smorgasburg Prospect Park",
+      "extraction_method": "api",
+      "vendor": "\ud83d\ude0b Smorgasburg at Prospect Park",
       "location": "MacaroniKid Brooklyn NW"
     },
     {
@@ -597,10 +597,49 @@
       "extraction_method": "api",
       "vendor": "\u265f\ufe0fPark Slope Chess Club at Sip & Play in Park Slope (all skill levels)",
       "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-21T14:00:00+00:00",
+      "title": "\ud83c\udfb5 Strawberry Tunes: Singing with Doro at SPAR\u015aA in Greenpoint (ages 0-4 yrs)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": null,
+      "description": "SPAR\u015aA - Greenpoint",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb5 Strawberry Tunes: Singing with Doro at SPAR\u015aA in Greenpoint (ages 0-4 yrs)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-21T16:00:00+00:00",
+      "title": "The LEGO\u00ae Store on Fifth Avenue, NY Insiders Historian Tour",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "4:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:00 PM",
+      "end_time_raw": null,
+      "description": "The LEGO\u00ae Store Fifth Avenue",
+      "extraction_method": "api",
+      "vendor": "The LEGO\u00ae Store on Fifth Avenue, NY Insiders Historian Tour",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-21T19:00:00+00:00",
+      "title": "\ud83d\udc2c Free Admission at the New York Aquarium in Coney Island",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "New York Aquarium",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc2c Free Admission at the New York Aquarium in Coney Island",
+      "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-10-13T08:32:32.073086+00:00",
-  "total_events": 46,
+  "updated": "2026-10-14T08:33:03.319314+00:00",
+  "total_events": 49,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
