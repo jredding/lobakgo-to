@@ -287,6 +287,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-10-21T20:00:00",
+      "title": "PTP Live!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "PTP LIVE! Showcasing the next generation of R&B & Rap talent with elite production, authenticity, musicianship, and culture.",
+      "extraction_method": "api",
+      "vendor": "PTP Live!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-10-21T20:00:00-04:00",
       "title": "Comedy V.S Poetry Night!",
       "venue": "Eastville Comedy Club",
@@ -404,6 +417,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-10-22T19:00:00",
+      "title": "The Alien Everywhere II Special Taping",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "TJ tapes his Alien Everywhere Tour. Come for the same fresh, incisive, and caustic wit, stay for the poetry of laughter to be found!",
+      "extraction_method": "api",
+      "vendor": "The Alien Everywhere II Special Taping",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-10-22T20:00:00-04:00",
       "title": "Carmen Lagala, Talal Alyan, Julia Barnard, Mike Agunbiade, Joe Mahoney, John Bennett, Dave Temple",
       "venue": "Eastville Comedy Club",
@@ -428,6 +454,19 @@
       "extraction_method": "html",
       "vendor": "Interpretations: Ursel Schlicht // Critical Response",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-10-22T21:00:00",
+      "title": "The Alien Everywhere II Special Taping",
+      "venue": "Littlefield",
+      "start_time": "9:00 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "TJ tapes his Alien Everywhere Tour. Come for the same fresh, incisive, and caustic wit, stay for the poetry of laughter to be found!",
+      "extraction_method": "api",
+      "vendor": "The Alien Everywhere II Special Taping",
+      "location": "Littlefield"
     },
     {
       "date": "2026-10-23T00:00:00",
@@ -548,6 +587,19 @@
     },
     {
       "date": "2026-10-23T19:00:00",
+      "title": "MORAL KIOSK (R.E.M.) & BASTARDS OF YOUNG (REPLACEMENTS)",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Moral Kiosk, NYC's original R.E.M. tribute band, play the band's early catalog in its rawest most faithful form; openers Bastards of Young",
+      "extraction_method": "api",
+      "vendor": "MORAL KIOSK (R.E.M.) & BASTARDS OF YOUNG (REPLACEMENTS)",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-10-23T19:00:00",
       "title": "Tambour Kings Live Blues &#038; Jazz",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -636,6 +688,19 @@
       "extraction_method": "json-ld",
       "vendor": "Mariel Jimenez, Liam Dalton, Lauren Cocroft, Hoodo Hersi, Neko White, Dave Temple",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-23T23:00:00",
+      "title": "BASHMENT IN BK - Late Night Dancehall & Soca Party",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "Get ready to vibe all night with the hottest dancehall beats.",
+      "extraction_method": "api",
+      "vendor": "BASHMENT IN BK - Late Night Dancehall & Soca Party",
+      "location": "Littlefield"
     },
     {
       "date": "2026-10-24T00:00:00",
@@ -833,6 +898,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-24T20:00:00",
+      "title": "Switch n' Play Presents: Slash n' Spray",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for a wild night of drag, burlesque, & queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play collective!",
+      "extraction_method": "api",
+      "vendor": "Switch n' Play Presents: Slash n' Spray",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-10-24T20:00:00-04:00",
       "title": "James Mattern, Ed Rodriguez, Slater Harrison, Gus Kynast, Dave Temple, Derek Humphrey, Alex Babbitt",
       "venue": "Eastville Comedy Club",
@@ -870,6 +948,19 @@
       "extraction_method": "json-ld",
       "vendor": "Liam Dalton, Greg Melly, Trayvon Fulton, Cesh Reyes, Alex Babbitt, Derrell Meyers",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-24T23:00:00",
+      "title": "Dancehall Forever",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
+      "extraction_method": "api",
+      "vendor": "Dancehall Forever",
+      "location": "Littlefield"
     },
     {
       "date": "2026-10-25T00:00:00",
@@ -963,6 +1054,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-25T20:00:00",
+      "title": "About Last Night: Dating Disaster Stories NYC!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "NYC locals get on stage and share their worst dating & hookup stories while a live musician turns the stories into songs!",
+      "extraction_method": "api",
+      "vendor": "About Last Night: Dating Disaster Stories NYC!",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-10-25T20:00:00-04:00",
       "title": "No Cent Comedy",
       "venue": "Eastville Comedy Club",
@@ -1052,17 +1156,28 @@
       "extraction_method": "json-ld",
       "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-26T20:00:00",
+      "title": "The Witch Wave with Pam Grossman LIVE!",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Join Pam Grossman and special guests for a live podcast taping to celebrate 10 seasons of The Witch Wave!",
+      "extraction_method": "api",
+      "vendor": "The Witch Wave with Pam Grossman LIVE!",
+      "location": "Littlefield"
     }
   ],
-  "updated": "2026-10-19T10:16:02.313035+00:00",
-  "total_events": 81,
+  "updated": "2026-10-19T10:17:40.044399+00:00",
+  "total_events": 90,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
