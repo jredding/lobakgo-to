@@ -1,188 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-18T00:00:00",
-      "title": "Room Full of Strangers with Chris Turner (Work in Progress)",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Room Full of Strangers with Chris Turner (Work in Progress)",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-18T00:00:00",
-      "title": "Good God",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Good God",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-18T12:00:00",
-      "title": "The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios",
-      "venue": "Littlefield",
-      "start_time": "12:00 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Experience a cutting-edge interactive art display with original artwork and generated images that memorialize traffic crashes across NYC",
-      "extraction_method": "api",
-      "vendor": "The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-10-18T12:00:00+00:00",
-      "title": "BEANIE BABE COMEDY(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "BEANIE BABE COMEDY(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-18T12:00:00+00:00",
-      "title": "TBD(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TBD(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-18T12:00:00",
-      "title": "Barrow&#8217;s Intense x True North Rescue Adoption Event",
-      "venue": "Industry City",
-      "start_time": "12:00 PM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "3:00 PM",
-      "description": "Dog Adoption Event with True North Rescue featuring food vendors Better than Porridge (for humans) and Woof Gang Bakery (for dogs!), pet portraitist Sophie Furman, and collar-making with Bead Bar!",
-      "extraction_method": "api",
-      "vendor": "Barrow&#8217;s Intense x True North Rescue Adoption Event",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-18T12:00:00",
-      "title": "Sunset Park Open Studios",
-      "venue": "Industry City",
-      "start_time": "12:00 PM ET",
-      "end_time": "5:00 PM ET",
-      "start_time_raw": "12:00 PM",
-      "end_time_raw": "5:00 PM",
-      "description": "Sunset Park Open Studios (SPOS) is an annual, multi-day arts celebration featuring free exhibitions, community events, and open artist workspaces across Sunset Park, Brooklyn.\nOpen Studios featuring Craftsman Ave, brooklynONE productions, Lista Studios, Salon 787 Collective, Tanya Weddemire Gallery,Theories of Atlantis, Billy Ray Morgan, Carol Dronsfield, C\u00e9sar Villarreal, Erin Juliana &amp; Adam Murray, Iliana Emilia Garcia, Jane Kent &amp; David Storey, Jeanette May, Jeffrey Kurland, Joshua Peters, Judith Mills, Katelyn Alain, Kelly Bahash, Lee Holin, Linda Weisent Andrei, LPX (Lizzy Plapinger), Marianne McCarthy, Meg Atkinson, Naomi Cohen-Thompson, Naomi Frank, Shawn Dulaney, Sonoko Kaneko, Stephanie Eche, Suzanne Nicholas, Tracey Jain, and Zhen Guo.",
-      "extraction_method": "api",
-      "vendor": "Sunset Park Open Studios",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-18T12:30:00",
-      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "venue": "Industry City",
-      "start_time": "12:30 PM ET",
-      "end_time": "1:30 PM ET",
-      "start_time_raw": "12:30 PM",
-      "end_time_raw": "1:30 PM",
-      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
-      "extraction_method": "api",
-      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-18T15:00:00",
-      "title": "Reprise\u2014Recreating Iconic Phish Shows",
-      "venue": "Industry City",
-      "start_time": "3:00 PM ET",
-      "end_time": "6:00 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "6:00 PM",
-      "description": "Industry City and Get It Right Music in association with Murmrr Presents are thrilled to present REPRISE recreating the iconic shows of Phish!\nEvent Info\nDate: October 18th, 2026\nDoors: 2:00pm\nShow: 3:00-6:00pm\nTickets: $25 per person plus fees\nAddress: Industry City Bandshell Stage, Courtyard 1/2 at Industry City in Brooklyn New York between 36th and 37th street and 2nd and 3rd Avenues.\nENTER 238 36th Street, Brooklyn, NY on your GPS device\nThe venue is located in an open-air courtyard featuring a full concert sound stage. Fans can get affordable drinks from the venue&#8217;s bar and order food from over 17 options inside the adjoining food hall. Concert is rain or shine.\nHow to get here:\nTake the D, N, R lines to 36th street station in Brooklyn and walk west one block to Industry City. 3 stops from Manhattan. 30 minutes from Herald Square.\nFrom Long Island, take the LIRR to Atlantic Terminal then take the D, N or R train to 36th street.\nMore about REPRISE\nREPRISE, a band formed to reprise the Phish experience, is itself an all-star band. Cal Kehoe, longtime frontman for Pink Talking Fish, helms the enterprise on guitar. Adrian Tramontano (Twiddle, Kung Fu and The Breakfast) masters the drums. Scott Chasolen chairs the boards for the project, bringing years of experience as a founding member of Ulu and keyboardist of internationally touring Pink Floyd tribute The Machine. Multi-instrumentalist and composer Chris DeAngelis (The Machine, Kung Fu, and The Breakfast) rounds out the foursome on bass. The time is near, the mission\u2019s clear.",
-      "extraction_method": "api",
-      "vendor": "Reprise\u2014Recreating Iconic Phish Shows",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-18T17:30:00",
-      "title": "WRIGHT\u2019S MANSION(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "5:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WRIGHT\u2019S MANSION(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-18T17:30:00",
-      "title": "Sunday Sessions: Live Jazz &#038; Blues",
-      "venue": "Industry City",
-      "start_time": "5:30 PM ET",
-      "end_time": "7:30 PM ET",
-      "start_time_raw": "5:30 PM",
-      "end_time_raw": "7:30 PM",
-      "description": "\ud83c\udfb7 Live Jazz &amp; Blues at Fort Hamilton \ud83e\udd43\nLive music, great cocktails, and the perfect way to spend your Sunday evening.\n\ud83c\udf78 Cocktails, mocktails, beer and wine available at the bar.",
-      "extraction_method": "api",
-      "vendor": "Sunday Sessions: Live Jazz &#038; Blues",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-10-18T18:00:00-04:00",
-      "title": "Blaq Ron in Brooklyn!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "Blaq Ron&rsquo;s bringing his latest, sharpest material to Eastville Comedy Club in Brooklyn for one night only.Hailing from Dallas, Texas, the comedian known as the &quot;#MalcolmXofComedy&quot; delivers an unforgettable mix of raw storytelling, biting wit, and brilliant observational humor &mdash; from hilarious breakdowns of modern family dynamics to uncompromising takes on culture.An HBO Comedy Wings champion and writer for icons like Earthquake, Rickey Smiley, and DC Young Fly, Blaq Ron is a true &quot;comic&#39;s comic&quot; promising a masterclass in modern stand-up.",
-      "extraction_method": "json-ld",
-      "vendor": "Blaq Ron in Brooklyn!",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-18T19:00:00",
-      "title": "Kendall Farrell: Standup Comedy Special Taping",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "\"Comic to Watch,\" and \"Breakout Artist\" Kendall Farrell tapes his debut hour of standup comedy. Intros by Ashley Gavin and Rachel Feinstein.",
-      "extraction_method": "api",
-      "vendor": "Kendall Farrell: Standup Comedy Special Taping",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-10-18T21:30:00",
-      "title": "Kendall Farrell: Standup Comedy Special Taping",
-      "venue": "Littlefield",
-      "start_time": "9:30 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "9:30 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "\"Comic to Watch,\" and \"Breakout Artist\" Kendall Farrell tapes his debut hour of standup comedy. Intros by Ashley Gavin and Rachel Feinstein.",
-      "extraction_method": "api",
-      "vendor": "Kendall Farrell: Standup Comedy Special Taping",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-19T00:00:00",
       "title": "Frankenstein's Baby",
       "venue": "Union Hall",
@@ -469,19 +287,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-10-21T20:00:00",
-      "title": "PTP Live!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "PTP LIVE! Showcasing the next generation of R&B & Rap talent with elite production, authenticity, musicianship, and culture.",
-      "extraction_method": "api",
-      "vendor": "PTP Live!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-21T20:00:00-04:00",
       "title": "Comedy V.S Poetry Night!",
       "venue": "Eastville Comedy Club",
@@ -599,19 +404,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-10-22T19:00:00",
-      "title": "The Alien Everywhere II Special Taping",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "TJ tapes his Alien Everywhere Tour. Come for the same fresh, incisive, and caustic wit, stay for the poetry of laughter to be found!",
-      "extraction_method": "api",
-      "vendor": "The Alien Everywhere II Special Taping",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-22T20:00:00-04:00",
       "title": "Carmen Lagala, Talal Alyan, Julia Barnard, Mike Agunbiade, Joe Mahoney, John Bennett, Dave Temple",
       "venue": "Eastville Comedy Club",
@@ -636,19 +428,6 @@
       "extraction_method": "html",
       "vendor": "Interpretations: Ursel Schlicht // Critical Response",
       "location": "Roulette"
-    },
-    {
-      "date": "2026-10-22T21:00:00",
-      "title": "The Alien Everywhere II Special Taping",
-      "venue": "Littlefield",
-      "start_time": "9:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "TJ tapes his Alien Everywhere Tour. Come for the same fresh, incisive, and caustic wit, stay for the poetry of laughter to be found!",
-      "extraction_method": "api",
-      "vendor": "The Alien Everywhere II Special Taping",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-23T00:00:00",
@@ -769,19 +548,6 @@
     },
     {
       "date": "2026-10-23T19:00:00",
-      "title": "MORAL KIOSK (R.E.M.) & BASTARDS OF YOUNG (REPLACEMENTS)",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Moral Kiosk, NYC's original R.E.M. tribute band, play the band's early catalog in its rawest most faithful form; openers Bastards of Young",
-      "extraction_method": "api",
-      "vendor": "MORAL KIOSK (R.E.M.) & BASTARDS OF YOUNG (REPLACEMENTS)",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-10-23T19:00:00",
       "title": "Tambour Kings Live Blues &#038; Jazz",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -870,19 +636,6 @@
       "extraction_method": "json-ld",
       "vendor": "Mariel Jimenez, Liam Dalton, Lauren Cocroft, Hoodo Hersi, Neko White, Dave Temple",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-23T23:00:00",
-      "title": "BASHMENT IN BK - Late Night Dancehall & Soca Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to vibe all night with the hottest dancehall beats.",
-      "extraction_method": "api",
-      "vendor": "BASHMENT IN BK - Late Night Dancehall & Soca Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-24T00:00:00",
@@ -1080,19 +833,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-10-24T20:00:00",
-      "title": "Switch n' Play Presents: Slash n' Spray",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us for a wild night of drag, burlesque, & queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play collective!",
-      "extraction_method": "api",
-      "vendor": "Switch n' Play Presents: Slash n' Spray",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-24T20:00:00-04:00",
       "title": "James Mattern, Ed Rodriguez, Slater Harrison, Gus Kynast, Dave Temple, Derek Humphrey, Alex Babbitt",
       "venue": "Eastville Comedy Club",
@@ -1130,19 +870,6 @@
       "extraction_method": "json-ld",
       "vendor": "Liam Dalton, Greg Melly, Trayvon Fulton, Cesh Reyes, Alex Babbitt, Derrell Meyers",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-24T23:00:00",
-      "title": "Dancehall Forever",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
-      "extraction_method": "api",
-      "vendor": "Dancehall Forever",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-25T00:00:00",
@@ -1236,19 +963,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-10-25T20:00:00",
-      "title": "About Last Night: Dating Disaster Stories NYC!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "NYC locals get on stage and share their worst dating & hookup stories while a live musician turns the stories into songs!",
-      "extraction_method": "api",
-      "vendor": "About Last Night: Dating Disaster Stories NYC!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-25T20:00:00-04:00",
       "title": "No Cent Comedy",
       "venue": "Eastville Comedy Club",
@@ -1260,15 +974,95 @@
       "extraction_method": "json-ld",
       "vendor": "No Cent Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-26T00:00:00",
+      "title": "Famous Last Words",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Famous Last Words",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-26T12:00:00+00:00",
+      "title": "CHECK ON YOUR IMPROV FRIENDS(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "CHECK ON YOUR IMPROV FRIENDS(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-26T12:00:00+00:00",
+      "title": "DOODLE MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DOODLE MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-26T16:30:00",
+      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "4:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "4:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-26T18:00:00-04:00",
+      "title": "6PM Weekday Open Mics @ Eastville Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
+      "extraction_method": "json-ld",
+      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-26T19:30:00-04:00",
+      "title": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
+      "venue": "Eastville Comedy Club",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-10-18T10:16:00.341678+00:00",
-  "total_events": 97,
+  "updated": "2026-10-19T10:16:02.313035+00:00",
+  "total_events": 81,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
