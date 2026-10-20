@@ -1,110 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-19T00:00:00",
-      "title": "Frankenstein's Baby",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Frankenstein's Baby",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-19T12:00:00+00:00",
-      "title": "FISHGUTS// DOCKING// EARLY WORM(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "FISHGUTS// DOCKING// EARLY WORM(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-19T12:00:00+00:00",
-      "title": "BOLDLY! THE SHOW(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "BOLDLY! THE SHOW(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-19T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-19T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-A-LONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-19T18:00:00-04:00",
-      "title": "6PM Weekday Open Mics @ Eastville Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
-      "extraction_method": "json-ld",
-      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-19T19:30:00-04:00",
-      "title": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "json-ld",
-      "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-19T20:00:00",
-      "title": "Marc Ribot Quartet: Hurry Red Telephone (Album Release)",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Marc Ribot Quartet celebrates the forthcoming release of their new record, Hurry Red Telephone.",
-      "extraction_method": "html",
-      "vendor": "Marc Ribot Quartet: Hurry Red Telephone (Album Release)",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-10-20T00:00:00",
       "title": "Girl Mountain Goes Missing!",
       "venue": "Union Hall",
@@ -287,19 +183,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-10-21T20:00:00",
-      "title": "PTP Live!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "PTP LIVE! Showcasing the next generation of R&B & Rap talent with elite production, authenticity, musicianship, and culture.",
-      "extraction_method": "api",
-      "vendor": "PTP Live!",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-21T20:00:00-04:00",
       "title": "Comedy V.S Poetry Night!",
       "venue": "Eastville Comedy Club",
@@ -417,19 +300,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-10-22T19:00:00",
-      "title": "The Alien Everywhere II Special Taping",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "TJ tapes his Alien Everywhere Tour. Come for the same fresh, incisive, and caustic wit, stay for the poetry of laughter to be found!",
-      "extraction_method": "api",
-      "vendor": "The Alien Everywhere II Special Taping",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-22T20:00:00-04:00",
       "title": "Carmen Lagala, Talal Alyan, Julia Barnard, Mike Agunbiade, Joe Mahoney, John Bennett, Dave Temple",
       "venue": "Eastville Comedy Club",
@@ -454,19 +324,6 @@
       "extraction_method": "html",
       "vendor": "Interpretations: Ursel Schlicht // Critical Response",
       "location": "Roulette"
-    },
-    {
-      "date": "2026-10-22T21:00:00",
-      "title": "The Alien Everywhere II Special Taping",
-      "venue": "Littlefield",
-      "start_time": "9:00 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "TJ tapes his Alien Everywhere Tour. Come for the same fresh, incisive, and caustic wit, stay for the poetry of laughter to be found!",
-      "extraction_method": "api",
-      "vendor": "The Alien Everywhere II Special Taping",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-23T00:00:00",
@@ -587,19 +444,6 @@
     },
     {
       "date": "2026-10-23T19:00:00",
-      "title": "MORAL KIOSK (R.E.M.) & BASTARDS OF YOUNG (REPLACEMENTS)",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Moral Kiosk, NYC's original R.E.M. tribute band, play the band's early catalog in its rawest most faithful form; openers Bastards of Young",
-      "extraction_method": "api",
-      "vendor": "MORAL KIOSK (R.E.M.) & BASTARDS OF YOUNG (REPLACEMENTS)",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-10-23T19:00:00",
       "title": "Tambour Kings Live Blues &#038; Jazz",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -688,19 +532,6 @@
       "extraction_method": "json-ld",
       "vendor": "Mariel Jimenez, Liam Dalton, Lauren Cocroft, Hoodo Hersi, Neko White, Dave Temple",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-23T23:00:00",
-      "title": "BASHMENT IN BK - Late Night Dancehall & Soca Party",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "Get ready to vibe all night with the hottest dancehall beats.",
-      "extraction_method": "api",
-      "vendor": "BASHMENT IN BK - Late Night Dancehall & Soca Party",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-24T00:00:00",
@@ -898,19 +729,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-10-24T20:00:00",
-      "title": "Switch n' Play Presents: Slash n' Spray",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us for a wild night of drag, burlesque, & queer performance from Brooklyn\u2019s legendary Switch n\u2019 Play collective!",
-      "extraction_method": "api",
-      "vendor": "Switch n' Play Presents: Slash n' Spray",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-10-24T20:00:00-04:00",
       "title": "James Mattern, Ed Rodriguez, Slater Harrison, Gus Kynast, Dave Temple, Derek Humphrey, Alex Babbitt",
       "venue": "Eastville Comedy Club",
@@ -948,19 +766,6 @@
       "extraction_method": "json-ld",
       "vendor": "Liam Dalton, Greg Melly, Trayvon Fulton, Cesh Reyes, Alex Babbitt, Derrell Meyers",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-24T23:00:00",
-      "title": "Dancehall Forever",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
-      "extraction_method": "api",
-      "vendor": "Dancehall Forever",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-25T00:00:00",
@@ -1028,6 +833,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-10-25T12:30:00",
+      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "1:30 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "1:30 PM",
+      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-10-25T14:00:00",
       "title": "Barrel Age Your Own Sake \u2014 A Brooklyn Kura Workshop Class",
       "venue": "Industry City",
@@ -1052,19 +870,6 @@
       "extraction_method": "api",
       "vendor": "Sunday Sessions: Live Jazz &#038; Blues",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-10-25T20:00:00",
-      "title": "About Last Night: Dating Disaster Stories NYC!",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "NYC locals get on stage and share their worst dating & hookup stories while a live musician turns the stories into songs!",
-      "extraction_method": "api",
-      "vendor": "About Last Night: Dating Disaster Stories NYC!",
-      "location": "Littlefield"
     },
     {
       "date": "2026-10-25T20:00:00-04:00",
@@ -1158,26 +963,106 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-10-26T20:00:00",
-      "title": "The Witch Wave with Pam Grossman LIVE!",
-      "venue": "Littlefield",
+      "date": "2026-10-27T00:00:00",
+      "title": "PRETTY  MAJOR Hosted by Jay Jurden",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "PRETTY  MAJOR Hosted by Jay Jurden",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-27T00:00:00",
+      "title": "GRETA TITELMAN JOURNALS",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "GRETA TITELMAN JOURNALS",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-10-27T12:00:00+00:00",
+      "title": "CLAY ONES OPEN MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "CLAY ONES OPEN MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-27T18:00:00-04:00",
+      "title": "6PM Weekday Open Mics @ Eastville Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
+      "extraction_method": "json-ld",
+      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-27T19:30:00",
+      "title": "F-WORD TRIVIA. THE WINNING TEAM GETS $50 OFF THEIR BARTAB(Trivia)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "F-WORD TRIVIA. THE WINNING TEAM GETS $50 OFF THEIR BARTAB(Trivia)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-10-27T20:00:00-04:00",
+      "title": "Priya Blunts, Tom Zappia, Tomas Liebel, Jamell Sirleaf",
+      "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
+      "end_time": null,
       "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Join Pam Grossman and special guests for a live podcast taping to celebrate 10 seasons of The Witch Wave!",
-      "extraction_method": "api",
-      "vendor": "The Witch Wave with Pam Grossman LIVE!",
-      "location": "Littlefield"
+      "end_time_raw": null,
+      "description": "FeaturingPriya BluntsTom ZappiaTomas LiebelJamell SirleafCesh ReyesJared WatersJamell Sirleaf is a Liberian-American comedian, based out of New York City.&nbsp;He also most recently featured at Essence Festival of Culture in July 2024 and was the winner of the 2024 Jersey City comedy festival. He also headlined shows at the Vermont Comedy Festival in December 2022 &amp; 2023, and the Vail Comedy Festival in May 2023.&nbsp;In October 2023, he was a part of Laugh After Dark&rsquo;s comedy festival and Hell Yes Fest in New Orleans, LA in November 2023.Jared Waters, aka &quot;Turbo,&quot; is a dynamic comedian hailing from Tampa, Florida now navigating the comedic scene of New York City. With over 1,000 shows annually, his relentless work ethic and versatile joke-writing have earned him a reputation as one of NYC&#39;s most sought-after up and coming comedians. A former military brat, Jared&#39;s hilarious tales from worldwide travels and his strict upbringing offer a unique perspective on life. Whether delivering clean or edgy humor, Turbo captivates audiences with his witty take on the world. He has already graced ABC&#39;s &quot;Tamron Hall Show&quot; and made his Don&rsquo;t Tell Comedy debut. Follow him on all platforms @mrwaters__",
+      "extraction_method": "json-ld",
+      "vendor": "Priya Blunts, Tom Zappia, Tomas Liebel, Jamell Sirleaf",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-10-27T21:30:00",
+      "title": "THE ROAST OF ABRAHAM LINCOLN VAMPIRE HUNTER(Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "9:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE ROAST OF ABRAHAM LINCOLN VAMPIRE HUNTER(Comedy)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-10-19T10:17:40.044399+00:00",
-  "total_events": 90,
+  "updated": "2026-10-20T10:16:02.040960+00:00",
+  "total_events": 81,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
