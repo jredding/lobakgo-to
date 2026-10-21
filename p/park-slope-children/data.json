@@ -623,10 +623,36 @@
       "extraction_method": "api",
       "vendor": "\u265f\ufe0fPark Slope Chess Club at Sip & Play in Park Slope (all skill levels)",
       "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-28T14:00:00+00:00",
+      "title": "\ud83c\udfb5 Strawberry Tunes: Singing with Doro at SPAR\u015aA in Greenpoint (ages 0-4 yrs)",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "2:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": null,
+      "description": "SPAR\u015aA - Greenpoint",
+      "extraction_method": "api",
+      "vendor": "\ud83c\udfb5 Strawberry Tunes: Singing with Doro at SPAR\u015aA in Greenpoint (ages 0-4 yrs)",
+      "location": "MacaroniKid Brooklyn NW"
+    },
+    {
+      "date": "2026-10-28T19:00:00+00:00",
+      "title": "\ud83d\udc2c Free Admission at the New York Aquarium in Coney Island",
+      "venue": "MacaroniKid Brooklyn NW",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "New York Aquarium",
+      "extraction_method": "api",
+      "vendor": "\ud83d\udc2c Free Admission at the New York Aquarium in Coney Island",
+      "location": "MacaroniKid Brooklyn NW"
     }
   ],
-  "updated": "2026-10-20T08:31:02.173232+00:00",
-  "total_events": 48,
+  "updated": "2026-10-21T08:32:09.558786+00:00",
+  "total_events": 50,
   "site_name": "Brooklyn Children's Events",
   "site_key": "childrens-events",
   "timezone": "America/New_York",
