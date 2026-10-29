@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-28T00:00:00",
-      "title": "Pizzazz with Gary Gulman",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Pizzazz with Gary Gulman",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-10-28T12:00:00+00:00",
-      "title": "WANJA ROSENTHAL// HANIEL ML(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WANJA ROSENTHAL// HANIEL ML(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-28T18:00:00-04:00",
-      "title": "6PM Weekday Open Mics @ Eastville Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
-      "extraction_method": "json-ld",
-      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-28T19:30:00",
-      "title": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-10-28T20:00:00-04:00",
-      "title": "THE GUYGULY EXPERIENCE (Ft. Guy\u2019z Nite)",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": "Wednesday Night in Brooklyn400M+ viewers watched him create chaos online. Now see the ISRAELI WOODPECKER live. Be ready for surprise comedians, crowd work &amp; absolute chaos.",
-      "extraction_method": "json-ld",
-      "vendor": "THE GUYGULY EXPERIENCE (Ft. Guy\u2019z Nite)",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-10-28T20:00:00",
-      "title": "Live Processing Paint and Sound: Liz Phillips and Heidi Howard",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Interactive sound art pioneer + painter/sculptor celebrate Harvestworks\u2019 50th, plus a convo with e-flux Performance Curator Sanna Almajedi.",
-      "extraction_method": "html",
-      "vendor": "Live Processing Paint and Sound: Liz Phillips and Heidi Howard",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-10-29T00:00:00",
       "title": "Dress Rehearsal",
       "venue": "Union Hall",
@@ -339,6 +261,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-10-30T23:30:00-04:00",
+      "title": "The Get It Goin Amateur Show",
+      "venue": "Eastville Comedy Club",
+      "start_time": "11:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "11:30 PM",
+      "end_time_raw": null,
+      "description": "Brought to you by Cesh Reyes &amp; Josue Reveles",
+      "extraction_method": "json-ld",
+      "vendor": "The Get It Goin Amateur Show",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-10-31T00:00:00",
       "title": "Maggie's Scary Story Contest",
       "venue": "Union Hall",
@@ -437,7 +372,7 @@
       "end_time": "4:00 PM ET",
       "start_time_raw": "12:00 PM",
       "end_time_raw": "4:00 PM",
-      "description": "Show off your costume at Industry City&#8217;s campus-wide Trick-or-Treating this Halloween! Stop by participating businesses for treats and spooky surprises. Ghouls, goblins, and grown-ups welcome.\nParticipating Businesses:\nAvo\nBrooklyn Made Store\nbkONE Productions\nBurger Joint\nColson Patisserie\nDesign Within Reach\nDesk Job Design Lab\nFort Hamilton Distillery\nGloss\nHometown BBQ\nIC General Supply\nKohler\nKotti\nLi-Lac Chocolates\nMiniature World\nPowerhouse Books\nPuppet Works\nSahadi&#8217;s\nSt. Mark&#8217;s Comics\nTable 87\nUPS\nBrooklyn Escape Room\nAdditional Halloween Activations Across Campus:\n\nPetco Pet Costume Event &#8211; Bandshell Courtyard 1/2\u00a0 (11AM-4PM)\nOriginal Tin Photo Activation &#8211; Courtyard 3/4\nBitter Mink Spooky Cocktails + All Day Happy Hour &#8211; Building 6\nFort Hamilton Costume Contest &#8211; Building 6 (8PM)\nBurger Joint Halloween Party &#8211; Building 2 (6PM-11PM)\nDesk Job Pumpkin Carving Workshop &#8211; Building 6 (2PM-4PM)\nJapan Village Halloween Scavenger Hunt &#8211; Building 3/4 (Starts at 11AM)",
+      "description": "Show off your costume at Industry City&#8217;s campus-wide Trick-or-Treating this Halloween! Stop by participating businesses for treats and spooky surprises. Ghouls, goblins, and grown-ups welcome.\nParticipating Businesses:\nAvo\nBrooklyn Made Store\nbkONE Productions\nBurger Joint\nColson Patisserie\nDesign Within Reach\nDesk Job Design Lab\nFort Hamilton Distillery\nGloss\nHometown BBQ\nIC General Supply\nKohler\nKotti\nLi-Lac Chocolates\nMiniature World\nPowerhouse Books\nPuppet Works\nSahadi&#8217;s\nSt. Mark&#8217;s Comics\nTable 87\nUPS\nBrooklyn Escape Room\nAdditional Halloween Activations Across Campus:\nPetco: Pet Costume Contest | Courtyard \u00bd Bandshell | 11AM-2PM\nDesk Job Design Lab: Trick-or-Treat Bag Decorating | Building 6 | 12PM-4PM\nJapan Village: Halloween Scavenger Hunt | Building 3/4 | Starts at 11AM\nbkONE Productions: Gallery, Music, and Spooky Movies | Builiding 5\nSt. Mark\u2019s Comics: $1 Comics Weekend + Kids Costume Contest | Building 5\nPowerhouse Books: Spooky Storytime (12PM), Bump in the Night (2PM), and Halloween Party (3PM) | Building 2\nOriginal Tin: Photo Pop-Up | Courtyard 3/4\nBurger Joint: Halloween Party | Building 2 | 6PM-11PM\nFort Hamilton: Costume Contest | Building 6 | 8PM\nBitter Monk: Spooky Cocktails + All Day Happy Hour | Building 6\nDesign Within Reach: \u201cPick a Treat\u201d Promo, Giveaways, and Suprise Offers | Building 3",
       "extraction_method": "api",
       "vendor": "Trick-or-Treat at Industry City",
       "location": "Industry City"
@@ -548,7 +483,7 @@
     },
     {
       "date": "2026-11-01T00:00:00",
-      "title": "(CLASS) Cemetery Symbols & Secrets from New York's City of the Dead",
+      "title": "*CANCELLED* (CLASS) Cemetery Symbols & Secrets",
       "venue": "Union Hall",
       "start_time": null,
       "end_time": null,
@@ -556,7 +491,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "(CLASS) Cemetery Symbols & Secrets from New York's City of the Dead",
+      "vendor": "*CANCELLED* (CLASS) Cemetery Symbols & Secrets",
       "location": "Union Hall"
     },
     {
@@ -768,6 +703,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-11-03T00:00:00",
+      "title": "Election Night Watch Party",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Election Night Watch Party",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-11-03T12:00:00+00:00",
       "title": "CLAY ONES OPEN MIC(Open mic)",
       "venue": "Young Ethel's",
@@ -860,7 +808,7 @@
     },
     {
       "date": "2026-11-04T20:00:00",
-      "title": "AACM NYC: Celebrating 61 Years of Creative Music with JD Parran & Spirit Stage 3 //  Adegoke Steve Colson and Iqua Colson",
+      "title": "AACM NYC: Celebrating 61 Years of Creative Music with Adegoke Steve Colson and Iqua Colson // JD Parran & Spirit Stage 3",
       "venue": "Roulette",
       "start_time": null,
       "end_time": null,
@@ -868,12 +816,38 @@
       "end_time_raw": null,
       "description": "One of the longest-standing musicians\u2019 associations in the United States celebrates 61 years of fostering creative music.",
       "extraction_method": "html",
-      "vendor": "AACM NYC: Celebrating 61 Years of Creative Music with JD Parran & Spirit Stage 3 //  Adegoke Steve Colson and Iqua Colson",
+      "vendor": "AACM NYC: Celebrating 61 Years of Creative Music with Adegoke Steve Colson and Iqua Colson // JD Parran & Spirit Stage 3",
+      "location": "Roulette"
+    },
+    {
+      "date": "2026-11-05T12:00:00+00:00",
+      "title": "THE YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-05T20:00:00",
+      "title": "Sahba Motallebi & Ensemble: Persian Music \u2013 an Evening of Solidarity and Harmony (RBA)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "\"Queen of the Tar\" performs solo and with ensemble for an evening that explores the rich traditions of Persian music.",
+      "extraction_method": "html",
+      "vendor": "Sahba Motallebi & Ensemble: Persian Music \u2013 an Evening of Solidarity and Harmony (RBA)",
       "location": "Roulette"
     }
   ],
-  "updated": "2026-10-28T10:15:58.661499+00:00",
-  "total_events": 67,
+  "updated": "2026-10-29T10:16:00.786285+00:00",
+  "total_events": 65,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
