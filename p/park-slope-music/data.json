@@ -1,110 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-02T00:00:00",
-      "title": "Frankenstein's Baby",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Frankenstein's Baby",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-02T00:00:00",
-      "title": "Peyton Ruddy",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Peyton Ruddy",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-02T10:00:00",
-      "title": "Sake Server Certification",
-      "venue": "Industry City",
-      "start_time": "10:00 AM ET",
-      "end_time": "5:00 PM ET",
-      "start_time_raw": "10:00 AM",
-      "end_time_raw": "5:00 PM",
-      "description": "This is a one day in person seminar from 10am to 5pm with a 1 hour lunch break.\nLevel up your service skills in sake! This one day sake training certification course will teach you all the ins and outs of proper service and sales for sake in your your restaurant or retail shop. There is no prerequisite and this course is open to anyone wishing to get training in professional service of sake. The course consists of four modules.\n1) Introduction to sake &amp; Brewery Tour\n2) sake sales techniques\n3) sake service and presentation\n4) sake menus and pairing\nAfter the one day training course in completed, you&#8217;ll have to option to complete an online course review and online exam within two weeks time. Upon successful completion of the review and exam, you&#8217;ll receive the Sake Studies Center &#8220;Sake Server Certification&#8221; diploma.\nAs a graduate of our professional Sake Server Certification, you&#8217;ll also have ongoing access to our free online sake community for the sake industry. Ask questions, and stay in touch with your fellow sake students and industry leaders.",
-      "extraction_method": "api",
-      "vendor": "Sake Server Certification",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-11-02T12:00:00+00:00",
-      "title": "TBA(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TBA(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-02T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-02T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-02T18:00:00-05:00",
-      "title": "6PM Weekday Open Mics @ Eastville Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
-      "extraction_method": "json-ld",
-      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-11-02T19:30:00-05:00",
-      "title": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
-      "venue": "Eastville Comedy Club",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "json-ld",
-      "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
-      "location": "Eastville Comedy Club"
-    },
-    {
       "date": "2026-11-03T00:00:00",
       "title": "Michael Longfellow",
       "venue": "Union Hall",
@@ -129,6 +25,19 @@
       "extraction_method": "html",
       "vendor": "Election Night Watch Party",
       "location": "Union Hall"
+    },
+    {
+      "date": "2026-11-03T09:00:00",
+      "title": "Gymnastics Day Camp",
+      "venue": "Industry City",
+      "start_time": "9:00 AM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "9:00 AM",
+      "end_time_raw": "3:00 PM",
+      "description": "Joy Gym&#8217;s mini camps provide structure while being entertaining and educational during time off from school. Throughout the day campers will participate in gymnastics classes, art time, cooperative movement and non-movement group games. Campers will have time for snacks and lunch which we ask guardians to provide. If weather and air quality permits a portion of the camp will be held outside in the courtyard.",
+      "extraction_method": "api",
+      "vendor": "Gymnastics Day Camp",
+      "location": "Industry City"
     },
     {
       "date": "2026-11-03T12:00:00+00:00",
@@ -181,6 +90,19 @@
       "extraction_method": "json-ld",
       "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-03T19:00:00",
+      "title": "Trivia Night At Fort Hamilton",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Trivia Tuesdays at Fort Hamilton!\nPut your knowledge to the test with new topics every week, prizes for the winners, and plenty of friendly competition. Free to play, so gather your team and join the fun every Tuesday!",
+      "extraction_method": "api",
+      "vendor": "Trivia Night At Fort Hamilton",
+      "location": "Industry City"
     },
     {
       "date": "2026-11-03T20:00:00-05:00",
@@ -443,6 +365,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-11-06T17:30:00",
+      "title": "Fiber Arts Meet Up &#038; Happy Hour hosted by @knitsbynb &#038; @studio.clementine",
+      "venue": "Industry City",
+      "start_time": "5:30 PM ET",
+      "end_time": "7:30 PM ET",
+      "start_time_raw": "5:30 PM",
+      "end_time_raw": "7:30 PM",
+      "description": "Hang out with fellow fiber artists &amp; enthusiasts for happy hour at Barrow\u2019s Intense NY Tasting Room with your fiber projects for a fun casual meet up and good vibes!\nAll fiber arts and portable crafts are welcome! Bring a friend or make new friend(s)!\nHosted by Nilufa from @knitsbynb and Niya from @studio.clementine.\nQuestions about the event? Email knitsbynb@gmail.com",
+      "extraction_method": "api",
+      "vendor": "Fiber Arts Meet Up &#038; Happy Hour hosted by @knitsbynb &#038; @studio.clementine",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-06T18:00:00-05:00",
       "title": "Sima Sepehri, Lauren Cocroft, Denham Demac, John Bennett, Colin Cab Washington, Janeane Garofalo",
       "venue": "Eastville Comedy Club",
@@ -479,6 +414,19 @@
       "description": "Exploring sake temperature and pairing \u2014 warm sake, done right, is a revelation.\nFor a long time, warm sake has gotten a bad rap! But it can be absolutely delicious when you pick the right sake and the right temperature. Join us for this exciting exploration of sake temperature and the joys of warming sake \u2014 the perfect way to explore the subtle umami and richness of premium sake.\nWe&#8217;ll contrast chilled sake with the same sake served warm, and enjoy carefully selected food pairings to round out the tasting flight. In all, we&#8217;ll taste five kinds of sake, each paired with a delicious bite to bring out the flavors and textures. As always, this class includes a behind-the-scenes brewery tour to see how sake is made at NY State&#8217;s first sake brewery.",
       "extraction_method": "api",
       "vendor": "Warm Sake Tasting Class and Brewery Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-06T19:30:00",
+      "title": "The Night Shift Comedy Show",
+      "venue": "Industry City",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Join us at Fort Hamilton Distillery for a night of big laughs and great pours. Catch NYC&#8217;s next wave of comedy talent &#8211; all in our tasting room.",
+      "extraction_method": "api",
+      "vendor": "The Night Shift Comedy Show",
       "location": "Industry City"
     },
     {
@@ -519,19 +467,6 @@
       "extraction_method": "html",
       "vendor": "BROOKLYN PLAYWRIGHTS CONNECT! NETWORKING MIXER(Mingle )",
       "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-06T21:45:00-05:00",
-      "title": "A Drunken Night Out",
-      "venue": "Eastville Comedy Club",
-      "start_time": "9:45 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:45 PM",
-      "end_time_raw": null,
-      "description": "This standup, storytelling and improv show started out in the Pacific Northwest, now has a home in Chicago and several other clubs around the country including Eastville!Welcome to A Drunken Night Out! Comedian Ken Hamlett of Chicago hosts a lineup of comics from all over the country as they discuss their worst drunken nights out, do standup, and eventually end the night and perform a set&hellip;not so sober with an additional catch. The comics will be forced to do improv on crowd sourced topics. It&#39;s part hangout, part show, part live podcast, and totally a fantastic time. It&#39;s not a comedy show, it&#39;s a Comedy Party!!!",
-      "extraction_method": "json-ld",
-      "vendor": "A Drunken Night Out",
-      "location": "Eastville Comedy Club"
     },
     {
       "date": "2026-11-06T23:30:00-05:00",
@@ -638,6 +573,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-11-07T12:00:00",
+      "title": "Arsenal Worldwide Fan Zone",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Arsenal Worldwide is coming to New York.\n\n\nOn Saturday 7th November, we\u2019re taking over Industry City, Brooklyn for our first-ever Arsenal Worldwide supporter event in the USA.\n\n\nJoin us and your fellow Gooners for a free, action-packed day celebrating The Arsenal:\n\n\n\nWatch Arsenal v Hull City live\nMeet Arsenal legend Santi Cazorla\nSee the Premier League trophy\nLook out for Gunnersaurus\nTake on football challenges and competitions\nExplore activations from Arsenal partners\nWin exclusive Arsenal prizes, from club merchandise to an all-expenses paid trip to Saint Lucia\nEnjoy food, drink and much more throughout the day\n\n\n\nAM: Warehouse Watch Party | 09:00-12:00 (SOLD OUT)\n\n\nJoin us in the morning as we welcome local Gooners for a live watch party as Arsenal take on Hull City (K.O. 10am ET).\n\n\nGrab your free Warehouse Party ticket while they last and join the red and white army as we bring N5 to NYC!\n\n\nDon\u2019t go anywhere after the final whistle. Stick around as the Fan Zone comes to life with live entertainment, activations, games, prizes and more.\n\n\nPM: Arsenal Worldwide | Fan Zone | 12:00-17:00\n\n\nNo Warehouse Watch Party ticket? No problem!\n\n\nAfter the final whistle, our doors are open to everyone. Join us for an afternoon of all things Arsenal, featuring Santi Cazorla, Gunnersaurus, the Premier League Trophy, live entertainment, football challenges, partner activations, prizes, giveaways and much more.",
+      "extraction_method": "api",
+      "vendor": "Arsenal Worldwide Fan Zone",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-07T14:00:00",
       "title": "Intro to Soldering &#038; Electronics",
       "venue": "Industry City",
@@ -739,6 +687,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "Gag Reflex: a sketch show",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-11-08T00:00:00",
+      "title": "Gabrielle Kennedy Presents Costume Party",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Gabrielle Kennedy Presents Costume Party",
       "location": "Union Hall"
     },
     {
@@ -872,6 +833,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-11-09T00:00:00",
+      "title": "Peyton Dix and Friends",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Peyton Dix and Friends",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-11-09T12:00:00+00:00",
       "title": "TBA(Music)",
       "venue": "Young Ethel's",
@@ -948,10 +922,88 @@
       "extraction_method": "json-ld",
       "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-10T12:00:00+00:00",
+      "title": "YOUNG ETHEL\u2019S POP CULTURE TRIVIA TIME MACHINE(Trivia)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 AM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 AM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "YOUNG ETHEL\u2019S POP CULTURE TRIVIA TIME MACHINE(Trivia)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-10T12:00:00+00:00",
+      "title": "CLAY ONES OPEN MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "CLAY ONES OPEN MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-10T18:00:00-05:00",
+      "title": "6PM Weekday Open Mics @ Eastville Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
+      "extraction_method": "json-ld",
+      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-10T19:00:00",
+      "title": "Spirited Away Psychic &#038; Paranormal Night Halloween Edition",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Join us for a magical fall evening of psychic mediumship, cheese readings, purse readings, aura photography, slow cooked sandwiches, wine tasting, and sooo much more.\nTuesday, November 10th, 7-11pm, @ Barrow&#8217;s Intense NY Tasting Room, Industry City, Brooklyn\nFOOD POP-UP by @better_than_porridge will be serving up slow cooked sandwiches.\nWINE TASTINGS by Sun Moon Rising Wine . Taste the zodiac!\n* CHEESE READINGS\n* PSYCHIC MEDIUMSHIP\n* TAROT READINGS\n* PALM READINGS\n* PORTRAITS\n* AKASHIC RECORDS READINGS\n* PENDULUMS FOR SALE\n* AURA PHOTOGRAPHY\n* CRYSTAL BALL READINGS\n* ASTROLOGY\n* ASTROCARTOGRAPHY\n* PURSE READINGS\n* SPIRIT GUIDE READINGS\n* ANCESTRAL READINGS\n* ANGEL READINGS\n* LOVE READINGS\n* LOVE COACHING\n* CAULDRON OF INTENTIONS\n* CRYSTAL ENERGY HEALING\n* ORACLE ANSWERS\n* CRAFT COCKTAILS\nThis event is free to attend, and the readers charge a range of prices $20-$50.\nBarrow&#8217;s Intense NY Tasting Room, Industry City Courtyard 5/6 86 34th St, Brooklyn, NY 11232",
+      "extraction_method": "api",
+      "vendor": "Spirited Away Psychic &#038; Paranormal Night Halloween Edition",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-10T20:00:00-05:00",
+      "title": "Tipsy Tuesday Showcase",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Tipsy Tuesday Showcase",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-10T21:30:00",
+      "title": "SONGWRITERS FOR GAZA(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SONGWRITERS FOR GAZA(Music)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-11-02T11:16:21.808459+00:00",
-  "total_events": 73,
+  "updated": "2026-11-03T11:15:44.235267+00:00",
+  "total_events": 77,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
