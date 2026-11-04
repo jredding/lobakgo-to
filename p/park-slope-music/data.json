@@ -1,136 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-03T00:00:00",
-      "title": "Michael Longfellow",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Michael Longfellow",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-03T00:00:00",
-      "title": "Election Night Watch Party",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Election Night Watch Party",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-03T09:00:00",
-      "title": "Gymnastics Day Camp",
-      "venue": "Industry City",
-      "start_time": "9:00 AM ET",
-      "end_time": "3:00 PM ET",
-      "start_time_raw": "9:00 AM",
-      "end_time_raw": "3:00 PM",
-      "description": "Joy Gym&#8217;s mini camps provide structure while being entertaining and educational during time off from school. Throughout the day campers will participate in gymnastics classes, art time, cooperative movement and non-movement group games. Campers will have time for snacks and lunch which we ask guardians to provide. If weather and air quality permits a portion of the camp will be held outside in the courtyard.",
-      "extraction_method": "api",
-      "vendor": "Gymnastics Day Camp",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-11-03T12:00:00+00:00",
-      "title": "CLAY ONES OPEN MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "CLAY ONES OPEN MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-03T12:00:00+00:00",
-      "title": "TBA IMPROV(Improv Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TBA IMPROV(Improv Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-03T12:00:00+00:00",
-      "title": "INSTANT RPG(Improv Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "INSTANT RPG(Improv Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-03T18:00:00-05:00",
-      "title": "6PM Weekday Open Mics @ Eastville Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
-      "extraction_method": "json-ld",
-      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-11-03T19:00:00",
-      "title": "Trivia Night At Fort Hamilton",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "Trivia Tuesdays at Fort Hamilton!\nPut your knowledge to the test with new topics every week, prizes for the winners, and plenty of friendly competition. Free to play, so gather your team and join the fun every Tuesday!",
-      "extraction_method": "api",
-      "vendor": "Trivia Night At Fort Hamilton",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-11-03T20:00:00-05:00",
-      "title": "Kareem Green, Dara Jemmott, Vishnu Vaka, Heidi Grandberry, Jamell Sirleaf, DJ Hairston",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "json-ld",
-      "vendor": "Kareem Green, Dara Jemmott, Vishnu Vaka, Heidi Grandberry, Jamell Sirleaf, DJ Hairston",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-11-03T20:00:00",
-      "title": "Cecilia Lopez\u2019s Filter Four // Melissa Almaguer",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "New quartet explores acoustic-electronic boundaries, opened with an immersive solo performance of experimental tap dancing.",
-      "extraction_method": "html",
-      "vendor": "Cecilia Lopez\u2019s Filter Four // Melissa Almaguer",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-11-04T00:00:00",
       "title": "Cold Plunge with Kurt Braunohler",
       "venue": "Union Hall",
@@ -194,6 +64,19 @@
       "extraction_method": "api",
       "vendor": "Brooklyn Creative Reuse Craft Club",
       "location": "Industry City"
+    },
+    {
+      "date": "2026-11-04T19:30:00",
+      "title": "LPR Presents: Las Migas",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Join Las Migas for a night of music at littlefield!",
+      "extraction_method": "api",
+      "vendor": "LPR Presents: Las Migas",
+      "location": "Littlefield"
     },
     {
       "date": "2026-11-04T19:30:00",
@@ -287,8 +170,21 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-11-05T20:00:00",
+      "title": "Once More, With Feeling: Live! 25th Anniversary Show",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Celebrate the 25th anniversary of the Buffy the Vampire Slayer musical episode with a full cast and live band!",
+      "extraction_method": "api",
+      "vendor": "Once More, With Feeling: Live! 25th Anniversary Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-11-05T20:00:00-05:00",
-      "title": "Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl, kyle mara",
+      "title": "Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl",
       "venue": "Eastville Comedy Club",
       "start_time": "8:00 PM ET",
       "end_time": null,
@@ -296,7 +192,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "json-ld",
-      "vendor": "Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl, kyle mara",
+      "vendor": "Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl",
       "location": "Eastville Comedy Club"
     },
     {
@@ -430,6 +326,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-06T20:00:00",
+      "title": "NY Comedy Festival Presents: Puter\u00eda con PAPIROSSA: Celebration of Life",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Celebration of Life is the 8th installment in the Puter\u00eda con PAPIROSSA series.",
+      "extraction_method": "api",
+      "vendor": "NY Comedy Festival Presents: Puter\u00eda con PAPIROSSA: Celebration of Life",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-11-06T20:00:00-05:00",
       "title": "Subhah Agarwal, James Mattern, Tom Zappia, Michael Agunbiade, Torrey Huggins, Jared Waters",
       "venue": "Eastville Comedy Club",
@@ -467,6 +376,32 @@
       "extraction_method": "html",
       "vendor": "BROOKLYN PLAYWRIGHTS CONNECT! NETWORKING MIXER(Mingle )",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-06T22:00:00-05:00",
+      "title": "Chris Brown, Peter Stewart, Cole Cosby, Kyle Wayne, Cesh Reyes",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Chris Brown, Peter Stewart, Cole Cosby, Kyle Wayne, Cesh Reyes",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-06T23:00:00",
+      "title": "AFROVRSE - NYC's Biggest Celebration of African Music",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "What's The Motive presents AFROVRSE - NYC's Biggest Celebration of African Music",
+      "extraction_method": "api",
+      "vendor": "AFROVRSE - NYC's Biggest Celebration of African Music",
+      "location": "Littlefield"
     },
     {
       "date": "2026-11-06T23:30:00-05:00",
@@ -534,6 +469,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-11-07T10:30:00",
+      "title": "Seashells In Color | Painting From Life In Oils",
+      "venue": "Industry City",
+      "start_time": "10:30 AM ET",
+      "end_time": "12:30 PM ET",
+      "start_time_raw": "10:30 AM",
+      "end_time_raw": "12:30 PM",
+      "description": "Discover how much color lives inside a seemingly simple shell.\nEach participant will have a real seashell to observe and paint from life. We\u2019ll begin by choosing an angle and arranging a simple composition, then explore how to translate its curves, subtle colors, and shadows into a small oil study.\nWith step-by-step demonstrations and individual guidance from artist Kristina Dubrovskaia, you\u2019ll practice mixing warm and cool tones, using light and shadow to create volume, and choosing which details to emphasize.\nThe focus is on learning to look closely and paint with greater confidence, while leaving room for your own expressive brushwork.\nAll painting materials and shells to work from are provided. Beginners and painters with some experience are welcome.",
+      "extraction_method": "api",
+      "vendor": "Seashells In Color | Painting From Life In Oils",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-07T12:00:00+00:00",
       "title": "A COMEDY SHOW FEATURING MATT KOFF TBA(Comedy)",
       "venue": "Young Ethel's",
@@ -596,6 +544,32 @@
       "description": "Learn the basics of soldering by building a working mini electronic piano from scratch. You\u2019ll learn how to identify components, make clean solder joints, and troubleshoot your circuit as you assemble your own instrument to take home. No electronics or soldering experience required.",
       "extraction_method": "api",
       "vendor": "Intro to Soldering &#038; Electronics",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-07T15:30:00",
+      "title": "Revolutionary Spirits Trolley Tour",
+      "venue": "Industry City",
+      "start_time": "3:30 PM ET",
+      "end_time": "6:30 PM ET",
+      "start_time_raw": "3:30 PM",
+      "end_time_raw": "6:30 PM",
+      "description": "Delve into the storied past of distilled spirits in Brooklyn with Fort Hamilton Distillery and our neighbors at Green-Wood Cemetery.",
+      "extraction_method": "api",
+      "vendor": "Revolutionary Spirits Trolley Tour",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-07T15:30:00",
+      "title": "Family Program: Paper Mosaics",
+      "venue": "Industry City",
+      "start_time": "3:30 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:30 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Join this fun and relaxing paper mosaic workshop. In this kids-friendly workshop, participants will use colorful paper to create vibrant images of animals and flowers. The process will help participants to unleash their creativity while building fine motor skills.\nMaterials Included\nAdults and Children 6+",
+      "extraction_method": "api",
+      "vendor": "Family Program: Paper Mosaics",
       "location": "Industry City"
     },
     {
@@ -781,6 +755,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-08T15:00:00",
+      "title": "NY Comedy Festival Presents: Hot Guy Draft: A Comedy Fantasy Draft",
+      "venue": "Littlefield",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:30 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:30 PM",
+      "description": "The 11th Annual Hot Guy Draft pits 4 comedians against each other in a fantasy draft of the hot guys of 2026.",
+      "extraction_method": "api",
+      "vendor": "NY Comedy Festival Presents: Hot Guy Draft: A Comedy Fantasy Draft",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-11-08T17:30:00",
       "title": "Sunday Sessions: Live Jazz &#038; Blues",
       "venue": "Industry City",
@@ -820,6 +807,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-08T19:30:00",
+      "title": "LPR Presents Trixie Whitley",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Come see artist Trixie Whitley at littlefield!",
+      "extraction_method": "api",
+      "vendor": "LPR Presents Trixie Whitley",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-11-08T19:30:00-05:00",
       "title": "No Cent Comedy",
       "venue": "Eastville Comedy Club",
@@ -843,6 +843,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "Peyton Dix and Friends",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-11-09T00:00:00",
+      "title": "Critical Grace Theory",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Critical Grace Theory",
       "location": "Union Hall"
     },
     {
@@ -911,6 +924,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-11-09T19:00:00",
+      "title": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "An hour-long comedy show full of songs, presentations, bits and surprises.",
+      "extraction_method": "api",
+      "vendor": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-11-09T19:30:00-05:00",
       "title": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
       "venue": "Eastville Comedy Club",
@@ -922,6 +948,32 @@
       "extraction_method": "json-ld",
       "vendor": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
       "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-09T21:30:00",
+      "title": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
+      "venue": "Littlefield",
+      "start_time": "9:30 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "9:30 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "An hour-long comedy show full of songs, presentations, bits and surprises.",
+      "extraction_method": "api",
+      "vendor": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-11-10T00:00:00",
+      "title": "PRETTY  MAJOR Hosted by Jay Jurden NYCF Edition",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "PRETTY  MAJOR Hosted by Jay Jurden NYCF Edition",
+      "location": "Union Hall"
     },
     {
       "date": "2026-11-10T12:00:00+00:00",
@@ -976,6 +1028,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-10T20:00:00",
+      "title": "NY Comedy Festival Presents: Tone and the Homies",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Featuring Ontonio Kareem. Simeon Goodson, Liza Treyger, Reggie Conquest, Marie Faustin, and, music from Kota the Friend",
+      "extraction_method": "api",
+      "vendor": "NY Comedy Festival Presents: Tone and the Homies",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-11-10T20:00:00-05:00",
       "title": "Tipsy Tuesday Showcase",
       "venue": "Eastville Comedy Club",
@@ -1000,17 +1065,106 @@
       "extraction_method": "html",
       "vendor": "SONGWRITERS FOR GAZA(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-11T09:00:00",
+      "title": "Gymnastics Day Camp",
+      "venue": "Industry City",
+      "start_time": "9:00 AM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "9:00 AM",
+      "end_time_raw": "3:00 PM",
+      "description": "Joy Gymnastics mini camps provide structure while being entertaining and educational during time off from school. Throughout the day campers will participate in gymnastics classes, art time, cooperative movement and non-movement group games. Campers will have time for snacks and lunch which we ask guardians to provide. If weather and air quality permits a portion of the camp will be held outside in the courtyard.",
+      "extraction_method": "api",
+      "vendor": "Gymnastics Day Camp",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-11T12:00:00+00:00",
+      "title": "NOT A PHASE III\u2014 AN EMOLESQUE FEST FUNDRAISER(Draglesque)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NOT A PHASE III\u2014 AN EMOLESQUE FEST FUNDRAISER(Draglesque)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-11T18:00:00-05:00",
+      "title": "6PM Weekday Open Mics @ Eastville Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
+      "extraction_method": "json-ld",
+      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-11T19:00:00",
+      "title": "PAGE BREAK Presents: STAGE BREAK",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Join us for a new edition of STAGE BREAK, the only reading series where EVERYONE reads.",
+      "extraction_method": "api",
+      "vendor": "PAGE BREAK Presents: STAGE BREAK",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-11-11T19:30:00",
+      "title": "WE HAVE FUN STANDUP BROUGHT TO YOU BY DAN AND ZACH(Standup )",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "WE HAVE FUN STANDUP BROUGHT TO YOU BY DAN AND ZACH(Standup )",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-11T20:00:00-05:00",
+      "title": "Wednesday Showcase",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Wednesday Showcase",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-11T20:00:00",
+      "title": "Matana Roberts Presents: \u201coff the record\u2026\u201d",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "A new live solo performance emerging from the world of the COIN COIN project moves between memory, imagination, and lived experience.",
+      "extraction_method": "html",
+      "vendor": "Matana Roberts Presents: \u201coff the record\u2026\u201d",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-11-03T11:15:44.235267+00:00",
-  "total_events": 77,
+  "updated": "2026-11-04T11:20:15.856081+00:00",
+  "total_events": 89,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
