@@ -1,123 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-04T00:00:00",
-      "title": "Cold Plunge with Kurt Braunohler",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Cold Plunge with Kurt Braunohler",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-04T00:00:00",
-      "title": "Holmes Street",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Holmes Street",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-04T12:00:00+00:00",
-      "title": "SON OF THE LINEUP(Variety)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "SON OF THE LINEUP(Variety)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-04T18:00:00-05:00",
-      "title": "6PM Weekday Open Mics @ Eastville Comedy",
-      "venue": "Eastville Comedy Club",
-      "start_time": "6:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": null,
-      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
-      "extraction_method": "json-ld",
-      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-11-04T18:00:00",
-      "title": "Brooklyn Creative Reuse Craft Club",
-      "venue": "Industry City",
-      "start_time": "6:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "6:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Join us for the inaugural meeting of the Brooklyn Creative Reuse Craft Club! Bring your own project to work on, make a gorgeous collage, or peruse some of BCR\u2019s fabulous materials and get inspired to start something new!",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Creative Reuse Craft Club",
-      "location": "Industry City"
-    },
-    {
-      "date": "2026-11-04T19:30:00",
-      "title": "LPR Presents: Las Migas",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Join Las Migas for a night of music at littlefield!",
-      "extraction_method": "api",
-      "vendor": "LPR Presents: Las Migas",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-11-04T19:30:00",
-      "title": "WE HAVE FUN STANDUP BROUGHT TO YOU BY DAN AND ZACH(Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STANDUP BROUGHT TO YOU BY DAN AND ZACH(Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-04T20:00:00-05:00",
-      "title": "Kyle Wayne, Alfonso Hernandez, Michael Agunbiade, John Bennett, Cesh Reyes",
-      "venue": "Eastville Comedy Club",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "json-ld",
-      "vendor": "Kyle Wayne, Alfonso Hernandez, Michael Agunbiade, John Bennett, Cesh Reyes",
-      "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-11-04T20:00:00",
-      "title": "AACM NYC: Celebrating 61 Years of Creative Music with Adegoke Steve Colson and Iqua Colson // JD Parran & Spirit Stage 3",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "One of the longest-standing musicians\u2019 associations in the United States celebrates 61 years of fostering creative music.",
-      "extraction_method": "html",
-      "vendor": "AACM NYC: Celebrating 61 Years of Creative Music with Adegoke Steve Colson and Iqua Colson // JD Parran & Spirit Stage 3",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-11-05T00:00:00",
       "title": "Nori Reed: Nori Is Present LIVE at Union Hall",
       "venue": "Union Hall",
@@ -132,7 +15,7 @@
     },
     {
       "date": "2026-11-05T00:00:00",
-      "title": "Jessie \"Jetski\" Johnson",
+      "title": "Jessie \"Jetski\" Johnson and Friends",
       "venue": "Union Hall",
       "start_time": null,
       "end_time": null,
@@ -140,7 +23,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "Jessie \"Jetski\" Johnson",
+      "vendor": "Jessie \"Jetski\" Johnson and Friends",
       "location": "Union Hall"
     },
     {
@@ -168,19 +51,6 @@
       "extraction_method": "json-ld",
       "vendor": "The Closed Mic Amateur Show Featuring Whitney Chanel",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-11-05T20:00:00",
-      "title": "Once More, With Feeling: Live! 25th Anniversary Show",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Celebrate the 25th anniversary of the Buffy the Vampire Slayer musical episode with a full cast and live band!",
-      "extraction_method": "api",
-      "vendor": "Once More, With Feeling: Live! 25th Anniversary Show",
-      "location": "Littlefield"
     },
     {
       "date": "2026-11-05T20:00:00-05:00",
@@ -326,19 +196,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-11-06T20:00:00",
-      "title": "NY Comedy Festival Presents: Puter\u00eda con PAPIROSSA: Celebration of Life",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Celebration of Life is the 8th installment in the Puter\u00eda con PAPIROSSA series.",
-      "extraction_method": "api",
-      "vendor": "NY Comedy Festival Presents: Puter\u00eda con PAPIROSSA: Celebration of Life",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-11-06T20:00:00-05:00",
       "title": "Subhah Agarwal, James Mattern, Tom Zappia, Michael Agunbiade, Torrey Huggins, Jared Waters",
       "venue": "Eastville Comedy Club",
@@ -389,19 +246,6 @@
       "extraction_method": "json-ld",
       "vendor": "Chris Brown, Peter Stewart, Cole Cosby, Kyle Wayne, Cesh Reyes",
       "location": "Eastville Comedy Club"
-    },
-    {
-      "date": "2026-11-06T23:00:00",
-      "title": "AFROVRSE - NYC's Biggest Celebration of African Music",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "What's The Motive presents AFROVRSE - NYC's Biggest Celebration of African Music",
-      "extraction_method": "api",
-      "vendor": "AFROVRSE - NYC's Biggest Celebration of African Music",
-      "location": "Littlefield"
     },
     {
       "date": "2026-11-06T23:30:00-05:00",
@@ -651,6 +495,19 @@
       "location": "Eastville Comedy Club"
     },
     {
+      "date": "2026-11-07T23:30:00-05:00",
+      "title": "LATE NIGHT AMATEUR SHOW HOSTED BY AVERY MASON",
+      "venue": "Eastville Comedy Club",
+      "start_time": "11:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "11:30 PM",
+      "end_time_raw": null,
+      "description": "THE CLOSED MIC &ndash; AMATEUR COMEDY SHOWThis isn&rsquo;t your average open mic&mdash;it&rsquo;s an exclusive, curated comedy showcase designed for up-and-coming comedians ready to test fresh material in front of a live audience.ONLY 10 ONLINE SIGN-UP SPOTS AVAILABLE!For just $7, each selected performer receives 5 minutes of stage time. Spots are limited and available online only, so sign up now to secure your place in the lineup.All performers must register in advance. No walk-ins or in-person sign-ups will be accepted.With a featured host, a carefully selected lineup, and the energy of a real comedy show, The Closed Mic gives performers the chance to take the stage, connect with an audience, and make their material stand out.Limited spots. Curated lineup. 5 minutes of stage time. Sign up now before all 10 spots are gone!",
+      "extraction_method": "json-ld",
+      "vendor": "LATE NIGHT AMATEUR SHOW HOSTED BY AVERY MASON",
+      "location": "Eastville Comedy Club"
+    },
+    {
       "date": "2026-11-08T00:00:00",
       "title": "Gag Reflex: a sketch show",
       "venue": "Union Hall",
@@ -755,19 +612,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-11-08T15:00:00",
-      "title": "NY Comedy Festival Presents: Hot Guy Draft: A Comedy Fantasy Draft",
-      "venue": "Littlefield",
-      "start_time": "3:00 PM ET",
-      "end_time": "4:30 PM ET",
-      "start_time_raw": "3:00 PM",
-      "end_time_raw": "4:30 PM",
-      "description": "The 11th Annual Hot Guy Draft pits 4 comedians against each other in a fantasy draft of the hot guys of 2026.",
-      "extraction_method": "api",
-      "vendor": "NY Comedy Festival Presents: Hot Guy Draft: A Comedy Fantasy Draft",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-11-08T17:30:00",
       "title": "Sunday Sessions: Live Jazz &#038; Blues",
       "venue": "Industry City",
@@ -805,19 +649,6 @@
       "extraction_method": "api",
       "vendor": "Self-Congratulatory Badge Workshop",
       "location": "Industry City"
-    },
-    {
-      "date": "2026-11-08T19:30:00",
-      "title": "LPR Presents Trixie Whitley",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Come see artist Trixie Whitley at littlefield!",
-      "extraction_method": "api",
-      "vendor": "LPR Presents Trixie Whitley",
-      "location": "Littlefield"
     },
     {
       "date": "2026-11-08T19:30:00-05:00",
@@ -924,19 +755,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-11-09T19:00:00",
-      "title": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "8:30 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "8:30 PM",
-      "description": "An hour-long comedy show full of songs, presentations, bits and surprises.",
-      "extraction_method": "api",
-      "vendor": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-11-09T19:30:00-05:00",
       "title": "Brooklyn Power Hour NOW ON A NEW NIGHT!",
       "venue": "Eastville Comedy Club",
@@ -950,19 +768,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-11-09T21:30:00",
-      "title": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
-      "venue": "Littlefield",
-      "start_time": "9:30 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "9:30 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "An hour-long comedy show full of songs, presentations, bits and surprises.",
-      "extraction_method": "api",
-      "vendor": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-11-10T00:00:00",
       "title": "PRETTY  MAJOR Hosted by Jay Jurden NYCF Edition",
       "venue": "Union Hall",
@@ -973,6 +778,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "PRETTY  MAJOR Hosted by Jay Jurden NYCF Edition",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-11-10T00:00:00",
+      "title": "Eddie Pepitone Headlining Union Hall",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Eddie Pepitone Headlining Union Hall",
       "location": "Union Hall"
     },
     {
@@ -1028,19 +846,6 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-11-10T20:00:00",
-      "title": "NY Comedy Festival Presents: Tone and the Homies",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Featuring Ontonio Kareem. Simeon Goodson, Liza Treyger, Reggie Conquest, Marie Faustin, and, music from Kota the Friend",
-      "extraction_method": "api",
-      "vendor": "NY Comedy Festival Presents: Tone and the Homies",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-11-10T20:00:00-05:00",
       "title": "Tipsy Tuesday Showcase",
       "venue": "Eastville Comedy Club",
@@ -1065,6 +870,19 @@
       "extraction_method": "html",
       "vendor": "SONGWRITERS FOR GAZA(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-11T00:00:00",
+      "title": "Maddy Kelly",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Maddy Kelly",
+      "location": "Union Hall"
     },
     {
       "date": "2026-11-11T09:00:00",
@@ -1106,19 +924,6 @@
       "location": "Eastville Comedy Club"
     },
     {
-      "date": "2026-11-11T19:00:00",
-      "title": "PAGE BREAK Presents: STAGE BREAK",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Join us for a new edition of STAGE BREAK, the only reading series where EVERYONE reads.",
-      "extraction_method": "api",
-      "vendor": "PAGE BREAK Presents: STAGE BREAK",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-11-11T19:30:00",
       "title": "WE HAVE FUN STANDUP BROUGHT TO YOU BY DAN AND ZACH(Standup )",
       "venue": "Young Ethel's",
@@ -1156,15 +961,82 @@
       "extraction_method": "html",
       "vendor": "Matana Roberts Presents: \u201coff the record\u2026\u201d",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-11-12T12:00:00+00:00",
+      "title": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT! THIS MONTHS FORM: THE MONOSCENE(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT! THIS MONTHS FORM: THE MONOSCENE(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-12T18:00:00-05:00",
+      "title": "6PM Weekday Open Mics @ Eastville Comedy",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "EASTVILLE OPEN MICFor the curious, the dedicated, and anyone who wants to see comedy before it&rsquo;s polished.Eastville&rsquo;s Open Mic is where you get to see the next generation of comedians develop their voices, test new ideas, take risks, and polish material in its rawest form. Some jokes will hit. Some won&rsquo;t. That&rsquo;s the point.You&rsquo;re getting an unfiltered look at the process of becoming a comedian&mdash;and you might just catch someone before they become the next big thing.&nbsp;Tickets are only $10Your ticket includes admission to the show plus your choice of one free soda, popcorn, or snack.Come for the cheap ticket. Stay for the comedy. Leave knowing you might have seen somebody before everybody else did.For the curious. For the comedy heads. For the people who like to say, &ldquo;I saw them when&hellip;&rdquo;",
+      "extraction_method": "json-ld",
+      "vendor": "6PM Weekday Open Mics @ Eastville Comedy",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-12T18:00:00-05:00",
+      "title": "The Closed Mic Amateur Show Featuring Whitney Chanel",
+      "venue": "Eastville Comedy Club",
+      "start_time": "6:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": null,
+      "description": "THE CLOSED MIC &ndash; AMATEUR COMEDY SHOWThis isn&rsquo;t your average open mic&mdash;it&rsquo;s an exclusive, curated comedy showcase designed for up-and-coming comedians ready to test fresh material in front of a live audience.ONLY 10 ONLINE SIGN-UP SPOTS AVAILABLE!For just $7, each selected performer receives 5 minutes of stage time. Spots are limited and available online only, so sign up now to secure your place in the lineup.All performers must register in advance. No walk-ins or in-person sign-ups will be accepted.With a featured host, a carefully selected lineup, and the energy of a real comedy show, The Closed Mic gives performers the chance to take the stage, connect with an audience, and make their material stand out.Limited spots. Curated lineup. 5 minutes of stage time. Sign up now before all 10 spots are gone!",
+      "extraction_method": "json-ld",
+      "vendor": "The Closed Mic Amateur Show Featuring Whitney Chanel",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-12T20:00:00-05:00",
+      "title": "Thursday Showcase",
+      "venue": "Eastville Comedy Club",
+      "start_time": "8:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "json-ld",
+      "vendor": "Thursday Showcase",
+      "location": "Eastville Comedy Club"
+    },
+    {
+      "date": "2026-11-12T22:00:00-05:00",
+      "title": "\"Talkin' Bout Practice\"",
+      "venue": "Eastville Comedy Club",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": "A new material comedy show where franchise players work on their game.Are you a real comedy fan? Come see how jokes are made as NYC&#39;s best comedians workshop their newest material in a show that celebrates the practice makes perfect mindset.",
+      "extraction_method": "json-ld",
+      "vendor": "\"Talkin' Bout Practice\"",
+      "location": "Eastville Comedy Club"
     }
   ],
-  "updated": "2026-11-04T11:20:15.856081+00:00",
-  "total_events": 89,
+  "updated": "2026-11-05T11:15:35.030763+00:00",
+  "total_events": 79,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
