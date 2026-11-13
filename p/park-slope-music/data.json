@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-12T00:00:00",
-      "title": "Sienna Hubert-Ross & Friends",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Sienna Hubert-Ross & Friends",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-12T00:00:00",
-      "title": "Extremely Loud and Incredibly Cute",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Extremely Loud and Incredibly Cute",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-12T12:00:00+00:00",
-      "title": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT! THIS MONTHS FORM: THE MONOSCENE(Improv Comedy)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT! THIS MONTHS FORM: THE MONOSCENE(Improv Comedy)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-11-13T00:00:00",
       "title": "Jake Lambert Live in New York",
       "venue": "Union Hall",
@@ -196,6 +157,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-14T10:00:00",
+      "title": "A Current Affair: Pop Up Vintage Marketplace",
+      "venue": "Industry City",
+      "start_time": "10:00 AM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "10:00 AM",
+      "end_time_raw": "5:00 PM",
+      "description": "The best vintage on the planet is back in Brooklyn November 14+15!\n\n\n\n\nShop the best vintage on the planet when A Current Affair returns to Brooklyn! Bringing together over 70 premier vintage retailers and private dealers from both coasts and beyond, A Current Affair presents the best vintage clothing, accessories, and jewelry under one roof. Join us November 14+15 in the stunning Box Factory at Brooklyn&#8217;s hub for creativity at Industry City.\nFOLLOW US @ACURRENTAFFAIR FOR UPDATES!\nShow hours are Saturday, November 14, and Sunday, November 15 from 12-5 pm, with a preview admission ticket granting early shopping access at 10 am on Saturday. The Weekend Pass offers the opportunity to shop both days as well as access to the preview hours. Tickets are available in advance or at the door. Your General Admission ticket is good for either day.\nJoin us at our location at Industry City in Brooklyn at 51 34th Street. Easily accessible using the D,N,R trains (exit at 36th and walk towards 2nd Ave). Follow along at #ACAinBK for a preview of what you&#8217;ll find at the show.\nChristened a &#8220;cult shopping event&#8221; by Vogue, A Current Affair is a major source for stylists, designers, and anyone in search of one of a kind vintage ranging from perfectly worn-in jeans to rare and collectible designer vintage. Shop an array of vintage clothing, accessories, and jewelry from the Victorian Era through today.",
+      "extraction_method": "api",
+      "vendor": "A Current Affair: Pop Up Vintage Marketplace",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-14T10:30:00",
       "title": "Faces In Color | An Oil Portrait Workshop",
       "venue": "Industry City",
@@ -261,6 +235,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-14T12:00:00",
+      "title": "Engraving Service for Japanese Chopsticks @IPPIN Project",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Don&#8217;t miss the opportunity to personalize the Wakasa chopsticks at IPPIN Project!\nIPPIN Project, in partnership with a Japanese Wakasa chopstick maker in Fukui, offers the chopstick engraving service again this year for a limited time!\nIf you&#8217;re considering a special gift for the upcoming holiday season, check it out and apply in-store or by email ASAP!!\n*In Japanese culture, it&#8217;s traditional for each family member to have their own set of chopsticks, which they don&#8217;t share with others. For this reason, Japanese chopsticks come in various colors, patterns, and designs to distinguish one&#8217;s own. Even today, personalized chopsticks are popular gifts in Japan.\nOrder Period: November 1 to November 15\nAvailable for pickup from early December\nStore Location: Maker&#8217;s Guild at Building 5\nEmail: contract@ippinproject.com",
+      "extraction_method": "api",
+      "vendor": "Engraving Service for Japanese Chopsticks @IPPIN Project",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-14T13:00:00",
       "title": "Triple Canopy Symposium 2026 (Day 2)",
       "venue": "Roulette",
@@ -272,6 +259,19 @@
       "extraction_method": "html",
       "vendor": "Triple Canopy Symposium 2026 (Day 2)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-11-14T15:30:00",
+      "title": "Paper Weaving Workshop",
+      "venue": "Industry City",
+      "start_time": "3:30 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "3:30 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Join us for a relaxing, hands-on paper weaving workshop. Once the participants learn the basic over-and-under weaving techniques, they will explore how to turn simple colorful paper strips into unique works of art.\nMaterials Included",
+      "extraction_method": "api",
+      "vendor": "Paper Weaving Workshop",
+      "location": "Industry City"
     },
     {
       "date": "2026-11-14T16:30:00",
@@ -391,6 +391,58 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-11-15T12:00:00",
+      "title": "Engraving Service for Japanese Chopsticks @IPPIN Project",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Don&#8217;t miss the opportunity to personalize the Wakasa chopsticks at IPPIN Project!\nIPPIN Project, in partnership with a Japanese Wakasa chopstick maker in Fukui, offers the chopstick engraving service again this year for a limited time!\nIf you&#8217;re considering a special gift for the upcoming holiday season, check it out and apply in-store or by email ASAP!!\n*In Japanese culture, it&#8217;s traditional for each family member to have their own set of chopsticks, which they don&#8217;t share with others. For this reason, Japanese chopsticks come in various colors, patterns, and designs to distinguish one&#8217;s own. Even today, personalized chopsticks are popular gifts in Japan.\nOrder Period: November 1 to November 15\nAvailable for pickup from early December\nStore Location: Maker&#8217;s Guild at Building 5\nEmail: contract@ippinproject.com",
+      "extraction_method": "api",
+      "vendor": "Engraving Service for Japanese Chopsticks @IPPIN Project",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-15T12:00:00",
+      "title": "A Current Affair: Pop Up Vintage Marketplace",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "The best vintage on the planet is back in Brooklyn November 14+15!\n\n\n\n\nShop the best vintage on the planet when A Current Affair returns to Brooklyn! Bringing together over 70 premier vintage retailers and private dealers from both coasts and beyond, A Current Affair presents the best vintage clothing, accessories, and jewelry under one roof. Join us November 14+15 in the stunning Box Factory at Brooklyn&#8217;s hub for creativity at Industry City.\nFOLLOW US @ACURRENTAFFAIR FOR UPDATES!\nShow hours are Saturday, November 14, and Sunday, November 15 from 12-5 pm, with a preview admission ticket granting early shopping access at 10 am on Saturday. The Weekend Pass offers the opportunity to shop both days as well as access to the preview hours. Tickets are available in advance or at the door. Your General Admission ticket is good for either day.\nJoin us at our location at Industry City in Brooklyn at 51 34th Street. Easily accessible using the D,N,R trains (exit at 36th and walk towards 2nd Ave). Follow along at #ACAinBK for a preview of what you&#8217;ll find at the show.\nChristened a &#8220;cult shopping event&#8221; by Vogue, A Current Affair is a major source for stylists, designers, and anyone in search of one of a kind vintage ranging from perfectly worn-in jeans to rare and collectible designer vintage. Shop an array of vintage clothing, accessories, and jewelry from the Victorian Era through today.",
+      "extraction_method": "api",
+      "vendor": "A Current Affair: Pop Up Vintage Marketplace",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-15T12:30:00",
+      "title": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "1:30 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "1:30 PM",
+      "description": "Join our Resin Craft Accessary Workshop by little bloomtale hosted by Kajiha!\nDiscover the art of resin crafting and make your own beautiful jewelry pieces filled with our dried flowers.\nIn this hands-on, relaxing workshop, you\u2019ll design and create your very own resin accessories\u2014now with even more options to choose from, including necklaces, earrings, bracelets, and keychains (with more to come).\n\u2022 All materials provided\n\u2022 Perfect for beginners and craft lovers alike\n\u2022 Take home your own handmade accessory\nLet your creativity bloom and craft something truly special with us!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Craft Workshop: Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-15T14:00:00",
+      "title": "Barrel Age Your Own Sake \u2014 A Brooklyn Kura Workshop Class",
+      "venue": "Industry City",
+      "start_time": "2:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "2:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Skill Level : Beginner-friendly, no coopering or sake knowledge required.\nWhat You\u2019ll Be Making : A handmade oak barrel, suitable for aging your own sake or shochu. The barrel will hold approximately 2 liters of liquid.\nWhat You\u2019ll Be Doing: You\u2019ll assemble, shape, char, and personalize your barrel before filling it with a sake or shochu hand-picked by Brooklyn Kura for aging.\nWhat\u2019s Included? All barrel-making materials and tools, guided sake and shochu tasting flight, take your barrel home the same day\nWhat To Expect\nRight next door in Industry City, a small team is brewing junmai sake with some of the cleanest tap water in the country. Spend an afternoon with them and you\u2019ll leave with two things: a handmade oak barrel built stave by stave with your own hands, and a palate for sake you didn\u2019t have when you walked in. Char the inside with a torch, seat the heads, brand it with your initials \u2014 then fill it with something Brooklyn Kura hand-picked just for aging.\nWhat You\u2019ll Create\nA functional 2-liter oak barrel, coopered from scratch \u2014 same craft, same tools, same afternoon of assembling staves and hoops, cutting crozes on the router table, and charring the interior until it\u2019s ready for spirits. This time, what goes in it isn\u2019t whiskey. It\u2019s rice, koji, yeast, and water, aged into something you helped choose.\nThe Tasting Flight\nA sake expert from Brooklyn Kura walks you through a flight of three sakes and a shochu, all brewed or distilled right here in Industry City, all selected because they take well to a little time in wood. The lineup changes with the seasons, but here\u2019s what\u2019s been on the table:\n**Grand Prairie \u2014 a Junmai Ginjo built around white peach, jasmine, and toasted rice.\n**Occidental \u2014 a dry-hopped Junmai, bringing out lychee, grapefruit, and cherry that age into deeper dried-fruit notes. Tidal \u2014 a fuller-bodied\n**Junmai, all steamed rice, apple, and cereal bran.\n**Kura Shochu \u2014 distilled from the leftover sake lees, rich with fig and custard and a rice umami built for barrel aging.\nWhat Sake and Shochu Actually Are\nBrooklyn Kura brews junmai-style sake \u2014 no additives, just four ingredients doing all the work. Rice sets the structure; the strain and how far it\u2019s polished shape the flavor before brewing even starts. Koji, the fungus that turns starch to sugar, decides how sweet and umami-forward or light and aromatic the sake ends up. Yeast supplies the fruit, flower, and herb notes, which is why a batch often blends more than one strain. And water \u2014 helped along by some of the purest tap water in the country \u2014 is what makes the whole thing clean and crisp instead of muddy.\nShochu takes a different road. Where sake is brewed like wine or beer, shochu is distilled like whiskey or vodka. Kura starts with kasu, the leftover lees from sake-making, re-ferments it with a shochu-specific koji, and distills it into something rich and complex \u2014 closer to a young rice whiskey than anything else, and exactly the kind of spirit that rewards time in a barrel.\nFinishing the Night at Kura\nYour barrel\u2019s made, your glass is empty \u2014 Brooklyn Kura is a short walk across Industry City, and your Craftsman Ave ticket gets you a discount on sake or shochu to take home and age. They\u2019ve got a full kitchen too: mac and cheese, little smoky sausages, house-made focaccia. Good reason to stay a while longer.",
+      "extraction_method": "api",
+      "vendor": "Barrel Age Your Own Sake \u2014 A Brooklyn Kura Workshop Class",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-15T16:00:00",
       "title": "Sake Tasting Event: Sake and Cheese Pairing Class and Brewery Tour",
       "venue": "Industry City",
@@ -404,6 +456,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-15T17:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "5:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Welcome to Brooklyn Kura! Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery.",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-15T17:30:00",
       "title": "Sunday Sessions: Live Jazz &#038; Blues",
       "venue": "Industry City",
@@ -414,6 +479,19 @@
       "description": "\ud83c\udfb7 Live Jazz &amp; Blues at Fort Hamilton \ud83e\udd43\nLive music, great cocktails, and the perfect way to spend your Sunday evening.\n\ud83c\udf78 Cocktails, mocktails, beer and wine available at the bar.",
       "extraction_method": "api",
       "vendor": "Sunday Sessions: Live Jazz &#038; Blues",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-15T18:00:00",
+      "title": "Braided Keychains at Brooklyn Creative Reuse",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Braid, knot, and bead with rescued materials in this hands-on keychain workshop \ud83c\udfa8. You\u2019ll learn simple braiding techniques while turning secondhand cords, fibers, and trims into something useful you can carry every day.",
+      "extraction_method": "api",
+      "vendor": "Braided Keychains at Brooklyn Creative Reuse",
       "location": "Industry City"
     },
     {
@@ -560,6 +638,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-11-17T19:00:00",
+      "title": "Brooklyn Books &#038; Booze Reading Series at Barrow&#8217;s Intense",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "9:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "9:00 PM",
+      "description": "Brooklyn Books &amp; Booze&#8217;s monthly reading series returns Tuesday, November 17 at 7pm at Barrow&#8217;s Intense in Industry City! Join award-winning authors who&#8217;ll be reading from their recent works: Karen Heuler, Kirsten Kaschock, Justine Manzano, and Meryl Branch-McTiernan, along with host/author Randee Dawn for an evening of sips, stories, and a salon-like atmosphere.",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Books &#038; Booze Reading Series at Barrow&#8217;s Intense",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-18T00:00:00",
       "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
       "venue": "Union Hall",
@@ -570,6 +661,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-11-18T00:00:00",
+      "title": "Hotel Art Thief",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Hotel Art Thief",
       "location": "Union Hall"
     },
     {
@@ -625,6 +729,19 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-11-19T00:00:00",
+      "title": "DELIADELIA! CURSED!",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "DELIADELIA! CURSED!",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-11-19T12:00:00+00:00",
       "title": "MAGIC AND MENTALISM(Magic)",
       "venue": "Young Ethel's",
@@ -662,10 +779,88 @@
       "extraction_method": "html",
       "vendor": "Breaks: A Solo Performance by Jessica Cook (Night 1)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-11-20T12:00:00+00:00",
+      "title": "SAD SONG HAPPY HOUR(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SAD SONG HAPPY HOUR(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-20T12:00:00+00:00",
+      "title": "SMALL CLAIMS(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "7:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "SMALL CLAIMS(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-20T12:00:00+00:00",
+      "title": "ELM SUN// SEDIMENT// BURNING WIZARD(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "ELM SUN// SEDIMENT// BURNING WIZARD(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-20T18:00:00",
+      "title": "Guided Brewery Tour and Sake Tasting",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "7:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "7:00 PM",
+      "description": "Welcome to Brooklyn Kura! Join us for a tour of our state-of-the-art sake brewery in Industry City, Brooklyn. See first hand how we turn rice and water into delicious Brooklyn-made premium craft sake. Led by our expert brewery staff, this experience will walk you through our production facility and allow you to take in the sights, sounds and delicious smells of New York&#8217;s premier sake brewery.",
+      "extraction_method": "api",
+      "vendor": "Guided Brewery Tour and Sake Tasting",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-20T19:30:00",
+      "title": "Plain Slice Comedy Show",
+      "venue": "Industry City",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Join Fort Hamilton Distillery for Plain Slice Comedy. This show features some of New York&#8217;s best comics and rising talents.",
+      "extraction_method": "api",
+      "vendor": "Plain Slice Comedy Show",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-20T20:00:00",
+      "title": "Breaks: A Solo Performance by Jessica Cook (Night 2)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Choreographer explores nonsense-making through fragmentation, the compression of sound, and movement scores for her Roulette Commission.",
+      "extraction_method": "html",
+      "vendor": "Breaks: A Solo Performance by Jessica Cook (Night 2)",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-11-12T11:15:38.022722+00:00",
-  "total_events": 51,
+  "updated": "2026-11-13T11:17:03.591028+00:00",
+  "total_events": 66,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
