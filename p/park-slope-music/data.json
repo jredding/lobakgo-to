@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-16T00:00:00",
-      "title": "Sean Patton: Eros",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Sean Patton: Eros",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-16T00:00:00",
-      "title": "Michael Longfellow",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Michael Longfellow",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-16T12:00:00+00:00",
-      "title": "BROOKLYN SINGER/SONGWRITER NIGHT FEAT MARIE MARUSH// DANIEL J MORROW// DAVID NEWMAN(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "8:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "BROOKLYN SINGER/SONGWRITER NIGHT FEAT MARIE MARUSH// DANIEL J MORROW// DAVID NEWMAN(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-16T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-16T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-11-17T00:00:00",
       "title": "Frankenstein's Baby",
       "venue": "Union Hall",
@@ -379,6 +314,19 @@
     },
     {
       "date": "2026-11-20T20:00:00",
+      "title": "Salsa &#038; Cocktails @ Standard Wormwood",
+      "venue": "Industry City",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Latin vibes and cocktails at Standard Wormwood \u2013 Salsa, Merengue, Bachata, Cumbia and more with DJ Torres @dj_torres_bk",
+      "extraction_method": "api",
+      "vendor": "Salsa &#038; Cocktails @ Standard Wormwood",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-20T20:00:00",
       "title": "Breaks: A Solo Performance by Jessica Cook (Night 2)",
       "venue": "Roulette",
       "start_time": null,
@@ -443,6 +391,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-11-21T10:30:00",
+      "title": "Studies in Light Light, Shadow &#038; Atmosphere",
+      "venue": "Industry City",
+      "start_time": "10:30 AM ET",
+      "end_time": "12:30 PM ET",
+      "start_time_raw": "10:30 AM",
+      "end_time_raw": "12:30 PM",
+      "description": "Paint from a still-life reference with step-by-step guidance. Explore light, shadow, and how to capture different materials, including glass and metal.In this welcoming oil painting workshop, artist Kristina Dubrovskaia will guide you through a still-life study, exploring how warm highlights, cool shadows, and subtle color shifts create depth and atmosphere.\nYou\u2019ll learn to simplify what you see, mix colors thoughtfully, and build form with expressive brushstrokes. We\u2019ll focus on capturing the feeling of light without getting lost in tiny details, leaving room for your own interpretation.\nWhether you\u2019re trying oils for the first time or returning to painting, you\u2019ll receive step-by-step guidance in a relaxed, supportive setting.\nSpend a Saturday morning slowing down, looking closely, and enjoying the process of painting.\nAll materials provided\nReserve your spot and explore painting with us.",
+      "extraction_method": "api",
+      "vendor": "Studies in Light Light, Shadow &#038; Atmosphere",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-21T11:00:00",
       "title": "Markets for Makers Brooklyn Holiday Market",
       "venue": "Industry City",
@@ -495,6 +456,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-11-21T13:00:00",
+      "title": "Lebanese Olive Oil Tasting at Sahadi&#8217;s!",
+      "venue": "Industry City",
+      "start_time": "1:00 PM ET",
+      "end_time": "3:00 PM ET",
+      "start_time_raw": "1:00 PM",
+      "end_time_raw": "3:00 PM",
+      "description": "Ta\u00efm Olive is produced by the Abou Gaida family on their estate in Hasbaya, Lebanon. The olives are grown and harvested at Abou Gaida Farms in southern Lebanon&#8217;s Ta\u00efm Valley. Iyad from the family will be sampling their olive oil at Sahadi&#8217;s!",
+      "extraction_method": "api",
+      "vendor": "Lebanese Olive Oil Tasting at Sahadi&#8217;s!",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-21T16:30:00",
       "title": "Industry City Gourmet Food and Drinks Tour",
       "venue": "Industry City",
@@ -508,8 +482,34 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-21T17:00:00",
+      "title": "Joy Night Out!",
+      "venue": "Industry City",
+      "start_time": "5:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Joy\u2019s Night Out is a great opportunity to drop the kiddos off for a few hours on a Saturday night. A great way to organize a playdate with no clean up or enjoy a date night in Industry City! Activities include movement games, crafts and of course gymnastics. Some months will have themed activities!\nAges: 4.5-12yrs (all participants must be fully potty trained)\nPricing per session: $40 for Annual Members. Annual Membership= $40/year. Sibling discounts applied at check out\nBe sure to pack a reusable water bottle. As well as a snack if you desire.",
+      "extraction_method": "api",
+      "vendor": "Joy Night Out!",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-21T18:00:00",
+      "title": "Brooklyn Creative Reuse Mending Circle",
+      "venue": "Industry City",
+      "start_time": "6:00 PM ET",
+      "end_time": "8:00 PM ET",
+      "start_time_raw": "6:00 PM",
+      "end_time_raw": "8:00 PM",
+      "description": "Join Brooklyn Creative Reuse for our second Mending Circle! Bring your mending project, learn from your neighbors, or work on your current craft! \ud83e\uddf5 Pair your craft with snacks and good vibes. There will be extra supplies available if needed!\nAll levels are welcome\u2014from first-time menders to seasoned stitchers. We\u2019ll share tools, simple techniques, and ideas for visible mending.",
+      "extraction_method": "api",
+      "vendor": "Brooklyn Creative Reuse Mending Circle",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-22T00:00:00",
-      "title": "(CLASS) Intro to Public Speaking with Tyrone Thornhill",
+      "title": "**CANCELLED** (CLASS) Intro to Public Speaking with Tyrone Thornhill",
       "venue": "Union Hall",
       "start_time": null,
       "end_time": null,
@@ -517,7 +517,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "(CLASS) Intro to Public Speaking with Tyrone Thornhill",
+      "vendor": "**CANCELLED** (CLASS) Intro to Public Speaking with Tyrone Thornhill",
       "location": "Union Hall"
     },
     {
@@ -531,6 +531,19 @@
       "description": null,
       "extraction_method": "html",
       "vendor": "LOOK AT ME: Technology That Matters",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-11-22T00:00:00",
+      "title": "Good God",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Good God",
       "location": "Union Hall"
     },
     {
@@ -571,6 +584,32 @@
       "extraction_method": "html",
       "vendor": "IMPROVISED MUSIC: GHANDHI// MCKAIN// PALMER// SHEAD(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-22T15:00:00",
+      "title": "Shiatsu &#038; Chair Makko Ho Class",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "4:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "4:00 PM",
+      "description": "Discover the art of Japanese wellness through Shiatsu and Chair Makko Ho, guided by Kumiko Kanayama, Founder and Director of Five Lights Center of Shiatsu.\nShiatsu is a Japanese bodywork practice that uses gentle pressure applied to specific points on the body to promote relaxation and support overall well-being. Chair Makko Ho is a series of simple stretches designed to improve flexibility, encourage mindful breathing, and help you connect with your body.\nEverything will be done seated, and no additional equipment is needed. Just come ready to stretch, breathe, and unwind! Whether you&#8217;re new to Japanese wellness practices or looking to deepen your experience, everyone is welcome.",
+      "extraction_method": "api",
+      "vendor": "Shiatsu &#038; Chair Makko Ho Class",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-11-22T15:00:00",
+      "title": "Turkish Wine Tasting at Sahadi Spirits!",
+      "venue": "Industry City",
+      "start_time": "3:00 PM ET",
+      "end_time": "5:00 PM ET",
+      "start_time_raw": "3:00 PM",
+      "end_time_raw": "5:00 PM",
+      "description": "Yavuz from the family will be pouring a lineup from his family\u2019s certified organic vineyard, Selendi wines!\n&#8220;Certified Organic farming methods and an utmost respect for the land itself create the foundation of our vineyard.\nWe meticulously practice the finer points of organic farming, meaning no pesticides or chemical intervention of any kind in our process. Each vine is carefully and naturally tended to from seed to grape production, nurtured pruned by the people who live and work on the land.\nNaturally farming and harvesting our grapes not only produces a superior product, but also allows us to protect our biggest asset- the land itself. We are very sensitive to this philosophy and method, garnering a certificate from the French Ecocert company. We are regularly inspected and reviewed for these organic practices.",
+      "extraction_method": "api",
+      "vendor": "Turkish Wine Tasting at Sahadi Spirits!",
+      "location": "Industry City"
     },
     {
       "date": "2026-11-22T16:30:00",
@@ -625,6 +664,19 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-11-23T00:00:00",
+      "title": "Famous Last Words",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Famous Last Words",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-11-23T12:00:00+00:00",
       "title": "DOODLE MIC(Open mic)",
       "venue": "Young Ethel's",
@@ -675,10 +727,49 @@
       "extraction_method": "html",
       "vendor": "Talujon with Brian Chase and John Hollenbeck",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-11-24T12:00:00+00:00",
+      "title": "THE CLAY ONES OPEN MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE CLAY ONES OPEN MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-24T19:30:00",
+      "title": "F-WORD TRIVIA! HOSTED BY SAM. WINNING TEAM GETS $50 OFF THEIR BARTAB(Trivia)",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "F-WORD TRIVIA! HOSTED BY SAM. WINNING TEAM GETS $50 OFF THEIR BARTAB(Trivia)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-24T21:30:00",
+      "title": "\u201cLEX THEATRAILS\u201d: LEXOIRE ON STAGE(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "\u201cLEX THEATRAILS\u201d: LEXOIRE ON STAGE(Music)",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-11-16T11:16:06.193467+00:00",
-  "total_events": 52,
+  "updated": "2026-11-17T11:15:57.999439+00:00",
+  "total_events": 59,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
