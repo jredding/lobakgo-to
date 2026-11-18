@@ -1,84 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-17T00:00:00",
-      "title": "Frankenstein's Baby",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Frankenstein's Baby",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-17T00:00:00",
-      "title": "MEGAVERSE",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "MEGAVERSE",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-17T12:00:00+00:00",
-      "title": "THE CLAY ONES OPEN MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "5:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "5:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "THE CLAY ONES OPEN MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-17T12:00:00+00:00",
-      "title": "MICHAEL TALENTO// BOBBY LANE(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "7:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "MICHAEL TALENTO// BOBBY LANE(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-17T12:00:00+00:00",
-      "title": "FAKE TREES// TWIN PARTICLES(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "FAKE TREES// TWIN PARTICLES(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-17T19:00:00",
-      "title": "Brooklyn Books &#038; Booze Reading Series at Barrow&#8217;s Intense",
-      "venue": "Industry City",
-      "start_time": "7:00 PM ET",
-      "end_time": "9:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "9:00 PM",
-      "description": "Brooklyn Books &amp; Booze&#8217;s monthly reading series returns Tuesday, November 17 at 7pm at Barrow&#8217;s Intense in Industry City! Join award-winning authors who&#8217;ll be reading from their recent works: Karen Heuler, Kirsten Kaschock, Justine Manzano, and Meryl Branch-McTiernan, along with host/author Randee Dawn for an evening of sips, stories, and a salon-like atmosphere.",
-      "extraction_method": "api",
-      "vendor": "Brooklyn Books &#038; Booze Reading Series at Barrow&#8217;s Intense",
-      "location": "Industry City"
-    },
-    {
       "date": "2026-11-18T00:00:00",
       "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
       "venue": "Union Hall",
@@ -729,6 +651,19 @@
       "location": "Roulette"
     },
     {
+      "date": "2026-11-24T00:00:00",
+      "title": "PRETTY  MAJOR Hosted by Jay Jurden",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "PRETTY  MAJOR Hosted by Jay Jurden",
+      "location": "Union Hall"
+    },
+    {
       "date": "2026-11-24T12:00:00+00:00",
       "title": "THE CLAY ONES OPEN MIC(Open mic)",
       "venue": "Young Ethel's",
@@ -740,6 +675,19 @@
       "extraction_method": "html",
       "vendor": "THE CLAY ONES OPEN MIC(Open mic)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-24T19:00:00",
+      "title": "Harry Potter Trivia Night",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Witches, wizards, and Muggles welcome! \u26a1\ud83e\ude84\n**Harry Potter Trivia** is coming to the Fort! Gather your house, put your Hogwarts knowledge to the test, and compete for prizes! \ud83c\udfc6",
+      "extraction_method": "api",
+      "vendor": "Harry Potter Trivia Night",
+      "location": "Industry City"
     },
     {
       "date": "2026-11-24T19:30:00",
@@ -766,10 +714,49 @@
       "extraction_method": "html",
       "vendor": "\u201cLEX THEATRAILS\u201d: LEXOIRE ON STAGE(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-25T00:00:00",
+      "title": "Pizzazz with Gary Gulman",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Pizzazz with Gary Gulman",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-11-25T12:00:00+00:00",
+      "title": "CLOSET CASE BURLESQUE PRESENTS: DINERS, DRAG BARS, AND DIVAS(Draglesque)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "CLOSET CASE BURLESQUE PRESENTS: DINERS, DRAG BARS, AND DIVAS(Draglesque)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-25T19:30:00",
+      "title": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Standup )",
+      "venue": "Young Ethel's",
+      "start_time": "7:30 PM ET",
+      "end_time": null,
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Standup )",
+      "location": "Young Ethel's"
     }
   ],
-  "updated": "2026-11-17T11:15:57.999439+00:00",
-  "total_events": 59,
+  "updated": "2026-11-18T11:16:28.194778+00:00",
+  "total_events": 58,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
