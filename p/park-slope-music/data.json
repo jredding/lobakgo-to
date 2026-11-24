@@ -1,71 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-23T00:00:00",
-      "title": "Famous Last Words",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Famous Last Words",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-23T12:00:00+00:00",
-      "title": "DOODLE MIC(Open mic)",
-      "venue": "Young Ethel's",
-      "start_time": "10:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "10:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "DOODLE MIC(Open mic)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-23T16:30:00",
-      "title": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "4:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "4:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-23T19:30:00",
-      "title": "CHEVROTAIN AND GUESTS(Music)",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "CHEVROTAIN AND GUESTS(Music)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-23T20:00:00",
-      "title": "Talujon with Brian Chase and John Hollenbeck",
-      "venue": "Roulette",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": "Percussion ensemble joins composers/soloists Brian Chase and John Hollenbeck to premiere two new works.",
-      "extraction_method": "html",
-      "vendor": "Talujon with Brian Chase and John Hollenbeck",
-      "location": "Roulette"
-    },
-    {
       "date": "2026-11-24T00:00:00",
       "title": "PRETTY  MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
@@ -184,6 +119,19 @@
     },
     {
       "date": "2026-11-27T00:00:00",
+      "title": "Thankful for Laughs with Jenny Gorelick and Friends",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Thankful for Laughs with Jenny Gorelick and Friends",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-11-27T00:00:00",
       "title": "Girl Church hosted by Amelia Ritthaler",
       "venue": "Union Hall",
       "start_time": null,
@@ -236,7 +184,7 @@
     },
     {
       "date": "2026-11-27T19:00:00",
-      "title": "The Tambours Live Jazz &#038; Blues @ Fort Hamilton",
+      "title": "Tambour Kings Live Jazz and Blues",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
       "end_time": "9:00 PM ET",
@@ -244,7 +192,7 @@
       "end_time_raw": "9:00 PM",
       "description": "Join us for live Funk/Fusion/R&amp;B/Soul/Blues from the incredible Tambour Kings, craft cocktails, and plenty of whiskey.",
       "extraction_method": "api",
-      "vendor": "The Tambours Live Jazz &#038; Blues @ Fort Hamilton",
+      "vendor": "Tambour Kings Live Jazz and Blues",
       "location": "Industry City"
     },
     {
@@ -339,6 +287,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-28T12:00:00",
+      "title": "Small Business Saturday \u2013 IPPIN Project Annual BIG SALE!",
+      "venue": "Industry City",
+      "start_time": "12:00 PM ET",
+      "end_time": "6:00 PM ET",
+      "start_time_raw": "12:00 PM",
+      "end_time_raw": "6:00 PM",
+      "description": "Celebrate Small Business Saturday with us at the IPPIN Project Annual BIG SALE!\nJoin us for a special shopping event celebrating independent makers, small businesses, and creative craftsmanship.\nDiscover unique handmade goods, Japanese-inspired items, lifestyle products, seasonal gifts, and one-of-a-kind treasures at special sale prices!\nWhether you&#8217;re shopping for holiday gifts, looking for something special for yourself, or simply love discovering unique products, this is the perfect opportunity to shop small and support independent businesses.\nCome explore, shop your favorites, discover something new, and enjoy exclusive deals during this annual shopping event!\nBring your friends and family, and don&#8217;t miss this special one-day shopping event at Makers Guild, Industry City.\nWe look forward to seeing you!",
+      "extraction_method": "api",
+      "vendor": "Small Business Saturday \u2013 IPPIN Project Annual BIG SALE!",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-28T15:30:00",
       "title": "TIANXIAO WANG TBA(Music)",
       "venue": "Young Ethel's",
@@ -391,6 +352,19 @@
       "location": "Union Hall"
     },
     {
+      "date": "2026-11-29T11:00:00",
+      "title": "[Holiday Greenery Wreath] Design &#038; Create Your Own Wreath Workshop Hosted by KAJIHA",
+      "venue": "Industry City",
+      "start_time": "11:00 AM ET",
+      "end_time": "12:30 PM ET",
+      "start_time_raw": "11:00 AM",
+      "end_time_raw": "12:30 PM",
+      "description": "Celebrate the holiday season with a fun and creative wreath-making workshop!\nChoose from a beautiful selection of fresh greenery, decorative fruits, and seasonal accents to design and create your own unique wreath. Whether you prefer a simple, natural look or a festive arrangement, you can personalize your creation to match your style.\n*Choose Your Wreath Style\n-6-inch Candle Holder Wreath: Create a charming wreath designed to complement a candle holder.\n-10-inch Grapevine Wreath: Design a beautiful seasonal wreath using a natural grapevine frame.\n*What&#8217;s Included\nFresh greenery\nDecorative fruits and seasonal accents\nWreath base and all necessary materials\nAll materials are included in the workshop price, so you can simply relax and enjoy creating your own seasonal masterpiece!\nMom &amp; Kids Combo Tickets are available! Enjoy a fun and creative seasonal activity together.\nLimited seats available.\nAdvance reservation is required.\nBooking closes 3 days before the workshop date.\nFor more details, please visit our website.\nReserve your spot and enjoy a creative seasonal experience!",
+      "extraction_method": "api",
+      "vendor": "[Holiday Greenery Wreath] Design &#038; Create Your Own Wreath Workshop Hosted by KAJIHA",
+      "location": "Industry City"
+    },
+    {
       "date": "2026-11-29T12:00:00+00:00",
       "title": "MY VERSION OF IT// THE JAMES ROCKET// SEA GLOSS(Music)",
       "venue": "Young Ethel's",
@@ -428,6 +402,19 @@
       "extraction_method": "html",
       "vendor": "YOUR FAVORITE NERDS(Comedy)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-11-29T12:30:00",
+      "title": "Dried Flower Resin Ornament Making Workshop Hosted by little bloomtale \u00d7 KAJIHA",
+      "venue": "Industry City",
+      "start_time": "12:30 PM ET",
+      "end_time": "1:30 PM ET",
+      "start_time_raw": "12:30 PM",
+      "end_time_raw": "1:30 PM",
+      "description": "Join us for a fun and creative Dried Flower Resin Craft Workshop at Makers Guild, Industry City!\nDiscover the art of preserving beautiful dried flowers in resin and create your own unique keepsake this holiday season. Whether you&#8217;re looking for a relaxing creative activity, a fun weekend experience, or a special handmade gift, this workshop is the perfect opportunity to try something new.\nGuided by the talented KAJIHA florist and creative team, you&#8217;ll learn how to select and arrange dried flowers, pour resin, and design your very own beautiful ornament in a welcoming and friendly environment.\nNo prior experience is necessary! Just bring your creativity and enjoy the process.\n*What You&#8217;ll Create\n\u2022 One custom-designed dried flower resin piece of your choice: an ornament, necklace, bracelet, or keychain.\n*What&#8217;s Included\n\u2022 Dried flower materials\n\u2022 Decorative ribbon\n\u2022 Hanging string\n\u2022 Materials and supplies for one resin ornament or jewelry\nCelebrate the holiday season with flowers, creativity, and a little hands-on fun. Create a beautiful handmade keepsake to cherish or gift to someone special!\n*By Appointment Only\nPlease register in advance on the KAJIHA website before visiting.\nSpaces are limited. Sign up now and join us for a creative holiday experience!",
+      "extraction_method": "api",
+      "vendor": "Dried Flower Resin Ornament Making Workshop Hosted by little bloomtale \u00d7 KAJIHA",
+      "location": "Industry City"
     },
     {
       "date": "2026-11-29T17:30:00",
@@ -506,10 +493,101 @@
       "extraction_method": "html",
       "vendor": "TRL: TODDLER REQUEST LIVE! A FAMILY FRIENDLY HAPPY HOUR FEATURING A SING-ALONG(Music)",
       "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-12-01T00:00:00",
+      "title": "Ismael Loutfi: Heavenly Baba",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Ismael Loutfi: Heavenly Baba",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-12-01T00:00:00",
+      "title": "Nick Mestad: Body Of Work",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Nick Mestad: Body Of Work",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-12-01T12:00:00+00:00",
+      "title": "THE CLAY ONES OPEN MIC(Open mic)",
+      "venue": "Young Ethel's",
+      "start_time": "5:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "5:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "THE CLAY ONES OPEN MIC(Open mic)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-12-01T12:00:00+00:00",
+      "title": "NATE TOTA SEPTET FOLLOWED BY JAM(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "NATE TOTA SEPTET FOLLOWED BY JAM(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-12-01T19:00:00",
+      "title": "Trivia Night At Fort Hamilton",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Trivia Tuesdays at Fort Hamilton!\nThink you&#8217;ve got what it takes? Put your knowledge to the test every Tuesday at 7 PM with rotating trivia themes, friendly competition, and plenty of surprises. Gather your team, bring your A-game, and see who comes out on top!\nEvery Tuesday | 7 PM | Upstairs at the Fort",
+      "extraction_method": "api",
+      "vendor": "Trivia Night At Fort Hamilton",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-12-01T19:00:00",
+      "title": "Spirited Away Psychic &#038; Paranormal Night",
+      "venue": "Industry City",
+      "start_time": "7:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Gather with NYC\u2019s finest readers and psychics for a glorious evening of craft cocktails and supernatural fun, hosted by The Oracle!\n\n\n\nJoin us for a magical evening of psychic mediumship, handwriting analysis, aura photography, astrology, tarot, and so much more.\n* CHEESE READINGS\n* PSYCHIC MEDIUMSHIP\n* TAROT READINGS\n* PALM READINGS\n* PORTRAITS\n* AKASHIC RECORDS READINGS\n* PENDULUMS FOR SALE\n* AURA PHOTOGRAPHY\n* CRYSTAL BALL READINGS\n* ASTROLOGY\n* ASTROCARTOGRAPHY\n* PURSE READINGS\n* SPIRIT GUIDE READINGS\n* ANCESTRAL READINGS\n* ANGEL READINGS\n* LOVE READINGS\n* LOVE COACHING\n* CAULDRON OF INTENTIONS\n* CRYSTAL ENERGY HEALING\n* ORACLE ANSWERS\n* CRAFT COCKTAILS\n\nThis event is free to attend, and the readers charge a range of prices $20-$50.\nBarrow&#8217;s Intense NY Tasting Room, Industry City Courtyard 5/6 86 34th St, Brooklyn, NY 11232",
+      "extraction_method": "api",
+      "vendor": "Spirited Away Psychic &#038; Paranormal Night",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-12-01T20:00:00",
+      "title": "Amelia Heintzelman: How Dogs Play (Night 1)",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Three performers collide, spin, fall, and intertwine in an athletic maze of child\u2019s play and menacing acts.",
+      "extraction_method": "html",
+      "vendor": "Amelia Heintzelman: How Dogs Play (Night 1)",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-11-23T11:15:46.508568+00:00",
-  "total_events": 39,
+  "updated": "2026-11-24T11:16:13.807119+00:00",
+  "total_events": 45,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
