@@ -235,6 +235,19 @@
       "location": "Industry City"
     },
     {
+      "date": "2026-11-28T23:00:00",
+      "title": "BASHMENT IN BK - Brooklyn's Biggest Dancehall Party (Thanksgiving Special)",
+      "venue": "Littlefield",
+      "start_time": "11:00 PM ET",
+      "end_time": "4:00 AM ET",
+      "start_time_raw": "11:00 PM",
+      "end_time_raw": "4:00 AM",
+      "description": "What's The Motive presents BASHMENT IN BK - Brooklyn's Biggest Dancehall Party: The Thanksgiving Special",
+      "extraction_method": "api",
+      "vendor": "BASHMENT IN BK - Brooklyn's Biggest Dancehall Party (Thanksgiving Special)",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-11-29T00:00:00",
       "title": "Gone Fishing with Wally Baram and Vikrant Sunderlal",
       "venue": "Union Hall",
@@ -391,6 +404,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-11-30T19:30:00",
+      "title": "A Friendsgiving Comedy Fundraiser featuring Tiffany Cab\u00e1n",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Stand-up comedy featuring Tiffany Cab\u00e1n, hosted by Negin Farsad, to benefit the We Got Us Organizing Fellowship.",
+      "extraction_method": "api",
+      "vendor": "A Friendsgiving Comedy Fundraiser featuring Tiffany Cab\u00e1n",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-12-01T00:00:00",
       "title": "Ismael Loutfi: Heavenly Baba",
       "venue": "Union Hall",
@@ -444,6 +470,19 @@
     },
     {
       "date": "2026-12-01T19:00:00",
+      "title": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
+      "venue": "Littlefield",
+      "start_time": "7:00 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "7:00 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Jeff Scheen tapes a comedy special.",
+      "extraction_method": "api",
+      "vendor": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-12-01T19:00:00",
       "title": "Trivia Night At Fort Hamilton",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -480,6 +519,19 @@
       "extraction_method": "html",
       "vendor": "Amelia Heintzelman: How Dogs Play (Night 1)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-12-01T21:30:00",
+      "title": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
+      "venue": "Littlefield",
+      "start_time": "9:30 PM ET",
+      "end_time": "10:00 PM ET",
+      "start_time_raw": "9:30 PM",
+      "end_time_raw": "10:00 PM",
+      "description": "Jeff Scheen tapes a comedy special.",
+      "extraction_method": "api",
+      "vendor": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
+      "location": "Littlefield"
     },
     {
       "date": "2026-12-02T00:00:00",
@@ -548,6 +600,19 @@
     },
     {
       "date": "2026-12-02T20:00:00",
+      "title": "REAL-ASIAN-SHIPS: The Dating Show For Asian Americans",
+      "venue": "Littlefield",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Real contestants vie for a chance at love (and the audience makes the match) in the world\u2019s only Asian American dating show!",
+      "extraction_method": "api",
+      "vendor": "REAL-ASIAN-SHIPS: The Dating Show For Asian Americans",
+      "location": "Littlefield"
+    },
+    {
+      "date": "2026-12-02T20:00:00",
       "title": "Amelia Heintzelman: How Dogs Play (Night 2)",
       "venue": "Roulette",
       "start_time": null,
@@ -586,6 +651,19 @@
       "location": "Young Ethel's"
     },
     {
+      "date": "2026-12-03T19:30:00",
+      "title": "Dear Kiko: The Musical Advice Show",
+      "venue": "Littlefield",
+      "start_time": "7:30 PM ET",
+      "end_time": "10:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "10:30 PM",
+      "description": "Come play with destiny at Dear Kiko: The Musical Advice Show, featuring YOU! Drag angel Kiko Soir\u00e9e hosts guests, comedians & surreal fun.",
+      "extraction_method": "api",
+      "vendor": "Dear Kiko: The Musical Advice Show",
+      "location": "Littlefield"
+    },
+    {
       "date": "2026-12-03T20:00:00",
       "title": "Interpretations: Gerry Hemingway, Lina Andonovska, and Earl Howard // Kyle Motl, Eli Wallace, and Nick Neuburg",
       "venue": "Roulette",
@@ -599,15 +677,13 @@
       "location": "Roulette"
     }
   ],
-  "updated": "2026-11-26T11:16:41.544715+00:00",
-  "total_events": 46,
+  "updated": "2026-11-26T11:18:09.563297+00:00",
+  "total_events": 52,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [
-    "Failed to fetch information for: Littlefield"
-  ],
+  "errors": [],
   "haiku": null
 }
