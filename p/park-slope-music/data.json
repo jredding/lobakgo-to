@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-25T00:00:00",
-      "title": "Pizzazz with Gary Gulman",
-      "venue": "Union Hall",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "Pizzazz with Gary Gulman",
-      "location": "Union Hall"
-    },
-    {
-      "date": "2026-11-25T12:00:00+00:00",
-      "title": "CLOSET CASE BURLESQUE PRESENTS: DINERS, DRAG BARS, AND DIVAS(Draglesque)",
-      "venue": "Young Ethel's",
-      "start_time": "9:00 PM ET",
-      "end_time": null,
-      "start_time_raw": "9:00 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "CLOSET CASE BURLESQUE PRESENTS: DINERS, DRAG BARS, AND DIVAS(Draglesque)",
-      "location": "Young Ethel's"
-    },
-    {
-      "date": "2026-11-25T19:30:00",
-      "title": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Standup )",
-      "venue": "Young Ethel's",
-      "start_time": "7:30 PM ET",
-      "end_time": null,
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "WE HAVE FUN STANDUP HOSTED BY DAN AND ZACH(Standup )",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-11-26T12:00:00+00:00",
       "title": "IT\u2019S THANKSGIVING, WE\u2019RE CLOSED. GO HOME AND DRINK ON YOUR KITCHEN TABLE(Other)",
       "venue": "Young Ethel's",
@@ -597,9 +558,48 @@
       "extraction_method": "html",
       "vendor": "Amelia Heintzelman: How Dogs Play (Night 2)",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-12-03T00:00:00",
+      "title": "MUSICAL COMEDY SAVES CHRISTMAS",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "MUSICAL COMEDY SAVES CHRISTMAS",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-12-03T12:00:00+00:00",
+      "title": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT(Improv Comedy)",
+      "venue": "Young Ethel's",
+      "start_time": "10:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "10:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "YOUNG ETHEL\u2019S BAR-PROV EXPERIMENT(Improv Comedy)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-12-03T20:00:00",
+      "title": "Interpretations: Gerry Hemingway, Lina Andonovska, and Earl Howard // Kyle Motl, Eli Wallace, and Nick Neuburg",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "The Interpretations Series returns with two ensembles \u2014 a percussion, flute, sax, and synth quartet, and a piano, percussion, and bass trio.",
+      "extraction_method": "html",
+      "vendor": "Interpretations: Gerry Hemingway, Lina Andonovska, and Earl Howard // Kyle Motl, Eli Wallace, and Nick Neuburg",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-11-25T11:15:39.250273+00:00",
+  "updated": "2026-11-26T11:16:41.544715+00:00",
   "total_events": 46,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
