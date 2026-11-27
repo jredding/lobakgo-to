@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-26T12:00:00+00:00",
-      "title": "IT\u2019S THANKSGIVING, WE\u2019RE CLOSED. GO HOME AND DRINK ON YOUR KITCHEN TABLE(Other)",
-      "venue": "Young Ethel's",
-      "start_time": null,
-      "end_time": null,
-      "start_time_raw": null,
-      "end_time_raw": null,
-      "description": null,
-      "extraction_method": "html",
-      "vendor": "IT\u2019S THANKSGIVING, WE\u2019RE CLOSED. GO HOME AND DRINK ON YOUR KITCHEN TABLE(Other)",
-      "location": "Young Ethel's"
-    },
-    {
       "date": "2026-11-27T00:00:00",
       "title": "Thankful for Laughs with Jenny Gorelick and Friends",
       "venue": "Union Hall",
@@ -235,21 +222,8 @@
       "location": "Industry City"
     },
     {
-      "date": "2026-11-28T23:00:00",
-      "title": "BASHMENT IN BK - Brooklyn's Biggest Dancehall Party (Thanksgiving Special)",
-      "venue": "Littlefield",
-      "start_time": "11:00 PM ET",
-      "end_time": "4:00 AM ET",
-      "start_time_raw": "11:00 PM",
-      "end_time_raw": "4:00 AM",
-      "description": "What's The Motive presents BASHMENT IN BK - Brooklyn's Biggest Dancehall Party: The Thanksgiving Special",
-      "extraction_method": "api",
-      "vendor": "BASHMENT IN BK - Brooklyn's Biggest Dancehall Party (Thanksgiving Special)",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-11-29T00:00:00",
-      "title": "Gone Fishing with Wally Baram and Vikrant Sunderlal",
+      "title": "Gone Fishing",
       "venue": "Union Hall",
       "start_time": null,
       "end_time": null,
@@ -257,7 +231,7 @@
       "end_time_raw": null,
       "description": null,
       "extraction_method": "html",
-      "vendor": "Gone Fishing with Wally Baram and Vikrant Sunderlal",
+      "vendor": "Gone Fishing",
       "location": "Union Hall"
     },
     {
@@ -404,19 +378,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-11-30T19:30:00",
-      "title": "A Friendsgiving Comedy Fundraiser featuring Tiffany Cab\u00e1n",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Stand-up comedy featuring Tiffany Cab\u00e1n, hosted by Negin Farsad, to benefit the We Got Us Organizing Fellowship.",
-      "extraction_method": "api",
-      "vendor": "A Friendsgiving Comedy Fundraiser featuring Tiffany Cab\u00e1n",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-12-01T00:00:00",
       "title": "Ismael Loutfi: Heavenly Baba",
       "venue": "Union Hall",
@@ -470,19 +431,6 @@
     },
     {
       "date": "2026-12-01T19:00:00",
-      "title": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
-      "venue": "Littlefield",
-      "start_time": "7:00 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "7:00 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Jeff Scheen tapes a comedy special.",
-      "extraction_method": "api",
-      "vendor": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-12-01T19:00:00",
       "title": "Trivia Night At Fort Hamilton",
       "venue": "Industry City",
       "start_time": "7:00 PM ET",
@@ -519,19 +467,6 @@
       "extraction_method": "html",
       "vendor": "Amelia Heintzelman: How Dogs Play (Night 1)",
       "location": "Roulette"
-    },
-    {
-      "date": "2026-12-01T21:30:00",
-      "title": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
-      "venue": "Littlefield",
-      "start_time": "9:30 PM ET",
-      "end_time": "10:00 PM ET",
-      "start_time_raw": "9:30 PM",
-      "end_time_raw": "10:00 PM",
-      "description": "Jeff Scheen tapes a comedy special.",
-      "extraction_method": "api",
-      "vendor": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
-      "location": "Littlefield"
     },
     {
       "date": "2026-12-02T00:00:00",
@@ -600,19 +535,6 @@
     },
     {
       "date": "2026-12-02T20:00:00",
-      "title": "REAL-ASIAN-SHIPS: The Dating Show For Asian Americans",
-      "venue": "Littlefield",
-      "start_time": "8:00 PM ET",
-      "end_time": "11:00 PM ET",
-      "start_time_raw": "8:00 PM",
-      "end_time_raw": "11:00 PM",
-      "description": "Real contestants vie for a chance at love (and the audience makes the match) in the world\u2019s only Asian American dating show!",
-      "extraction_method": "api",
-      "vendor": "REAL-ASIAN-SHIPS: The Dating Show For Asian Americans",
-      "location": "Littlefield"
-    },
-    {
-      "date": "2026-12-02T20:00:00",
       "title": "Amelia Heintzelman: How Dogs Play (Night 2)",
       "venue": "Roulette",
       "start_time": null,
@@ -651,19 +573,6 @@
       "location": "Young Ethel's"
     },
     {
-      "date": "2026-12-03T19:30:00",
-      "title": "Dear Kiko: The Musical Advice Show",
-      "venue": "Littlefield",
-      "start_time": "7:30 PM ET",
-      "end_time": "10:30 PM ET",
-      "start_time_raw": "7:30 PM",
-      "end_time_raw": "10:30 PM",
-      "description": "Come play with destiny at Dear Kiko: The Musical Advice Show, featuring YOU! Drag angel Kiko Soir\u00e9e hosts guests, comedians & surreal fun.",
-      "extraction_method": "api",
-      "vendor": "Dear Kiko: The Musical Advice Show",
-      "location": "Littlefield"
-    },
-    {
       "date": "2026-12-03T20:00:00",
       "title": "Interpretations: Gerry Hemingway, Lina Andonovska, and Earl Howard // Kyle Motl, Eli Wallace, and Nick Neuburg",
       "venue": "Roulette",
@@ -675,15 +584,121 @@
       "extraction_method": "html",
       "vendor": "Interpretations: Gerry Hemingway, Lina Andonovska, and Earl Howard // Kyle Motl, Eli Wallace, and Nick Neuburg",
       "location": "Roulette"
+    },
+    {
+      "date": "2026-12-04T00:00:00",
+      "title": "Whiplash",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Whiplash",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-12-04T00:00:00",
+      "title": "Isa Medina and Friends",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "Isa Medina and Friends",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-12-04T00:00:00",
+      "title": "KARAOKE TREMENDOUS",
+      "venue": "Union Hall",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "KARAOKE TREMENDOUS",
+      "location": "Union Hall"
+    },
+    {
+      "date": "2026-12-04T12:00:00+00:00",
+      "title": "BEST HIT TV ALBUM RELEASE WITH FULLY FURNISHED AND JOYCE(Music)",
+      "venue": "Young Ethel's",
+      "start_time": "9:00 PM ET",
+      "end_time": null,
+      "start_time_raw": "9:00 PM",
+      "end_time_raw": null,
+      "description": null,
+      "extraction_method": "html",
+      "vendor": "BEST HIT TV ALBUM RELEASE WITH FULLY FURNISHED AND JOYCE(Music)",
+      "location": "Young Ethel's"
+    },
+    {
+      "date": "2026-12-04T18:30:00",
+      "title": "Textured Paint and Sip Experience",
+      "venue": "Industry City",
+      "start_time": "6:30 PM ET",
+      "end_time": "8:30 PM ET",
+      "start_time_raw": "6:30 PM",
+      "end_time_raw": "8:30 PM",
+      "description": "Elevate Your Senses, Immerse in Art and Embrace the Extraordinary.\nEscape the hustle and bustle of the city and step into the warm, inviting atmosphere of our cozy studio for a one-of-a-kind Textured Paint and Sip experience. We combine the joy of creativity with the comfort of an intimate setting. Unleash your artistic side as you sip on curated beverages and enjoy delicious treats, all while guided by our talented instructors. Whether you&#8217;re an art lover or simply looking for a relaxing evening, our Textured Paint and Sip sessions offer the perfect blend of creativity, comfort, and inspiration.\nHere are the details:\n\u2022 2 hours\n\u2022 all materials\n\u2022 aesthetic set up\n\u2022 charcuterie boards with wine (we provide 1-2 glasses of wine per guest during our classes) or non-alcholic beverages\n\u2022 networking\nWhere: our Brooklyn Living Room studio in Industry city Brooklyn\nWe secure a spot only after payment. Please note that the number of spots is limited.\nJoin us for a memorable journey that will leave you with beautiful art and cherished memories.\nIMPORTANT:\n&#8211; Tickets to our events are non-refundable and non-transferable between dates. All sales are final. If you can&#8217;t attend, please consider transferring your ticket to another guest. Contact us to let us know.\n&#8211; Complimentary wine is offered to guests 21+. Valid government-issued ID may be requested\n&#8211; We may take photos and videos during the event for promotional and social media purposes. If you prefer not to be photographed or filmed, please let us know in advance.\nBy purchasing a ticket, you acknowledge and agree to our event policies &#8211; designed to make your experience as mindful and inspiring as possible\nPlease make sure to enter the names of all guests when purchasing multiple tickets, as we prepare personalized name cards for each attendee. If all tickets are purchased under a single name, all name cards will be printed with that same name.",
+      "extraction_method": "api",
+      "vendor": "Textured Paint and Sip Experience",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-12-04T19:30:00",
+      "title": "The Night Shift Comedy Show",
+      "venue": "Industry City",
+      "start_time": "7:30 PM ET",
+      "end_time": "9:30 PM ET",
+      "start_time_raw": "7:30 PM",
+      "end_time_raw": "9:30 PM",
+      "description": "Join us at Fort Hamilton Distillery for a night of big laughs and great pours. Catch NYC\u2019s next wave of comedy talent \u2014 all in our tasting room.",
+      "extraction_method": "api",
+      "vendor": "The Night Shift Comedy Show",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-12-04T20:00:00",
+      "title": "Salsa &#038; Cocktails @ Standard Wormwood",
+      "venue": "Industry City",
+      "start_time": "8:00 PM ET",
+      "end_time": "11:00 PM ET",
+      "start_time_raw": "8:00 PM",
+      "end_time_raw": "11:00 PM",
+      "description": "Latin vibes and cocktails at Standard Wormwood \u2013 Salsa, Merengue, Bachata, Cumbia and more with DJ Torres @dj_torres_bk",
+      "extraction_method": "api",
+      "vendor": "Salsa &#038; Cocktails @ Standard Wormwood",
+      "location": "Industry City"
+    },
+    {
+      "date": "2026-12-04T20:00:00",
+      "title": "Matthew Shipp & William Parker: A Whole System Of",
+      "venue": "Roulette",
+      "start_time": null,
+      "end_time": null,
+      "start_time_raw": null,
+      "end_time_raw": null,
+      "description": "Two jazz legends present a rare duo concert, putting to fore the consummate magic of their deeply developed communion.",
+      "extraction_method": "html",
+      "vendor": "Matthew Shipp & William Parker: A Whole System Of",
+      "location": "Roulette"
     }
   ],
-  "updated": "2026-11-26T11:18:09.563297+00:00",
-  "total_events": 52,
+  "updated": "2026-11-27T11:16:10.234599+00:00",
+  "total_events": 53,
   "site_name": "Park Slope Indie Music Events",
   "site_key": "park-slope-music",
   "timezone": "America/New_York",
   "timezone_label": "ET",
   "timezone_note": "All event times are in Eastern Time (ET).",
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Littlefield"
+  ],
   "haiku": null
 }
